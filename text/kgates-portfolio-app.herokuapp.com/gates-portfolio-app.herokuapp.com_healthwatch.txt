@@ -1,0 +1,769 @@
+
+
+Kevin Gates -  HealthWatch
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+TL;DR: HealthWatch embodies cloud monitoring best practices out of the box, enabling IT teams to get up and running quickly.
+          It gained 100% adoption with 32 Fortune 500 companies we tracked. To accomplish this, we embedded domain experts in the design process, which paid off in spades.
+        
+
+
+
+
+
+          The Road to 100% Customer Adoption
+        
+
+          Starting Off on a “Fool’s Errand”
+        
+
+          This project did not start well. During an early stakeholder interview, a marketing director described the concept behind HealthWatch as a "fool’s errand”.
+          
+            Not long before, the PM and I had been tasked with creating an out-of-the-box dashboard for monitoring Pivotal Cloud Foundry, an operating system for cloud platforms like Amazon’s AWS. Neither of us thought it was a viable concept—the market we were entering was crowded with entrenched players.
+          
+
+
+
+
+
+HealthWatch being unveiled by Pivotal’s VP of R&D at a conference in San Francisco.
+
+
+
+
+
+            A Value-Driven Design
+          
+
+            Fast forward several months. Despite our initial misgivings, we found a direction that would go on to gain 100% adoption with 30+ Fortune 500 companies we tracked.
+          
+
+            The road getting to a viable product was not easy. It involved a highly iterative design process. Low fidelity, co-creation and rapid prototyping were part of our daily lives.  
+          
+Key value props:
+
+Baked-in expertise: All of our designs were informed by cloud monitoring experts with deep domain knowledge.
+Batteries included: HealthWatch comes ready to run out-of-the-box. Customers immediately get access to dashboards that embody best practices without having to configure anything.
+
+
+
+
+
+
+
+
+The main dashboard. With 2,600 metrics emitted by the platform, our design process allowed us to suss out what 30 to 40 would reliably convey system-wide health. (Visual design by Justin Roozeboom.)
+
+
+
+
+
+
+
+        Users often ask themselves, "What happened while I was gone?". Deep-dive views show historical data. (Visual design by Justin Roozeboom.)
+      
+
+
+
+
+
+A historical view of automated test results. (Visual design by Justin Roozeboom.)
+
+
+
+
+
+
+Role and Team
+My Role
+
+          As part of an agile team, I drove the overall design process for about a year. I shared research responsibilities with the PM, and led co-creation, rapid prototyping, usability testing and validation.
+        
+Skills
+
+          Concept validation, user research, data dashboard design, co-creation, rapid prototyping, dogfooding
+        
+Collaborators
+
+          I worked closely with the PM at first, as I was the sole designer for the first several months. Later on, two designers joined the project on temporary rotations. By enlarge, I worked remotely from San Francisco, while the rest of the team was based in Denver.
+        
+
+
+
+
+
+
+Roadmapping
+
+          Choosing the Right Design Tools
+        
+
+
+            At the onset, we had a lot of questions and not a lot of time. I was meeting with the PM everyday, and during our discussions we started capturing questions we were asking ourselves.
+          
+
+...see moreexpand_more
+
+
+
+
+            We had big questions like, “Is the product viable?” and, “Should we base our product on an open source solution?” The roadmap helped us agree on priorities and map them out on a calendar, which helped us manage stakeholder expectations.
+          
+
+
+
+
+
+Our design roadmap made clear what we were doing and why.
+
+
+
+
+
+Our roadmap calendar shows timelines.
+
+
+
+
+
+
+
+
+
+
+Research
+
+          Understanding Our Place in the Ecosystem
+        
+
+
+            When we kicked things off, our top concern was that we would need to displace entrenched products in order to be successful. With that in mind, we created a topic map and set up interviews with around 30 customer platform operators and Pivotal field engineers (who work onsite at our customers’ offices).
+          
+
+...see moreexpand_more
+
+
+
+Research Goals
+
+Validation of an out-of-the-box GUI: Would customers even use our GUI? Our top concern was that we would have to displace entrenched competitors in order for our GUI to get traction.
+Understanding the reality of customer platform monitoring: How do customers currently monitor their platforms? What works well? What is painful?
+
+
+
+
+
+
+The PM and I created an affinity map together in which we grouped findings into themes, such as “product-market fit” and “learning process”.
+
+
+
+
+Key Findings
+
+              After a few weeks of user interviews and synthesis, a few themes surfaced to the top that we felt addressed our concerns:
+          
+
+Third-party tools are hard to learn: Third-party tools are sophisticated and take time to learn. This can be a burden for customers who are new to Cloud Foundry—several customers had tried to use third-party tools for platform monitoring, but gave up.
+Data overload: There are thousands of metrics and customers don’t know what to monitor. Only a relatively small number of metrics are really needed to be effective, the trick is to know which ones.
+Platform monitoring dashboards are "snowflakes": In the long run, customer reporting needs are unique and operations teams will create dashboards that fit their needs.
+
+
+
+
+        “The last thing we want is the end user telling us about problems with our applications.” - Platform operator
+      
+
+
+Target Persona: New Operators
+
+              Our target users were platform operators who were new to monitoring. Despite that their teams tend to be small, with four to ten members, there can be more than a thousand developers using the platform once it is at scale.
+          
+
+
+
+Frustrations
+
+
+Data overload—There is too much data and it's difficult to make sense of
+Platform-monitoring software is difficult to learn
+Flying blind—Doesn't know about issues until there is an outage
+
+
+
+
+Quotes
+
+
+“The last thing we want is the end user telling us about problems with our applications.”
+"Platform issues are almost always caused by humans, and it's almost always because someone was doing an update."
+
+
+
+
+
+
+
+
+A Non-linear Journey
+
+            Our experience map captured that we would be part of a larger ecosystem: When there is a potential issue with the platform, our users go on a journey through a constellation of alerts, dashboards, and Slack conversations. 
+          
+
+            Our work would manifest as touchpoints along that journey—sometimes as UIs, sometimes not.
+          
+
+
+
+
+
+
+
+The journey map for HealthWatch was non-linear
+
+
+
+
+
+
+Strategy
+
+          Giving Users a Bridge to Mastery
+        
+
+
+            Around this time, we started thinking about how we might fit in the market: Advanced users will just use the API, but those new to the platform might benefit from an opinionated GUI that would be a bridge for them as they got up and running.
+          
+
+...see moreexpand_more
+
+
+
+
+
+Define KPIs: A lot of monitoring know-how was in the heads of our field and R&D engineers. The PM consolidated and documented this know-how in the form of KPIs.
+Provide an API:  We knew that our customers would eventually create custom solutions, so we made our metrics available by API.
+Design a GUI: We used the KPIs as a basis for a UI that would be exemplar of how to visualize and organize metrics. This ended up being a two-way street as some of our designs defined KPIs.
+
+
+
+Design Posture
+
+
+            As new users gain skill, they should graduate to creating their own dashboards using the API.
+          
+
+
+
+
+
+
+
+
+
+Collaboration
+
+            Making Feedback Continuous
+          
+
+
+              Soon after we started rapid prototyping, we realized that we faced a seemingly insurmountable task: We needed to become experts in a complex domain in order to help users become experts in the domain.
+            
+
+...see moreexpand_more
+
+
+
+Expert Advisory Panel
+
+              We reached out through our networks and found coworkers with deep knowledge of platform monitoring and fully embedded them in the design process.
+            
+
+A session with the expert advisory panel.
+
+              We made feedback a forcing function. This is how it worked: I committed to presenting to the panel whatever I was working on, in whatever state it was in, every Friday morning.
+            
+
+              It worked well—In addition to getting continuous feedback, we built our own education into the process.
+            
+
+
+
+          We faced a seemingly insurmountable task: We needed to become experts in a complex domain in order to help users become experts in the domain.
+        
+
+Co-creation
+
+            We had Cloud Foundry operators walk us through a time when they had to troubleshoot a problem. We then went to a whiteboard and co-designed the dashboard the operator wished they had.
+          
+
+Co-creation brought deep domain expertise to our understanding of the problems we were solving.
+
+
+              Here are a couple of interesting things we learned:
+            
+
+The question “When?” is paramount: “When did the system first start to have problems?” is one of the first things operators want to know. We made timestamps as precise as possible.
+Component IDs and timestamps are keys:  Operators bounce between our app and others, such as log search tools. Component IDs and timestamps are the two things you need when jumping between systems. We add copy-to-clipboard buttons to everything we could.
+
+
+
+Weekly Engineering Reviews
+
+              Every Monday, I got the whole team together for 30 minutes and present whatever designs I was working on: low-fi sketches, user flows, wireframes, UI components, etc. I then got the engineering team to offer any thoughts or concerns they might have.
+            
+Cost vs. User Value
+
+              By putting our in-progress designs on the table for engineering every week, we got an early gut-check for complexity. This got the value/cost discussion going early and meant we could react to complexity with intention.
+            
+
+
+
+
+
+
+
+
+
+No-brainers
+
+              Low-cost, high-value features can go into the backlog.
+            
+
+
+
+
+
+Zone of Excess Compexity
+
+              Some features have user value, but are costly. Design should collaborate with engineering to lower costs.
+            
+
+
+
+
+
+Required or Differentiating
+
+              High-cost, high-value features are either must-be's (the product doesn't work without them), or market differentiators.
+            
+
+
+
+
+
+
+
+
+Rapid Prototyping
+
+          Rapid Prototyping Example: HTTP Requests
+        
+
+
+            In our situation, it was almost impossible to thoroughly understand metrics and all their implications up front. We needed to just get ideas out of our heads and into the world quickly and start learning. Rapid prototyping means being wrong constantly until you gain confidence that you aren't.
+          
+
+
+
+
+
+
+
+Evolution of a metrics panel.
+
+
+
+          The design above on the left was our initial attempt at a router health design we presented to the advisory panel. It did not go over well. During our first feedback session, one panel member's first comment was, "I don't like anything about this."
+        
+
+
+
+Our first router panel design didn't go over well.
+
+          I probed the panel by asking, "What about this don't you like?" We quickly learned what we got wrong: We focused too much on router CPU and tried to force everything into a stoplight visualization. We didn't include overall traffic. So we went back to the drawing board. (Literally.)
+        
+
+
+
+Two more versions. We increased fidelity as our confidence in the design grew.
+
+          What we learned from the expert panel is that operators care first about overall traffic and whether it is trending up or down. If something is concerning, they then will want router details, such as latency and errors.
+        
+
+          Layout and Hierarchy
+        
+
+          For data dashboards, like in typography, meaning drives layout.
+        
+
+          Through our iterative design process, we first understood the implications of metrics and how they naturally hung together with others. That drove layout decisions. For example, some indicators, like HTTP throughput, are key to interpreting others, and therefore are given prominence.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interpreting a metric is often contingent on others. This informed layout decisions.
+
+
+
+
+
+
+
+Logic Design
+
+            What Goes On Behind the Scenes for a Dashboard Stoplight
+          
+
+
+              The simplicity of our CLI command stoplights belies the complex logic behind them. Cloud Foundry enables developers to push code onto the cloud easily, but behind this functionality are several systems all of which emit hundreds of metrics.
+            
+
+...see moreexpand_more
+
+
+
+
+              Simplicity and Reliability
+            
+ 
+              Rather than burdening users with interpreting these, HealthWatch provides an automated battery of tests. 
+              The system automatically creates a minimal-footprint app, pushes it to the cloud, then tests it's health. 
+            
+
+
+
+
+
+
+
+
+
+                Everything is healthy.
+              
+
+
+
+
+
+
+                Potential problem.
+              
+
+
+
+
+
+
+                Users need to investigate.
+              
+
+
+
+
+
+               Logic design
+            
+
+
+Each test (push, start, stop, etc.) are treated independentaly.
+For each suite of tests, individual stoplight error states are determined given the available information we have for each.
+For an isolated failure, the stoplight will be yellow.
+For sequnetial faillures (e.g., two push failure in a row), the stoplight will be red.
+Test that don't run are not counted.
+If all test do not run for a stoplight, stoplight will be gray.
+
+
+
+
+
+
+
+
+
+              Logic diagrams show test results (top rows) and how the results appear on the dashboard. This example shows how a self-correcting system can result in failed tests without displaying red stop lights.
+            
+
+
+
+
+
+
+
+
+
+Dogfooding
+
+            Making First Contact with Reality
+          
+
+
+              HealthWatch would need to help operations teams navigate through unexpected disruptions, the nature of which can't be predicted. That meant we needed to test under real-world circumstances with real data.
+            
+
+
+
+
+
+              HealthWatch in the wild. Our ops team in Dublin installed and used our alpha version and gave us weekly feedback.
+            
+
+
+            Pivotal’s cloud operations team in Ireland agreed to be the first to use HealthWatch in a production environment. That team hosted a SaaS product called Pivotal Tracker, an agile project management tool which has several hundred-thousand active users.
+          
+
+            Weekly Check-Ins
+          
+
+            We conducted weekly check-in sessions. In these sessions, members of the operations teams walked us through scenarios where they used HealthWatch. We got a lot of usability feedback, but also validated that the app helped them get through unexpected problems, such as failed upgrades.
+          
+
+            Card Sorting
+          
+
+            Once the operations team had been using HealthWatch for several weeks, we gave operations team members workbooks in Google Draw that contained movable metrics panels. We then asked them to arrange the dashboard the way they would like it.
+          
+
+            After that, we interviewed the operators to understand the thinking behind their layouts. This eventually led us to grouping metrics into three areas of impact.
+          
+
+
+
+
+
+
+            After using the app for a few weeks, alpha testers arranged their ideal dashboard layout.
+          
+
+
+
+
+
+
+END-USER IMPACT
+
+                  End users affected. Generally urgent.
+                
+
+
+DEVELOPER IMPACT
+
+                  Not as urgent as end-user impact, but potentially important.
+                
+
+
+PLATFORM IMPACT
+
+                  Underlying VMs and other platform infrastructure.
+                
+
+
+
+
+
+
+            Feature Vetting
+          
+
+            After the card sort, we had team members independently tell us what metrics they would remove from the main dashboard and why. This got us to declutter and move about 25 percent of the main dashboard to deep dive views.
+          
+
+
+
+
+
+
+              Alpha testers voted metrics off the island.
+          
+
+
+
+
+
+
+
+
+Conclusion
+
+            HealthWatch's Impact
+          
+
+            Measurable Outcomes
+          
+
+            We hypothesized that five of seven potential customers would install our closed beta and give us three feedback sessions. This tested whether customers would be willing to "pay" for beta access and worked as a leading indicator of adoption. The first five signed up.
+          
+
+            Customer Impact
+          
+
+            In one of our beta feedback sessions, a customer kept repeating the phrase, "This is golden". A few weeks before, his team started hearing complaints from developers that they couldn't push their apps onto the platform.
+          
+
+            What nobody knew at the time was that the platform had run out of memory. That resulted in days of frustration that would not have occurred if they had our product—the team would have been alerted to low memory long before running out.
+          
+
+            U.S. Patent
+          
+
+            About one year after our GA (generally available) release, I shared a U.S. patent with the PM and engineering lead.
+          
+
+
+            Diagram from patent No. US20190188107A1 for “Health monitoring for cloud computing platforms”.
+          
+
+            Impact on Pivotal's Design Practice
+          
+
+            User-centered design was not widely practiced in Pivotal's R&D department when we started. After launch, I gave two lightning talks and wrote an essay on our process (which was published in PC World and translated into German).
+          
+
+            Impact on Marketing and Sales
+          
+
+            Dogfooding allowed for our sales and marketing teams to say, “We use this product ourselves.” I also heard from the field that the out-of-the-box UI played well in sales demos.
+          
+
+
+
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

@@ -1,0 +1,13 @@
+{
+	"openai_api_key": "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",
+	"max_tokens": 500,
+	"tokenizer": "cl100k_base",
+	"engine": "text-embedding-ada-002",
+	"max_len": 1800,
+	"size": "ada",
+	"model": "gpt-4",
+	"temperature": 0.8,
+	"stop_sequence": "None",
+	"embeddings_path": "text/processed/embeddings.csv",
+	"default_system_prompt_path": "prompts/recursing/historical-effects-test.txt"
+}

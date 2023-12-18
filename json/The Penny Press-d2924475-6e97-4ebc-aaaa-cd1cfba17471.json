@@ -1,0 +1,396 @@
+[
+  {
+    "id": "cf973423-f72c-4685-b5ca-9cc6a438c276",
+    "name": "The Penny Press",
+    "summary": "The Penny Press refers to inexpensive, mass-produced newspapers that emerged in the United States during the early 1830s. These papers revolutionized journalism by focusing on daily events, human-interest stories, and sensationalism, catering to a broader audience. The affordability of a penny made them accessible to the working class, expanding readership and changing the funding model to rely more on advertising revenue than subscriptions. This democratization of news led to increased public awareness and participation in societal issues, laying the groundwork for modern journalism.",
+    "children": [
+      {
+        "id": "aebd2644-dc3a-4194-af0d-26601ce6dc19",
+        "name": "Rise of Mass Media",
+        "score": 9,
+        "themes": [
+          "Communication",
+          "Technology",
+          "Journalism",
+          "Popular Culture",
+          "Advertising",
+          "Public Opinion",
+          "Political Campaigns",
+          "Globalization",
+          "Social Change",
+          "Information Age"
+        ],
+        "summary": "The Rise of Mass Media is a historical phenomenon that followed the advent of the Penny Press, characterized by the proliferation of various forms of communication to large audiences. Technological advancements, such as the telegraph, radio, and television, alongside the growth of literacy, facilitated the spread of information. This era saw media evolve into a powerful societal tool, influencing public opinion and culture. The mass media became integral to political campaigns, advertising, entertainment, and the dissemination of news, reflecting and shaping the zeitgeist of the 20th century and beyond.",
+        "dates": [
+          "1830s",
+          "21st century"
+        ],
+        "people": [
+          "Samuel Morse",
+          "Guglielmo Marconi",
+          "William Randolph Hearst",
+          "David Sarnoff",
+          "Edward R. Murrow",
+          "Walter Cronkite",
+          "Rupert Murdoch",
+          "Mark Zuckerberg"
+        ],
+        "places": [
+          "United States",
+          "United Kingdom",
+          "Europe",
+          "Hollywood",
+          "Silicon Valley"
+        ],
+        "events": [
+          {
+            "name": "Industrial Revolution",
+            "date": "1760-1840"
+          },
+          {
+            "name": "American Civil War",
+            "date": "1861-1865"
+          },
+          {
+            "name": "World War I",
+            "date": "1914-1918"
+          },
+          {
+            "name": "World War II",
+            "date": "1939-1945"
+          },
+          {
+            "name": "Cold War",
+            "date": "1947-1991"
+          },
+          {
+            "name": "Fall of the Berlin Wall",
+            "date": "1989"
+          },
+          {
+            "name": "9/11 Attacks",
+            "date": "2001"
+          },
+          {
+            "name": "Global Financial Crisis",
+            "date": "2007-2008"
+          },
+          {
+            "name": "Arab Spring",
+            "date": "2010-2012"
+          },
+          {
+            "name": "COVID-19 Pandemic",
+            "date": "2019-present"
+          }
+        ],
+        "children": [
+          {
+            "id": "7428d425-8b15-49c7-a7b5-30a00f8f4d5e",
+            "name": "Expansion of Radio Broadcasting",
+            "score": 9,
+            "themes": [
+              "Mass Communication",
+              "Technological Innovation",
+              "Cultural Influence",
+              "Political Propaganda"
+            ],
+            "summary": "The Expansion of Radio Broadcasting is a significant phase in the Rise of Mass Media, characterized by the widespread dissemination of audio content to mass audiences. Following the invention of the radio, technological improvements allowed for enhanced signal strength and the establishment of numerous radio stations. This led to the radio becoming a dominant form of mass communication, influencing culture, politics, and entertainment. It played a crucial role in the standardization of national languages and cultures, and during wartime, it became a strategic tool for propaganda and public morale.",
+            "dates": [
+              "1920",
+              "1945"
+            ],
+            "people": [
+              "Guglielmo Marconi",
+              "Lee De Forest",
+              "David Sarnoff",
+              "Edwin Howard Armstrong"
+            ],
+            "places": [
+              "United States",
+              "United Kingdom",
+              "Europe"
+            ],
+            "events": [
+              {
+                "name": "World War I",
+                "date": "1914-1918"
+              },
+              {
+                "name": "Stock Market Crash",
+                "date": "1929"
+              },
+              {
+                "name": "World War II",
+                "date": "1939-1945"
+              },
+              {
+                "name": "The Great Depression",
+                "date": "1929-1939"
+              }
+            ],
+            "children": [
+              {
+                "id": "ee1adebf-1357-4426-951d-9625205e9f5b",
+                "name": "First Commercial Radio Station",
+                "score": 10,
+                "themes": []
+              },
+              {
+                "id": "62d8d2e1-08fd-4b41-ba34-d84027b93b99",
+                "name": "Golden Age of Radio",
+                "score": 9,
+                "themes": []
+              }
+            ],
+            "tier": 2
+          },
+          {
+            "id": "7b806502-c4e6-497c-b53a-65548075c495",
+            "name": "Television Becomes Mainstream",
+            "score": 10,
+            "themes": [
+              "Mass Communication",
+              "Cultural Influence",
+              "Technological Innovation",
+              "Consumerism",
+              "Political Propaganda"
+            ],
+            "summary": "The mainstreaming of television is a pivotal chapter in the Rise of Mass Media, marking a significant shift in how content was consumed globally. Post-World War II economic prosperity and technological advancements led to the mass production and affordability of television sets. By the 1950s, television had become a household staple in developed countries, profoundly impacting entertainment, news dissemination, and advertising. It transformed the way stories were told, events were broadcast, and products were marketed, becoming a dominant cultural force that shaped public opinion, politics, and social norms.",
+            "dates": [
+              "1945",
+              "1960"
+            ],
+            "people": [
+              "Milton Berle",
+              "Edward R. Murrow",
+              "Lucille Ball",
+              "Walter Cronkite",
+              "David Sarnoff"
+            ],
+            "places": [
+              "United States",
+              "United Kingdom",
+              "Soviet Union",
+              "Japan",
+              "Germany"
+            ],
+            "events": [
+              {
+                "name": "Cold War",
+                "date": "1947-1991"
+              },
+              {
+                "name": "Korean War",
+                "date": "1950-1953"
+              },
+              {
+                "name": "Vietnam War",
+                "date": "1955-1975"
+              },
+              {
+                "name": "Sputnik Launch",
+                "date": "1957"
+              },
+              {
+                "name": "Cuban Revolution",
+                "date": "1953-1959"
+              }
+            ],
+            "children": [
+              {
+                "id": "0a72c36d-472f-44a1-aad1-fc912eafc69c",
+                "name": "Presidential Debates Televised",
+                "score": 9,
+                "themes": []
+              }
+            ],
+            "tier": 2
+          },
+          {
+            "id": "e1c8479d-8f8a-40b0-bb36-ab7ae847b496",
+            "name": "Rise of the Internet",
+            "score": 10,
+            "themes": [
+              "Digital Revolution",
+              "Global Connectivity",
+              "Information Age",
+              "Technological Innovation"
+            ],
+            "summary": "The Rise of the Internet is a transformative global phenomenon that began in the late 20th century, following the era of mass media. It represents the advent of a digital communication infrastructure that allows instantaneous information exchange across the world. The Internet's development was propelled by advancements in computer technology and networking, leading to the creation of the World Wide Web. It revolutionized access to information, social interaction, commerce, and entertainment, becoming a dominant medium that surpassed traditional forms of mass media in reach and influence, and significantly impacting all aspects of modern life.",
+            "dates": [
+              "1960s",
+              "1990s"
+            ],
+            "people": [
+              "Tim Berners-Lee",
+              "Vint Cerf",
+              "Bob Kahn",
+              "Marc Andreessen"
+            ],
+            "places": [
+              "United States",
+              "Europe",
+              "Silicon Valley"
+            ],
+            "events": [
+              {
+                "name": "Fall of the Berlin Wall",
+                "date": "1989"
+              },
+              {
+                "name": "End of the Cold War",
+                "date": "1991"
+              },
+              {
+                "name": "Globalization",
+                "date": "1990s"
+              },
+              {
+                "name": "September 11 Attacks",
+                "date": "2001"
+              }
+            ],
+            "children": [
+              {
+                "id": "cf9fc4f7-d99e-42af-8285-057981018bf5",
+                "name": "Dot-com Bubble",
+                "score": 9,
+                "themes": []
+              },
+              {
+                "id": "70c94abf-7bb9-424e-957b-80c53aa8eea8",
+                "name": "Social Media Emergence",
+                "score": 10,
+                "themes": []
+              }
+            ],
+            "tier": 2
+          },
+          {
+            "id": "264894e2-98ae-4f85-a16e-1abc878a8276",
+            "name": "Social Media Proliferation",
+            "score": 9,
+            "themes": [
+              "Digital Communication",
+              "Global Connectivity",
+              "Information Age",
+              "Social Networking",
+              "User-Generated Content",
+              "Privacy Concerns",
+              "Misinformation",
+              "Social Movements",
+              "Political Campaigning",
+              "Media Evolution"
+            ],
+            "summary": "Social Media Proliferation is a historical event marked by the rapid expansion and integration of social media platforms into daily life. Following the rise of mass media, the advent of the internet and mobile technology in the late 20th and early 21st centuries enabled instant global communication and content sharing. Social media redefined interaction, information dissemination, and community building, impacting politics, commerce, and social dynamics. It facilitated real-time news, grassroots movements, and personal branding, while also raising concerns about privacy, misinformation, and mental health.",
+            "dates": [
+              "1997",
+              "Present"
+            ],
+            "people": [
+              "Mark Zuckerberg",
+              "Jack Dorsey",
+              "Kevin Systrom",
+              "Steve Chen",
+              "Chad Hurley",
+              "Jawed Karim"
+            ],
+            "places": [
+              "United States",
+              "Silicon Valley",
+              "Global"
+            ],
+            "events": [
+              {
+                "name": "Dot-com Bubble",
+                "date": "1995-2001"
+              },
+              {
+                "name": "Launch of Google",
+                "date": "1998"
+              },
+              {
+                "name": "9/11 Attacks",
+                "date": "2001"
+              },
+              {
+                "name": "Financial Crisis",
+                "date": "2007-2008"
+              },
+              {
+                "name": "Arab Spring",
+                "date": "2010-2012"
+              },
+              {
+                "name": "Brexit Referendum",
+                "date": "2016"
+              },
+              {
+                "name": "US Presidential Election",
+                "date": "2016"
+              },
+              {
+                "name": "COVID-19 Pandemic",
+                "date": "2019-Present"
+              }
+            ],
+            "children": [
+              {
+                "id": "664b0d51-7ac3-446c-85c5-f6473e1d1499",
+                "name": "Cambridge Analytica Scandal",
+                "score": 9,
+                "themes": []
+              }
+            ],
+            "tier": 2
+          }
+        ],
+        "tier": 1
+      }
+    ],
+    "dates": [
+      "1833",
+      "1860s"
+    ],
+    "people": [
+      "Benjamin Day",
+      "James Gordon Bennett, Sr.",
+      "Horace Greeley"
+    ],
+    "places": [
+      "New York City",
+      "United States"
+    ],
+    "events": [
+      {
+        "name": "Industrial Revolution",
+        "date": "1760-1840"
+      },
+      {
+        "name": "Mexican-American War",
+        "date": "1846-1848"
+      },
+      {
+        "name": "California Gold Rush",
+        "date": "1848-1855"
+      },
+      {
+        "name": "American Civil War",
+        "date": "1861-1865"
+      },
+      {
+        "name": "Invention of the Telegraph",
+        "date": "1837"
+      }
+    ],
+    "themes": [
+      "Mass Communication",
+      "Democratization of Information",
+      "Sensationalism",
+      "Advertising",
+      "Journalism Ethics"
+    ],
+    "tier": 0
+  }
+]

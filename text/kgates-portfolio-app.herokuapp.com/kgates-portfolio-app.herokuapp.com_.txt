@@ -1,0 +1,233 @@
+
+Kevin Gates -  Case Studies
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+        I'm a programmer-turned-UX designer who is drawn to emerging technologies and has extensive experience designing data products. I'm engergized by ambiguity and biased towards functioning code over shiny deliverables.
+      
+
+
+      Case Studies
+    
+
+
+
+
+
+
+
+
+Pivotal HealthWatch
+
+          I led design for HealthWatch, a data analytics product for monitoring cloud platforms. HealthWatch went from unproven concept to gaining 100% customer adoption.
+        
+
+Why read: You will learn about my approach to finding product-market-fit, why I created a non-linear user journey map, and how I applied well-established UX design techiques to dog-fooding.
+        
+
+
+Go to case study 
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+KNative UI
+
+          How I led a collaborative, engineer-centric design process to rethink the UI for KNative, an opinionated open-source developer tool.
+        
+
+Why read: You will learn how I applied lean UX practices under compact timeframes, why I made engineers central to ideation, and how I made usability testing fast and highly iterative.
+        
+
+
+Go to case study 
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+Pivotal Developer Console
+
+          How I guided a product team through a large, complex problem space to reimagine developer tool access in the cloud.
+        
+
+Why read: You will learn how I navigated a team through fuzzy problems, honed in on tangible solutions and conveyed product vision through storyboards.
+        
+
+
+Go to case study 
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+Obama for America: Project Atlas
+
+          I led an all-volunteer tech team for the Obama 2012 campaign. For this project I took a big data set, a fuzzy concept and created an app that reached millions of voters.
+          
+
+
+Why read: You will learn how I used technical skills to explore product concepts, how I motivated volunteer engineers, and how I pivoted the product under a hard deadline.
+        
+
+
+Go to case study 
+
+
+arrow_forward_ios
+
+
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

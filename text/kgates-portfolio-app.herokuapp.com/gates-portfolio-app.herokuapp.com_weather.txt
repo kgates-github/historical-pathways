@@ -1,0 +1,193 @@
+
+Kevin Gates -  Weather
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+
+
+
+
+          Exploration: How Might Users Interact With a Large Data Set On a Phone?
+        
+
+Have you ever flown to a new city—maybe Chicago or Stolkholm— and wondered how cold it might be when you need to walk to work in the morning? Forecasts are one thing, but they are not reliable, especially if they are more than a few days in the future. How might you be able to know what locals in Chicago or Stolkholm know intuitively?
+           
+
+
+
+           Weather Forecasts with Historical Context
+        
+
+          Say a user wants to know the temperature in New York City when they plan to walk to work—8 AM on November 4th. Imagine they could see what the weather tends to be like at that time based on 40 years of historical data. 
+        
+
+
+
+
+
+Users can view historic weather data.
+
+
+
+               To do this, 8 AM temperatures for New York City on November 1st through November 7th would be collected (280 measurements), then percentiles would be calculated. The user could then see historics by dragging down on the chart.
+            
+
+               This effectively answers two key questions forecasts do not: 1) How cold does it tend to be in Chicago at 8 am in early November?, and 2) How cold can it get?
+            
+
+
+
+          Appendix: Applying Design Principles
+        
+
+          As a designer, I've always liked the idea of getting designs translated into code quickly. React's concept of components and state made certain design principles relatively easy to implement, such as allowing users to recover from mistakes (a.k.a., "undo"). I also liked designing directly in code using FlexBox / CSS and skipping superfluous visual design steps. Below are a couple examples.
+        
+
+
+
+
+
+
+
+
+Controls are near the things they affect
+
+
+
+
+
+Settings let users decide what's important
+
+
+
+
+
+Undo lets users recover from mistakes
+
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

@@ -1,0 +1,202 @@
+
+Kevin Gates -  Projects
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+        I like to tinker with code and see that as a part of the creative process, be it with d3.js, OpenAI or React. I'm drawn to the possibilities technology enables and how they might be shaped into doing something novel, useful and good. 
+      
+
+
+      Projects
+    
+
+
+
+
+
+
+
+ReactNative Data App
+
+          I learned a bit of React / React Native and experimented with how users might interact with a large data set—40 years of hourly U.S. weather data—on a mobile device.
+        
+
+
+Go to project
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+Rx Treatment Flow
+
+          While working on a medical informatics team, I created an experimental UI for exploring diabetes patient journeys. 
+        
+
+
+Go to project
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+Seeing the Air
+
+          I designed a winning entry for "Sense Your City", a data visualization competition sponsored by the Swiss Consulate, Gray Area and Lift. Seeing the Air was featured in exhibits in Geneva and Shanghai.
+        
+
+
+See contest results
+
+
+arrow_forward_ios
+
+
+
+
+
+      Writing
+    
+
+
+
+
+
+
+
+Using OpenAI to Create a UX Portfolio That Can Talk
+
+          Thoughts on using OpenAI’s API to create an app that answers questions about my UX case studies.
+        
+
+
+Read on UX Collective
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+Code Complexity is a Design Problem
+
+          Why tech debt is terrible for the user experience and what designers can do about it. This essay was republished by PC World and translated into German.
+        
+
+
+Read on Built To Adapt
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+
+
+A UX Designer’s Guide to Overcoming Imposter Syndrome
+
+          How product teams in complex domains can build their own education into the design process.
+        
+
+
+Read on Built To Adapt
+
+
+arrow_forward_ios
+
+
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

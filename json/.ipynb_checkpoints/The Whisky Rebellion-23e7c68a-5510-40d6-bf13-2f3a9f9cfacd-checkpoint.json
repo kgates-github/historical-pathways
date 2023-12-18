@@ -1,0 +1,150 @@
+[
+  {
+    "id": "64216963-d7a5-455b-b6db-b660484c294d",
+    "name": "The Whisky Rebellion",
+    "summary": "The Whisky Rebellion was a tax protest in the United States beginning in 1791, during the presidency of George Washington. The rebellion was provoked by an excise tax on distilled spirits, known as the 'whisky tax,' which was a part of treasury secretary Alexander Hamilton's plan to centralize and reduce the nation's debt. Farmers who used their surplus grain to distill whisky saw the tax as an unfair burden. The insurrection escalated until 1794, when Washington led federal troops to suppress it, demonstrating the new government's ability to enforce its laws.",
+    "children": [
+      {
+        "name": "Federal authority established",
+        "score": 9
+      },
+      {
+        "name": "Political parties solidified",
+        "score": 7
+      },
+      {
+        "name": "Taxation protests diminished",
+        "score": 6
+      },
+      {
+        "name": "Hamilton's economic plan affirmed",
+        "score": 8
+      },
+      {
+        "name": "Western Pennsylvania alienation",
+        "score": 5
+      },
+      {
+        "name": "Fries's Rebellion",
+        "score": 4
+      },
+      {
+        "name": "Jeffersonian Republicanism rise",
+        "score": 7
+      },
+      {
+        "name": "Excise tax resentment",
+        "score": 6
+      },
+      {
+        "name": "American frontier law enforcement",
+        "score": 5
+      },
+      {
+        "name": "Alien and Sedition Acts backlash",
+        "score": 3
+      },
+      {
+        "id": "8fc8519d-f566-401b-81cd-36acc85f2905",
+        "name": "Political parties solidified",
+        "summary": "The suppression of the Whisky Rebellion under President Washington's leadership had significant political repercussions. It highlighted the ideological divide between Federalists, who supported a strong central government and the enforcement of federal laws, and the Democratic-Republicans, who advocated for states' rights and were sympathetic to the rebels' cause. This event underscored the emerging political factions, leading to the solidification of the first party system in the United States. The Federalists, led by Alexander Hamilton, and the Democratic-Republicans, led by Thomas Jefferson, became more organized and distinct in their policies and support bases.",
+        "dates": [
+          "1794",
+          "1796"
+        ],
+        "people": [
+          "George Washington",
+          "Alexander Hamilton",
+          "Thomas Jefferson",
+          "John Adams",
+          "James Madison"
+        ],
+        "places": [
+          "United States",
+          "Pennsylvania"
+        ],
+        "events": [
+          "French Revolutionary Wars",
+          "Invention of the Cotton Gin by Eli Whitney",
+          "British Slave Trade Act 1794",
+          "Battle of Fallen Timbers"
+        ],
+        "themes": [
+          "Federalism",
+          "States' Rights",
+          "Taxation",
+          "Political Factionalism",
+          "Early American Republic"
+        ],
+        "children": [
+          {
+            "name": "Formation of Democratic-Republican Societies",
+            "score": 8
+          },
+          {
+            "name": "Jay Treaty Controversy",
+            "score": 7
+          },
+          {
+            "name": "Election of 1796",
+            "score": 9
+          },
+          {
+            "name": "XYZ Affair",
+            "score": 6
+          },
+          {
+            "name": "Alien and Sedition Acts",
+            "score": 7
+          },
+          {
+            "name": "Virginia and Kentucky Resolutions",
+            "score": 7
+          },
+          {
+            "name": "Fries's Rebellion",
+            "score": 5
+          },
+          {
+            "name": "Election of 1800",
+            "score": 10
+          },
+          {
+            "name": "Judiciary Act of 1801",
+            "score": 6
+          },
+          {
+            "name": "Marbury v. Madison",
+            "score": 7
+          }
+        ],
+        "tier": 1
+      }
+    ],
+    "dates": [
+      "1791",
+      "1794"
+    ],
+    "people": [
+      "George Washington",
+      "Alexander Hamilton",
+      "Thomas Jefferson",
+      "John Neville"
+    ],
+    "places": [
+      "Western Pennsylvania",
+      "United States"
+    ],
+    "events": [
+      "French Revolution"
+    ],
+    "themes": [
+      "Taxation",
+      "Federal authority",
+      "Popular resistance",
+      "Early American Republic",
+      "Excise laws"
+    ],
+    "tier": 0
+  }
+]

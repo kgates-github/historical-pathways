@@ -1,0 +1,196 @@
+[
+  {
+    "id": "c07bacc1-9bf8-4aa7-a320-dd0407715a8d",
+    "name": "The Penny Press",
+    "summary": "The Penny Press refers to inexpensive, mass-produced newspapers that emerged in the United States during the early 1830s. These papers revolutionized journalism by focusing on daily events, human-interest stories, and sensationalism, catering to a broader audience. The affordability of just one cent made news accessible to the working class, expanding readership and changing the funding model to rely more on advertising revenue than subscriptions. This democratization of news dissemination marked a shift towards more objective reporting and played a crucial role in shaping public opinion and American democracy.",
+    "children": [
+      {
+        "id": "acfbe935-9fa1-4036-a44a-fe34f51475f1",
+        "name": "Growth of Advertising Industry",
+        "score": 9,
+        "themes": [
+          "Mass Media",
+          "Consumerism",
+          "Capitalism",
+          "Technological Innovation",
+          "Cultural Shift"
+        ],
+        "summary": "The Penny Press's reliance on advertising revenue over subscriptions during the 1830s catalyzed the growth of the advertising industry. As newspapers reached a wider audience, businesses recognized the potential of advertising to influence consumer behavior. This led to the development of sophisticated marketing strategies and the establishment of advertising agencies. The industry's expansion was further propelled by technological advancements in printing and the rise of consumer culture. The advertising industry became a significant force in shaping societal trends and commercializing American life, reflecting and reinforcing the values of capitalism and consumerism.",
+        "dates": [
+          "1830s",
+          "1920s"
+        ],
+        "people": [
+          "Benjamin Day"
+        ],
+        "places": [
+          "United States"
+        ],
+        "events": [
+          {
+            "name": "Invention of the Steam-Powered Printing Press",
+            "date": "1814"
+          },
+          {
+            "name": "Rise of Department Stores",
+            "date": "Late 19th century"
+          },
+          {
+            "name": "Industrial Revolution",
+            "date": "1760-1840"
+          },
+          {
+            "name": "First Paid Newspaper Advertisement",
+            "date": "1704"
+          },
+          {
+            "name": "Establishment of the First Advertising Agency",
+            "date": "1841"
+          }
+        ],
+        "children": [
+          {
+            "id": "b36ee405-8186-4a7d-af0c-bb9c8377ef55",
+            "name": "Creation of Advertising Agencies",
+            "score": 9,
+            "themes": [
+              "Consumerism",
+              "Capitalism",
+              "Marketing",
+              "Media Influence",
+              "Technological Advancements"
+            ],
+            "summary": "The emergence of advertising agencies in the mid-19th century was a direct consequence of the advertising boom initiated by the Penny Press. As businesses sought to capitalize on the expanding reach of newspapers, they required intermediaries to craft effective marketing messages. Advertising agencies specialized in creating, planning, and handling advertising for clients, becoming pivotal in driving consumer culture. Their rise was intertwined with advancements in printing technology and the burgeoning consumerism of the era, marking a transformative period in the commercialization of American society and the professionalization of advertising.",
+            "dates": [
+              "1841",
+              "1900"
+            ],
+            "people": [
+              "Volney B. Palmer"
+            ],
+            "places": [
+              "Philadelphia",
+              "New York",
+              "United States"
+            ],
+            "events": [
+              {
+                "name": "Invention of the Rotary Printing Press",
+                "date": "1843"
+              },
+              {
+                "name": "Rise of Department Stores",
+                "date": "Late 19th Century"
+              },
+              {
+                "name": "Industrial Revolution",
+                "date": "1760-1840"
+              },
+              {
+                "name": "Civil War",
+                "date": "1861-1865"
+              }
+            ],
+            "children": [],
+            "tier": 2
+          },
+          {
+            "id": "dfafce2f-a3d0-45aa-ab18-088469124815",
+            "name": "Rise of Consumer Culture",
+            "score": 10,
+            "themes": [
+              "Capitalism",
+              "Consumerism",
+              "Advertising",
+              "Mass Production",
+              "Material Culture"
+            ],
+            "summary": "The Rise of Consumer Culture in the 19th and 20th centuries was a result of increased industrial production and the proliferation of goods. This era saw the emergence of a society increasingly defined by the consumption of goods and services. Advertising, catalyzed by the Penny Press, played a pivotal role in shaping consumer behavior, creating demand for new products. Technological advancements in manufacturing and transportation allowed for mass production and distribution, making goods more accessible. The culture was characterized by a shift from subsistence and handmade goods to an emphasis on choice, leisure, and material wealth.",
+            "dates": [
+              "1830s",
+              "1950s"
+            ],
+            "people": [
+              "John Wanamaker",
+              "Richard Warren Sears",
+              "Alvah Curtis Roebuck",
+              "Edward Bernays"
+            ],
+            "places": [
+              "United States",
+              "Europe"
+            ],
+            "events": [
+              {
+                "name": "Industrial Revolution",
+                "date": "1760-1840"
+              },
+              {
+                "name": "Invention of the Telegraph",
+                "date": "1837"
+              },
+              {
+                "name": "American Civil War",
+                "date": "1861-1865"
+              },
+              {
+                "name": "Invention of the Telephone",
+                "date": "1876"
+              },
+              {
+                "name": "Great Depression",
+                "date": "1929-1939"
+              }
+            ],
+            "children": [],
+            "tier": 2
+          }
+        ],
+        "tier": 1
+      }
+    ],
+    "dates": [
+      "1833",
+      "1860s"
+    ],
+    "people": [
+      "Benjamin Day",
+      "James Gordon Bennett",
+      "Horace Greeley"
+    ],
+    "places": [
+      "New York City",
+      "United States"
+    ],
+    "events": [
+      {
+        "name": "Industrial Revolution",
+        "date": "1760-1840"
+      },
+      {
+        "name": "Mexican-American War",
+        "date": "1846-1848"
+      },
+      {
+        "name": "California Gold Rush",
+        "date": "1848-1855"
+      },
+      {
+        "name": "American Civil War",
+        "date": "1861-1865"
+      },
+      {
+        "name": "Invention of the Telegraph",
+        "date": "1837"
+      }
+    ],
+    "themes": [
+      "Media Innovation",
+      "Democratization of Information",
+      "Sensationalism",
+      "Advertising",
+      "Journalism"
+    ],
+    "tier": 0
+  }
+]

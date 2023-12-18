@@ -1,0 +1,29 @@
+python3 -m venv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+python3 -m pip freeze > requirements.txt
+
+jupyter labextension install @jupyterlab/graphviz-extension
+
+
+echo 'export OPENAI_API_KEY="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"' >> ~/.bashrc
+source ~/.bashrc
+
+
+APENDIX
+
+- Create git repo
+
+git init
+git add .  
+git commit -m "Initial commit"
+git remote add origin https://github.com/kgates-github/prompt-tools.git
+git remote -v 
+git branch -M main
+git push -u origin main
+
+
+
+
+

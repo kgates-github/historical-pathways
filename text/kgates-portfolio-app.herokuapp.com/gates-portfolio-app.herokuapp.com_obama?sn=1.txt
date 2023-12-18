@@ -1,0 +1,434 @@
+
+Kevin Gates -  Obama
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+TL;DR: Project Atlas is an app that highlights the Obama campaign's main themes, all taylored to voter location. It launched on the president's twitter feed and reached his 42 million followers. To get to the finishline, I had to keep an all-volunteer tech team motivated while performing a hard pivot.
+      
+
+
+
+
+          Getting Creative Under a Hard Deadline
+        
+
+          A Vague Idea and a Looming Election
+        
+
+            In June of 2012, I was given a big data set about President Obama's achievements, but not much more than a vague direction: make something voter-facing, and make it location-based.
+          
+            The election was four months away and we had no idea where we would end up. This is what we came up with...
+          
+
+
+
+
+
+Project Atlas detects the user's location (in this case Orange County, Florida) and shows Obama's achievements, all taylored to be as local as possible.
+
+
+
+
+
+How it works
+Geo-targeting Obama's Achievements
+
+          After exploring several concepts, pursuing a direction, pivoting mid-project, we came up with a solution and launched five weeks before election day. This is how it works:
+        
+STEP ONE
+
+          A voter gets a tweet from Obama inviting them to check out a map. They click it.
+        
+
+
+
+
+
+            arrow_downward
+          
+
+STEP TWO
+
+          The app detects the voter's location. In this case they are in Orange County, Florida.
+        
+
+
+
+
+
+            arrow_downward
+          
+
+STEP THREE
+
+          The app compiles a webpage about Obama's achievements, all tailored to Orange County, Florida.
+        
+
+
+
+
+
+
+
+
+
+Role and Team
+My Role
+
+          Based in the San Francisco Technology Field Office, I led the ideation, wireframing and ran weekly presentations to campaign headquarters. In addition, I led the dev team, wrangled data, coordinated the efforts of volunteers, and wrote a good portion of the JavaScript and CSS.
+        
+SKILLS
+
+          Concept exploration, geospatial analysis (PostGIS, QuantumGIS), wireframing, JavaScript, Google Maps API
+        
+COLLABORATORS
+
+          I worked with a director of product management in the Chicago headquarters. Two engineers volunteered 8 - 16 hours a week, a dozen volunteers helped wrangle data, and the visual design was polished by the branding team. 
+        
+
+
+
+
+
+
+
+Conceptiing
+
+            Exploring the Data With Geospatial Tools
+          
+
+
+              Research from campaign headquarters revealed that voters respond more favorably to Obama's achievements when they are made relevant to them. With that in mind, I set out to better understand the shape of the data and what might be done with it. My goal was to come up with ideas to pitch to our stakeholders that would resonate with the campaign's goals.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            I set up geospatial tools (PostgreSQL, PostGIS and QuantumGIS) and started exploring the data. I considered a lot of possibilities: children gaining health care; renewable energy investments; tax savings, and many more.
+          
+
+
+            Examples of maps I created to explore the campaign's data sets using PostgreSQL, PostGIS and QuantumGIS.
+          
+
+
+
+
+
+
+
+
+Wireframing
+
+            Refining a Direction
+          
+
+            Our stakeholders liked the direction of a recovery-themed map I created, which used data about the 2009 stimulus bill. We got the go-ahead to move forward.
+          
+
+            The first wireframes showed stimulus projects color-coded by category. These categories corresponded to the campaign's core policy areas: education, energy, health and infrastructure.
+          
+
+            Using Google's mapping API, we could detect the users location, and just show data points from their area.
+          
+
+
+
+
+
+
+
+
+
+              The first wireframes I created show the top five recovery projects per state. Projects are color-coded to correspond to campaign themes: education, energy, health and infrastructure. The maps were created using real data.
+            
+
+
+
+
+
+
+              As the user zooms in, more and more projects are revealed. At each zoom level, the most relevant projects are highlighted in the inset at the left.
+            
+
+
+
+
+
+
+
+
+
+People
+
+            Inspiring Volunteers
+          
+
+
+              With a green light from headquarters, momentum started building. We would need engineers and since most of the data was uncategorized, we would need volunteers to help categorize data.
+            
+
+...see moreexpand_more
+
+
+
+            The question lingered: How could we motivate an all-volunteer team to hit hard deadlines? Here are a few approaches:
+          
+
+Assume intrinsic motivation: The engineers who volunteered were willing to go through an interview process, so they likely want to help the president get re-elected.
+Act like shipping product is inevitable: If it looks like we are going to ship, engineers will be more likely to help. Momentum then builds in a virtuous cycle.
+Be clear about scope: Break work down into doable chunks. Be sure volunteers know exactly what is expected of them and when things need to be done.
+
+
+
+          The question lingered: How could we motivate an all-volunteer team to hit hard deadlines?
+        
+
+
+
+
+
+
+
+Pivot
+
+            Adapting to Chaos
+          
+
+
+              In July, things abruptly changed for the worse. Just as the recovery map concept started to take shape, the Romney campaign attacked the stimulus bill. The Obama campaign banned the mention of it. The project was stopped in its tracks.
+            
+
+...see moreexpand_more
+
+
+A New Direction
+
+            Everything could have easily ended at this point. Rather than give up, I went back and re-evaluated the data sets we hadn't used, and came up with a new solution.
+          
+
+            The new concept detected the user's location and displayed the president's accomplishments across all of the campaign's policy areas. The digital director at headquarters liked the new direction, and gave us the green light.
+          
+
+
+          Campaign headquarters put the kibosh on our project. We were stopped in our tracks.
+        
+
+
+
+
+
+            Early version of our new direction. This concept pulls in relevant data about health, education, transportation etc.
+          
+
+
+
+
+
+
+
+
+Development
+
+            Hitting a Tight Deadline
+          
+
+
+              Due to time constraints, I stopped wire framing and worked directly with the prototype we had started. Our goal was to have a fully functional app with just enough opinion about the UI. The branding team in Chicago would take it from there.
+            
+
+Mobile-first
+
+            We wanted to make sure the app would work well on mobile. As we wrote the code and defined the UI, we tested constantly on several phones and tablets.
+          
+
+
+
+
+
+              Using a responsive UI framework, I was able to simultaneously design for tablets and phones, helping us keep to a very tight timeline.
+            
+
+
+
+
+
+
+
+
+          An early fully-functioning version.
+        
+
+
+
+
+          The final version of the app after the branding team's work.
+        
+
+
+
+
+
+
+Conclusion
+
+          Impact: Reaching Millions of Voters
+        
+
+          The final weeks of the campaign were total chaos. Despite this, we managed to launch the morning of October 1st. Later that day, the campaign sent the URL out on Obama's Twitter account, where it reached the president's 42 million followers.
+        
+
+
+
+
+
+
+          The tweet that went out October 1, 2012
+        
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

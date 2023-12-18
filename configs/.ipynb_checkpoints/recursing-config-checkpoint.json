@@ -1,0 +1,9 @@
+{
+	"openai_api_key": "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",
+	"max_len": 1800,
+	"size": "ada",
+	"model": "gpt-4",
+	"temperature": 0.8,
+	"stop_sequence": "None",
+	"default_system_prompt_path": "prompts/recursing/effects-only.txt"
+}

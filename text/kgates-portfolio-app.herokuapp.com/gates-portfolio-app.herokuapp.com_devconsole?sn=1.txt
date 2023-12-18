@@ -1,0 +1,810 @@
+
+Kevin Gates -  Developer Console
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+
+TL;DR: For enterprise developers, getting access to software-building tools on cloud platforms is rife with bottlenecks and red tape. We reimagined a better experience by anchoring product ideas around a nuanced understanding of customer problems. Our design was the product of transdisciplinary ideation, which was energizing and fruitful.
+          
+
+            A Human-Centered Approach to Enterprise Problems
+          
+
+            A Big Ask
+          
+
+
+              This project started as a challenge posed by Pivotal's director of product for its London R&D org. She wanted me to do two things:
+            
+
+Discover the top problems engineers in large enterprises have in getting the tools they need to build software.
+Organize a product team anchored around those problems and come up with solutions.
+
+
+              It was a big ask, but also a big opportunity.
+            
+
+
+
+
+
+
+
+
+Role and Team
+My Role
+
+          As design lead, I drove research and synthesis, facilitated a week-long ideation workshop and design sprint, and created a product vision storyboard.
+        
+SKILLS
+
+          User research, workshop facilitation, collaborative ideation, storyboarding
+        
+COLLABORATORS
+
+          For the research, I paired with an engineer (and aspiring designer) on a daily basis. After that, I facilitated design workshops which included an R&D engineering team, a PM, and a new-hire designer. I also had weekly one-on-ones with the director of product.
+        
+
+
+
+
+
+
+
+Roadmapping
+
+            A Collaborative Product Roadmap
+          
+
+
+              We prioritized team work by first understanding the problems we faced. I facilitated a workshop in which engineers, PMs and design formed open questions around our central theme of developer tool access. We then prioritized problems and brainstormed activities.
+            
+
+...see moreexpand_more
+
+
+
+
+
+
+
+
+
+
+                My roadmapping workshops start with the whole team collectively agreeing on top problems, then brainstorming activities.
+              
+
+
+
+
+
+
+                Each product activity has a description, outcome, output and timeframe. (This doc is from a more recent project.)
+              
+
+
+
+
+
+
+
+
+
+
+Research
+Discovering the Reality of the Enterprise Developer Experience
+
+
+              In our roadmapping workshop, the consensus was that we needed to learn more about the app developer experience. We interviewed around 30 customers, non-customers, and members of our consulting business who work on-site.
+            
+
+...see moreexpand_more
+
+
+
+            The interviews were split between app devs and platform operators. We wanted to find out things like how developers decide what tools they need and what they find frustrating.
+          
+
+
+
+
+
+
+
+
+                My roadmapping workshops start with the whole team collectively agreeing on top problems, then brainstorming activities.
+              
+
+
+
+
+
+
+                Each product activity has a description, outcome, output and timeframe. (This doc is from a more recent project.)
+              
+
+
+
+
+
+
+
+            Making Synthesis a Team Effort
+          
+
+            We rotated teammates onto the synthesis process so they could see for themselves how insights emerge from data. There are key benefits to doing this:
+          
+
+Transparency: Having teammates rotate onto design activities lets them see how we discover patterns. That builds credibility, which then builds trust in the data and paves the way for evidence-based decision making.
+Alternate perspectives: We were doing research in a very technical domain. Engineers were in a good position to help us find patterns we might not have found ourselves.
+
+
+
+
+
+
+
+           Once our affinity map started taking shape, we asked for volunteers to help. In this picture, the engineer I collaborated with described affinity mapping to another engineer as “optimization through evolution”.
+          
+
+
+
+
+
+
+
+         Our affinity map was a work horse: it worked as a reference that informed many other artifacts and activities.
+        
+
+
+
+
+
+
+
+Personas
+
+            Understanding Misaligned Priorities
+          
+
+
+              At the heart of everything we learned was a fundamental conflict: While app developers want a wide variety of tools and the latest, hot technology, platform operators want to offer a small, manageable set of tools.
+            
+
+...see moreexpand_more
+
+
+
+App Developer
+
+
+
+
+
+
+                    App developers build apps and other types of software. They can have diverse roles ranging from data science to mobile app development. Large organizations can employ thousands of developers.
+                  
+
+
+
+
+
+Character-istics
+
+
+97 to 99 percent of our customers’ developers are early in their careers.
+Most are focused on writing code and are not comfortable working with cloud infrastructure.
+
+
+
+
+Key driver
+
+
+App devs want access to a wide variety of tools and the latest hot tech.
+
+
+
+
+Underlying motovators
+
+
+Role-specific needs: Developers come in many forms. A data scientist requires a very different set of tools than a mobile app developer.
+Task-specific needs: Engineers sometimes start with specific needs related to the task at hand. For example, an aerospace engineering team creating flight control tests might need a time-series database with specified level of latency.
+Resume value: Developers often want the latest hot tech. This is partly due to resume value, which can determine their viability in the job market.
+
+
+
+
+
+
+
+          Having the latest hot tech on a resume can determine a developer's viability in the job market.
+        
+
+
+Platform Operator
+
+
+
+
+
+
+                  Platform operators maintain the cloud platform. They are responsible for providing tools for developers, keeping the platform up-to-date, and troubleshooting when something goes wrong.
+                
+
+
+
+
+Character-istics
+
+
+Even in large organizations, operator teams tend to be small, with 10 - 20 people.
+Their small team sizes contrast with the fact that their platforms can be used by hundreds, even thousands of developers.
+
+
+
+
+Key driver
+
+
+Operators want to offer a small, manageable set of tools that cover a wide surface area.
+
+
+
+
+Underlying motovators
+
+
+Risk aversion: Cloud platforms are extremely complex, but tend to be stable as long as nothing changes. Introducing new tools means introducing change, and change brings risk of something going wrong.
+Developing expertise: If an operations team offers a new technology on their platform, they are expected to be experts at that technology. When something goes wrong, the operations teams are expected to fix it.
+Not enough demand: Operations teams are inherently small and they tend to be unwilling to support tools for which there is little demand.
+
+
+
+
+Our Primary Personas Are Fundamentally Misaligned
+
+              At the heart of everything was a fundamental conflict: While app developers want a wide variety of tools and the latest, hot technology, platform operators want to offer a small, manageable set of tools.
+            
+Seeing the Journey as a Series of Conflicts Between Personas
+
+              We visualized the misalignment between personas as a cartoon argument. We then mapped the argument onto a skeleton version of the journey. That conveyed where on the journey misalignment can lead to bottle necks and frustration.
+            
+
+
+
+
+
+
+
+
+
+
+
+              Appdev wants cool tech.vs.Operator wants to serve the larger organization.
+            
+
+
+
+
+
+
+              App dev wants help learning a new tool.vs.Operator doesn't have the time to help individuals.
+            
+
+
+
+
+
+
+
+              Areas of conflict were represented as red dots on the journey.
+            
+
+
+
+
+
+Dev Tool Access Patterns
+
+            One way or another, developers tend to get the tools they need, often through off-platform sources. Some of these, such as dedicated service teams, are sanctioned, while others, such as developers going "DIY", are not, which can lead to security and compliance risk.
+          
+
+
+
+
+
+          Diagrams from our research findings deck that depict the various ways developers get the tools they need from a variety of sources.
+        
+
+
+
+
+
+
+
+Workshop Prep
+
+            Feedback as a Forcing Function
+          
+
+
+              Before ideation week began, I set up sources of feedback and embedded them into the whole process. Getting continuous feedback would help keep us sane as we navigated a vast problem space.
+            
+
+
+
+
+
+
+
+PANEL OF ADVISORY EXPERTS
+
+                I recruited a panel that included people from related product teams, field engineers and marketing from Europe and North America. I set up two sessions with them on Wednesday and Friday, and presented our progress. The panel brought relevant and diverse perspectives to the table.
+              
+
+
+
+
+FIELD ENGINEERS
+
+                Several field engineers volunteered their time. We included them in activities and asked them to evaluate early ideas. Field engineers are great because they often work on-site for months at a time and can bring the customer perspective to the table.
+              
+
+
+
+OPEN DOORS
+
+                I invited the whole Pivotal office to stop by any time. When anyone showed up, one of us would take the lead and explain our current thinking, and how we got there. Random visits made sure we could clearly articulate everything we were doing at any time.
+              
+
+
+
+            Getting continuous feedback would help keep us sane as we navigated a vast problem space.
+          
+
+
+
+
+
+
+
+
+Problem Prioritization
+
+            Determining Where We Can Have the Most Impact
+          
+
+
+              With many customer problems at hand, we needed to decide which ones to tackle. We used three techniques:
+            
+
+Surveying our field engineers to assess where we can impact customer needs.
+Determining where we, as a product team, can move the needle.
+Assessing any engineering risks.
+
+
+
+
+
+
+
+
+
+
+Wheelhouse check
+
+                We sorted the top problems into three columns: Solvable by us, solvable through collaboration with another team, not in our wheelhouse.
+              
+
+
+
+
+
+Engineering Risk Assessment
+
+                Engineers offered an early assessment of engineering risk. Even at this early stage, we felt we could get a sense of complexity early, and take than into consideration.
+              
+
+
+
+
+Top Customer Problems
+
+            By noon the first day, we had honed in on a handful of customer problems that were both high-impact (according to our field team survey) and problems for which an engineering R&D team could move the needle.
+          
+
+
+
+
+
+
+            After our vetting process, a handful of customer problems rose to the top.
+          
+
+
+
+
+
+
+
+
+Causal Mapping
+
+            Seeing the Big Picture
+          
+
+
+
+
+
+
+
+          Our causal map starts with a customer problem at the left (there is a lot more demand for developer tools than supply). The yellow nodes are root causes and the blue nodes are possible solutions.
+        
+
+
+
+
+Root Cause Analysis
+
+              With help from the field, we took our top problems and explored root causes by asking ourselves "why?" as many times as possible. This would help us:
+            
+
+See relationships between problems and have a more holistic perspective.
+Identify big pain points that lead to a lot of down-stream problems.
+Expanded the field of potential problems we could solve.
+
+
+
+
+
+
+            Detail showing tiers of causes for one of our top customer problems
+          
+Down-Stream Effects
+     
+            We explored how problems often cascade into dysfunction, higher costs and frustration by asking ourselves "so what?" These down-stream effects link customer problems to value props.
+          
+
+
+
+
+            This diagram links a "how might we?" solution (top) to value (at the bottom).
+          
+
+
+
+
+
+
+
+
+Solutioning
+
+            How Might We?
+          
+
+
+              On Tuesday, after dot voting on root causes, we took the top problems and explored solution ideas with a “How might we?” exercise. We grouped ideas by theme, then discussed and dot-voted.
+            
+
+
+
+
+
+
+
+
+
+          Morning review of the previous day's work (photo credit: Miguel Luna)
+        
+
+
+
+Advisory Panel Feedback
+
+            On Wednesday we presented our top initial directions to the advisory panel and took notes. Two solution themes rose to the top. Both were under the question, “How might we allow more [tools] to be available?”.
+          
+
+
+
+
+
+
+            High-level solution directions that rose to the top.
+          
+
+
+How Might We?... Round Two
+
+            We had a clear direction from the advisory panel, but our concepts were very high-level, and we needed to drill into them them further. We did this by taking each concept (e.g., "Tiered SLAs") and expanding through more "how might we?" exercises.
+          
+
+
+
+
+
+
+
+          Diagram showing chains of solutions that originate from “How might we allow more tools to be available?”.
+        
+
+
+
+
+
+
+
+Product Vision
+
+            Tying the Story Together
+          
+
+Scenario writing
+
+              On Thursday, we took our top ideas and wrote scenarios describing a future in which our customers are enjoying the value of our not-yet-existent products. We were envisioning presenting a storyboard to the advisory panel on Friday and wanted our ideas to be approachable and expressive.
+            
+
+
+
+
+
+
+            Scenario writing session
+          
+
+
+          Our scenario writing didn't work out as planned. We would need to improvise.
+        
+
+A Misfire and Redress
+
+            “What is the point of scenario writing? Have we learned anything?”, asked an engineer on Friday morning. I probed the room. “What do we think?”, I asked.
+          
+
+            In short, our solution ideas were not solid enough technically for our engineers. For a lot of types of projects, safe assumptions can be made about the tech. That was not the case for us.
+          
+
+            We went back to the whiteboard and discussed. The solution was to group ideas into product concepts. Those allowed the engineers to envision the "how" to a level that was acceptable.
+          
+Idea Boards and Advisory Panel Feedback, Round Two
+
+            We still needed something to present to the advisory panel. We came up with idea boards. Idea boards describe product concepts, and tie together outcomes, evidence and personas.
+          
+
+            We created an idea board for each of our top concepts and presented to the advisory panel for feedback.
+          
+
+
+
+
+
+
+
+
+        Idea board example
+      
+
+
+
+
+
+
+
+INDEPENDENT SERVICE OFFERINGS
+
+                Outcome: Operators can delegate the curation and management of services to non-operators, effectively increasing the offerings.
+              
+
+
+
+
+
+DIFFERENT LEVELS OF SUPPORT
+
+                Outcome: Developers can provision a wider variety of tools that are not mission-critical (such as databases with lower uptime) and are managed by non-operators.
+              
+
+
+
+
+
+AUTOMATED TOOL INTEGRATION TESTS
+
+                Outcome: Third-party tool providers have increased confidence in an integration before releasing it. Operators have increased confidence in an integration before managing it.
+              
+
+
+
+
+
+
+
+
+
+
+Storyboard
+
+            Externalizing the Product Vision
+          
+
+
+              After ideation week, I worked with marketing and an illustrator to bring the prodcut vision to life.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+            Design Impact
+          
+
+            Design Sprint
+          
+
+            Our ideation session was the foundation for a compact, two-day design sprint. (I plan to include the sprint as a separate case study.)
+          
+
+            Research Impact
+          
+
+            Our research deck got a lot of attention. I presented it several times as part of our integration process. At several points there were dozens of people in the Google doc, including vice presidents. One PM told me she had been referring to the deck on a regular basis. In addition, I later used the research findings to inform two other related projects.
+          
+
+            Design Practice Impact
+          
+
+            I documented the design process and presented it internally and externally, including two times for the U.K. Government Digital Services.
+          
+
+            Learnings
+          
+
+If something is not working, nip it in the bud and pivot: Our initial scenario-based presentation didn't gel. We took the outcome we were after and came up with a solution that worked.
+High-trust between team members enables efficiency: High trust enables critical feedback, which was necessary for us to recover from mistakes.
+Transdisciplinary ideation is powerful: We gained insights that only came about because designers, engineers and field engineers were working together on the same problem. Marketing team members on our advisory panel had feedback that the rest of us would not have thought of.
+Storyboards are great tools for conveying vision: I got feedback that people had no idea of what we were up to until they saw the storyboard. In large organizations, I've found people will hear about your project, assume worst-case scenario, and imagine conflict that doesn't exist. A good vision storyboard can dispell mistrust and open doors for collaboration.
+
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

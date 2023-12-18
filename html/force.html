@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>D3 Force Simulation Example</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+</head>
+<body style="background:#121212">
+    <script src="forceSimulation.js"></script>
+    <script>
+        const [width, height] = [2400, 1200]
+        const visited_nodes = nodes.filter(node => node.visited == "true").map(node => node.id);
+        console.log(visited_nodes);
+
+        // BEGIN: Create force simulation
+        const simulation = d3.forceSimulation(nodes)
+            .force("link", d3.forceLink(links).id(d => d.id))
+            .force("charge", d3.forceManyBody())
+            .force("center", d3.forceCenter(width/2, height/2));
+
+        simulation.force("charge").strength(-150);
+
+        // Update the link force
+        simulation.force("link").distance(50);
+
+        // Add code to visualize the simulation here
+        const svg = d3.select("body")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height);
+
+        const link = svg.selectAll("line")
+            .data(links)
+            .enter()
+            .append("line")
+            .style("stroke", "#999")
+            .style("opacity", (d, i) => (visited_nodes.indexOf(d.source.id) > -1 && visited_nodes.indexOf(d.target.id) > -1) ? 1 : 0.4)
+            //.style("opacity", (d, i) => console.log(d.target))
+            .style("stroke-width", 1);
+
+        const node = svg.selectAll("g")
+            .data(nodes)
+            .enter()
+            .append("g")
+            .attr("transform", d => `translate(${d.x},${d.y})`);
+
+        node.append("circle")
+            .attr("r", 3)
+            .style("fill", (d, i) => (d.visited == "true") ? "#52B0FF" : "#ccc")
+            .style("opacity", (d, i) => (d.visited == "true") ? 0 : 1);
+
+        node.append("text")
+            .text(d => d.name)
+            .style("fill", (d, i) => (d.visited == "true") ? "#52B0FF" : "#ccc")
+            .style("font-family", "Source Sans Pro")
+            .style("font-size", "11px")
+            .style("opacity", (d, i) => (d.visited == "true") ? 1 : 0);
+
+        simulation.on("tick", () => {
+            link
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+            node
+                .attr("transform", d => `translate(${d.x},${d.y})`);
+        });
+
+    </script>
+</body>
+</html>

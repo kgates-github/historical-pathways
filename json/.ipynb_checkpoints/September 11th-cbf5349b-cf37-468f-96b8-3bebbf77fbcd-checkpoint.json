@@ -1,0 +1,797 @@
+[
+  {
+    "id": "74c6e832-b2fd-4cc7-aa6d-b93ae0aabf4b",
+    "name": "September 11th",
+    "summary": "The September 11 attacks were a series of four coordinated terrorist attacks by the Islamic extremist group al-Qaeda against the United States on the morning of Tuesday, September 11, 2001. Four commercial airplanes were hijacked; two were flown into the Twin Towers of the World Trade Center in New York City, causing their collapse. Another plane crashed into the Pentagon in Arlington, Virginia, and the fourth, Flight 93, crashed in a field in Pennsylvania after passengers attempted to overcome the hijackers. Nearly 3,000 people were killed, making it the deadliest terrorist act in human history.",
+    "children": [
+      {
+        "id": "8d0c7a23-e05d-4f0f-85af-9eb74f827932",
+        "name": "USA PATRIOT Act",
+        "children": [
+          {
+            "id": "2181c267-7088-46cc-98b5-5f696eb49fa3",
+            "name": "Enhanced surveillance procedures",
+            "children": [],
+            "summary": "Enhanced surveillance procedures refer to the broadened investigative powers granted to U.S. law enforcement and intelligence agencies under the USA PATRIOT Act. These measures include the ability to conduct roving wiretaps, access business records, and surveil 'lone wolf' suspects not linked to terrorist groups. The procedures aimed to preempt and disrupt potential terrorist activities by removing legal barriers that previously limited surveillance. Critics argue they infringe on civil liberties and privacy rights. The act also facilitated interagency communication to better track and stop terrorist financing and activities.",
+            "dates": [
+              "2001-10-26",
+              "Indefinite"
+            ],
+            "people": [
+              "George W. Bush",
+              "John Ashcroft",
+              "Robert Mueller"
+            ],
+            "places": [
+              "United States"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "War on Terror",
+              "Invasion of Afghanistan",
+              "Establishment of the Department of Homeland Security",
+              "Passage of the Homeland Security Act of 2002"
+            ],
+            "themes": [
+              "Counterterrorism",
+              "National Security",
+              "Civil Liberties",
+              "Privacy",
+              "Intelligence Gathering",
+              "Law Enforcement"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "d2650353-06a0-4813-a564-57cd17acb7cf",
+            "name": "Detention of terror suspects",
+            "children": [],
+            "summary": "Following the 9/11 attacks, the detention of terror suspects became a significant aspect of the U.S. counterterrorism strategy. The USA PATRIOT Act facilitated the detention of individuals suspected of terrorism-related activities, allowing for indefinite detention without trial, often at military facilities like Guantanamo Bay. This practice raised concerns over civil liberties and human rights, as detainees were held without formal charges and denied legal representation. The detentions were justified by the government as necessary to prevent further terrorist attacks and to gather intelligence, but they were criticized internationally and by civil rights organizations.",
+            "dates": [
+              "2001-10-26",
+              "Indefinite"
+            ],
+            "people": [
+              "George W. Bush",
+              "John Yoo",
+              "Donald Rumsfeld",
+              "Alberto Gonzales"
+            ],
+            "places": [
+              "Guantanamo Bay",
+              "United States",
+              "Afghanistan",
+              "Iraq"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "War in Afghanistan",
+              "Iraq War",
+              "Arab Spring"
+            ],
+            "themes": [
+              "Counterterrorism",
+              "Civil Liberties",
+              "Human Rights",
+              "National Security",
+              "International Law"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "0ac853e0-10d8-4ad6-8579-a03f0b54dc0f",
+            "name": "Expansion of the No-Fly list",
+            "children": [],
+            "summary": "Following the 9/11 attacks, the No-Fly List, part of the U.S. government's Terrorist Screening Database, was expanded under the USA PATRIOT Act. This expansion allowed for a broader inclusion of individuals deemed security threats, prohibiting them from boarding commercial aircraft within, to, or from the United States. The criteria for inclusion were broadened, and the list grew significantly, raising concerns over civil liberties, due process, and discrimination. The No-Fly List became a tool for the government to prevent suspected terrorists from traveling, but it also faced criticism and legal challenges over its constitutionality and effectiveness.",
+            "dates": [
+              "2001",
+              "Present"
+            ],
+            "people": [
+              "George W. Bush",
+              "John Ashcroft",
+              "Michael Chertoff"
+            ],
+            "places": [
+              "United States",
+              "Washington D.C."
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Enactment of the USA PATRIOT Act",
+              "Creation of the Department of Homeland Security",
+              "London Bombings 2005",
+              "Snowden Revelations on NSA Surveillance"
+            ],
+            "themes": [
+              "Counterterrorism",
+              "Civil Liberties",
+              "National Security",
+              "Surveillance",
+              "Air Travel Security"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "4ecf7a57-3f9d-4291-b4a2-d423c347422d",
+            "name": "Controversial NSA wiretapping",
+            "children": [],
+            "summary": "Following the 9/11 attacks and the enactment of the USA PATRIOT Act, the National Security Agency (NSA) initiated a controversial surveillance program. It involved warrantless wiretapping of international communications where one party was believed to be associated with terrorist groups. Disclosed by media in 2005, the program raised significant concerns regarding privacy, civil liberties, and legality under the Foreign Intelligence Surveillance Act (FISA). The revelation led to public debate over national security versus individual rights, prompting legal challenges, policy revisions, and discussions about the balance between security measures and the protection of civil liberties in a post-9/11 era.",
+            "dates": [
+              "2001",
+              "2007"
+            ],
+            "people": [
+              "George W. Bush",
+              "Edward Snowden"
+            ],
+            "places": [
+              "United States"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Enactment of the USA PATRIOT Act",
+              "War on Terror"
+            ],
+            "themes": [
+              "National Security",
+              "Civil Liberties",
+              "Surveillance",
+              "Privacy",
+              "Counterterrorism"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "4753f80d-2bd1-4575-891b-d576839752ed",
+            "name": "Patriot Act reauthorizations",
+            "children": [],
+            "summary": "Following the initial passage of the USA PATRIOT Act in 2001, the Act underwent several reauthorizations to extend, revise, or make permanent various provisions. These reauthorizations often involved debate over the balance between national security and civil liberties. Key reauthorizations occurred in 2005, 2006, 2011, and 2015, with measures such as roving wiretaps, searches of business records, and surveillance of individuals suspected of terrorist-related activities without ties to specific terrorist groups. The reauthorizations reflected ongoing concerns about terrorism while also addressing criticisms regarding privacy and the potential for government overreach.",
+            "dates": [
+              "2001",
+              "2015"
+            ],
+            "people": [
+              "George W. Bush",
+              "Barack Obama",
+              "Members of Congress",
+              "National security officials",
+              "Civil liberties advocates"
+            ],
+            "places": [
+              "United States",
+              "Washington D.C."
+            ],
+            "events": [
+              "September 11 attacks",
+              "War on Terror",
+              "NSA surveillance revelations (2013)",
+              "Boston Marathon bombing (2013)",
+              "San Bernardino attack (2015)",
+              "Paris attacks (2015)"
+            ],
+            "themes": [
+              "National security",
+              "Civil liberties",
+              "Counterterrorism",
+              "Government surveillance",
+              "Legislative process",
+              "Privacy concerns",
+              "Judicial oversight",
+              "Executive power",
+              "Public debate",
+              "Terrorist threat"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "In response to the September 11 attacks, the United States Congress passed the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act, commonly known as the USA PATRIOT Act. Signed into law by President George W. Bush on October 26, 2001, the act significantly expanded the authority of American law enforcement for the stated purpose of fighting terrorism in the United States and abroad. It increased the ability of law enforcement agencies to search telephone, email communications, medical, financial, and other records; eased restrictions on foreign intelligence gathering within the United States; and expanded the Secretary of the Treasury\u2019s authority to regulate financial transactions.",
+        "dates": [
+          "2001-10-26",
+          "2001-10-26"
+        ],
+        "people": [
+          "George W. Bush",
+          "John Ashcroft",
+          "Michael Chertoff",
+          "Dennis Hastert",
+          "Tom Daschle"
+        ],
+        "places": [
+          "United States",
+          "New York City",
+          "Pentagon, Arlington",
+          "Pennsylvania"
+        ],
+        "events": [
+          "September 11 attacks",
+          "War in Afghanistan (2001-present)",
+          "Anthrax attacks in United States (2001)",
+          "Establishment of Transportation Security Administration (2001)",
+          "Bali bombings (2002)"
+        ],
+        "themes": [
+          "Counterterrorism",
+          "National security",
+          "Civil liberties",
+          "Surveillance",
+          "Law enforcement"
+        ],
+        "tier": 1
+      },
+      {
+        "id": "527b4b2b-5265-45ca-b8be-f683b524950c",
+        "name": "Afghanistan War",
+        "children": [
+          {
+            "id": "b7c2b140-3c4e-4e94-97da-acd045e5016c",
+            "name": "Taliban Regime Collapse",
+            "children": [],
+            "summary": "The collapse of the Taliban regime in late 2001 was a direct consequence of the U.S.-led invasion of Afghanistan, initiated under Operation Enduring Freedom. The invasion aimed to dismantle al-Qaeda and oust the Taliban, who had harbored terrorists responsible for 9/11. Kabul fell to coalition forces in November, signaling the regime's end. Despite the collapse, the Taliban transitioned to guerrilla warfare, leading to a prolonged conflict. The regime's fall disrupted terrorist networks but also led to years of instability, as efforts to establish a stable government faced persistent insurgency and complex socio-political challenges.",
+            "dates": [
+              "2001-10-07",
+              "2001-12-17"
+            ],
+            "people": [
+              "George W. Bush",
+              "Osama bin Laden",
+              "Mullah Mohammed Omar",
+              "Hamid Karzai",
+              "Donald Rumsfeld",
+              "Tommy Franks"
+            ],
+            "places": [
+              "Afghanistan",
+              "Kabul",
+              "Kandahar",
+              "Tora Bora"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "U.S. Patriot Act Enacted",
+              "Anthrax Attacks in the U.S.",
+              "India's Parliament Attack",
+              "Enron Bankruptcy"
+            ],
+            "themes": [
+              "War on Terror",
+              "Regime Change",
+              "Military Intervention",
+              "Insurgency and Counterinsurgency",
+              "Nation-Building"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "6bb2f861-4225-40c1-8abf-7159e4363c09",
+            "name": "Operation Enduring Freedom",
+            "children": [],
+            "summary": "Operation Enduring Freedom (OEF) was the official name used by the U.S. government for the global war on terrorism, with its most significant operations occurring in Afghanistan. Initiated on October 7, 2001, in response to the 9/11 attacks, OEF aimed to eliminate the Taliban regime and al-Qaeda's presence in Afghanistan. The operation involved a coalition of international forces and employed a combination of airstrikes, special forces, and ground troops. Despite the initial military success, the mission evolved into a long-term counterinsurgency and nation-building effort, facing challenges such as political instability, corruption, and the resurgence of Taliban factions.",
+            "dates": [
+              "2001-10-07",
+              "2014-12-28"
+            ],
+            "people": [
+              "George W. Bush",
+              "Osama bin Laden",
+              "Mullah Mohammed Omar",
+              "Hamid Karzai",
+              "Barack Obama"
+            ],
+            "places": [
+              "Afghanistan",
+              "United States",
+              "Pakistan",
+              "Tora Bora"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Enactment of the USA PATRIOT Act",
+              "Invasion of Iraq (2003)",
+              "Arab Spring (2010)",
+              "Global Financial Crisis (2007-2008)"
+            ],
+            "themes": [
+              "War on Terror",
+              "Counterinsurgency",
+              "Nation-Building",
+              "International Coalition",
+              "Asymmetric Warfare"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "36f92233-3484-4568-aaed-2ed53b4dc323",
+            "name": "NATO Involvement",
+            "children": [],
+            "summary": "NATO's involvement in Afghanistan began shortly after the U.S. initiated Operation Enduring Freedom in response to the 9/11 attacks. The alliance's role was formalized with the establishment of the International Security Assistance Force (ISAF) in December 2001, under a United Nations mandate. NATO took command of ISAF in 2003, marking its first operational commitment outside Europe and North America. The mission focused on training Afghan security forces, rebuilding government institutions, and conducting counterinsurgency operations. Despite efforts, the country faced ongoing violence and instability, leading to a complex and challenging mission for NATO and its partner nations.",
+            "dates": [
+              "2001-12-20",
+              "2021-08-30"
+            ],
+            "people": [
+              "George W. Bush",
+              "Barack Obama",
+              "Donald Trump",
+              "Joe Biden",
+              "Jens Stoltenberg",
+              "Hamid Karzai",
+              "Ashraf Ghani",
+              "Osama bin Laden",
+              "Mullah Omar"
+            ],
+            "places": [
+              "Afghanistan",
+              "United States",
+              "Brussels (NATO HQ)"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Operation Enduring Freedom",
+              "Iraq War",
+              "Arab Spring",
+              "Syrian Civil War",
+              "Rise of ISIS",
+              "US-China Trade Tensions",
+              "Global Financial Crisis (2007-2008)",
+              "COVID-19 Pandemic",
+              "Climate Change Initiatives"
+            ],
+            "themes": [
+              "Counterterrorism",
+              "Nation-building",
+              "Insurgency and Counterinsurgency",
+              "International Security",
+              "Alliance Politics",
+              "Military Intervention",
+              "Geopolitical Strategy",
+              "Human Rights",
+              "Global Governance",
+              "Post-Cold War Conflicts"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "907606d3-e850-4564-9623-52c6b6114a36",
+            "name": "US Military Withdrawal",
+            "children": [],
+            "summary": "The US Military Withdrawal from Afghanistan marked the end of America's longest war, spanning nearly two decades. Initiated by President Joe Biden, the withdrawal was completed on August 30, 2021. This decision followed a peace agreement with the Taliban, signed in February 2020 under President Donald Trump, which set the terms for the withdrawal of American and NATO forces. The pullout led to a swift Taliban takeover, raising questions about the efficacy of the war and the future of Afghanistan. The withdrawal was both a strategic shift and a reflection of war fatigue among the American public.",
+            "dates": [
+              "2020-02-29",
+              "2021-08-30"
+            ],
+            "people": [
+              "Joe Biden",
+              "Donald Trump",
+              "Ashraf Ghani",
+              "Zalmay Khalilzad",
+              "Abdullah Abdullah",
+              "Mullah Abdul Ghani Baradar"
+            ],
+            "places": [
+              "Afghanistan",
+              "United States",
+              "Doha",
+              "Kabul"
+            ],
+            "events": [
+              "COVID-19 Pandemic",
+              "US Presidential Election 2020",
+              "Myanmar Military Coup 2021",
+              "Israel-Hamas Conflict 2021"
+            ],
+            "themes": [
+              "War on Terror",
+              "Nation-Building",
+              "Insurgency and Counterinsurgency",
+              "Geopolitical Strategy",
+              "Military Intervention",
+              "Peace Negotiations",
+              "Human Rights",
+              "Refugee Crisis",
+              "Global Security",
+              "US Foreign Policy"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "71d85908-7ac2-4696-9b7f-ffe805d04bd2",
+            "name": "Fall of Kabul (2021)",
+            "children": [],
+            "summary": "The Fall of Kabul on August 15, 2021, marked the culmination of the Taliban's rapid advance across Afghanistan following the withdrawal of U.S. and NATO troops. This event effectively ended the 20-year Afghanistan War, leading to the collapse of the Afghan government. President Ashraf Ghani fled the country, and the Taliban took control of the presidential palace. The fall was precipitated by a peace agreement between the U.S. and the Taliban, and the subsequent rapid withdrawal of foreign forces, which left the Afghan National Army overwhelmed and unable to resist the Taliban's offensive.",
+            "dates": [
+              "2021-08-15",
+              "2021-08-15"
+            ],
+            "people": [
+              "Ashraf Ghani",
+              "Joe Biden",
+              "Abdullah Abdullah",
+              "Zalmay Khalilzad",
+              "Mullah Abdul Ghani Baradar"
+            ],
+            "places": [
+              "Kabul",
+              "Afghanistan",
+              "Presidential Palace"
+            ],
+            "events": [
+              "U.S. Troop Withdrawal from Afghanistan",
+              "COVID-19 Pandemic",
+              "2021 Israel\u2013Palestine Crisis",
+              "Myanmar Military Coup"
+            ],
+            "themes": [
+              "War on Terror",
+              "U.S. Foreign Policy",
+              "Nation-Building",
+              "Insurgency",
+              "Geopolitical Shift",
+              "Humanitarian Crisis"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "The Afghanistan War, also known as the War in Afghanistan, began as a direct response to the September 11 attacks. The United States, with allied support, launched Operation Enduring Freedom to dismantle al-Qaeda and remove the Taliban regime in Afghanistan, which had provided sanctuary to al-Qaeda leaders. The initial phase featured widespread military action and the toppling of the Taliban government. However, the conflict extended into a protracted insurgency, with the U.S. and NATO allies involved in nation-building and counterinsurgency operations. The war became America's longest, with challenges in establishing stable governance and security.",
+        "dates": [
+          "2001-10-07",
+          "2021-08-30"
+        ],
+        "people": [
+          "George W. Bush",
+          "Osama bin Laden",
+          "Mullah Mohammed Omar",
+          "Barack Obama",
+          "Donald Trump",
+          "Joe Biden",
+          "Ashraf Ghani",
+          "Hamid Karzai"
+        ],
+        "places": [
+          "Afghanistan",
+          "United States",
+          "Pakistan",
+          "Kabul",
+          "Kandahar",
+          "Bagram"
+        ],
+        "events": [
+          "Iraq War (2003-2011)",
+          "Arab Spring (2010-2012)",
+          "Syrian Civil War (2011-present)",
+          "Rise of ISIS (2014)",
+          "US-Iran Tensions (2010s-2020s)",
+          "Global War on Terror (2001-present)"
+        ],
+        "themes": [
+          "War on Terror",
+          "Insurgency and Counterinsurgency",
+          "Nation-Building",
+          "International Intervention",
+          "Human Rights Violations",
+          "Military Strategy and Tactics",
+          "Geopolitical Strategy",
+          "Terrorism and Counterterrorism",
+          "Regional Instability",
+          "Great Power Competition"
+        ],
+        "tier": 1
+      },
+      {
+        "id": "1ea41fbb-b62b-4036-95a7-b0778312d448",
+        "name": "Department of Homeland Security Creation",
+        "children": [
+          {
+            "id": "f2e54e3b-6ecf-4de9-ba57-36e9bbc6e16f",
+            "name": "Transportation Security Administration expansion",
+            "children": [],
+            "summary": "The Transportation Security Administration (TSA) expansion is a direct consequence of the establishment of the Department of Homeland Security (DHS) in response to the September 11 attacks. The TSA, initially part of the Department of Transportation, was transferred to the DHS to centralize and strengthen transportation security. The expansion included increased personnel, enhanced screening procedures, the deployment of advanced technology, and the development of new security protocols. This bolstered the security of air travel and other transportation modes, aiming to prevent terrorist activities and ensure the safety of the traveling public.",
+            "dates": [
+              "2003-01-24",
+              "Present"
+            ],
+            "people": [
+              "John S. Pistole (TSA Administrator)",
+              "Kip Hawley (Former TSA Administrator)",
+              "Tom Ridge (First DHS Secretary)"
+            ],
+            "places": [
+              "United States Airports",
+              "Transportation Hubs"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Creation of the Department of Homeland Security",
+              "Passage of the Aviation and Transportation Security Act"
+            ],
+            "themes": [
+              "National Security",
+              "Counterterrorism",
+              "Transportation Safety",
+              "Government Reorganization",
+              "Civil Liberties"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "a5776ef2-c3a1-4e94-9e14-4f2c10436cc5",
+            "name": "U.S. VISIT program implementation",
+            "children": [],
+            "summary": "The U.S. Visitor and Immigrant Status Indicator Technology (U.S. VISIT) program was a direct response to the 9/11 attacks, aiming to enhance national security. Implemented by the Department of Homeland Security, the program involved biometric verification, such as fingerprints and digital photographs, to screen visitors entering and exiting the United States. It was designed to identify individuals who might pose a security risk, track visa overstays, and ensure that visitors complied with visa regulations. The program was part of a broader strategy to tighten border security and improve the immigration system's integrity.",
+            "dates": [
+              "2004-01-05",
+              "Ongoing"
+            ],
+            "people": [
+              "Tom Ridge (First DHS Secretary)",
+              "George W. Bush (U.S. President)"
+            ],
+            "places": [
+              "United States",
+              "U.S. Airports",
+              "U.S. Land Borders"
+            ],
+            "events": [
+              "Creation of the Department of Homeland Security",
+              "Passage of the Patriot Act",
+              "Start of the Iraq War",
+              "Madrid Train Bombings (2004)",
+              "London Bombings (2005)"
+            ],
+            "themes": [
+              "National Security",
+              "Counterterrorism",
+              "Immigration Control",
+              "Biometric Surveillance",
+              "Border Management"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "In response to the September 11 attacks, the United States government recognized the need to reorganize its security and intelligence apparatus to better protect the homeland. The Department of Homeland Security (DHS) was created to consolidate various federal agencies responsible for different aspects of security and emergency response into a single, more efficient department. This reorganization aimed to improve intelligence sharing, protect critical infrastructure, and prevent future terrorist attacks. The DHS became operational on January 24, 2003, marking a significant shift in U.S. domestic security policy.",
+        "dates": [
+          "2002-11-25",
+          "2003-01-24"
+        ],
+        "people": [
+          "George W. Bush",
+          "Tom Ridge",
+          "Michael Chertoff",
+          "Janet Napolitano",
+          "Jeh Johnson",
+          "Kirstjen Nielsen",
+          "Chad Wolf",
+          "Alejandro Mayorkas"
+        ],
+        "places": [
+          "United States",
+          "Washington, D.C."
+        ],
+        "events": [
+          "War in Afghanistan (2001-present)",
+          "Passage of the USA PATRIOT Act (2001)",
+          "Bali bombings (2002)",
+          "Madrid train bombings (2004)",
+          "London bombings (2005)"
+        ],
+        "themes": [
+          "Counterterrorism",
+          "National Security",
+          "Intelligence Reform",
+          "Federal Agency Reorganization",
+          "Homeland Defense"
+        ],
+        "tier": 1
+      },
+      {
+        "id": "f9bcf453-fe7b-48aa-ace1-ccd021a8b2f0",
+        "name": "TSA Implementation",
+        "children": [
+          {
+            "id": "c2c57a6e-05c5-4823-b819-75c3b4634b58",
+            "name": "Federal Air Marshal Service expansion",
+            "children": [],
+            "summary": "Following the September 11 attacks, the Federal Air Marshal Service (FAMS) rapidly expanded as part of the broader aviation security overhaul. The service, which deploys armed federal agents on flights to deter and counteract terrorist acts, saw a significant increase in personnel and scope. Air marshals were integrated into the TSA's framework, with a focus on high-risk flights. This expansion aimed to provide an immediate in-flight security presence, capable of responding to potential threats and reinforcing the multi-layered security strategy adopted by the U.S. government for air travel.",
+            "dates": [
+              "2001",
+              "2002"
+            ],
+            "people": [
+              "John Magaw",
+              "Tom Ridge",
+              "George W. Bush"
+            ],
+            "places": [
+              "United States",
+              "Various International Airports"
+            ],
+            "events": [
+              "September 11 Attacks",
+              "Passage of the Patriot Act",
+              "Establishment of the Department of Homeland Security",
+              "Operation Enduring Freedom in Afghanistan"
+            ],
+            "themes": [
+              "Aviation Security",
+              "Counterterrorism",
+              "Federal Law Enforcement",
+              "National Security",
+              "Public Safety"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "854ccbc0-beb2-48a6-a6a1-609945415780",
+            "name": "Cockpit door reinforcement",
+            "children": [],
+            "summary": "Following the September 11 attacks, cockpit door reinforcement became a critical aspect of aviation security enhancements. The Federal Aviation Administration (FAA) mandated the fortification of cockpit doors on commercial aircraft to prevent unauthorized access. Reinforced doors are designed to be bulletproof and resistant to explosives, with locks that can only be opened from the inside. This measure aimed to ensure that pilots could maintain control of the aircraft without interference from potential hijackers, significantly reducing the risk of cockpit intrusion and subsequent terrorist commandeering of airplanes.",
+            "dates": [
+              "2001",
+              "2003"
+            ],
+            "people": [
+              "Norman Mineta (U.S. Secretary of Transportation)",
+              "John Magaw (First TSA Administrator)"
+            ],
+            "places": [
+              "United States",
+              "Commercial Aircraft Worldwide"
+            ],
+            "events": [
+              "Establishment of the Department of Homeland Security (2002)",
+              "Passage of the USA PATRIOT Act (2001)",
+              "NATO Invocation of Article 5 (2001)",
+              "Operation Enduring Freedom in Afghanistan (2001)"
+            ],
+            "themes": [
+              "Aviation Security",
+              "Anti-Terrorism Measures",
+              "Air Travel Safety",
+              "Government Regulation"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "5068ce02-8be3-4c9d-9e9e-4c3bdf8fa08c",
+            "name": "Airport security workforce federalization",
+            "children": [],
+            "summary": "Following the 9/11 attacks, the U.S. federalized airport security to prevent future terrorism. The TSA, under the Aviation and Transportation Security Act, replaced private screeners with federal employees. This shift to federal oversight meant standardized training, procedures, and accountability. The move was part of a broader strategy to enhance national security and reassure travelers. Federalization was a critical change from the pre-9/11 era when airport security was managed by airlines or private companies, often with varying standards and effectiveness.",
+            "dates": [
+              "2001-11-19",
+              "2001-11-19"
+            ],
+            "people": [
+              "George W. Bush",
+              "Norman Mineta",
+              "John Mica",
+              "Tom Ridge"
+            ],
+            "places": [
+              "United States",
+              "Washington D.C."
+            ],
+            "events": [
+              "September 11 Attacks",
+              "War in Afghanistan",
+              "Anthrax Attacks",
+              "Enron Scandal"
+            ],
+            "themes": [
+              "National Security",
+              "Terrorism",
+              "Federal Oversight",
+              "Aviation Safety",
+              "Public Confidence"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "In response to the September 11 attacks, the United States government created the Transportation Security Administration (TSA) to strengthen the security of the nation's transportation systems. Established by the Aviation and Transportation Security Act, signed into law on November 19, 2001, the TSA implemented stringent security protocols at airports, including enhanced passenger screening, baggage checks, and the federalization of passenger screeners. The agency's formation marked a significant overhaul of aviation security, aiming to prevent similar terrorist attacks and restore public confidence in air travel.",
+        "dates": [
+          "2001-11-19",
+          "2001-11-19"
+        ],
+        "people": [
+          "John S. Pistole (TSA Administrator)",
+          "Norman Mineta (Secretary of Transportation)",
+          "Tom Ridge (Homeland Security Advisor)"
+        ],
+        "places": [
+          "United States airports",
+          "Transportation Security Administration headquarters"
+        ],
+        "events": [
+          "USA PATRIOT Act (2001)",
+          "Invasion of Afghanistan (2001)",
+          "Anthrax attacks (2001)",
+          "Establishment of the Department of Homeland Security (2002)",
+          "Bali bombings (2002)",
+          "Madrid train bombings (2004)",
+          "London bombings (2005)",
+          "Passage of the Intelligence Reform and Terrorism Prevention Act (2004)"
+        ],
+        "themes": [
+          "Aviation security",
+          "Counterterrorism",
+          "Federal agency establishment",
+          "Civil liberties and privacy",
+          "Transportation safety"
+        ],
+        "tier": 1
+      }
+    ],
+    "dates": [
+      "2001-09-11",
+      "2001-09-11"
+    ],
+    "people": [
+      "Osama bin Laden",
+      "George W. Bush",
+      "Mohamed Atta",
+      "Dick Cheney",
+      "Donald Rumsfeld"
+    ],
+    "places": [
+      "World Trade Center",
+      "Pentagon",
+      "Shanksville, Pennsylvania",
+      "New York City",
+      "Arlington, Virginia"
+    ],
+    "events": [
+      {
+        "name": "Anthrax Attacks",
+        "date": "2001-10"
+      },
+      {
+        "name": "Invasion of Afghanistan",
+        "date": "2001-10-07"
+      },
+      {
+        "name": "Bali Bombings",
+        "date": "2002-10-12"
+      },
+      {
+        "name": "Moscow Theater Hostage Crisis",
+        "date": "2002-10-23"
+      },
+      {
+        "name": "Madrid Train Bombings",
+        "date": "2004-03-11"
+      },
+      {
+        "name": "London Bombings",
+        "date": "2005-07-07"
+      },
+      {
+        "name": "Hurricane Katrina",
+        "date": "2005-08-29"
+      },
+      {
+        "name": "Indian Ocean Earthquake and Tsunami",
+        "date": "2004-12-26"
+      },
+      {
+        "name": "Facebook Launched",
+        "date": "2004-02-04"
+      },
+      {
+        "name": "Human Genome Project Completion",
+        "date": "2003-04-14"
+      }
+    ],
+    "themes": [
+      "Terrorism",
+      "National Security",
+      "International Relations",
+      "Civil Liberties",
+      "War on Terror",
+      "Air Travel Security",
+      "Emergency Response",
+      "Islam-West Relations",
+      "Media Coverage",
+      "21st Century Warfare"
+    ],
+    "tier": 0
+  }
+]

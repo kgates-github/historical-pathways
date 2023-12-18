@@ -1,0 +1,9 @@
+{
+	"max_len": 1800,
+	"size": "ada",
+	"model": "gpt-4-1106-preview",
+	"temperature": 0.0,
+	"seed": 383847,
+	"stop_sequence": "None",
+	"default_system_prompt_path": "prompts/recursing/effects-only.txt"
+}

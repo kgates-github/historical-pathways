@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Tree Chart Example</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    /* CSS */
+    .link {
+      fill: none;
+      stroke: #777; /* Edge color */
+      stroke-width: 1; /* Edge thickness */
+    }
+
+    .node {
+      fill: #fff; /* Node background color */
+    }
+
+    .text {
+      font: 12px sans-serif; 
+      cursor:  pointer;
+      fill: #fff;
+      font-weight: bold
+    }
+
+    html, body {
+      font: 12px sans-serif; 
+      height: 100%;
+      margin: 0;
+      padding: 40px;
+      background: #111;
+    }
+  </style>
+</head>
+<body>
+  <svg id="chart" width="100%" height="100%"></svg>
+
+  <script>
+    // Sample data
+    const _data =  {'name': 'The Whiskey Rebellion', 'children': [{'name': 'Consolidation of Federal Authority', 'score': 10, 'children': [{'name': 'Strengthened Federal Legitimacy', 'score': 9, 'children': [{'name': 'Consolidation of Federal Power', 'score': 10, 'children': [{'name': 'Expansion of Federal Fiscal Power', 'score': 8, 'children': [{'name': 'Implementation of the Income Tax', 'score': 8}, {'name': 'Federal Reserve System Establishment', 'score': 7}, {'name': 'New Deal Economic Policies', 'score': 6}, {'name': 'Growth of the National Debt', 'score': 5}, {'name': 'Healthcare and Social Security Legislation', 'score': 4}]}, {'name': 'Creation of Partisan Political Factions', 'score': 7}, {'name': 'Precedent for Peaceful Transition of Presidential Power', 'score': 6}, {'name': 'Judicial Review and Federal Supremacy', 'score': 7}, {'name': 'Civil War Federal Mobilization Precedent', 'score': 5}]}, {'name': 'Fostering of National Unity', 'score': 8}, {'name': 'Precedent for Future Rebellions', 'score': 9}, {'name': 'Modification of Tax Policies', 'score': 7}, {'name': 'Expansion of Executive Power', 'score': 8}]}, {'name': 'Fostering of Federalist Policies', 'score': 7}, {'name': 'Alien and Sedition Acts', 'score': 6}, {'name': "Hamilton's Economic Policies Affirmed", 'score': 8}, {'name': 'Precedent for Civil Disobedience', 'score': 5}]}, {'name': 'Political Polarization', 'score': 7}, {'name': 'Strengthening of Executive Power', 'score': 8}, {'name': 'Escalation of Western Discontent', 'score': 6}, {'name': 'Influence on Future Tax Protests', 'score': 5}]}
+
+    const _data2 = {'name': 'The Whiskey Rebellion', 'children': [{'name': 'Strengthening of Federal Authority', 'score': 10}, {'name': 'Enhanced Government Credit', 'score': 9}, {'name': 'Political Division and the Rise of Parties', 'score': 8}, {'name': 'Increased Western Settlement', 'score': 6, 'children': [{'name': 'Establishment of New States', 'score': 8, 'sub-effects': []}, {'name': 'Native American Displacement', 'score': 7, 'sub-effects': []}, {'name': 'Strengthening of Federal Authority', 'score': 9, 'sub-effects': [], 'children': [{'name': 'Solidification of Federal Power', 'score': 10}, {'name': 'Encouragement of Compliance', 'score': 8}, {'name': "Washington's Proclamation of Neutrality Enforced", 'score': 7}, {'name': 'Political Polarization', 'score': 6, 'children': [{'name': 'Texas Revolution', 'score': 6}, {'name': 'Mexican-American War', 'score': 7}, {'name': 'California Gold Rush', 'score': 4}, {'name': 'Formation of the Republican Party', 'score': 5, 'children': [{'name': 'Election of Abraham Lincoln', 'score': 10}, {'name': 'Secession of Southern States', 'score': 9}, {'name': 'Start of the American Civil War', 'score': 10}, {'name': 'Passage of the Homestead Act', 'score': 6}, {'name': 'Reconstruction Era Policies', 'score': 7}], 'visited': 'true'}, {'name': 'American Civil War', 'score': 8}], 'visited': 'true'}, {'name': 'Expansion of Western Territories', 'score': 5}], 'visited': 'true'}, {'name': 'Innovation in Agriculture and Transport', 'score': 6, 'sub-effects': []}, {'name': 'Rise in Speculative Land Bubbles', 'score': 5, 'sub-effects': []}], 'visited': 'true'}, {'name': 'Precedent for Taxation and Rebellion', 'score': 7}], 'visited': 'true'}
+
+    const data3 = {'name': 'The Penny Press', 'children': [{'name': 'Growth of American Journalism', 'score': 9}, {'name': 'Rise of the Middle Class', 'score': 7}, {'name': 'Increased Political Participation', 'score': 8}, {'name': 'Sensationalist and Yellow Journalism', 'score': 6, 'children': [{'name': 'Spanish-American War', 'score': 8}, {'name': 'Press Regulation and Ethics', 'score': 6}, {'name': 'Tabloid Journalism Popularity', 'score': 5, 'children': [{'name': 'Invention of the Headline', 'score': 8, 'introduction': 'The competition for readers in the Penny Press era led to the invention of the headline. A tool to instantly grab attention, it became a defining feature of newspapers, especially tabloids.'}, {'name': 'Public Opinion Influence', 'score': 9, 'introduction': "Tabloid journalism's sensationalist tactics heavily influenced public opinion, often swaying the masses on political issues and court cases, reflecting the powerful impact of the press."}, {'name': 'Media Ethics Reformation', 'score': 7, 'introduction': 'The excesses of tabloid journalism prompted calls for reform, leading to the establishment of codes of ethics in journalism and the rise of professional journalism schools.'}, {'name': 'Decline of Partisan Press', 'score': 6, 'introduction': 'As sensationalist and tabloid journalism rose, the partisan press, which explicitly supported political parties, saw a decline in influence, marking a shift in news media dynamics.'}, {'name': 'Rise of Celebrity Culture', 'score': 7, 'introduction': "Tabloid journalism's obsession with celebrity scandals and lifestyles contributed significantly to the rise of celebrity culture and public fascination with the private lives of the famous.", 'children': [{'name': 'Celebrity Endorsements and Advertising', 'score': 8}, {'name': 'Creation of Public Relations Industry', 'score': 7}, {'name': 'Influence on Political Campaigns', 'score': 6}, {'name': 'Evolution of Privacy Laws', 'score': 5}, {'name': 'Shift in Journalism Standards', 'score': 7}], 'visited': 'true'}], 'visited': 'true'}, {'name': 'Decline of Partisan Press', 'score': 4}, {'name': 'Rise of Investigative Journalism', 'score': 7}], 'visited': 'true'}, {'name': 'Foundation of Modern News Industry', 'score': 10}], 'visited': 'true'}
+
+    const data = {'name': 'The Penny Press', 'children': [{'name': 'Emergence of the Associated Press', 'score': 8}, {'name': 'Acceleration of the Abolitionist Movement', 'score': 6}, {'name': 'Influence on Public Opinion During the Civil War', 'score': 7, 'children': [{'name': 'Reconstruction Era Policies', 'score': 8, 'children': [{'name': '14th Amendment', 'score': 10}, {'name': '15th Amendment', 'score': 10}, {'name': 'Rise of Jim Crow Laws', 'score': 8, 'children': [{'name': 'Civil Rights Movement', 'score': 10}, {'name': 'Brown v. Board of Education', 'score': 9}, {'name': 'Voting Rights Act of 1965', 'score': 9}, {'name': 'Racial Segregation in Northern Cities', 'score': 7}, {'name': 'Black Power Movement', 'score': 8}], 'visited': 'true'}, {'name': 'Plessy v. Ferguson', 'score': 7}, {'name': 'Birth of the Civil Rights Movement', 'score': 6}], 'visited': 'true'}, {'name': 'Formation of the Ku Klux Klan', 'score': 4}, {'name': 'Passage of the 14th and 15th Amendments', 'score': 7}, {'name': 'Development of Yellow Journalism', 'score': 6}, {'name': 'Growth of American Nationalism', 'score': 5}], 'visited': 'true'}, {'name': 'Foundations of Yellow Journalism', 'score': 5}, {'name': 'Growth of the Middle Class', 'score': 4}], 'visited': 'true'}
+
+    
+    
+    // Set up the tree layout
+    const treeLayout = d3.tree().size([500, 1200]);
+
+    // Create a hierarchy from the data
+    const root = d3.hierarchy(data);
+
+    // Compute the tree layout
+    treeLayout(root);
+
+    // Create an SVG container
+    const svg = d3.select("#chart");
+
+    // Create links between nodes
+    svg.selectAll("path")
+      .data(root.links())
+      .enter()
+      .append("path")
+      .attr('class', 'link')
+      .attr("opacity", d => d.target.data.visited == "true" ? 1 : 0.2)
+      .attr("d", d3.linkHorizontal()
+        .x(d => d.y)
+        .y(d => d.x));
+
+    // Create nodes
+    svg.selectAll("circle")
+      .data(root.descendants())
+      .enter()
+      .append("circle")
+      .attr('class', 'node')
+      .attr("cx", d => d.y)
+      .attr("cy", d => d.x)
+      .attr("opacity", d => d.data.visited == "true" ? 1 : 0.2)
+      .attr("r", 3);
+
+    // Create labels for nodes
+    svg.selectAll("text")
+      .data(root.descendants())
+      .enter()
+      .append("text")
+      .attr('class', 'text')
+      .attr("x", d => d.y + 10)
+      .attr("y", d => d.x + 4)
+      .attr("opacity", d => d.data.visited == "true" ? 1 : 0.2)
+      .text(d => d.data.name);
+  </script>
+</body>
+</html>

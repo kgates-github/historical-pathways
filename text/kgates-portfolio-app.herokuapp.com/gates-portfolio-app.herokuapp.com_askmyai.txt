@@ -1,0 +1,245 @@
+
+Kevin Gates -  Ask My AI 
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Delete chat?
+
+
+					check_circle
+				
+
+					check
+				
+
+
+
+close
+
+
+
+
+
+
+
+
+Settings
+
+close
+
+
+
+
+Mode
+
+
+
+
+
+
+							check
+					
+
+
+
+					Normal
+				
+
+
+
+
+
+							check
+					
+
+
+
+					Beatnik
+				
+
+
+
+
+
+							check
+					
+
+
+
+					Shakespeare
+				
+
+
+
+
+
+							check
+					
+
+
+
+					Yoda
+				
+
+
+
+
+
+							check
+					
+
+
+
+					Captain Kirk
+				
+
+
+
+
+
+
+
+
+Info
+
+close
+
+
+
+			Ask My AI was inspired by a tutorial on training OpenAI to answer questions using specific website content.
+		
+
+			You can read more about creating Ask My AI in this post on UX Collective.
+		
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+
+	      I tokenized my portfolio content and trained OpenAI's API to tell you about my design experience. It's definitely not perfect—you can read about my thoughts on designing for AI / LLMs in UX Collective. Anyways...
+	    
+
+
+
+
+
+
+
+
+
+
+				      What would you like to know about how I practice design?  
+				    
+
+				    	 Examples:  "Tell me about your design experience."; "How do you know if a product is successful?"; "How do you collaborate with engineers?".
+				    
+
+
+
+
+
+
+
+delete
+
+
+settings
+
+
+info
+
+
+
+
+
+
+
+
+shuffle
+
+
+
+
+
+
+
+
+send
+
+
+
+
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

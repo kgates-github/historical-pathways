@@ -1,0 +1,689 @@
+
+Kevin Gates -  Knative UI
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+TL;DR: KNative, a popular open-source tool, automatically frees up unused memory in the cloud, creating big cost savings for IT departments. We created a UX for it that lowers barriers to adoption, enabling those savings to scale. Our collaborative approach to design produced market-differentiating features.
+        
+
+
+
+
+
+	      Humanizing Open Source
+	    
+
+	      Starting From the Ground Up
+	    
+
+	      When a product manager and I kicked off this project, our initial idea was to perform a heuristic evaluation of KNative’s open-source GUI, make a few recommendations, and that would be the end of it.
+	      
+	        Instead, what we found was a UI that had been given little attention. We couldn’t fix it half way—it needed a redesign from the ground up.
+	      
+
+
+
+
+
+The Problem
+
+	      Data Model as the UI
+	    
+
+	      Overall, the open-source UI looked like a reflection of a data model, and did not have well-thought-out flows, hierarchy, or layout. Below are a few examples of problems we found:
+	    
+
+
+
+
+
+
+
+Data Tables
+
+	          The main interface consisted of four tables which seemed like tables you might find in a database (configurations, status messages, routes, revisions).
+	        
+
+
+
+
+
+Disjointed Layout
+
+	          Information was not laid out logically. For example, system status information relevant to the table in the lower left appeared on the upper right.
+	        
+
+
+
+
+
+Poor UX Flow
+
+	          The only actions available were a bit of clickable text on the upper left that said "configuration", which led to an editable config file, and a delete button on the upper right.
+	        
+
+
+
+
+
+
+
+
+Role and Team
+My Role
+
+	      Over a period of six weeks, I drove the overall approach to design as the design lead. I worked closely with a PM in planning workshops, conducting user interviews, and rapid prototyping.
+	    
+SKILLS
+
+	      Design strategy, competitive analysis, collaborative ideation, rapid prototyping, usability testing
+	    
+COLLABORATORS
+
+	      On a daily basis, I worked with a product manager and engineering lead. Two visual designers rotated onto the project towards the end.
+	    
+
+
+
+
+
+
+
+Strategy
+
+	        Assessing Risk in the World of Open Source
+	      
+
+
+	          We were building on open-source technology that had already survived contact with reality. That meant the functionality had already been proven useful, but we still needed to figure out what value-add we could bring.
+	        
+
+...see moreexpand_more
+
+
+
+
+	          Demand
+	        
+
+	          Demand for serverless technology is well-established and growing. According to the 2020 Cloud Native Computing Foundation (CNCF) survey:
+	        
+
+30% of organizations polled have production apps running on serverless and another 35% are considering it. The CNCF "fully expect growth to continue".
+82% of organizations who are using serverless are using hosted solutions.
+
+
+
+
+
+
+
+	            Is your organization using serverless?
+	          
+
+
+
+
+
+
+	            How is your organization using serverless technology?
+	          
+
+
+
+
+
+
+
+
+
+	          VALUE
+	        
+
+	          KNative has been validated in the marketplace and demonstrably solves well-known IT problems:
+	        
+
+Resource efficiency: Serverless automatically frees up unused memory and CPU allocations in the cloud (“scales to zero”).
+Emergency recovery: Serverless automatically creates application backups.
+Traffic splitting: Serverless makes it easy to split traffic between versions for A/B testing and gradual rollouts.
+
+
+
+
+
+
+
+
+
+
+Design Strategy
+Targeting Users By Skill Level
+
+
+	          Near the start of the design process, I like the team to imagine it's two years after launch and the product is very successful. I then ask, "Who is the average user? What are they like?"
+	        
+
+...see moreexpand_more
+
+
+
+	        From previous research, we knew a few things relevant to our project:
+	      
+
+Most large-scale enterprises, 97 to 99% of developers are early-career and don’t have skills in managing and configuring cloud-based infrastructure.
+Many developers at large organizations are contractors (up to 50%) who often don't have direct access to the cloud platform and rely on GUIs.
+Some customers have elite engineering teams who use commandline tools and automate processes.
+
+
+	        Our design strategy took this into account: We assumed most developers will be early-career and new to serverless, but will gain skill over time.
+	      
+
+
+
+
+
+
+
+
+	        This matrix shows how we targeted users by skill level, and who by definition should be the largest user cohort.
+	      
+
+
+
+
+
+
+
+
+Story Mapping
+Laying Out a Goal-Directed Narrative
+
+
+	          The PM had created story maps by analyzing the open-source functionality, which did a good job at outlining features and aligning them with outcomes.
+	        
+
+...see moreexpand_more
+
+
+
+	        The problem is they didn't capture the narrative of the experience. User experiences are a series of activities that take place in the physical world in service of people achieving goals, which are often interconnected in logical ways.
+	      
+
+	        Story Map Workshop
+	      
+
+	        I facilitated a workshop in which we deconstructed the story maps and created a narrative in the form of what I call a proto-journey map.
+	      
+
+
+
+
+
+
+	        Our proto-journey map layed out a flow centered on user goals.
+	      
+
+
+
+	        First and foremost, we wanted to have a foundation for ideation sessions in which we rethink the journey. In addition, we wanted to:
+	      
+
+Create a narrative which allow us to see the big picture and how tasks are connected and in service of the user reaching goals.
+Have a way to fold in and organize other materials such as research findings and competitive analysis.
+
+
+
+
+
+
+
+	        Anatomy of an experience map. Stories were deconstructed and arranged a linear narrative with tasks, goals and milestones.
+	      
+
+
+
+
+
+
+
+
+Competitive Analysis
+Understanding the Competition
+
+
+	          We took screenshots of our competitor's UIs and pasted them along our journey map, aligning them to user tasks. Our goal was to make sure we had parity with Google, IBM and the OS version, and to find inspiration in things they do well.
+	        
+
+...see moreexpand_more
+
+
+
+
+
+
+
+
+	        Screenshots of our competitor's UIs were aligned with user goals (left). Miro's zoom feature allowed us to zoom into screenshots and see details.
+	      
+
+
+
+
+COMPETITOR STRENGTHS
+
+
+We liked Google’s stepper approach to creating and updating serverless apps and contextual help.
+RedHat had advanced features we liked, such as allowing more experienced users to paste configurations into the UI rather than fill out a form.
+
+
+
+
+COMPETITOR WEAKNESSES
+
+
+Most UIs reflected data structures, not user mental models. Elements in UI not logically grouped together.
+Poor / confusing wayfinding.
+System status messages incoherent.
+Lack of guided step-by-step flows or beginners (“Paste YAML here”).
+
+
+
+
+
+
+
+
+
+
+
+
+Ideation
+Sketching a Differentiating UX
+
+
+	          Now that we understood something about our competitors and we had a model of the user journey, we set up an ideation workshop (a.k.a., design studio) in which everyone (engineers, field engineers, design and PM) would sketch concepts. The goal was to get diverse perspectives to seed our creative process.
+	        
+
+...see moreexpand_more
+
+
+
+
+
+	        Market Differentiators
+	      
+
+	        We dot-voted sketches and discussed what we liked. A few solved key user problems in creative ways, and had the potential to differentiate us from competitors.
+	      
+
+
+
+
+
+
+
+
+Intuitive Layout
+
+	          Several people came up with similar designs that merged information from multiple sources into intuitive tables. Many had a visual representation of status.
+	        
+
+
+
+
+
+Perfomance Analysis
+
+	          Serverless technology will automatically free up system resources when an app has no traffic. When traffic returns, starting up cold can be slow. Exercising the scaling functionality, then showing how long cold starts take would enable developers to optimize for more responsiveness.
+	        
+
+
+
+
+
+Change Log
+
+	          Changes to apps (revisions) are described in YAML. This feature would create a diff between revisions, allowing developers to see exactly what changed. This could be an interesting place to start debugging.
+	        
+
+
+
+
+
+
+
+
+
+Rapid Prototyping
+Iterative Testing and Evaluation
+
+
+	          UX design for cloud computing requires navigating a lot of complexity. I've found an iterative approach with constant feedback is the best way to work through it.
+	        
+
+...see moreexpand_more
+
+
+
+
+	          Setting Up User Feedback
+	        
+ 
+	          We set feedback from many types of users: experts, novices, field engineers, internal engineers. For each of these, we had two types of learning goals:
+	        
+
+Evaluative (a.k.a., usability): Can the user complete given tasks? What about developers with no experience with serverless, can they understand everything?
+Generative: When do developers use GUIs versus command lines? Why do they use them? What would they change in our UI, if anything?
+
+
+	          Prototyping and Testing
+	        
+ 
+	          With the PM and I largely aligned on our approach, I created our first prototype based on our key user scenarios.
+	        
+
+
+
+
+
+
+
+
+	      Our usability tests had three primary user scenarios: Create, update and route traffic. We synthesized results directly on the wire frames to maintain context.
+	    
+
+
+
+
+	        Key Findings
+	      
+
+Big frustrations were hidden in the details: Our first versions did not have default settings for memory allocations. The problem is that when the user is filling this field out, their app is likely in its early stages, and they would have no idea how much memory they would need at launch. This was a required field, so when you put everything together, we were forcing the user to answer a question they could not answer.
+Novice users were confused: A big part of the confusion was caused by a few terms associated with serverless technology that were overloaded (in particular, "service" and "traffic"). One tester thought he was configuring a database for the first 10 minutes of the interview.
+GUIs can provide value for all users: GUIs can provide value for all users: GUIs can provide value for new users, early-career developers, seasoned veterans, and even expert users. This reinforced our initial assumptions.
+
+
+
+
+
+
+
+
+
+
+Wireframing
+Aligning Competing Forces
+
+
+	          After several iterations and feedback sessions, our wireframes started to feel more and more solid. There were several forces aligning in our designs:
+	        
+
+...see moreexpand_more
+
+
+
+
+
+
+Business strategy: Lower barriers to adoption
+
+
+
+Design strategy: Target users by skill level
+
+
+
+Harmony: Stay true to KNative conventions
+
+
+
+User experience: Use well-known UX patterns
+
+
+
+	          Sometimes these forces were complementary; sometimes they were competing. Below are examples of how they manifest themselves after many iterations and feedback sessions:
+	        
+
+
+
+
+
+
+
+
+
+
+	          Contextual help supported all of our objectives.
+	        
+
+
+
+
+
+
+	          Keeping open-sources terminology is important, especially when users go between the UI and command line.
+	        
+
+
+
+
+
+
+
+
+
+
+	          We merged version information into a single table and included visual icons to represent status.
+	        
+
+
+
+
+
+
+	          Our UI shows diffs between versions. The UI uses source control conventions well-known to developers.
+	        
+
+
+
+
+
+
+
+
+
+Alpha Release
+A UX to Lower Barriers to Adoption and Enable Scale
+
+	        Key Value Props
+	      
+
+Users don't have to think about infrastructure: We aimed to allow users with no knowledge of Kubernetes or KNative to easily access their benefits.
+Features for all skill levels: We designed for early-career developers, but also included features that allow for more efficient workflows for our advanced users.
+Cost savings at scale:  KNative manages memory allocation automatically which results in big cost savings. Making KNative easily accessible to developers allows those savings to scale.
+
+
+
+
+
+
+
+
+
+
+	          Early design for our alpha release
+	        
+
+
+
+
+
+
+	          Early design for our alpha release
+	        
+
+
+
+
+
+
+
+
+
+Conclusion
+
+	        Impact
+	      
+
+	        Initial Feedback From the Field
+	      
+
+	        As of this writing, the project was going into an internal alpha release. Initial feedback from our field team was very positive. “When a developer doesn’t know much about a new technology, just clicking a box is powerful.” was a response from a field engineer in EMEA.
+	      
+
+	        Differentiating Features
+	      
+
+	        Our design studio produced two features that our competitors do not have: change logs and scaling analysis. These features address the top two pain points for serverless technology: debugging and cold starts (according to the Serverless Community Survey).
+	      
+
+	        Impact on the Design Practice
+	      
+
+	        Our "target skill level" matrix went over well with other design teams, and was adopted for other projects.
+	      
+
+	        Learnings
+	      
+
+Opinionated APIs can be challenging: We designed a UI on top of two very opinionated APIs (KNative and Kubernetes) and those opinions were often at odds with good UX principles.
+Putting competitive analysis in the journey map worked: We found ourselves referring back to the analysis often, and I got feedback that others were doing the same.
+
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+

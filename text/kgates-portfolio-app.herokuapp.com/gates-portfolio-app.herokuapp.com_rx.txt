@@ -1,0 +1,179 @@
+
+Kevin Gates -  Rx Flow
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kevin Gates
+
+
+
+Case Studies
+
+          Projects / Writing
+        
+
+          Ask My AI
+        
+
+
+
+
+
+
+
+
+
+        Traversing Patient Journeys
+      
+
+I created this prototype over the course of a few days when I was a data vizualization engineer at Practice Fusion. The head of the medical informatics ask me to experiment with how pharma analysts might explore patient journeys for a diabetes drug called Invokana. 
+        
+
+        The goal was to have a way for users to see a logitudinal view of what drug regimines Invokana patients have been prescribed, and where else in the jouney the drug might be benficial to them. 
+        
+
+Starting with the big picture
+
+        The initial state enables users to explore patient journeys starting with all patients prescribed Invokana. They then work backwards, opening branches. Each branch leads to more patients, which are grouped by drug regimines.
+      
+
+
+
+Pharma analysts can explore patient cohort journeys of drug prescriptions.
+Selecting patient groups
+
+        Once the user finds a group of patient cohorts they are interested in, they can select them and see a detailed dashboard.
+      
+
+        At the time I created this, I had read a paper by Jeffrey Heer and George Robertson, Animated Transitions in Statistical Data Graphics, and was inspired their findings around object tracking. In my implementation, users find the patient groups they want to inspect, select them, and the colored circles representing patient groups move to a new context.
+      
+
+
+
+Selecting a group of patient groups transitions to a detailed dashboard
+Exploring Cohort Details
+
+        The top columns are key patient attributes, the rows are patient cohorts grouped by drug regimine. Columns can be sorted. This is key: One of the rows is called "All Diabetics", a benchmark against which the others can be compared. Invokana patients should be younger and sicker than average, which shows up in the data.
+      
+
+
+
+
+        Thoughts on the Prototype
+      
+
+        If I were to explore this concept further, I thought it might be interesting to allow users to choose a starting point and an end point. In other words, users could start with a diagnosis of high blood pressure and end with Invokana. The UI might somehow show all paths between these points and give user to ability to filter and explore until they want a detailed dashboard.  
+      
+
+        Anyway, go ahead and try the prototype yourself!
+      
+
+
+
+
+menu
+
+
+
+
+chevron_left
+
+Case Studies
+
+HealthWatch
+
+Role and Team
+Roadmapping
+Research
+Strategy
+Collaboration
+Rapid prototyping
+Logic design
+Dog fooding
+Conclusion
+
+Knative
+
+Role and Team
+Strategy
+Design Strategy
+Story Mapping
+Competitive Analysis
+Ideation
+Rapid Prototyping
+Wireframing
+Alpha Release
+Conclusion
+
+Dev Console
+
+Role and Team
+Roadmapping
+Research
+Personas
+Workshop Prep
+Problem Prioritization
+Causal Mapping
+Solutioning
+Product Vision
+Storyboard
+Conclusion
+
+Obama
+
+How it works
+Role and Team
+Concepting
+Wireframing
+People
+Pivot
+Development
+Conclusion
+
+
+
+
+
+
+
+            © Copyright 2023 by Kevin Gates.
+          
+
+kgates@gmail.com
+LinkedIn
+
+
+
+
+
