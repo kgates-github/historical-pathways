@@ -1,5 +1,6 @@
 import os
 import json
+import uuid
 import pprint
 
 def text_file_to_json(directory_path):
@@ -46,6 +47,61 @@ def load_json(self, path):
     parsed_json = json.loads(loaded_file)
 
   return parsed_json
+
+
+# Takes dict or list and creates a JSON file
+def collection_to_json_file(data, directory, file_name):
+  # Create the directory if it doesn't exist
+  if not os.path.exists(directory):
+    os.makedirs(directory)
+
+  # Specify the file path for the JSON file
+  file_path = os.path.join(directory, file_name)
+
+  # Write JSON data to the file
+  with open(file_path, 'w') as json_file:
+    json.dump(data, json_file, indent=2)
+
+  print(f"JSON data has been written to {file_path}")
+
+
+def create_js_from_json(directory, output_directory, js_file):
+  json_data_list = [] # Store data from JSON
+
+  # Iterate over each file in the directory
+  for filename in os.listdir(directory):
+    if filename.endswith(".json"):
+        # Construct the full file path
+        file_path = os.path.join(directory, filename)
+
+        # Read JSON data from the file
+        with open(file_path, 'r') as json_file:
+            try:
+                # Load JSON data and append it to the list
+                json_data = json.load(json_file)
+                json_data_list.append(json_data)
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON in {filename}: {e}")
+  
+
+  if not os.path.exists(output_directory):
+    os.makedirs(output_directory)
+
+  # Specify the file path for the JSON file
+  file_path = os.path.join(output_directory, js_file)
+
+  js = f"var data = {json_data_list};"
+
+  # Write JSON data to the file
+  with open(file_path, 'w') as js_file:
+    js_file.write(js)
+    print(f"js written to json_file {file_path}")
+  
+  
+  #collection_to_json_file(json_data_list, output_directory, js_file)
+
+
+
 
 
 def test():

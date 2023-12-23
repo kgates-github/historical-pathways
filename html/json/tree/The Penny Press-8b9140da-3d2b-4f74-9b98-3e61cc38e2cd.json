@@ -1,0 +1,1583 @@
+{
+  "name": "The Penny Press",
+  "children": [
+    {
+      "name": "Increase in Literacy Rates",
+      "score": 7
+    },
+    {
+      "name": "Expansion of Newspaper Industry",
+      "score": 8
+    },
+    {
+      "name": "Rise of Sensationalist Reporting",
+      "score": 6
+    },
+    {
+      "name": "Influence on Public Opinion and Politics",
+      "score": 7
+    },
+    {
+      "name": "Emergence of the Associated Press",
+      "score": 9,
+      "children": [
+        {
+          "name": "Standardization of News",
+          "score": 9,
+          "children": [
+            {
+              "name": "Founding of The Associated Press",
+              "score": 10,
+              "children": [
+                {
+                  "name": "Expansion of Telegraph Usage",
+                  "score": 9
+                },
+                {
+                  "name": "Innovation in News Distribution",
+                  "score": 8
+                },
+                {
+                  "name": "Increased Newspaper Circulation",
+                  "score": 7
+                },
+                {
+                  "name": "Standardization of Journalistic Practices",
+                  "score": 8
+                },
+                {
+                  "name": "Collaboration Among Newspapers",
+                  "score": 7
+                },
+                {
+                  "name": "Acceleration of News Cycle",
+                  "score": 7
+                },
+                {
+                  "name": "Growth of National News Coverage",
+                  "score": 7
+                },
+                {
+                  "name": "Emergence of War Correspondents",
+                  "score": 6
+                },
+                {
+                  "name": "Rise of Objectivity in News",
+                  "score": 5
+                },
+                {
+                  "name": "Economic Efficiency in News Gathering",
+                  "score": 7
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                "name": "Founding of The Associated Press",
+                "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                "dates": [
+                  "1846",
+                  "1846"
+                ],
+                "effects": [
+                  {
+                    "name": "Expansion of Telegraph Usage",
+                    "score": 9
+                  },
+                  {
+                    "name": "Innovation in News Distribution",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Newspaper Circulation",
+                    "score": 7
+                  },
+                  {
+                    "name": "Standardization of Journalistic Practices",
+                    "score": 8
+                  },
+                  {
+                    "name": "Collaboration Among Newspapers",
+                    "score": 7
+                  },
+                  {
+                    "name": "Acceleration of News Cycle",
+                    "score": 7
+                  },
+                  {
+                    "name": "Growth of National News Coverage",
+                    "score": 7
+                  },
+                  {
+                    "name": "Emergence of War Correspondents",
+                    "score": 6
+                  },
+                  {
+                    "name": "Rise of Objectivity in News",
+                    "score": 5
+                  },
+                  {
+                    "name": "Economic Efficiency in News Gathering",
+                    "score": 7
+                  }
+                ],
+                "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                "people": [
+                  "Samuel Morse",
+                  "Alexander Jones",
+                  "Havas of France, the first news agency",
+                  "Wolff of Germany, another early news agency"
+                ],
+                "places": [
+                  "New York City",
+                  "United States",
+                  "Europe"
+                ],
+                "themes": [
+                  "Journalism",
+                  "Cooperative Enterprise",
+                  "Technology in News",
+                  "Mass Media"
+                ]
+              }
+            },
+            {
+              "name": "Rise of the telegraph in news reporting",
+              "score": 9
+            },
+            {
+              "name": "Introduction of the inverted pyramid writing style",
+              "score": 8
+            },
+            {
+              "name": "Expansion of national news networks",
+              "score": 7
+            },
+            {
+              "name": "Increase in daily newspaper circulation",
+              "score": 7
+            },
+            {
+              "name": "Development of objective reporting standards",
+              "score": 8
+            },
+            {
+              "name": "Emergence of professional journalism",
+              "score": 8
+            },
+            {
+              "name": "First use of correspondents in war reporting (Crimean War)",
+              "score": 6
+            }
+          ],
+          "visited": "true",
+          "content": {
+            "introduction": "The Penny Press revolutionized the accessibility and reach of newspapers, serving as the catalyst for the standardization of news. It democratized information, leading to a surge in literacy and public engagement. The emergence of the Associated Press from the Penny Press movement institutionalized newsgathering, forging a path for standardized reporting practices and the rapid dissemination of information.",
+            "name": "Standardization of News",
+            "summary": "The standardization of news, an effect of the Penny Press, redefined journalism by establishing uniform practices for reporting and distribution, influencing today's media landscape.",
+            "dates": [
+              "1846",
+              "1850s"
+            ],
+            "effects": [
+              {
+                "name": "Founding of The Associated Press",
+                "score": 10,
+                "children": [
+                  {
+                    "name": "Expansion of Telegraph Usage",
+                    "score": 9
+                  },
+                  {
+                    "name": "Innovation in News Distribution",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Newspaper Circulation",
+                    "score": 7
+                  },
+                  {
+                    "name": "Standardization of Journalistic Practices",
+                    "score": 8
+                  },
+                  {
+                    "name": "Collaboration Among Newspapers",
+                    "score": 7
+                  },
+                  {
+                    "name": "Acceleration of News Cycle",
+                    "score": 7
+                  },
+                  {
+                    "name": "Growth of National News Coverage",
+                    "score": 7
+                  },
+                  {
+                    "name": "Emergence of War Correspondents",
+                    "score": 6
+                  },
+                  {
+                    "name": "Rise of Objectivity in News",
+                    "score": 5
+                  },
+                  {
+                    "name": "Economic Efficiency in News Gathering",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                  "name": "Founding of The Associated Press",
+                  "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                  "dates": [
+                    "1846",
+                    "1846"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                  "people": [
+                    "Samuel Morse",
+                    "Alexander Jones",
+                    "Havas of France, the first news agency",
+                    "Wolff of Germany, another early news agency"
+                  ],
+                  "places": [
+                    "New York City",
+                    "United States",
+                    "Europe"
+                  ],
+                  "themes": [
+                    "Journalism",
+                    "Cooperative Enterprise",
+                    "Technology in News",
+                    "Mass Media"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of the telegraph in news reporting",
+                "score": 9
+              },
+              {
+                "name": "Introduction of the inverted pyramid writing style",
+                "score": 8
+              },
+              {
+                "name": "Expansion of national news networks",
+                "score": 7
+              },
+              {
+                "name": "Increase in daily newspaper circulation",
+                "score": 7
+              },
+              {
+                "name": "Development of objective reporting standards",
+                "score": 8
+              },
+              {
+                "name": "Emergence of professional journalism",
+                "score": 8
+              },
+              {
+                "name": "First use of correspondents in war reporting (Crimean War)",
+                "score": 6
+              }
+            ],
+            "conclusion": "The standardization of news was a transformative effect of the Penny Press, bringing about a professional and systematic approach to journalism. This new paradigm laid the foundation for the rapid expansion of the news industry and the development of modern reporting techniques still in use today.",
+            "people": [
+              "Samuel Morse",
+              "James Gordon Bennett",
+              "Henry Raymond",
+              "Harbor"
+            ],
+            "places": [
+              "New York City",
+              "Washington D.C.",
+              "London",
+              "Crimean Peninsula"
+            ],
+            "themes": [
+              "Mass Media",
+              "Journalism",
+              "Technology in Communication",
+              "Professionalization"
+            ]
+          }
+        },
+        {
+          "name": "Expansion of News Coverage",
+          "score": 8
+        },
+        {
+          "name": "Rise of Nonpartisan Reporting",
+          "score": 7
+        },
+        {
+          "name": "Increase in Public Trust",
+          "score": 6
+        },
+        {
+          "name": "Proliferation of Telegraph Usage",
+          "score": 7
+        },
+        {
+          "name": "Enhancement of International News",
+          "score": 8
+        },
+        {
+          "name": "Growth of Newspaper Networks",
+          "score": 7
+        },
+        {
+          "name": "Introduction of News Syndication",
+          "score": 6
+        },
+        {
+          "name": "Development of War Correspondents",
+          "score": 5
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "introduction": "The establishment of the Associated Press in 1846 revolutionized news distribution, building on the Penny Press's expansion of readership. Economical and widespread printing led to demand for timely, nonpartisan news, necessitating a cooperative news gathering organization. The Penny Press democratized news, making it affordable, which created a voracious public appetite for up-to-date information and news sharing among newspapers.",
+        "name": "Emergence of the Associated Press",
+        "summary": "The Associated Press was formed to pool resources for news gathering, transforming journalism and the dissemination of information globally.",
+        "dates": [
+          "1846",
+          "1846"
+        ],
+        "effects": [
+          {
+            "name": "Standardization of News",
+            "score": 9,
+            "children": [
+              {
+                "name": "Founding of The Associated Press",
+                "score": 10,
+                "children": [
+                  {
+                    "name": "Expansion of Telegraph Usage",
+                    "score": 9
+                  },
+                  {
+                    "name": "Innovation in News Distribution",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Newspaper Circulation",
+                    "score": 7
+                  },
+                  {
+                    "name": "Standardization of Journalistic Practices",
+                    "score": 8
+                  },
+                  {
+                    "name": "Collaboration Among Newspapers",
+                    "score": 7
+                  },
+                  {
+                    "name": "Acceleration of News Cycle",
+                    "score": 7
+                  },
+                  {
+                    "name": "Growth of National News Coverage",
+                    "score": 7
+                  },
+                  {
+                    "name": "Emergence of War Correspondents",
+                    "score": 6
+                  },
+                  {
+                    "name": "Rise of Objectivity in News",
+                    "score": 5
+                  },
+                  {
+                    "name": "Economic Efficiency in News Gathering",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                  "name": "Founding of The Associated Press",
+                  "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                  "dates": [
+                    "1846",
+                    "1846"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                  "people": [
+                    "Samuel Morse",
+                    "Alexander Jones",
+                    "Havas of France, the first news agency",
+                    "Wolff of Germany, another early news agency"
+                  ],
+                  "places": [
+                    "New York City",
+                    "United States",
+                    "Europe"
+                  ],
+                  "themes": [
+                    "Journalism",
+                    "Cooperative Enterprise",
+                    "Technology in News",
+                    "Mass Media"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of the telegraph in news reporting",
+                "score": 9
+              },
+              {
+                "name": "Introduction of the inverted pyramid writing style",
+                "score": 8
+              },
+              {
+                "name": "Expansion of national news networks",
+                "score": 7
+              },
+              {
+                "name": "Increase in daily newspaper circulation",
+                "score": 7
+              },
+              {
+                "name": "Development of objective reporting standards",
+                "score": 8
+              },
+              {
+                "name": "Emergence of professional journalism",
+                "score": 8
+              },
+              {
+                "name": "First use of correspondents in war reporting (Crimean War)",
+                "score": 6
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Penny Press revolutionized the accessibility and reach of newspapers, serving as the catalyst for the standardization of news. It democratized information, leading to a surge in literacy and public engagement. The emergence of the Associated Press from the Penny Press movement institutionalized newsgathering, forging a path for standardized reporting practices and the rapid dissemination of information.",
+              "name": "Standardization of News",
+              "summary": "The standardization of news, an effect of the Penny Press, redefined journalism by establishing uniform practices for reporting and distribution, influencing today's media landscape.",
+              "dates": [
+                "1846",
+                "1850s"
+              ],
+              "effects": [
+                {
+                  "name": "Founding of The Associated Press",
+                  "score": 10,
+                  "children": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                    "name": "Founding of The Associated Press",
+                    "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                    "dates": [
+                      "1846",
+                      "1846"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Expansion of Telegraph Usage",
+                        "score": 9
+                      },
+                      {
+                        "name": "Innovation in News Distribution",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Newspaper Circulation",
+                        "score": 7
+                      },
+                      {
+                        "name": "Standardization of Journalistic Practices",
+                        "score": 8
+                      },
+                      {
+                        "name": "Collaboration Among Newspapers",
+                        "score": 7
+                      },
+                      {
+                        "name": "Acceleration of News Cycle",
+                        "score": 7
+                      },
+                      {
+                        "name": "Growth of National News Coverage",
+                        "score": 7
+                      },
+                      {
+                        "name": "Emergence of War Correspondents",
+                        "score": 6
+                      },
+                      {
+                        "name": "Rise of Objectivity in News",
+                        "score": 5
+                      },
+                      {
+                        "name": "Economic Efficiency in News Gathering",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                    "people": [
+                      "Samuel Morse",
+                      "Alexander Jones",
+                      "Havas of France, the first news agency",
+                      "Wolff of Germany, another early news agency"
+                    ],
+                    "places": [
+                      "New York City",
+                      "United States",
+                      "Europe"
+                    ],
+                    "themes": [
+                      "Journalism",
+                      "Cooperative Enterprise",
+                      "Technology in News",
+                      "Mass Media"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of the telegraph in news reporting",
+                  "score": 9
+                },
+                {
+                  "name": "Introduction of the inverted pyramid writing style",
+                  "score": 8
+                },
+                {
+                  "name": "Expansion of national news networks",
+                  "score": 7
+                },
+                {
+                  "name": "Increase in daily newspaper circulation",
+                  "score": 7
+                },
+                {
+                  "name": "Development of objective reporting standards",
+                  "score": 8
+                },
+                {
+                  "name": "Emergence of professional journalism",
+                  "score": 8
+                },
+                {
+                  "name": "First use of correspondents in war reporting (Crimean War)",
+                  "score": 6
+                }
+              ],
+              "conclusion": "The standardization of news was a transformative effect of the Penny Press, bringing about a professional and systematic approach to journalism. This new paradigm laid the foundation for the rapid expansion of the news industry and the development of modern reporting techniques still in use today.",
+              "people": [
+                "Samuel Morse",
+                "James Gordon Bennett",
+                "Henry Raymond",
+                "Harbor"
+              ],
+              "places": [
+                "New York City",
+                "Washington D.C.",
+                "London",
+                "Crimean Peninsula"
+              ],
+              "themes": [
+                "Mass Media",
+                "Journalism",
+                "Technology in Communication",
+                "Professionalization"
+              ]
+            }
+          },
+          {
+            "name": "Expansion of News Coverage",
+            "score": 8
+          },
+          {
+            "name": "Rise of Nonpartisan Reporting",
+            "score": 7
+          },
+          {
+            "name": "Increase in Public Trust",
+            "score": 6
+          },
+          {
+            "name": "Proliferation of Telegraph Usage",
+            "score": 7
+          },
+          {
+            "name": "Enhancement of International News",
+            "score": 8
+          },
+          {
+            "name": "Growth of Newspaper Networks",
+            "score": 7
+          },
+          {
+            "name": "Introduction of News Syndication",
+            "score": 6
+          },
+          {
+            "name": "Development of War Correspondents",
+            "score": 5
+          }
+        ],
+        "conclusion": "The Associated Press emerged from the Penny Press movement, instituting a cooperative model for news gathering and distribution that enabled faster, broader, and more efficient reporting. This innovation marked a pivotal shift towards the modern news industry, shaping the way information is shared and consumed.",
+        "people": [
+          "Moses Yale Beach"
+        ],
+        "places": [
+          "New York City",
+          "United States"
+        ],
+        "themes": [
+          "Journalism",
+          "Cooperative Model",
+          "Technological Advancement",
+          "Democratization of Information"
+        ]
+      }
+    },
+    {
+      "name": "Introduction of the Telegraph",
+      "score": 5
+    },
+    {
+      "name": "Creation of Mass Advertising",
+      "score": 6
+    },
+    {
+      "name": "Support for Abolitionist Movement",
+      "score": 4
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "introduction": "The Penny Press revolutionized American journalism in the 1830s by making newspapers affordable for the masses, democratizing access to information. Before its emergence, newspapers were costly and catered to the elite. The advent of steam-powered printing presses and a boom in urban population led to the rise of the Penny Press.",
+    "name": "The Penny Press",
+    "summary": "The Penny Press made news accessible, spawning a new era of journalism focused on wider audiences, changing American society and politics.",
+    "dates": [
+      "1833",
+      "1860s"
+    ],
+    "effects": [
+      {
+        "name": "Increase in Literacy Rates",
+        "score": 7
+      },
+      {
+        "name": "Expansion of Newspaper Industry",
+        "score": 8
+      },
+      {
+        "name": "Rise of Sensationalist Reporting",
+        "score": 6
+      },
+      {
+        "name": "Influence on Public Opinion and Politics",
+        "score": 7
+      },
+      {
+        "name": "Emergence of the Associated Press",
+        "score": 9,
+        "children": [
+          {
+            "name": "Standardization of News",
+            "score": 9,
+            "children": [
+              {
+                "name": "Founding of The Associated Press",
+                "score": 10,
+                "children": [
+                  {
+                    "name": "Expansion of Telegraph Usage",
+                    "score": 9
+                  },
+                  {
+                    "name": "Innovation in News Distribution",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Newspaper Circulation",
+                    "score": 7
+                  },
+                  {
+                    "name": "Standardization of Journalistic Practices",
+                    "score": 8
+                  },
+                  {
+                    "name": "Collaboration Among Newspapers",
+                    "score": 7
+                  },
+                  {
+                    "name": "Acceleration of News Cycle",
+                    "score": 7
+                  },
+                  {
+                    "name": "Growth of National News Coverage",
+                    "score": 7
+                  },
+                  {
+                    "name": "Emergence of War Correspondents",
+                    "score": 6
+                  },
+                  {
+                    "name": "Rise of Objectivity in News",
+                    "score": 5
+                  },
+                  {
+                    "name": "Economic Efficiency in News Gathering",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                  "name": "Founding of The Associated Press",
+                  "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                  "dates": [
+                    "1846",
+                    "1846"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                  "people": [
+                    "Samuel Morse",
+                    "Alexander Jones",
+                    "Havas of France, the first news agency",
+                    "Wolff of Germany, another early news agency"
+                  ],
+                  "places": [
+                    "New York City",
+                    "United States",
+                    "Europe"
+                  ],
+                  "themes": [
+                    "Journalism",
+                    "Cooperative Enterprise",
+                    "Technology in News",
+                    "Mass Media"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of the telegraph in news reporting",
+                "score": 9
+              },
+              {
+                "name": "Introduction of the inverted pyramid writing style",
+                "score": 8
+              },
+              {
+                "name": "Expansion of national news networks",
+                "score": 7
+              },
+              {
+                "name": "Increase in daily newspaper circulation",
+                "score": 7
+              },
+              {
+                "name": "Development of objective reporting standards",
+                "score": 8
+              },
+              {
+                "name": "Emergence of professional journalism",
+                "score": 8
+              },
+              {
+                "name": "First use of correspondents in war reporting (Crimean War)",
+                "score": 6
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Penny Press revolutionized the accessibility and reach of newspapers, serving as the catalyst for the standardization of news. It democratized information, leading to a surge in literacy and public engagement. The emergence of the Associated Press from the Penny Press movement institutionalized newsgathering, forging a path for standardized reporting practices and the rapid dissemination of information.",
+              "name": "Standardization of News",
+              "summary": "The standardization of news, an effect of the Penny Press, redefined journalism by establishing uniform practices for reporting and distribution, influencing today's media landscape.",
+              "dates": [
+                "1846",
+                "1850s"
+              ],
+              "effects": [
+                {
+                  "name": "Founding of The Associated Press",
+                  "score": 10,
+                  "children": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                    "name": "Founding of The Associated Press",
+                    "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                    "dates": [
+                      "1846",
+                      "1846"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Expansion of Telegraph Usage",
+                        "score": 9
+                      },
+                      {
+                        "name": "Innovation in News Distribution",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Newspaper Circulation",
+                        "score": 7
+                      },
+                      {
+                        "name": "Standardization of Journalistic Practices",
+                        "score": 8
+                      },
+                      {
+                        "name": "Collaboration Among Newspapers",
+                        "score": 7
+                      },
+                      {
+                        "name": "Acceleration of News Cycle",
+                        "score": 7
+                      },
+                      {
+                        "name": "Growth of National News Coverage",
+                        "score": 7
+                      },
+                      {
+                        "name": "Emergence of War Correspondents",
+                        "score": 6
+                      },
+                      {
+                        "name": "Rise of Objectivity in News",
+                        "score": 5
+                      },
+                      {
+                        "name": "Economic Efficiency in News Gathering",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                    "people": [
+                      "Samuel Morse",
+                      "Alexander Jones",
+                      "Havas of France, the first news agency",
+                      "Wolff of Germany, another early news agency"
+                    ],
+                    "places": [
+                      "New York City",
+                      "United States",
+                      "Europe"
+                    ],
+                    "themes": [
+                      "Journalism",
+                      "Cooperative Enterprise",
+                      "Technology in News",
+                      "Mass Media"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of the telegraph in news reporting",
+                  "score": 9
+                },
+                {
+                  "name": "Introduction of the inverted pyramid writing style",
+                  "score": 8
+                },
+                {
+                  "name": "Expansion of national news networks",
+                  "score": 7
+                },
+                {
+                  "name": "Increase in daily newspaper circulation",
+                  "score": 7
+                },
+                {
+                  "name": "Development of objective reporting standards",
+                  "score": 8
+                },
+                {
+                  "name": "Emergence of professional journalism",
+                  "score": 8
+                },
+                {
+                  "name": "First use of correspondents in war reporting (Crimean War)",
+                  "score": 6
+                }
+              ],
+              "conclusion": "The standardization of news was a transformative effect of the Penny Press, bringing about a professional and systematic approach to journalism. This new paradigm laid the foundation for the rapid expansion of the news industry and the development of modern reporting techniques still in use today.",
+              "people": [
+                "Samuel Morse",
+                "James Gordon Bennett",
+                "Henry Raymond",
+                "Harbor"
+              ],
+              "places": [
+                "New York City",
+                "Washington D.C.",
+                "London",
+                "Crimean Peninsula"
+              ],
+              "themes": [
+                "Mass Media",
+                "Journalism",
+                "Technology in Communication",
+                "Professionalization"
+              ]
+            }
+          },
+          {
+            "name": "Expansion of News Coverage",
+            "score": 8
+          },
+          {
+            "name": "Rise of Nonpartisan Reporting",
+            "score": 7
+          },
+          {
+            "name": "Increase in Public Trust",
+            "score": 6
+          },
+          {
+            "name": "Proliferation of Telegraph Usage",
+            "score": 7
+          },
+          {
+            "name": "Enhancement of International News",
+            "score": 8
+          },
+          {
+            "name": "Growth of Newspaper Networks",
+            "score": 7
+          },
+          {
+            "name": "Introduction of News Syndication",
+            "score": 6
+          },
+          {
+            "name": "Development of War Correspondents",
+            "score": 5
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "introduction": "The establishment of the Associated Press in 1846 revolutionized news distribution, building on the Penny Press's expansion of readership. Economical and widespread printing led to demand for timely, nonpartisan news, necessitating a cooperative news gathering organization. The Penny Press democratized news, making it affordable, which created a voracious public appetite for up-to-date information and news sharing among newspapers.",
+          "name": "Emergence of the Associated Press",
+          "summary": "The Associated Press was formed to pool resources for news gathering, transforming journalism and the dissemination of information globally.",
+          "dates": [
+            "1846",
+            "1846"
+          ],
+          "effects": [
+            {
+              "name": "Standardization of News",
+              "score": 9,
+              "children": [
+                {
+                  "name": "Founding of The Associated Press",
+                  "score": 10,
+                  "children": [
+                    {
+                      "name": "Expansion of Telegraph Usage",
+                      "score": 9
+                    },
+                    {
+                      "name": "Innovation in News Distribution",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Newspaper Circulation",
+                      "score": 7
+                    },
+                    {
+                      "name": "Standardization of Journalistic Practices",
+                      "score": 8
+                    },
+                    {
+                      "name": "Collaboration Among Newspapers",
+                      "score": 7
+                    },
+                    {
+                      "name": "Acceleration of News Cycle",
+                      "score": 7
+                    },
+                    {
+                      "name": "Growth of National News Coverage",
+                      "score": 7
+                    },
+                    {
+                      "name": "Emergence of War Correspondents",
+                      "score": 6
+                    },
+                    {
+                      "name": "Rise of Objectivity in News",
+                      "score": 5
+                    },
+                    {
+                      "name": "Economic Efficiency in News Gathering",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                    "name": "Founding of The Associated Press",
+                    "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                    "dates": [
+                      "1846",
+                      "1846"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Expansion of Telegraph Usage",
+                        "score": 9
+                      },
+                      {
+                        "name": "Innovation in News Distribution",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Newspaper Circulation",
+                        "score": 7
+                      },
+                      {
+                        "name": "Standardization of Journalistic Practices",
+                        "score": 8
+                      },
+                      {
+                        "name": "Collaboration Among Newspapers",
+                        "score": 7
+                      },
+                      {
+                        "name": "Acceleration of News Cycle",
+                        "score": 7
+                      },
+                      {
+                        "name": "Growth of National News Coverage",
+                        "score": 7
+                      },
+                      {
+                        "name": "Emergence of War Correspondents",
+                        "score": 6
+                      },
+                      {
+                        "name": "Rise of Objectivity in News",
+                        "score": 5
+                      },
+                      {
+                        "name": "Economic Efficiency in News Gathering",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                    "people": [
+                      "Samuel Morse",
+                      "Alexander Jones",
+                      "Havas of France, the first news agency",
+                      "Wolff of Germany, another early news agency"
+                    ],
+                    "places": [
+                      "New York City",
+                      "United States",
+                      "Europe"
+                    ],
+                    "themes": [
+                      "Journalism",
+                      "Cooperative Enterprise",
+                      "Technology in News",
+                      "Mass Media"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of the telegraph in news reporting",
+                  "score": 9
+                },
+                {
+                  "name": "Introduction of the inverted pyramid writing style",
+                  "score": 8
+                },
+                {
+                  "name": "Expansion of national news networks",
+                  "score": 7
+                },
+                {
+                  "name": "Increase in daily newspaper circulation",
+                  "score": 7
+                },
+                {
+                  "name": "Development of objective reporting standards",
+                  "score": 8
+                },
+                {
+                  "name": "Emergence of professional journalism",
+                  "score": 8
+                },
+                {
+                  "name": "First use of correspondents in war reporting (Crimean War)",
+                  "score": 6
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Penny Press revolutionized the accessibility and reach of newspapers, serving as the catalyst for the standardization of news. It democratized information, leading to a surge in literacy and public engagement. The emergence of the Associated Press from the Penny Press movement institutionalized newsgathering, forging a path for standardized reporting practices and the rapid dissemination of information.",
+                "name": "Standardization of News",
+                "summary": "The standardization of news, an effect of the Penny Press, redefined journalism by establishing uniform practices for reporting and distribution, influencing today's media landscape.",
+                "dates": [
+                  "1846",
+                  "1850s"
+                ],
+                "effects": [
+                  {
+                    "name": "Founding of The Associated Press",
+                    "score": 10,
+                    "children": [
+                      {
+                        "name": "Expansion of Telegraph Usage",
+                        "score": 9
+                      },
+                      {
+                        "name": "Innovation in News Distribution",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Newspaper Circulation",
+                        "score": 7
+                      },
+                      {
+                        "name": "Standardization of Journalistic Practices",
+                        "score": 8
+                      },
+                      {
+                        "name": "Collaboration Among Newspapers",
+                        "score": 7
+                      },
+                      {
+                        "name": "Acceleration of News Cycle",
+                        "score": 7
+                      },
+                      {
+                        "name": "Growth of National News Coverage",
+                        "score": 7
+                      },
+                      {
+                        "name": "Emergence of War Correspondents",
+                        "score": 6
+                      },
+                      {
+                        "name": "Rise of Objectivity in News",
+                        "score": 5
+                      },
+                      {
+                        "name": "Economic Efficiency in News Gathering",
+                        "score": 7
+                      }
+                    ],
+                    "visited": "true",
+                    "content": {
+                      "introduction": "The founding of The Associated Press in 1846 was a direct consequence of the Penny Press movement's demand for wider, quicker news distribution. It revolutionized journalism by establishing a cooperative newsgathering network. Previously, the Penny Press made news affordable, sparking a need for efficient news sharing among competing papers.",
+                      "name": "Founding of The Associated Press",
+                      "summary": "The establishment of The Associated Press was a milestone in journalism, creating a newswire service that reshaped the news industry and set a precedent for future media networks.",
+                      "dates": [
+                        "1846",
+                        "1846"
+                      ],
+                      "effects": [
+                        {
+                          "name": "Expansion of Telegraph Usage",
+                          "score": 9
+                        },
+                        {
+                          "name": "Innovation in News Distribution",
+                          "score": 8
+                        },
+                        {
+                          "name": "Increased Newspaper Circulation",
+                          "score": 7
+                        },
+                        {
+                          "name": "Standardization of Journalistic Practices",
+                          "score": 8
+                        },
+                        {
+                          "name": "Collaboration Among Newspapers",
+                          "score": 7
+                        },
+                        {
+                          "name": "Acceleration of News Cycle",
+                          "score": 7
+                        },
+                        {
+                          "name": "Growth of National News Coverage",
+                          "score": 7
+                        },
+                        {
+                          "name": "Emergence of War Correspondents",
+                          "score": 6
+                        },
+                        {
+                          "name": "Rise of Objectivity in News",
+                          "score": 5
+                        },
+                        {
+                          "name": "Economic Efficiency in News Gathering",
+                          "score": 7
+                        }
+                      ],
+                      "conclusion": "The founding of The Associated Press represents a transformative event in the history of news media, leading to a host of innovations in how news was gathered, distributed, and consumed. Its effects are seen in the subsequent standardization of journalism, increased collaboration, and the rapid news cycle of today's media landscape.",
+                      "people": [
+                        "Samuel Morse",
+                        "Alexander Jones",
+                        "Havas of France, the first news agency",
+                        "Wolff of Germany, another early news agency"
+                      ],
+                      "places": [
+                        "New York City",
+                        "United States",
+                        "Europe"
+                      ],
+                      "themes": [
+                        "Journalism",
+                        "Cooperative Enterprise",
+                        "Technology in News",
+                        "Mass Media"
+                      ]
+                    }
+                  },
+                  {
+                    "name": "Rise of the telegraph in news reporting",
+                    "score": 9
+                  },
+                  {
+                    "name": "Introduction of the inverted pyramid writing style",
+                    "score": 8
+                  },
+                  {
+                    "name": "Expansion of national news networks",
+                    "score": 7
+                  },
+                  {
+                    "name": "Increase in daily newspaper circulation",
+                    "score": 7
+                  },
+                  {
+                    "name": "Development of objective reporting standards",
+                    "score": 8
+                  },
+                  {
+                    "name": "Emergence of professional journalism",
+                    "score": 8
+                  },
+                  {
+                    "name": "First use of correspondents in war reporting (Crimean War)",
+                    "score": 6
+                  }
+                ],
+                "conclusion": "The standardization of news was a transformative effect of the Penny Press, bringing about a professional and systematic approach to journalism. This new paradigm laid the foundation for the rapid expansion of the news industry and the development of modern reporting techniques still in use today.",
+                "people": [
+                  "Samuel Morse",
+                  "James Gordon Bennett",
+                  "Henry Raymond",
+                  "Harbor"
+                ],
+                "places": [
+                  "New York City",
+                  "Washington D.C.",
+                  "London",
+                  "Crimean Peninsula"
+                ],
+                "themes": [
+                  "Mass Media",
+                  "Journalism",
+                  "Technology in Communication",
+                  "Professionalization"
+                ]
+              }
+            },
+            {
+              "name": "Expansion of News Coverage",
+              "score": 8
+            },
+            {
+              "name": "Rise of Nonpartisan Reporting",
+              "score": 7
+            },
+            {
+              "name": "Increase in Public Trust",
+              "score": 6
+            },
+            {
+              "name": "Proliferation of Telegraph Usage",
+              "score": 7
+            },
+            {
+              "name": "Enhancement of International News",
+              "score": 8
+            },
+            {
+              "name": "Growth of Newspaper Networks",
+              "score": 7
+            },
+            {
+              "name": "Introduction of News Syndication",
+              "score": 6
+            },
+            {
+              "name": "Development of War Correspondents",
+              "score": 5
+            }
+          ],
+          "conclusion": "The Associated Press emerged from the Penny Press movement, instituting a cooperative model for news gathering and distribution that enabled faster, broader, and more efficient reporting. This innovation marked a pivotal shift towards the modern news industry, shaping the way information is shared and consumed.",
+          "people": [
+            "Moses Yale Beach"
+          ],
+          "places": [
+            "New York City",
+            "United States"
+          ],
+          "themes": [
+            "Journalism",
+            "Cooperative Model",
+            "Technological Advancement",
+            "Democratization of Information"
+          ]
+        }
+      },
+      {
+        "name": "Introduction of the Telegraph",
+        "score": 5
+      },
+      {
+        "name": "Creation of Mass Advertising",
+        "score": 6
+      },
+      {
+        "name": "Support for Abolitionist Movement",
+        "score": 4
+      }
+    ],
+    "conclusion": "The Penny Press heralded a new era of mass media, profoundly influencing American culture, politics, and journalism, setting the stage for modern news reporting.",
+    "people": [
+      "Benjamin Day",
+      "James Gordon Bennett",
+      "Horace Greeley"
+    ],
+    "places": [
+      "New York City",
+      "Philadelphia",
+      "Boston",
+      "Baltimore"
+    ],
+    "themes": [
+      "Mass Media Evolution",
+      "Democratization of Information",
+      "Technological Innovations in Printing",
+      "Journalism Ethics and Sensationalism"
+    ]
+  }
+}

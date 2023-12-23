@@ -1,0 +1,1466 @@
+{
+  "name": "The Whiskey Rebellion",
+  "children": [
+    {
+      "name": "Demonstration of Federal Power",
+      "score": 10
+    },
+    {
+      "name": "Increased Political Tensions",
+      "score": 7
+    },
+    {
+      "name": "Formation of Political Parties",
+      "score": 6
+    },
+    {
+      "name": "Washington's Enhanced Reputation",
+      "score": 5
+    },
+    {
+      "name": "Alienation of the Frontier",
+      "score": 4,
+      "children": [
+        {
+          "name": "Political Realignment in West",
+          "score": 8
+        },
+        {
+          "name": "Expansion of Jeffersonian Republicanism",
+          "score": 7
+        },
+        {
+          "name": "Erosion of Federalist Support",
+          "score": 6
+        },
+        {
+          "name": "Growth of Regional Identities",
+          "score": 5
+        },
+        {
+          "name": "Decrease in Federal Excise Enforcement",
+          "score": 5,
+          "children": [
+            {
+              "name": "Resignation of Alexander Hamilton",
+              "score": 4
+            },
+            {
+              "name": "Formation of Democratic-Republican Societies",
+              "score": 6
+            },
+            {
+              "name": "Jefferson's Election as President",
+              "score": 5
+            },
+            {
+              "name": "Repeal of the Whiskey Tax",
+              "score": 7
+            },
+            {
+              "name": "Adoption of Virginia and Kentucky Resolutions",
+              "score": 3,
+              "children": [
+                {
+                  "name": "Election of 1800",
+                  "score": 8
+                },
+                {
+                  "name": "Marbury v. Madison",
+                  "score": 6
+                },
+                {
+                  "name": "Louisiana Purchase",
+                  "score": 5
+                },
+                {
+                  "name": "Embargo Act of 1807",
+                  "score": 4
+                },
+                {
+                  "name": "War of 1812",
+                  "score": 3
+                },
+                {
+                  "name": "Hartford Convention",
+                  "score": 4
+                },
+                {
+                  "name": "Missouri Compromise",
+                  "score": 2
+                },
+                {
+                  "name": "Nullification Crisis",
+                  "score": 6
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                "name": "Adoption of Virginia and Kentucky Resolutions",
+                "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                "dates": [
+                  "1798",
+                  "1799"
+                ],
+                "effects": [
+                  {
+                    "name": "Election of 1800",
+                    "score": 8
+                  },
+                  {
+                    "name": "Marbury v. Madison",
+                    "score": 6
+                  },
+                  {
+                    "name": "Louisiana Purchase",
+                    "score": 5
+                  },
+                  {
+                    "name": "Embargo Act of 1807",
+                    "score": 4
+                  },
+                  {
+                    "name": "War of 1812",
+                    "score": 3
+                  },
+                  {
+                    "name": "Hartford Convention",
+                    "score": 4
+                  },
+                  {
+                    "name": "Missouri Compromise",
+                    "score": 2
+                  },
+                  {
+                    "name": "Nullification Crisis",
+                    "score": 6
+                  }
+                ],
+                "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                "people": [
+                  "Thomas Jefferson",
+                  "James Madison",
+                  "John Adams",
+                  "Alexander Hamilton"
+                ],
+                "places": [
+                  "Virginia",
+                  "Kentucky",
+                  "United States Congress",
+                  "American Frontier"
+                ],
+                "themes": [
+                  "Federalism",
+                  "States' Rights",
+                  "Jeffersonian Democracy",
+                  "Constitutional Interpretation"
+                ]
+              }
+            },
+            {
+              "name": "Strengthening of States' Rights",
+              "score": 4
+            },
+            {
+              "name": "Reduced Federal Presence in West",
+              "score": 7
+            },
+            {
+              "name": "Shift in U.S. Fiscal Policies",
+              "score": 5
+            }
+          ],
+          "visited": "true",
+          "content": {
+            "introduction": "The Decrease in Federal Excise Enforcement post-Whiskey Rebellion symbolized the government's concession to frontier discontent. It acknowledged the impracticality of enforcing such taxes in remote areas. The Rebellion itself was incited by the 1791 excise tax on distilled spirits, which frontier farmers vehemently opposed, seeing it as unfair economic burden.",
+            "name": "Decrease in Federal Excise Enforcement",
+            "summary": "Following the Whiskey Rebellion, the U.S. government reevaluated its stance on excise enforcement, leading to a reduction in efforts, especially in frontier regions, to quell further unrest.",
+            "dates": [
+              "1794",
+              "1800"
+            ],
+            "effects": [
+              {
+                "name": "Resignation of Alexander Hamilton",
+                "score": 4
+              },
+              {
+                "name": "Formation of Democratic-Republican Societies",
+                "score": 6
+              },
+              {
+                "name": "Jefferson's Election as President",
+                "score": 5
+              },
+              {
+                "name": "Repeal of the Whiskey Tax",
+                "score": 7
+              },
+              {
+                "name": "Adoption of Virginia and Kentucky Resolutions",
+                "score": 3,
+                "children": [
+                  {
+                    "name": "Election of 1800",
+                    "score": 8
+                  },
+                  {
+                    "name": "Marbury v. Madison",
+                    "score": 6
+                  },
+                  {
+                    "name": "Louisiana Purchase",
+                    "score": 5
+                  },
+                  {
+                    "name": "Embargo Act of 1807",
+                    "score": 4
+                  },
+                  {
+                    "name": "War of 1812",
+                    "score": 3
+                  },
+                  {
+                    "name": "Hartford Convention",
+                    "score": 4
+                  },
+                  {
+                    "name": "Missouri Compromise",
+                    "score": 2
+                  },
+                  {
+                    "name": "Nullification Crisis",
+                    "score": 6
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                  "dates": [
+                    "1798",
+                    "1799"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                  "people": [
+                    "Thomas Jefferson",
+                    "James Madison",
+                    "John Adams",
+                    "Alexander Hamilton"
+                  ],
+                  "places": [
+                    "Virginia",
+                    "Kentucky",
+                    "United States Congress",
+                    "American Frontier"
+                  ],
+                  "themes": [
+                    "Federalism",
+                    "States' Rights",
+                    "Jeffersonian Democracy",
+                    "Constitutional Interpretation"
+                  ]
+                }
+              },
+              {
+                "name": "Strengthening of States' Rights",
+                "score": 4
+              },
+              {
+                "name": "Reduced Federal Presence in West",
+                "score": 7
+              },
+              {
+                "name": "Shift in U.S. Fiscal Policies",
+                "score": 5
+              }
+            ],
+            "conclusion": "The Whiskey Rebellion led to a reductive shift in federal excise tax enforcement, acknowledging the challenges of policy imposition on frontier populations. This event catalyzed a series of political and fiscal policy changes, culminating in the ascendency of Jeffersonian politics.",
+            "people": [
+              "Thomas Jefferson",
+              "Alexander Hamilton",
+              "George Washington",
+              "John Adams"
+            ],
+            "places": [
+              "Western Pennsylvania",
+              "Virginia",
+              "Kentucky",
+              "Federal City (Washington, D.C.)"
+            ],
+            "themes": [
+              "Federal vs. Local Authority",
+              "Taxation and Representation",
+              "Frontier Politics",
+              "Early American Government"
+            ]
+          }
+        },
+        {
+          "name": "Increase in Westward Expansion",
+          "score": 4
+        },
+        {
+          "name": "Fostering of Anti-Federal Sentiment",
+          "score": 7
+        },
+        {
+          "name": "Strengthening of State Militias",
+          "score": 4
+        },
+        {
+          "name": "Jefferson's Election as President",
+          "score": 10
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "introduction": "The Alienation of the Frontier was a significant consequence of the Whiskey Rebellion. The federal response to the rebellion alienated western settlers, deepening regional divisions. Prior to the rebellion, frontier farmers faced economic strain due to the excise tax on whiskey, a staple of their trade.",
+        "name": "Alienation of the Frontier",
+        "summary": "Western settlers felt marginalized after the Whiskey Rebellion, contributing to political realignment and the growth of Jeffersonian Republicanism.",
+        "dates": [
+          "1794",
+          "1800"
+        ],
+        "effects": [
+          {
+            "name": "Political Realignment in West",
+            "score": 8
+          },
+          {
+            "name": "Expansion of Jeffersonian Republicanism",
+            "score": 7
+          },
+          {
+            "name": "Erosion of Federalist Support",
+            "score": 6
+          },
+          {
+            "name": "Growth of Regional Identities",
+            "score": 5
+          },
+          {
+            "name": "Decrease in Federal Excise Enforcement",
+            "score": 5,
+            "children": [
+              {
+                "name": "Resignation of Alexander Hamilton",
+                "score": 4
+              },
+              {
+                "name": "Formation of Democratic-Republican Societies",
+                "score": 6
+              },
+              {
+                "name": "Jefferson's Election as President",
+                "score": 5
+              },
+              {
+                "name": "Repeal of the Whiskey Tax",
+                "score": 7
+              },
+              {
+                "name": "Adoption of Virginia and Kentucky Resolutions",
+                "score": 3,
+                "children": [
+                  {
+                    "name": "Election of 1800",
+                    "score": 8
+                  },
+                  {
+                    "name": "Marbury v. Madison",
+                    "score": 6
+                  },
+                  {
+                    "name": "Louisiana Purchase",
+                    "score": 5
+                  },
+                  {
+                    "name": "Embargo Act of 1807",
+                    "score": 4
+                  },
+                  {
+                    "name": "War of 1812",
+                    "score": 3
+                  },
+                  {
+                    "name": "Hartford Convention",
+                    "score": 4
+                  },
+                  {
+                    "name": "Missouri Compromise",
+                    "score": 2
+                  },
+                  {
+                    "name": "Nullification Crisis",
+                    "score": 6
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                  "dates": [
+                    "1798",
+                    "1799"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                  "people": [
+                    "Thomas Jefferson",
+                    "James Madison",
+                    "John Adams",
+                    "Alexander Hamilton"
+                  ],
+                  "places": [
+                    "Virginia",
+                    "Kentucky",
+                    "United States Congress",
+                    "American Frontier"
+                  ],
+                  "themes": [
+                    "Federalism",
+                    "States' Rights",
+                    "Jeffersonian Democracy",
+                    "Constitutional Interpretation"
+                  ]
+                }
+              },
+              {
+                "name": "Strengthening of States' Rights",
+                "score": 4
+              },
+              {
+                "name": "Reduced Federal Presence in West",
+                "score": 7
+              },
+              {
+                "name": "Shift in U.S. Fiscal Policies",
+                "score": 5
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Decrease in Federal Excise Enforcement post-Whiskey Rebellion symbolized the government's concession to frontier discontent. It acknowledged the impracticality of enforcing such taxes in remote areas. The Rebellion itself was incited by the 1791 excise tax on distilled spirits, which frontier farmers vehemently opposed, seeing it as unfair economic burden.",
+              "name": "Decrease in Federal Excise Enforcement",
+              "summary": "Following the Whiskey Rebellion, the U.S. government reevaluated its stance on excise enforcement, leading to a reduction in efforts, especially in frontier regions, to quell further unrest.",
+              "dates": [
+                "1794",
+                "1800"
+              ],
+              "effects": [
+                {
+                  "name": "Resignation of Alexander Hamilton",
+                  "score": 4
+                },
+                {
+                  "name": "Formation of Democratic-Republican Societies",
+                  "score": 6
+                },
+                {
+                  "name": "Jefferson's Election as President",
+                  "score": 5
+                },
+                {
+                  "name": "Repeal of the Whiskey Tax",
+                  "score": 7
+                },
+                {
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "score": 3,
+                  "children": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                    "name": "Adoption of Virginia and Kentucky Resolutions",
+                    "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                    "dates": [
+                      "1798",
+                      "1799"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Election of 1800",
+                        "score": 8
+                      },
+                      {
+                        "name": "Marbury v. Madison",
+                        "score": 6
+                      },
+                      {
+                        "name": "Louisiana Purchase",
+                        "score": 5
+                      },
+                      {
+                        "name": "Embargo Act of 1807",
+                        "score": 4
+                      },
+                      {
+                        "name": "War of 1812",
+                        "score": 3
+                      },
+                      {
+                        "name": "Hartford Convention",
+                        "score": 4
+                      },
+                      {
+                        "name": "Missouri Compromise",
+                        "score": 2
+                      },
+                      {
+                        "name": "Nullification Crisis",
+                        "score": 6
+                      }
+                    ],
+                    "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                    "people": [
+                      "Thomas Jefferson",
+                      "James Madison",
+                      "John Adams",
+                      "Alexander Hamilton"
+                    ],
+                    "places": [
+                      "Virginia",
+                      "Kentucky",
+                      "United States Congress",
+                      "American Frontier"
+                    ],
+                    "themes": [
+                      "Federalism",
+                      "States' Rights",
+                      "Jeffersonian Democracy",
+                      "Constitutional Interpretation"
+                    ]
+                  }
+                },
+                {
+                  "name": "Strengthening of States' Rights",
+                  "score": 4
+                },
+                {
+                  "name": "Reduced Federal Presence in West",
+                  "score": 7
+                },
+                {
+                  "name": "Shift in U.S. Fiscal Policies",
+                  "score": 5
+                }
+              ],
+              "conclusion": "The Whiskey Rebellion led to a reductive shift in federal excise tax enforcement, acknowledging the challenges of policy imposition on frontier populations. This event catalyzed a series of political and fiscal policy changes, culminating in the ascendency of Jeffersonian politics.",
+              "people": [
+                "Thomas Jefferson",
+                "Alexander Hamilton",
+                "George Washington",
+                "John Adams"
+              ],
+              "places": [
+                "Western Pennsylvania",
+                "Virginia",
+                "Kentucky",
+                "Federal City (Washington, D.C.)"
+              ],
+              "themes": [
+                "Federal vs. Local Authority",
+                "Taxation and Representation",
+                "Frontier Politics",
+                "Early American Government"
+              ]
+            }
+          },
+          {
+            "name": "Increase in Westward Expansion",
+            "score": 4
+          },
+          {
+            "name": "Fostering of Anti-Federal Sentiment",
+            "score": 7
+          },
+          {
+            "name": "Strengthening of State Militias",
+            "score": 4
+          },
+          {
+            "name": "Jefferson's Election as President",
+            "score": 10
+          }
+        ],
+        "conclusion": "The Alienation of the Frontier reflects the growing divide between federal policies and the interests of western settlers, leading to political shifts that elevated Thomas Jefferson and his party.",
+        "people": [
+          "Thomas Jefferson",
+          "George Washington",
+          "Alexander Hamilton",
+          "John Adams"
+        ],
+        "places": [
+          "Western Pennsylvania",
+          "Kentucky",
+          "Virginia",
+          "Ohio Valley"
+        ],
+        "themes": [
+          "Federal vs. Regional Authority",
+          "Economic Strain on Settlers",
+          "Rise of Political Parties",
+          "Westward Expansion"
+        ]
+      }
+    },
+    {
+      "name": "Repeal of the Whiskey Tax",
+      "score": 9
+    },
+    {
+      "name": "Jefferson's Electoral Victory",
+      "score": 3
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "introduction": "The Whiskey Rebellion was a pivotal event in early U.S. history, testing the new nation's ability to enforce its laws. It marked the first time the federal government asserted its power domestically. Prior to the rebellion, in 1791, the government imposed an excise tax on distilled spirits to reduce national debt, igniting fierce opposition among frontier farmers who used whiskey as a medium of exchange.",
+    "name": "The Whiskey Rebellion",
+    "summary": "The Whiskey Rebellion of 1794 challenged federal authority, leading to George Washington's decision to assert government power by quashing the insurrection.",
+    "dates": [
+      "1794",
+      "1794"
+    ],
+    "effects": [
+      {
+        "name": "Demonstration of Federal Power",
+        "score": 10
+      },
+      {
+        "name": "Increased Political Tensions",
+        "score": 7
+      },
+      {
+        "name": "Formation of Political Parties",
+        "score": 6
+      },
+      {
+        "name": "Washington's Enhanced Reputation",
+        "score": 5
+      },
+      {
+        "name": "Alienation of the Frontier",
+        "score": 4,
+        "children": [
+          {
+            "name": "Political Realignment in West",
+            "score": 8
+          },
+          {
+            "name": "Expansion of Jeffersonian Republicanism",
+            "score": 7
+          },
+          {
+            "name": "Erosion of Federalist Support",
+            "score": 6
+          },
+          {
+            "name": "Growth of Regional Identities",
+            "score": 5
+          },
+          {
+            "name": "Decrease in Federal Excise Enforcement",
+            "score": 5,
+            "children": [
+              {
+                "name": "Resignation of Alexander Hamilton",
+                "score": 4
+              },
+              {
+                "name": "Formation of Democratic-Republican Societies",
+                "score": 6
+              },
+              {
+                "name": "Jefferson's Election as President",
+                "score": 5
+              },
+              {
+                "name": "Repeal of the Whiskey Tax",
+                "score": 7
+              },
+              {
+                "name": "Adoption of Virginia and Kentucky Resolutions",
+                "score": 3,
+                "children": [
+                  {
+                    "name": "Election of 1800",
+                    "score": 8
+                  },
+                  {
+                    "name": "Marbury v. Madison",
+                    "score": 6
+                  },
+                  {
+                    "name": "Louisiana Purchase",
+                    "score": 5
+                  },
+                  {
+                    "name": "Embargo Act of 1807",
+                    "score": 4
+                  },
+                  {
+                    "name": "War of 1812",
+                    "score": 3
+                  },
+                  {
+                    "name": "Hartford Convention",
+                    "score": 4
+                  },
+                  {
+                    "name": "Missouri Compromise",
+                    "score": 2
+                  },
+                  {
+                    "name": "Nullification Crisis",
+                    "score": 6
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                  "dates": [
+                    "1798",
+                    "1799"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                  "people": [
+                    "Thomas Jefferson",
+                    "James Madison",
+                    "John Adams",
+                    "Alexander Hamilton"
+                  ],
+                  "places": [
+                    "Virginia",
+                    "Kentucky",
+                    "United States Congress",
+                    "American Frontier"
+                  ],
+                  "themes": [
+                    "Federalism",
+                    "States' Rights",
+                    "Jeffersonian Democracy",
+                    "Constitutional Interpretation"
+                  ]
+                }
+              },
+              {
+                "name": "Strengthening of States' Rights",
+                "score": 4
+              },
+              {
+                "name": "Reduced Federal Presence in West",
+                "score": 7
+              },
+              {
+                "name": "Shift in U.S. Fiscal Policies",
+                "score": 5
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Decrease in Federal Excise Enforcement post-Whiskey Rebellion symbolized the government's concession to frontier discontent. It acknowledged the impracticality of enforcing such taxes in remote areas. The Rebellion itself was incited by the 1791 excise tax on distilled spirits, which frontier farmers vehemently opposed, seeing it as unfair economic burden.",
+              "name": "Decrease in Federal Excise Enforcement",
+              "summary": "Following the Whiskey Rebellion, the U.S. government reevaluated its stance on excise enforcement, leading to a reduction in efforts, especially in frontier regions, to quell further unrest.",
+              "dates": [
+                "1794",
+                "1800"
+              ],
+              "effects": [
+                {
+                  "name": "Resignation of Alexander Hamilton",
+                  "score": 4
+                },
+                {
+                  "name": "Formation of Democratic-Republican Societies",
+                  "score": 6
+                },
+                {
+                  "name": "Jefferson's Election as President",
+                  "score": 5
+                },
+                {
+                  "name": "Repeal of the Whiskey Tax",
+                  "score": 7
+                },
+                {
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "score": 3,
+                  "children": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                    "name": "Adoption of Virginia and Kentucky Resolutions",
+                    "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                    "dates": [
+                      "1798",
+                      "1799"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Election of 1800",
+                        "score": 8
+                      },
+                      {
+                        "name": "Marbury v. Madison",
+                        "score": 6
+                      },
+                      {
+                        "name": "Louisiana Purchase",
+                        "score": 5
+                      },
+                      {
+                        "name": "Embargo Act of 1807",
+                        "score": 4
+                      },
+                      {
+                        "name": "War of 1812",
+                        "score": 3
+                      },
+                      {
+                        "name": "Hartford Convention",
+                        "score": 4
+                      },
+                      {
+                        "name": "Missouri Compromise",
+                        "score": 2
+                      },
+                      {
+                        "name": "Nullification Crisis",
+                        "score": 6
+                      }
+                    ],
+                    "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                    "people": [
+                      "Thomas Jefferson",
+                      "James Madison",
+                      "John Adams",
+                      "Alexander Hamilton"
+                    ],
+                    "places": [
+                      "Virginia",
+                      "Kentucky",
+                      "United States Congress",
+                      "American Frontier"
+                    ],
+                    "themes": [
+                      "Federalism",
+                      "States' Rights",
+                      "Jeffersonian Democracy",
+                      "Constitutional Interpretation"
+                    ]
+                  }
+                },
+                {
+                  "name": "Strengthening of States' Rights",
+                  "score": 4
+                },
+                {
+                  "name": "Reduced Federal Presence in West",
+                  "score": 7
+                },
+                {
+                  "name": "Shift in U.S. Fiscal Policies",
+                  "score": 5
+                }
+              ],
+              "conclusion": "The Whiskey Rebellion led to a reductive shift in federal excise tax enforcement, acknowledging the challenges of policy imposition on frontier populations. This event catalyzed a series of political and fiscal policy changes, culminating in the ascendency of Jeffersonian politics.",
+              "people": [
+                "Thomas Jefferson",
+                "Alexander Hamilton",
+                "George Washington",
+                "John Adams"
+              ],
+              "places": [
+                "Western Pennsylvania",
+                "Virginia",
+                "Kentucky",
+                "Federal City (Washington, D.C.)"
+              ],
+              "themes": [
+                "Federal vs. Local Authority",
+                "Taxation and Representation",
+                "Frontier Politics",
+                "Early American Government"
+              ]
+            }
+          },
+          {
+            "name": "Increase in Westward Expansion",
+            "score": 4
+          },
+          {
+            "name": "Fostering of Anti-Federal Sentiment",
+            "score": 7
+          },
+          {
+            "name": "Strengthening of State Militias",
+            "score": 4
+          },
+          {
+            "name": "Jefferson's Election as President",
+            "score": 10
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "introduction": "The Alienation of the Frontier was a significant consequence of the Whiskey Rebellion. The federal response to the rebellion alienated western settlers, deepening regional divisions. Prior to the rebellion, frontier farmers faced economic strain due to the excise tax on whiskey, a staple of their trade.",
+          "name": "Alienation of the Frontier",
+          "summary": "Western settlers felt marginalized after the Whiskey Rebellion, contributing to political realignment and the growth of Jeffersonian Republicanism.",
+          "dates": [
+            "1794",
+            "1800"
+          ],
+          "effects": [
+            {
+              "name": "Political Realignment in West",
+              "score": 8
+            },
+            {
+              "name": "Expansion of Jeffersonian Republicanism",
+              "score": 7
+            },
+            {
+              "name": "Erosion of Federalist Support",
+              "score": 6
+            },
+            {
+              "name": "Growth of Regional Identities",
+              "score": 5
+            },
+            {
+              "name": "Decrease in Federal Excise Enforcement",
+              "score": 5,
+              "children": [
+                {
+                  "name": "Resignation of Alexander Hamilton",
+                  "score": 4
+                },
+                {
+                  "name": "Formation of Democratic-Republican Societies",
+                  "score": 6
+                },
+                {
+                  "name": "Jefferson's Election as President",
+                  "score": 5
+                },
+                {
+                  "name": "Repeal of the Whiskey Tax",
+                  "score": 7
+                },
+                {
+                  "name": "Adoption of Virginia and Kentucky Resolutions",
+                  "score": 3,
+                  "children": [
+                    {
+                      "name": "Election of 1800",
+                      "score": 8
+                    },
+                    {
+                      "name": "Marbury v. Madison",
+                      "score": 6
+                    },
+                    {
+                      "name": "Louisiana Purchase",
+                      "score": 5
+                    },
+                    {
+                      "name": "Embargo Act of 1807",
+                      "score": 4
+                    },
+                    {
+                      "name": "War of 1812",
+                      "score": 3
+                    },
+                    {
+                      "name": "Hartford Convention",
+                      "score": 4
+                    },
+                    {
+                      "name": "Missouri Compromise",
+                      "score": 2
+                    },
+                    {
+                      "name": "Nullification Crisis",
+                      "score": 6
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                    "name": "Adoption of Virginia and Kentucky Resolutions",
+                    "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                    "dates": [
+                      "1798",
+                      "1799"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Election of 1800",
+                        "score": 8
+                      },
+                      {
+                        "name": "Marbury v. Madison",
+                        "score": 6
+                      },
+                      {
+                        "name": "Louisiana Purchase",
+                        "score": 5
+                      },
+                      {
+                        "name": "Embargo Act of 1807",
+                        "score": 4
+                      },
+                      {
+                        "name": "War of 1812",
+                        "score": 3
+                      },
+                      {
+                        "name": "Hartford Convention",
+                        "score": 4
+                      },
+                      {
+                        "name": "Missouri Compromise",
+                        "score": 2
+                      },
+                      {
+                        "name": "Nullification Crisis",
+                        "score": 6
+                      }
+                    ],
+                    "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                    "people": [
+                      "Thomas Jefferson",
+                      "James Madison",
+                      "John Adams",
+                      "Alexander Hamilton"
+                    ],
+                    "places": [
+                      "Virginia",
+                      "Kentucky",
+                      "United States Congress",
+                      "American Frontier"
+                    ],
+                    "themes": [
+                      "Federalism",
+                      "States' Rights",
+                      "Jeffersonian Democracy",
+                      "Constitutional Interpretation"
+                    ]
+                  }
+                },
+                {
+                  "name": "Strengthening of States' Rights",
+                  "score": 4
+                },
+                {
+                  "name": "Reduced Federal Presence in West",
+                  "score": 7
+                },
+                {
+                  "name": "Shift in U.S. Fiscal Policies",
+                  "score": 5
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Decrease in Federal Excise Enforcement post-Whiskey Rebellion symbolized the government's concession to frontier discontent. It acknowledged the impracticality of enforcing such taxes in remote areas. The Rebellion itself was incited by the 1791 excise tax on distilled spirits, which frontier farmers vehemently opposed, seeing it as unfair economic burden.",
+                "name": "Decrease in Federal Excise Enforcement",
+                "summary": "Following the Whiskey Rebellion, the U.S. government reevaluated its stance on excise enforcement, leading to a reduction in efforts, especially in frontier regions, to quell further unrest.",
+                "dates": [
+                  "1794",
+                  "1800"
+                ],
+                "effects": [
+                  {
+                    "name": "Resignation of Alexander Hamilton",
+                    "score": 4
+                  },
+                  {
+                    "name": "Formation of Democratic-Republican Societies",
+                    "score": 6
+                  },
+                  {
+                    "name": "Jefferson's Election as President",
+                    "score": 5
+                  },
+                  {
+                    "name": "Repeal of the Whiskey Tax",
+                    "score": 7
+                  },
+                  {
+                    "name": "Adoption of Virginia and Kentucky Resolutions",
+                    "score": 3,
+                    "children": [
+                      {
+                        "name": "Election of 1800",
+                        "score": 8
+                      },
+                      {
+                        "name": "Marbury v. Madison",
+                        "score": 6
+                      },
+                      {
+                        "name": "Louisiana Purchase",
+                        "score": 5
+                      },
+                      {
+                        "name": "Embargo Act of 1807",
+                        "score": 4
+                      },
+                      {
+                        "name": "War of 1812",
+                        "score": 3
+                      },
+                      {
+                        "name": "Hartford Convention",
+                        "score": 4
+                      },
+                      {
+                        "name": "Missouri Compromise",
+                        "score": 2
+                      },
+                      {
+                        "name": "Nullification Crisis",
+                        "score": 6
+                      }
+                    ],
+                    "visited": "true",
+                    "content": {
+                      "introduction": "The Virginia and Kentucky Resolutions were pivotal in asserting the doctrine of states' rights. They arose from resistance to the Alien and Sedition Acts deemed unconstitutional by Jeffersonians, highlighting the tension between federal authority and state sovereignty. These resolutions were a direct response to the Alienation of the Frontier, as they echoed the sentiments of autonomy and local governance that frontier settlers advocated for, further propelling Thomas Jefferson and his party's ideology into the national political arena.",
+                      "name": "Adoption of Virginia and Kentucky Resolutions",
+                      "summary": "The Virginia and Kentucky Resolutions championed states' rights, challenging federal overreach and setting the stage for future conflicts over federal versus state authority.",
+                      "dates": [
+                        "1798",
+                        "1799"
+                      ],
+                      "effects": [
+                        {
+                          "name": "Election of 1800",
+                          "score": 8
+                        },
+                        {
+                          "name": "Marbury v. Madison",
+                          "score": 6
+                        },
+                        {
+                          "name": "Louisiana Purchase",
+                          "score": 5
+                        },
+                        {
+                          "name": "Embargo Act of 1807",
+                          "score": 4
+                        },
+                        {
+                          "name": "War of 1812",
+                          "score": 3
+                        },
+                        {
+                          "name": "Hartford Convention",
+                          "score": 4
+                        },
+                        {
+                          "name": "Missouri Compromise",
+                          "score": 2
+                        },
+                        {
+                          "name": "Nullification Crisis",
+                          "score": 6
+                        }
+                      ],
+                      "conclusion": "The Virginia and Kentucky Resolutions significantly influenced American political thought, reinforcing the concept of states' rights and precipitating a chain of events that reshaped the nation's political landscape, ultimately emphasizing the philosophical and practical tensions between local and federal governance.",
+                      "people": [
+                        "Thomas Jefferson",
+                        "James Madison",
+                        "John Adams",
+                        "Alexander Hamilton"
+                      ],
+                      "places": [
+                        "Virginia",
+                        "Kentucky",
+                        "United States Congress",
+                        "American Frontier"
+                      ],
+                      "themes": [
+                        "Federalism",
+                        "States' Rights",
+                        "Jeffersonian Democracy",
+                        "Constitutional Interpretation"
+                      ]
+                    }
+                  },
+                  {
+                    "name": "Strengthening of States' Rights",
+                    "score": 4
+                  },
+                  {
+                    "name": "Reduced Federal Presence in West",
+                    "score": 7
+                  },
+                  {
+                    "name": "Shift in U.S. Fiscal Policies",
+                    "score": 5
+                  }
+                ],
+                "conclusion": "The Whiskey Rebellion led to a reductive shift in federal excise tax enforcement, acknowledging the challenges of policy imposition on frontier populations. This event catalyzed a series of political and fiscal policy changes, culminating in the ascendency of Jeffersonian politics.",
+                "people": [
+                  "Thomas Jefferson",
+                  "Alexander Hamilton",
+                  "George Washington",
+                  "John Adams"
+                ],
+                "places": [
+                  "Western Pennsylvania",
+                  "Virginia",
+                  "Kentucky",
+                  "Federal City (Washington, D.C.)"
+                ],
+                "themes": [
+                  "Federal vs. Local Authority",
+                  "Taxation and Representation",
+                  "Frontier Politics",
+                  "Early American Government"
+                ]
+              }
+            },
+            {
+              "name": "Increase in Westward Expansion",
+              "score": 4
+            },
+            {
+              "name": "Fostering of Anti-Federal Sentiment",
+              "score": 7
+            },
+            {
+              "name": "Strengthening of State Militias",
+              "score": 4
+            },
+            {
+              "name": "Jefferson's Election as President",
+              "score": 10
+            }
+          ],
+          "conclusion": "The Alienation of the Frontier reflects the growing divide between federal policies and the interests of western settlers, leading to political shifts that elevated Thomas Jefferson and his party.",
+          "people": [
+            "Thomas Jefferson",
+            "George Washington",
+            "Alexander Hamilton",
+            "John Adams"
+          ],
+          "places": [
+            "Western Pennsylvania",
+            "Kentucky",
+            "Virginia",
+            "Ohio Valley"
+          ],
+          "themes": [
+            "Federal vs. Regional Authority",
+            "Economic Strain on Settlers",
+            "Rise of Political Parties",
+            "Westward Expansion"
+          ]
+        }
+      },
+      {
+        "name": "Repeal of the Whiskey Tax",
+        "score": 9
+      },
+      {
+        "name": "Jefferson's Electoral Victory",
+        "score": 3
+      }
+    ],
+    "conclusion": "The swift federal response to the Whiskey Rebellion established a precedent for federal authority. It also influenced the political landscape, contributing to the formation of political parties and setting the stage for Thomas Jefferson's victory in the 1800 election.",
+    "people": [
+      "George Washington",
+      "Alexander Hamilton",
+      "Thomas Jefferson",
+      "James Madison"
+    ],
+    "places": [
+      "Western Pennsylvania",
+      "Philadelphia",
+      "Monongahela Valley",
+      "Pittsburgh"
+    ],
+    "themes": [
+      "Federal vs. Local Authority",
+      "Taxation and Representation",
+      "Economic Policies",
+      "Early American Republic Governance"
+    ]
+  }
+}

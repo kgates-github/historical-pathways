@@ -10,7 +10,7 @@ import uuid
 import numpy as np
 import pprint
 #from openai.embeddings_utils import distances_from_embeddings
-from helpers import text_file_to_json
+from .Helpers import text_file_to_json
 from openai import OpenAI
 
 

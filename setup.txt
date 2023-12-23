@@ -7,7 +7,7 @@ python3 -m pip freeze > requirements.txt
 jupyter labextension install @jupyterlab/graphviz-extension
 
 
-echo 'export OPENAI_API_KEY="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"' >> ~/.bashrc
+echo 'export OPENAI_API_KEY="<OPENAI API KEY HERE/>"' >> ~/.bashrc
 source ~/.bashrc
 
 

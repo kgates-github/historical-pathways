@@ -1,0 +1,101 @@
+{
+    "type": "event",
+    "name": "The Whiskey Rebellion",
+    "description": "The Whiskey Rebellion was a pivotal early test of the United States federal government's authority, enforcing tax laws over frontier resistance.",
+    "introduction": "The Whiskey Rebellion of 1794 marked a significant juncture in American history, highlighting the tension between federal power and local interests. It underscored the new nation's struggle in applying federal laws across diverse regions. Prior to the rebellion, the federal government, seeking revenue to pay war debts, imposed an excise tax on distilled spirits in 1791, which frontier farmers vehemently opposed.",
+    "dates": {"start": "1794-07-01", "end": "1794-11-01"}, 
+    "sections": [
+        {
+            "name": "Taxation and Tensions",
+            "dates": {"start": "1791-03-03", "end": "1794-07-01"},
+            "summary": "In 1791, the new U.S. government faced substantial war debts. Treasury Secretary Alexander Hamilton proposed and succeeded in passing an excise tax on whiskey to pay for these debts. This tax became a burden to frontier farmers, particularly in western Pennsylvania, who relied on distilling surplus grain into whiskey for transport and sale."
+        },
+        {
+            "name": "Growing Resentment",
+            "dates": {"start": "1791-07-01", "end": "1794-06-30"},
+            "summary": "Resistance grew as farmers saw the whiskey tax as an unfair target on their livelihoods. They compared it to the Stamp Act, which had fueled the American Revolution. Town meetings were held, and many refused to pay the tax. Violence and intimidation against tax collectors became commonplace, culminating in the tarring and feathering of a regional tax inspector."
+        },
+        {
+            "name": "The Rebellion Ignites",
+            "dates": {"start": "1794-07-01", "end": "1794-07-17"},
+            "summary": "The rebellion escalated in July 1794 when a federal marshal was attacked while serving writs to distillers who had not paid the excise. This led to an armed insurrection, where rebels attacked the home of the regional tax inspector, setting the stage for a wider confrontation with the federal government."
+        },
+        {
+            "name": "Washington's Response",
+            "dates": {"start": "1794-07-18", "end": "1794-09-01"},
+            "summary": "President George Washington, believing the rebellion to be a threat to federal authority and the union, summoned a militia force from several states. Under the command of General Henry Lee, Washington reviewed the troops, but ultimately the president did not accompany the militia into the field."
+        },
+        {
+            "name": "The Militia Marches",
+            "dates": {"start": "1794-09-02", "end": "1794-10-20"},
+            "summary": "A sizeable militia of nearly 13,000 men marched into western Pennsylvania. The show of force had a significant psychological impact on the rebels, who largely disbanded. There was little violence as the federal troops restored order, and the government demonstrated its willingness and ability to enforce its laws."
+        },
+        {
+            "name": "Aftermath and Arrests",
+            "dates": {"start": "1794-10-21", "end": "1794-11-01"},
+            "summary": "The rebellion's end saw some 150 rebels arrested, though most were later released. A few were tried for treason, but only two were convicted, and Washington later pardoned them. The event faded, but it had lasting effects on the perception of federal power and the use of military force in domestic affairs."
+        }
+    ],
+    "conclusion": "The Whiskey Rebellion was a significant test of the U.S. Constitution and newly formed federal government. It established federal authority in domestic affairs, but also initiated a debate about the rights of citizens and the limits of government power that would continue to shape American politics.",
+    "people": [
+        { 
+          "name": "George Washington", 
+          "dates": {"start": "1732-02-22", "end": "1799-12-14"},
+          "description": "First President of the United States, led the federal response to the Whiskey Rebellion, reinforcing federal laws."
+        },
+        { 
+          "name": "Alexander Hamilton", 
+          "dates": {"start": "1755-01-11", "end": "1804-07-12"},
+          "description": "As Secretary of the Treasury, Hamilton proposed the whiskey tax and supported strong federal action during the rebellion."
+        },
+        { 
+          "name": "Henry Lee III", 
+          "dates": {"start": "1756-01-29", "end": "1818-03-25"},
+          "description": "A Revolutionary War hero and governor of Virginia who led the militia to suppress the Whiskey Rebellion."
+        }
+    ],
+    "places": [
+        { 
+          "name": "Western Pennsylvania", 
+          "description": "Epicenter of the Whiskey Rebellion, where local farmers strongly resisted the federal excise tax on whiskey."
+        }
+    ],
+    "next": [
+        { 
+          "name": "The Rise of Political Parties in the United States", 
+          "dates": {"start": "1795-01-01", "end": "1820-01-01"},
+          "description": "Explore how the Federalist and Republican parties emerged from the ideological conflicts spurred by events like the Whiskey Rebellion.",
+          "connection": "Effect"
+        },
+        { 
+          "name": "The Evolution of U.S. Tax Policy", 
+          "dates": {"start": "1794-11-02", "end": "1815-01-01"},
+          "description": "Understand the changes in federal taxation following the enforcement issues highlighted by the Whiskey Rebellion.",
+          "connection": "Effect"
+        },
+        { 
+          "name": "Alexander Hamilton's Financial Plan", 
+          "dates": {"start": "1790-01-01", "end": "1795-01-01"},
+          "description": "Delve into Hamilton's financial strategies for the new nation, including the controversial whiskey tax.",
+          "connection": "Cause"
+        },
+        { 
+          "name": "The Role of Federalism in Early U.S. History", 
+          "dates": {"start": "1789-01-01", "end": "1800-01-01"},
+          "description": "Examine how the Whiskey Rebellion influenced the balance of power between federal and state governments.",
+          "connection": "Effect"
+        },
+        { 
+          "name": "Washington's Review of the Troops",
+          "dates": {"start": "1794-09-01", "end": "1794-09-30"},
+          "description": "A detailed look at President Washington's unprecedented decision to review the militia during the Whiskey Rebellion.",
+          "connection": "Deep dive"
+        },
+        { 
+          "name": "Populist Revolts in the Early United States",
+          "dates": {"start": "1783-01-01", "end": "1800-01-01"},
+          "description": "Understand the Whiskey Rebellion within the broader context of populist unrest in the aftermath of the American Revolution.",
+          "connection": "Broad perspective"
+        }
+    ]
+}
