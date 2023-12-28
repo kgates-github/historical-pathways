@@ -21,18 +21,18 @@ class HistoricalPathwaySimulator:
           "role": "system", 
           "content": main_prompt_content
         }
-        self.main_prompt_runner = ReallySimplePrompt(config, main_system_prompt);
+        self.main_prompt_runner = ReallySimplePrompt(config, main_system_prompt)
         
         sub_event_system_prompt = {
           "role": "system", 
           "content": sub_event_prompt_content
         }
-        self.sub_event_prompt_runner = ReallySimplePrompt(config, sub_event_system_prompt);
+        self.sub_event_prompt_runner = ReallySimplePrompt(config, sub_event_system_prompt)
     
     
     def start_simulation(self, user_prompt, max_iterations=1):
         print("Starting ", user_prompt)
-        self.max_iterations = max_iterations;
+        self.max_iterations = max_iterations
         
         # run_prompts will interate until max is reached
         return self.run_prompts(user_prompt, [], [])

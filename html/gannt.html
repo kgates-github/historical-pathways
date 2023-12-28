@@ -4,27 +4,27 @@
     <meta charset="utf-8">
     <title>Gantt Chart Example</title>
     <style>
-        /* Add your custom CSS styles here */
+        body {
+            background: #121212;
+        }
     </style>
 </head>
 <body>
     <div id="chart"></div>
-
     <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="js/gannt.js"></script>
     <script>
         // Example dataset
-        const events = [
-            { name: "Federal Troops Sent", start: new Date(1794, 6, 16), end: new Date(1794, 6, 30) },
-            { name: "Rebellion Suppressed", start: new Date(1794, 7, 1), end: new Date(1794, 7, 14) },
-            { name: "Whiskey Rebellion Ends", start: new Date(1794, 7, 15), end: new Date(1794, 7, 31) },
-            { name: "Impact on Tax Collection", start: new Date(1794, 8, 1), end: new Date(1794, 8, 15) },
-            { name: "Legacy of the Rebellion", start: new Date(1794, 8, 16), end: new Date(1794, 8, 30) }
-        ];
+        
+        /*const data = [
+        {name: "The Election of Andrew Jackson in 1828", start: new Date(1828, 01, 01), end: new Date(1828, 12, 31)},{name: "The Bitter Campaign", start: new Date(1828, 01, 01), end: new Date(1828, 12, 31)},{name: "Rise of the Democratic Party", start: new Date(1828, 01, 01), end: new Date(1828, 12, 31)},{name: "The Spoils System", start: new Date(1829, 03, 04), end: new Date(1829, 03, 04)},{name: "Jacksonian Democracy", start: new Date(1829, 03, 04), end: new Date(1829, 03, 04)},{name: "The Nullification Crisis", start: new Date(1832, 11, 24), end: new Date(1833, 03, 01)},{name: "The Bank War", start: new Date(1832, 07, 10), end: new Date(1836, 01, 01)},{name: "The Petticoat Affair", start: new Date(1829, 03, 04), end: new Date(1831, 04, 07)},{name: "Margaret Eaton's Social Ostracism", start: new Date(1829, 03, 04), end: new Date(1829, 04, 30)},{name: "Andrew Jackson's Defense of the Eatons", start: new Date(1829, 05, 01), end: new Date(1829, 12, 31)},{name: "The Cabinet's Fracturing", start: new Date(1830, 01, 01), end: new Date(1830, 06, 30)},{name: "The Flour Sack Incident", start: new Date(1830, 07, 01), end: new Date(1830, 12, 31)},{name: "The Resignation of Cabinet Members", start: new Date(1831, 01, 01), end: new Date(1831, 04, 07)},{name: "Jacksonian Spoils System and the Petticoat Affair", start: new Date(1829, 03, 04), end: new Date(1831, 04, 01)},{name: "Jackson's Inauguration", start: new Date(1829, 03, 04), end: new Date(1829, 03, 04)},{name: "Implementation of the Spoils System", start: new Date(1829, 03, 04), end: new Date(1829, 12, 31)},{name: "The Petticoat Affair Begins", start: new Date(1829, 01, 01), end: new Date(1830, 12, 31)},{name: "Cabinet Rift", start: new Date(1830, 01, 01), end: new Date(1831, 04, 01)},{name: "Reshuffling the Cabinet", start: new Date(1831, 04, 01), end: new Date(1831, 04, 01)},{name: "American Spoils System", start: new Date(1829, 03, 04), end: new Date(1883, 01, 16)},{name: "Jacksonian Patronage", start: new Date(1829, 03, 04), end: new Date(1829, 12, 31)},{name: "Expansion and Entrenchment", start: new Date(1830, 01, 01), end: new Date(1860, 12, 31)},{name: "Civil War and the System's Growth", start: new Date(1861, 04, 12), end: new Date(1865, 04, 09)},{name: "Public Outcry and Demand for Reform", start: new Date(1866, 01, 01), end: new Date(1881, 07, 02)},{name: "Pendleton Civil Service Reform Act", start: new Date(1883, 01, 16), end: new Date(1883, 01, 16)},
+        {name: "The Election of Andrew Jackson in 1828", start: new Date(1828, 01, 01), end: new Date(1828, 12, 31)},{name: "The Spoils System and Civil Service Reform", start: new Date(1829, 01, 01), end: new Date(1883, 01, 16)},{name: "The Nullification Crisis", start: new Date(1832, 11, 24), end: new Date(1833, 03, 15)},{name: "The Indian Removal Act and the Trail of Tears", start: new Date(1830, 05, 28), end: new Date(1839, 12, 31)},{name: "The Bank War", start: new Date(1832, 01, 01), end: new Date(1836, 01, 01)},{name: "Expansion of the Franchise in the Early 19th Century", start: new Date(1800, 01, 01), end: new Date(1828, 01, 01)},{name: "The Corrupt Bargain: A Closer Look", start: new Date(1824, 12, 01), end: new Date(1825, 01, 01)},{name: "Patronage to Reform: The Civil Service Evolution", start: new Date(1829, 03, 04), end: new Date(1883, 01, 16)},{name: "The Pendleton Act and the Modern Civil Service", start: new Date(1883, 01, 16), end: new Date(2023, 04, 01)},{name: "Andrew Jackson's Presidential Policies", start: new Date(1829, 03, 04), end: new Date(1837, 03, 04)},{name: "The Assassination of James A. Garfield", start: new Date(1881, 07, 02), end: new Date(1881, 09, 19)},{name: "Government Efficiency and the Merit System", start: new Date(1883, 01, 16), end: new Date(2023, 04, 01)},{name: "Implementation of the Merit System in U.S. Civil Service", start: new Date(1883, 01, 16), end: new Date(2023, 01, 01)},{name: "Effects of Civil Service Reform on U.S. Bureaucracy", start: new Date(1883, 01, 17), end: new Date(2023, 01, 01)},{name: "Corruption in the Spoils System", start: new Date(1829, 03, 04), end: new Date(1883, 01, 15)},{name: "Impact of Merit-Based Hiring on Diversity and Equality", start: new Date(1964, 07, 02), end: new Date(2023, 01, 01)},{name: "Civil Service Systems Around the World", start: new Date(1883, 01, 17), end: new Date(2023, 01, 01)},{name: "Challenges to Modern Civil Service Reform", start: new Date(1978, 10, 14), end: new Date(2023, 01, 01)},{name: "The Hatch Act and Political Activities of Federal Employees", start: new Date(1939, 08, 02), end: new Date(2023, 01, 01)},{name: "The Evolution of the U.S. Office of Personnel Management", start: new Date(1978, 01, 01), end: new Date(2023, 01, 01)},{name: "Development of the British Civil Service", start: new Date(1854, 01, 01), end: new Date(1920, 01, 01)},{name: "Pendleton Civil Service Reform Act", start: new Date(1883, 01, 16), end: new Date(1883, 01, 16)},{name: "Bureaucratic Reforms in Meiji Japan", start: new Date(1868, 01, 01), end: new Date(1912, 01, 01)},{name: "French Civil Service Reforms Post-1946", start: new Date(1946, 01, 01), end: new Date(1958, 01, 01)},
+        ];*/
 
         // Set up the chart dimensions
-        const margin = { top: 20, right: 30, bottom: 30, left: 60 };
-        const width = 800 - margin.left - margin.right;
-        const height = 200 - margin.top - margin.bottom;
+        const margin = { top: 20, right: 30, bottom: 30, left: 200 };
+        const width = 1000 - margin.left - margin.right;
+        const height = 1200 - margin.top - margin.bottom;
 
         // Create the SVG container
         const svg = d3.select("#chart")
@@ -36,42 +36,50 @@
 
         // Set up the scales
         const xScale = d3.scaleTime()
-            .domain([d3.min(events, d => d.start), d3.max(events, d => d.end)])
+            .domain([d3.min(data, d => d.start), d3.max(data, d => d.end)])
             .range([0, width]);
 
         const yScale = d3.scaleBand()
-            .domain(events.map(d => d.name))
+            .domain(data.map(d => d.name))
             .range([0, height])
             .padding(0.1);
 
         // Draw the bars
         svg.selectAll("rect")
-            .data(events)
+            .data(data)
             .enter()
             .append("rect")
-            .attr("x", d => xScale(d.start))
-            .attr("y", d => yScale(d.name))
-            .attr("width", d => xScale(d.end) - xScale(d.start))
-            .attr("height", yScale.bandwidth())
-            .attr("fill", "lightblue");
+            .attr("x", d => xScale(d.start) + 10)
+            .attr("y", d => yScale(d.name) + yScale.bandwidth()/2 - 2)
+            .attr("width", d => xScale(d.end) - xScale(d.start) + 10)
+            .attr("height", yScale.bandwidth() / 5 + 1)
+            .attr("fill", d => (d.visited) ? "#109CEA" : "#0F4766")
 
         // Draw the labels
         svg.selectAll("text")
-            .data(events)
+            .data(data)
             .enter()
             .append("text")
-            .attr("x", d => xScale(d.start) + 5)
+            .attr("x", d => xScale(d.start) - 5)
             .attr("y", d => yScale(d.name) + yScale.bandwidth() / 2)
-            .text(d => d.name)
-            .attr("fill", "black")
+            .text(d => d.name +" (" + "Effect" + ")")
+            .attr("fill", "#999")
             .attr("font-size", "12px")
+            .attr("font-family", "sans-serif")
+            .attr("font-weight", "light")
+            .attr("text-anchor", "end")
             .attr("alignment-baseline", "middle");
 
+        
         // Draw the x-axis
         const xAxis = d3.axisBottom(xScale);
         svg.append("g")
             .attr("transform", `translate(0, ${height})`)
-            .call(xAxis);
+            .call(xAxis)
+            .selectAll("text")
+            .attr("fill", "#fff")
+            
+            ;
     </script>
 </body>
 </html>
