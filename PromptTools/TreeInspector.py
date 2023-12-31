@@ -73,7 +73,7 @@ s = Template(
     <div id="$id" style="flex:1;"></div>
     <div>
         <button id="clear-button">Clear</button>
-        <div id="text-container" style="overflow: auto; font-size: 14px; line-height: 1.3; height:100%; width:300px; border: 1px solid #999; color:#333; padding:20px;"></div>
+        <div id="text-container" style="overflow: auto; font-size: 14px; line-height: 1.3; height:100%; width:300px; border: 1px solid #999; color:#ccc; padding:20px;"></div>
     </div>
 </div>
 

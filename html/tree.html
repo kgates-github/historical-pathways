@@ -133,6 +133,18 @@
         return themesString
       }
 
+      function createPeopleSpan(people) {
+        
+        let themesString = "";
+        people.forEach(person => {
+          const color = colorScale(person);
+          themesString += "<div style='color:#fff; background-color:" + color + 
+          "; padding:0px 6px 0px 6px; border-radius:8px; margin-bottom:4px;'>" + person.name + ": " + person.description + "</div>";
+        });
+        
+        return themesString
+      }
+
       const visitedNodes = getVisitedNodes(selectedData);
 
       // Select the content div and remove its contents
@@ -144,12 +156,12 @@
           .append("div")
           .style("padding-right", "40px")
           .style("flex", "1")
-          .html("<div style='margin-bottom:16px; font-weight:500'>" + n.content.dates[0] + " - " + n.content.dates[1] + "</div>" +
-              "<div style='margin-bottom:16px;'>SUMMARY: " + 
-                n.content.summary + "</div><div style='margin-bottom:16px;'>INTRO: " + 
-                n.content.introduction + 
+          .html("<div style='margin-bottom:16px; font-weight:500'>" + n.content.dates["start"] + " - " + n.content.dates["end"] + "</div>" +
+              "<div style='margin-bottom:16px;'>DESCRIPTION: " + n.content.description + "</div>" + 
+              "<div style='margin-bottom:16px;'>INTRODUCTION: " + n.content.introduction + "</div>" + 
+              "<div style='margin-bottom:16px;'>CONCLUSION: " + n.content.conclusion + "</div>" + 
               "</div><div style='margin-bottom:16px;'>THEMES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.themes) + "</div>" +
-              "</div><div style='margin-bottom:16px;'>PEOPLE</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.people) + "</div>" +
+              "</div><div style='margin-bottom:16px;'>PEOPLE</div><div style='margin-bottom:16px;'>" + createPeopleSpan(n.content.people) + "</div>" +
               "</div><div style='margin-bottom:16px;'>PLACES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.places) + "</div>"
           )
       });
@@ -176,7 +188,7 @@
       .data(data)
       .enter()
       .append("option")
-      .text(d => d.name);
+      .text(d => d.name + d.menu);
 
     // Set the default selected option
     selectMenu.property("value", data[0].name);

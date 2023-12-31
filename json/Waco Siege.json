@@ -1,0 +1,720 @@
+[
+  {
+    "id": "c1169816-d0b4-4dba-814f-ac3a7c35907e",
+    "name": "Waco Siege",
+    "summary": "The Waco Siege was a deadly standoff between the U.S. federal government and the Branch Davidians, a religious sect led by David Koresh. It began when the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) attempted to raid the group's compound in Waco, Texas, suspecting illegal weapons. The initial raid resulted in a firefight and multiple casualties. The FBI then laid siege to the compound for 51 days. Negotiations failed, and the siege ended with a controversial FBI assault, leading to a fire that killed 76 Branch Davidians, including Koresh.",
+    "children": [
+      {
+        "id": "adf4f11f-b2da-4370-8cd5-3772550d2642",
+        "name": "Increased Militia Movement",
+        "children": [
+          {
+            "id": "2a873cfa-1a1e-43c5-97e8-fa799f54c537",
+            "name": "Oklahoma City Bombing",
+            "children": [
+              {
+                "id": "80fa61df-db71-4883-81ed-b17109f611a0",
+                "name": "Anti-Terrorism Legislation",
+                "children": [],
+                "summary": "In the aftermath of the Oklahoma City Bombing, the U.S. government enacted Anti-Terrorism Legislation to strengthen national security and prevent future terrorist attacks. The most significant of these was the Anti-Terrorism and Effective Death Penalty Act of 1996, signed by President Bill Clinton. This law expanded the government's powers to conduct surveillance, detain foreign suspects, and prosecute individuals for terrorism-related offenses. It also influenced subsequent legislation, including the USA PATRIOT Act, which further broadened surveillance and law enforcement capabilities after the September 11 attacks, sparking ongoing debates about the balance between security and civil liberties.",
+                "dates": [
+                  "1996",
+                  "Ongoing"
+                ],
+                "people": [
+                  "Bill Clinton",
+                  "Timothy McVeigh",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "United States"
+                ],
+                "events": [
+                  "Oklahoma City Bombing",
+                  "Waco Siege",
+                  "September 11 Attacks"
+                ],
+                "themes": [
+                  "National Security",
+                  "Civil Liberties",
+                  "Government Surveillance",
+                  "Counterterrorism",
+                  "Legal Reforms"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "98874ba2-8458-4fe8-80e3-9e381f359b11",
+                "name": "Increase in Security Measures",
+                "children": [],
+                "summary": "The Oklahoma City Bombing prompted a significant escalation in security measures across the United States. In response to the attack, the government implemented stricter security protocols at federal buildings, expanded surveillance capabilities, and increased interagency cooperation. The Antiterrorism and Effective Death Penalty Act of 1996 was passed, which tightened the standards for habeas corpus in the United States and granted new powers to law enforcement for the surveillance and prosecution of suspected terrorists. These changes marked a shift towards a more security-conscious society, balancing the need for safety with the protection of civil liberties.",
+                "dates": [
+                  "1995",
+                  "2001"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols",
+                  "Bill Clinton"
+                ],
+                "places": [
+                  "Oklahoma City",
+                  "Alfred P. Murrah Federal Building"
+                ],
+                "events": [
+                  "Waco Siege",
+                  "Ruby Ridge Standoff",
+                  "1993 World Trade Center Bombing"
+                ],
+                "themes": [
+                  "Domestic Terrorism",
+                  "Government Surveillance",
+                  "Civil Liberties",
+                  "National Security",
+                  "Anti-Government Sentiments"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "891aa954-8f74-46ca-807d-2fb920ccaee8",
+                "name": "Shift in Public Opinion",
+                "children": [],
+                "summary": "The Oklahoma City Bombing, as a manifestation of extreme anti-government sentiment, catalyzed a significant shift in public opinion regarding domestic terrorism and government oversight. The atrocity prompted a more cautious view of militia groups and skepticism towards the anti-government rhetoric that had been gaining traction. It also sparked discussions on the balance between civil liberties and national security, leading to increased support for government surveillance and counterterrorism measures. This shift was further influenced by the fear and vulnerability felt by the public, altering the political landscape and public trust in government institutions.",
+                "dates": [
+                  "1995-04-19",
+                  "1995-04-19"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "Oklahoma City",
+                  "Alfred P. Murrah Federal Building"
+                ],
+                "events": [
+                  {
+                    "name": "Waco Siege",
+                    "date": "1993-02-28"
+                  },
+                  {
+                    "name": "Ruby Ridge Standoff",
+                    "date": "1992-08-21"
+                  },
+                  {
+                    "name": "1993 World Trade Center Bombing",
+                    "date": "1993-02-26"
+                  },
+                  {
+                    "name": "1994 Crime Bill",
+                    "date": "1994-09-13"
+                  },
+                  {
+                    "name": "1996 Summer Olympics Bombing",
+                    "date": "1996-07-27"
+                  }
+                ],
+                "themes": [
+                  "Domestic Terrorism",
+                  "Government Surveillance",
+                  "Civil Liberties",
+                  "National Security",
+                  "Public Trust"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "72afa121-379f-461d-92b7-1a78db1b9ad1",
+                "name": "Government Surveillance Expansion",
+                "children": [],
+                "summary": "The Oklahoma City Bombing prompted the U.S. government to expand its surveillance capabilities to prevent future terrorist attacks. This expansion was part of a broader effort to enhance law enforcement's ability to monitor and infiltrate potential domestic and foreign threats. The event led to the implementation of stricter security protocols, increased intelligence sharing among agencies, and the passage of legislation such as the Antiterrorism and Effective Death Penalty Act of 1996. These measures aimed to balance national security interests with the protection of individual civil liberties, a debate that intensified after the subsequent 9/11 attacks.",
+                "dates": [
+                  "1995",
+                  "2001"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "Oklahoma City",
+                  "Alfred P. Murrah Federal Building"
+                ],
+                "events": [
+                  {
+                    "name": "Waco Siege",
+                    "date": "1993"
+                  },
+                  {
+                    "name": "Ruby Ridge Standoff",
+                    "date": "1992"
+                  },
+                  {
+                    "name": "First World Trade Center Bombing",
+                    "date": "1993"
+                  },
+                  {
+                    "name": "September 11 Attacks",
+                    "date": "2001"
+                  },
+                  {
+                    "name": "Passage of the Communications Assistance for Law Enforcement Act",
+                    "date": "1994"
+                  }
+                ],
+                "themes": [
+                  "National Security",
+                  "Civil Liberties",
+                  "Domestic Terrorism",
+                  "Government Policy",
+                  "Surveillance"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "86d01df2-73f9-4ac2-8e81-a6173a52cb83",
+                "name": "Domestic Terrorism Awareness",
+                "children": [],
+                "summary": "Domestic Terrorism Awareness grew significantly after the Oklahoma City Bombing, as the attack highlighted the potential for homegrown terrorism. The incident underscored the need for better intelligence and law enforcement strategies to prevent similar attacks. It led to increased scrutiny of militia groups and the expansion of legal tools to combat terrorism, such as the Antiterrorism and Effective Death Penalty Act of 1996. Awareness campaigns aimed to educate the public and officials on recognizing and reporting suspicious activities. The event also prompted discussions on balancing national security with the protection of civil liberties.",
+                "dates": [
+                  "1995-04-19",
+                  "Ongoing"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "Oklahoma City",
+                  "Alfred P. Murrah Federal Building"
+                ],
+                "events": [
+                  "Waco Siege",
+                  "Ruby Ridge Standoff",
+                  "1993 World Trade Center Bombing",
+                  "September 11 Attacks",
+                  "Passage of the USA PATRIOT Act",
+                  "Establishment of the Department of Homeland Security",
+                  "Snowden Revelations on NSA Surveillance",
+                  "Boston Marathon Bombing",
+                  "Charleston Church Shooting",
+                  "Capitol Hill Riot"
+                ],
+                "themes": [
+                  "Domestic Terrorism",
+                  "Government Surveillance",
+                  "Civil Liberties",
+                  "National Security",
+                  "Militia Movements",
+                  "Counterterrorism",
+                  "Public Safety",
+                  "Law Enforcement",
+                  "Intelligence Gathering",
+                  "Policy Making"
+                ],
+                "tier": 3
+              }
+            ],
+            "summary": "The Oklahoma City Bombing was a direct response to the Waco Siege, carried out by Timothy McVeigh and Terry Nichols, who were motivated by anti-government sentiments. On April 19, 1995, they detonated a truck bomb outside the Alfred P. Murrah Federal Building in Oklahoma City, killing 168 people and injuring hundreds. This act of domestic terrorism was the deadliest in U.S. history until September 11, 2001. It shocked the nation, leading to a reevaluation of security measures and the handling of militia groups, while also fueling debates over civil liberties and government surveillance.",
+            "dates": [
+              "1995-04-19",
+              "1995-04-19"
+            ],
+            "people": [
+              "Timothy McVeigh",
+              "Terry Nichols"
+            ],
+            "places": [
+              "Oklahoma City",
+              "Alfred P. Murrah Federal Building"
+            ],
+            "events": [
+              {
+                "name": "Waco Siege",
+                "date": "1993-02-28"
+              },
+              {
+                "name": "Ruby Ridge Standoff",
+                "date": "1992-08-21"
+              },
+              {
+                "name": "1993 World Trade Center Bombing",
+                "date": "1993-02-26"
+              },
+              {
+                "name": "Bosnian War",
+                "date": "1992-04-06"
+              },
+              {
+                "name": "Rwandan Genocide",
+                "date": "1994-04-07"
+              }
+            ],
+            "themes": [
+              "Domestic Terrorism",
+              "Anti-Government Sentiment",
+              "Militia Movement",
+              "Civil Liberties",
+              "National Security"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "56372c51-90b7-4eb4-92c5-20c7f7a4b60b",
+            "name": "Formation of Militias",
+            "children": [
+              {
+                "id": "7f938b58-ae6d-41d5-b7ab-24be3bf97654",
+                "name": "Oklahoma City Bombing",
+                "children": [],
+                "summary": "The Oklahoma City Bombing on April 19, 1995, was a direct response to the Waco Siege and other federal actions perceived as oppressive by extremists. Timothy McVeigh, influenced by the militia movement and seeking revenge against the federal government, detonated a truck bomb at the Alfred P. Murrah Federal Building. The attack killed 168 people, including children, and injured hundreds more, making it the deadliest act of domestic terrorism in U.S. history at the time. The bombing highlighted the dangers of domestic extremism and led to increased security measures and scrutiny of militia groups.",
+                "dates": [
+                  "1995-04-19",
+                  "1995-04-19"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "Oklahoma City, Oklahoma",
+                  "Alfred P. Murrah Federal Building"
+                ],
+                "events": [
+                  "Waco Siege (1993)",
+                  "Ruby Ridge (1992)",
+                  "Passage of the Brady Bill (1993)",
+                  "1993 World Trade Center bombing",
+                  "1994 Crime Bill"
+                ],
+                "themes": [
+                  "Domestic Terrorism",
+                  "Anti-Government Sentiment",
+                  "Militia Movement",
+                  "Federal Law Enforcement",
+                  "National Security"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "3f6d9892-e591-461a-934f-1c8208fe1953",
+                "name": "Growth of Sovereign Citizen Movement",
+                "children": [],
+                "summary": "The Sovereign Citizen Movement, an offshoot of the militia movement, gained momentum in the 1990s, fueled by the same distrust in federal authority. Sovereign citizens reject the legitimacy of government, believing they are not subject to most laws, taxes, or legal processes. They often engage in 'paper terrorism' by filing frivolous lawsuits and liens against government officials. The movement's growth was further amplified by the internet, which facilitated the spread of sovereign citizen ideology. This ideology often leads to confrontations with law enforcement, as adherents refuse to recognize their authority, sometimes resulting in violence.",
+                "dates": [
+                  "1990s",
+                  "Present"
+                ],
+                "people": [
+                  "Gordon Kahl",
+                  "Terry Nichols"
+                ],
+                "places": [
+                  "United States",
+                  "Montana",
+                  "Oklahoma"
+                ],
+                "events": [
+                  "Waco Siege",
+                  "Oklahoma City Bombing",
+                  "Ruby Ridge Standoff"
+                ],
+                "themes": [
+                  "Anti-Government Ideology",
+                  "Civil Liberties",
+                  "Militia Movements",
+                  "Conspiracy Theories",
+                  "Legal Activism"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "27456a9f-a9b0-42f3-81b3-1502e3f25d88",
+                "name": "Montana Freemen Standoff",
+                "children": [],
+                "summary": "In the wake of the Waco Siege, the Montana Freemen, a sovereign citizen extremist group, embodied the militia movement's distrust of federal authority. In 1996, they engaged in a prolonged standoff with the FBI after declaring themselves independent from the United States and issuing fraudulent financial instruments. The 81-day siege at their ranch in Jordan, Montana, ended peacefully, but highlighted the growing tension between anti-government groups and law enforcement, and the challenges in addressing domestic extremism without inciting further violence or martyrdom among radicalized individuals.",
+                "dates": [
+                  "1996-03-25",
+                  "1996-06-13"
+                ],
+                "people": [
+                  "LeRoy Schweitzer",
+                  "Daniel Petersen",
+                  "Rodney Skurdal"
+                ],
+                "places": [
+                  "Jordan, Montana"
+                ],
+                "events": [
+                  "Oklahoma City Bombing (1995)",
+                  "Ruby Ridge (1992)",
+                  "Waco Siege (1993)",
+                  "Passage of the Antiterrorism and Effective Death Penalty Act (1996)"
+                ],
+                "themes": [
+                  "Anti-government extremism",
+                  "Militia movements",
+                  "Sovereign citizen ideology",
+                  "Federal law enforcement",
+                  "Civil liberties"
+                ],
+                "tier": 3
+              },
+              {
+                "id": "a7b290d3-dfc9-43c8-84f3-61325cd615aa",
+                "name": "Formation of New Militia Groups",
+                "children": [],
+                "summary": "The expansion of the militia movement in the 1990s was a direct response to events like the Waco Siege, which fueled distrust in the federal government. These civilian militias, often heavily armed and ideologically driven, saw themselves as defenders of personal freedoms and the Second Amendment. The internet facilitated the dissemination of extremist views and conspiracy theories, further inflaming anti-government sentiments. The Oklahoma City bombing in 1995, carried out by individuals with militia sympathies, underscored the potential for violence within this movement. Despite crackdowns, the ideology persisted, influencing various anti-government actions and rhetoric into the 21st century.",
+                "dates": [
+                  "1993",
+                  "1999"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols",
+                  "Mark Koernke"
+                ],
+                "places": [
+                  "United States",
+                  "Michigan",
+                  "Montana",
+                  "Oklahoma City"
+                ],
+                "events": [
+                  "Waco Siege",
+                  "Ruby Ridge Standoff",
+                  "1994 Assault Weapons Ban",
+                  "Branch Davidian Trial"
+                ],
+                "themes": [
+                  "Anti-Government",
+                  "Second Amendment Advocacy",
+                  "Paramilitary Organizations",
+                  "Civil Liberties",
+                  "Conspiracy Theories",
+                  "Right-Wing Extremism"
+                ],
+                "tier": 3
+              }
+            ],
+            "summary": "The Waco Siege's aftermath intensified fears of government overreach, catalyzing the expansion of the militia movement in the United States. This movement, comprising civilian groups with a paramilitary structure, grew significantly during the 1990s. Members, often driven by a staunch belief in the Second Amendment and a suspicion of federal authority, organized and trained in preparation for perceived threats to personal freedoms. The movement's growth was also propelled by the spread of extremist ideologies and conspiracy theories, which painted the federal government as an imminent oppressor, leading to a surge in militia activities and recruitment.",
+            "dates": [
+              "1993",
+              "1999"
+            ],
+            "people": [
+              "Timothy McVeigh",
+              "Randy Weaver",
+              "David Koresh"
+            ],
+            "places": [
+              "Waco, Texas",
+              "Oklahoma City, Oklahoma",
+              "Jordan, Montana"
+            ],
+            "events": [
+              "Fall of the Soviet Union",
+              "Rwandan Genocide",
+              "Bosnian War",
+              "Internet Expansion"
+            ],
+            "themes": [
+              "Anti-Government Sentiment",
+              "Paramilitary Organization",
+              "Civil Liberties",
+              "Second Amendment Advocacy",
+              "Conspiracy Theories"
+            ],
+            "tier": 2
+          },
+          {
+            "id": "afc8d3f8-b631-48d2-bb27-bd4a3a72d126",
+            "name": "Montana Freemen Standoff",
+            "children": [
+              {
+                "id": "58d9daaf-3861-48ea-bb8a-0098a098630b",
+                "name": "Increased Federal Patience",
+                "children": [],
+                "summary": "The Montana Freemen Standoff marked a pivotal shift in federal law enforcement tactics, demonstrating increased patience and restraint. This approach was a conscious departure from previous confrontational strategies, as seen in the Waco Siege and Ruby Ridge incidents, which resulted in significant loss of life and public outcry. The federal government's decision to employ negotiation and wait out the Freemen reflected a new emphasis on de-escalation and minimizing violence. This strategy proved successful, as it led to a peaceful resolution without casualties, setting a precedent for handling future standoffs with anti-government groups.",
+                "dates": [
+                  "1996-03-25",
+                  "1996-06-13"
+                ],
+                "people": [
+                  "LeRoy Schweitzer",
+                  "Daniel E. Petersen",
+                  "Ralph Clark"
+                ],
+                "places": [
+                  "Jordan, Montana",
+                  "United States"
+                ],
+                "events": [
+                  {
+                    "name": "Waco Siege",
+                    "date": "1993-02-28"
+                  },
+                  {
+                    "name": "Ruby Ridge",
+                    "date": "1992-08-21"
+                  },
+                  {
+                    "name": "Oklahoma City Bombing",
+                    "date": "1995-04-19"
+                  }
+                ],
+                "themes": [
+                  "Law Enforcement Tactics",
+                  "Anti-Government Movements",
+                  "Federal Crisis Management",
+                  "De-Escalation Strategies"
+                ],
+                "tier": 3
+              }
+            ],
+            "summary": "The Montana Freemen Standoff was a direct consequence of the burgeoning militia movement in the 1990s, which itself was partly a reaction to events like the Waco Siege. In 1996, a group known as the Montana Freemen, who rejected government authority and espoused sovereign citizen beliefs, engaged in an 81-day standoff with federal agents. The standoff began after the Freemen faced legal actions for bank fraud and threatening public officials. The FBI opted for a patient, non-confrontational approach, avoiding a repeat of Waco's violence. The standoff ended peacefully with the surrender of the Freemen, highlighting a shift in federal tactics.",
+            "dates": [
+              "1996-03-25",
+              "1996-06-13"
+            ],
+            "people": [
+              "LeRoy Schweitzer",
+              "Daniel Petersen",
+              "Ralph Clark",
+              "Charles Duke"
+            ],
+            "places": [
+              "Jordan, Montana",
+              "Garfield County, Montana"
+            ],
+            "events": [
+              "Oklahoma City Bombing (1995)",
+              "Ruby Ridge (1992)",
+              "Waco Siege (1993)",
+              "Passage of the Anti-Terrorism and Effective Death Penalty Act (1996)"
+            ],
+            "themes": [
+              "Anti-Government Extremism",
+              "Militia Movement",
+              "Federal Law Enforcement",
+              "Civil Liberties",
+              "Sovereign Citizen Ideology"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "The Waco Siege's violent and tragic conclusion had a profound impact on the American psyche, particularly among those distrustful of the federal government. It became a rallying cry for the growth of the militia movement, which saw the government's actions as tyrannical overreach. This movement, characterized by paramilitary organizations espousing anti-government sentiments, gained momentum throughout the 1990s. Members feared government infringement on civil liberties and the right to bear arms. The movement's expansion was marked by increased recruitment, training activities, and the proliferation of extremist ideologies, often fueled by conspiracy theories and a sense of impending government oppression.",
+        "dates": [
+          "1993-04-19",
+          "1999-12-31"
+        ],
+        "people": [
+          "Timothy McVeigh",
+          "Terry Nichols",
+          "Mark Koernke",
+          "Norm Olson"
+        ],
+        "places": [
+          "Waco, Texas",
+          "Oklahoma City, Oklahoma",
+          "Jordan, Montana",
+          "Hutaree, Michigan"
+        ],
+        "events": [
+          "Fall of the Soviet Union",
+          "Rwandan Genocide",
+          "First Chechen War",
+          "Nelson Mandela's Presidency"
+        ],
+        "themes": [
+          "Anti-Government Sentiment",
+          "Right to Bear Arms",
+          "Civil Liberties",
+          "Paramilitary Organizations",
+          "Conspiracy Theories",
+          "Federal Law Enforcement",
+          "Ruby Ridge Aftermath",
+          "Domestic Terrorism",
+          "Survivalism",
+          "Patriot Movement"
+        ],
+        "tier": 1
+      },
+      {
+        "id": "78a2b428-99c6-4319-898d-0098ee761a5c",
+        "name": "Oklahoma City Bombing",
+        "children": [
+          {
+            "id": "0a626281-92fa-4bf3-832b-7846b48625a1",
+            "name": "Anti-Government Sentiment",
+            "children": [
+              {
+                "id": "65ad167e-d4ce-40e2-98ed-f3474604d950",
+                "name": "Increased Security Measures",
+                "children": [],
+                "summary": "In response to acts of domestic terrorism, such as the Oklahoma City Bombing, governments often implement increased security measures to prevent future incidents. These measures may include heightened surveillance, stricter law enforcement powers, and more rigorous screening processes. While intended to safeguard the public, they can also fuel further anti-government sentiment, especially among those who view them as further encroachments on civil liberties. The balance between security and freedom becomes a contentious issue, with debates centering on the extent to which governments should be allowed to limit individual rights in the name of national safety.",
+                "dates": [
+                  "1995-04-19",
+                  "Indefinite"
+                ],
+                "people": [
+                  "Timothy McVeigh",
+                  "Terry Nichols",
+                  "George W. Bush",
+                  "John Ashcroft"
+                ],
+                "places": [
+                  "Oklahoma City",
+                  "United States"
+                ],
+                "events": [
+                  "Ruby Ridge Standoff (1992)",
+                  "Waco Siege (1993)",
+                  "9/11 Attacks (2001)"
+                ],
+                "themes": [
+                  "National Security",
+                  "Civil Liberties",
+                  "Government Surveillance",
+                  "Counterterrorism",
+                  "Public Safety"
+                ],
+                "tier": 3
+              }
+            ],
+            "summary": "Anti-Government Sentiment often manifests as distrust or hostility towards a nation's government and its policies. The Oklahoma City Bombing exemplified extreme anti-government sentiment, where the perpetrators, motivated by their opposition to federal law enforcement actions at Waco and Ruby Ridge, sought to avenge perceived government overreach. This sentiment can stem from various factors, including perceived infringement on civil liberties, economic grievances, or ideological beliefs. It can lead to protests, civil disobedience, and in extreme cases, acts of domestic terrorism, as individuals or groups attempt to challenge or undermine government authority.",
+            "dates": [
+              "1995-04-19",
+              "1995-04-19"
+            ],
+            "people": [
+              "Timothy McVeigh",
+              "Terry Nichols"
+            ],
+            "places": [
+              "Oklahoma City",
+              "Alfred P. Murrah Federal Building"
+            ],
+            "events": [
+              {
+                "name": "Waco Siege",
+                "date": "1993-02-28"
+              },
+              {
+                "name": "Ruby Ridge",
+                "date": "1992-08-21"
+              },
+              {
+                "name": "Passage of the Antiterrorism and Effective Death Penalty Act",
+                "date": "1996-04-24"
+              },
+              {
+                "name": "9/11 Terrorist Attacks",
+                "date": "2001-09-11"
+              }
+            ],
+            "themes": [
+              "Domestic Terrorism",
+              "Government Distrust",
+              "Civil Liberties",
+              "Law Enforcement"
+            ],
+            "tier": 2
+          }
+        ],
+        "summary": "The Oklahoma City Bombing was a domestic terrorist truck bombing on the Alfred P. Murrah Federal Building in downtown Oklahoma City on April 19, 1995. Carried out by Timothy McVeigh and Terry Nichols, the bombing killed 168 people and injured over 680 others. The attack was in retaliation for the government's handling of the Waco Siege and the Ruby Ridge incident. It was the deadliest act of terrorism in the United States prior to the September 11 attacks and remains the deadliest act of domestic terrorism in U.S. history.",
+        "dates": [
+          "1995-04-19",
+          "1995-04-19"
+        ],
+        "people": [
+          "Timothy McVeigh",
+          "Terry Nichols"
+        ],
+        "places": [
+          "Oklahoma City",
+          "Alfred P. Murrah Federal Building"
+        ],
+        "events": [
+          {
+            "name": "Waco Siege",
+            "date": "1993-02-28"
+          },
+          {
+            "name": "Ruby Ridge Standoff",
+            "date": "1992-08-21"
+          },
+          {
+            "name": "1993 World Trade Center Bombing",
+            "date": "1993-02-26"
+          },
+          {
+            "name": "First Chechen War",
+            "date": "1994-12-11"
+          },
+          {
+            "name": "Rwandan Genocide",
+            "date": "1994-04-07"
+          },
+          {
+            "name": "Nelson Mandela Elected",
+            "date": "1994-05-10"
+          },
+          {
+            "name": "Bosnian War",
+            "date": "1992-04-06"
+          },
+          {
+            "name": "North American Free Trade Agreement (NAFTA) Implementation",
+            "date": "1994-01-01"
+          },
+          {
+            "name": "Israeli Prime Minister Yitzhak Rabin Assassination",
+            "date": "1995-11-04"
+          },
+          {
+            "name": "Srebrenica Massacre",
+            "date": "1995-07-11"
+          }
+        ],
+        "themes": [
+          "Domestic Terrorism",
+          "Anti-Government Movements",
+          "National Security",
+          "Law Enforcement",
+          "Memorialization",
+          "Victim Advocacy",
+          "Legal and Legislative Response",
+          "Conspiracy Theories"
+        ],
+        "tier": 1
+      }
+    ],
+    "dates": [
+      "1993-02-28",
+      "1993-04-19"
+    ],
+    "people": [
+      "David Koresh",
+      "Janet Reno",
+      "Timothy McVeigh"
+    ],
+    "places": [
+      "Waco, Texas",
+      "Mount Carmel Center"
+    ],
+    "events": [
+      "End of the Cold War",
+      "Somali Civil War",
+      "Bosnian War"
+    ],
+    "themes": [
+      "Religious Extremism",
+      "Government Siege",
+      "Law Enforcement",
+      "Civil Liberties",
+      "Gun Control"
+    ],
+    "tier": 0
+  }
+]

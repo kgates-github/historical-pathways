@@ -1,0 +1,1666 @@
+{
+  "name": "The Election of Ronald Reagan",
+  "children": [
+    {
+      "name": "Economic Policy Shift",
+      "score": 10
+    },
+    {
+      "name": "Cold War Escalation",
+      "score": 8
+    },
+    {
+      "name": "Deregulation",
+      "score": 7
+    },
+    {
+      "name": "Tax Cuts",
+      "score": 9
+    },
+    {
+      "name": "Military Buildup",
+      "score": 7
+    },
+    {
+      "name": "War on Drugs",
+      "score": 6,
+      "children": [
+        {
+          "name": "Surge in Incarceration Rates",
+          "score": 9
+        },
+        {
+          "name": "Expansion of Law Enforcement",
+          "score": 8
+        },
+        {
+          "name": "Introduction of Mandatory Minimums",
+          "score": 8
+        },
+        {
+          "name": "Escalation of U.S.-Led International Drug Control",
+          "score": 7,
+          "children": [
+            {
+              "name": "Expansion of the DEA",
+              "score": 8
+            },
+            {
+              "name": "Implementation of Mandatory Minimum Sentencing",
+              "score": 10
+            },
+            {
+              "name": "Establishment of 'Just Say No' Campaign",
+              "score": 7
+            },
+            {
+              "name": "Certification Process for Drug-Producing Countries",
+              "score": 7,
+              "children": [
+                {
+                  "name": "Strained U.S.-Bolivia relations",
+                  "score": 7
+                },
+                {
+                  "name": "Increased Andean Region militarization",
+                  "score": 6
+                },
+                {
+                  "name": "U.S. financial sanctions implementation",
+                  "score": 5
+                },
+                {
+                  "name": "Reinforcement of Plan Colombia",
+                  "score": 8
+                },
+                {
+                  "name": "Alteration of U.S.-Mexico relations",
+                  "score": 6
+                },
+                {
+                  "name": "Influence on NAFTA negotiations",
+                  "score": 4
+                },
+                {
+                  "name": "Shift in narcotics trafficking routes",
+                  "score": 5
+                },
+                {
+                  "name": "Erosion of sovereignty of affected countries",
+                  "score": 6
+                },
+                {
+                  "name": "Adoption of crop substitution programs",
+                  "score": 3
+                },
+                {
+                  "name": "Human rights violations allegations",
+                  "score": 5
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                "name": "Certification Process for Drug-Producing Countries",
+                "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                "dates": [
+                  "1986",
+                  "Ongoing"
+                ],
+                "effects": [
+                  {
+                    "name": "Strained U.S.-Bolivia relations",
+                    "score": 7
+                  },
+                  {
+                    "name": "Increased Andean Region militarization",
+                    "score": 6
+                  },
+                  {
+                    "name": "U.S. financial sanctions implementation",
+                    "score": 5
+                  },
+                  {
+                    "name": "Reinforcement of Plan Colombia",
+                    "score": 8
+                  },
+                  {
+                    "name": "Alteration of U.S.-Mexico relations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Influence on NAFTA negotiations",
+                    "score": 4
+                  },
+                  {
+                    "name": "Shift in narcotics trafficking routes",
+                    "score": 5
+                  },
+                  {
+                    "name": "Erosion of sovereignty of affected countries",
+                    "score": 6
+                  },
+                  {
+                    "name": "Adoption of crop substitution programs",
+                    "score": 3
+                  },
+                  {
+                    "name": "Human rights violations allegations",
+                    "score": 5
+                  }
+                ],
+                "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                "people": [
+                  "Ronald Reagan",
+                  "George H.W. Bush",
+                  "Bill Clinton",
+                  "Evo Morales"
+                ],
+                "places": [
+                  "Bolivia",
+                  "Colombia",
+                  "Mexico",
+                  "United States"
+                ],
+                "themes": [
+                  "International Policy",
+                  "War on Drugs",
+                  "Geopolitics",
+                  "Drug Trafficking"
+                ]
+              }
+            },
+            {
+              "name": "Increased Military Involvement in Drug Interdiction",
+              "score": 9
+            },
+            {
+              "name": "Passing of the Anti-Drug Abuse Act of 1986",
+              "score": 10
+            },
+            {
+              "name": "Creation of the Office of National Drug Control Policy",
+              "score": 7
+            },
+            {
+              "name": "Surge in Prison Population",
+              "score": 9
+            },
+            {
+              "name": "Intensified U.S. Foreign Policy on Drug Control",
+              "score": 8
+            }
+          ],
+          "visited": "true",
+          "content": {
+            "introduction": "The election of Ronald Reagan marked the intensification of U.S.-led international drug control efforts. This initiative sought to curb the global drug trade and its domestic impacts. Preceding these efforts was Reagan's commitment to a conservative agenda, which strongly emphasized law and order, and his belief that drug abuse was a threat to American society and youth.",
+            "name": "Escalation of U.S.-Led International Drug Control",
+            "summary": "Reagan's presidency escalated international drug control, leading to widespread effects on global policy, incarceration rates, and the war on drugs narrative.",
+            "dates": [
+              "1981",
+              "1989"
+            ],
+            "effects": [
+              {
+                "name": "Expansion of the DEA",
+                "score": 8
+              },
+              {
+                "name": "Implementation of Mandatory Minimum Sentencing",
+                "score": 10
+              },
+              {
+                "name": "Establishment of 'Just Say No' Campaign",
+                "score": 7
+              },
+              {
+                "name": "Certification Process for Drug-Producing Countries",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Strained U.S.-Bolivia relations",
+                    "score": 7
+                  },
+                  {
+                    "name": "Increased Andean Region militarization",
+                    "score": 6
+                  },
+                  {
+                    "name": "U.S. financial sanctions implementation",
+                    "score": 5
+                  },
+                  {
+                    "name": "Reinforcement of Plan Colombia",
+                    "score": 8
+                  },
+                  {
+                    "name": "Alteration of U.S.-Mexico relations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Influence on NAFTA negotiations",
+                    "score": 4
+                  },
+                  {
+                    "name": "Shift in narcotics trafficking routes",
+                    "score": 5
+                  },
+                  {
+                    "name": "Erosion of sovereignty of affected countries",
+                    "score": 6
+                  },
+                  {
+                    "name": "Adoption of crop substitution programs",
+                    "score": 3
+                  },
+                  {
+                    "name": "Human rights violations allegations",
+                    "score": 5
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                  "dates": [
+                    "1986",
+                    "Ongoing"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                  "people": [
+                    "Ronald Reagan",
+                    "George H.W. Bush",
+                    "Bill Clinton",
+                    "Evo Morales"
+                  ],
+                  "places": [
+                    "Bolivia",
+                    "Colombia",
+                    "Mexico",
+                    "United States"
+                  ],
+                  "themes": [
+                    "International Policy",
+                    "War on Drugs",
+                    "Geopolitics",
+                    "Drug Trafficking"
+                  ]
+                }
+              },
+              {
+                "name": "Increased Military Involvement in Drug Interdiction",
+                "score": 9
+              },
+              {
+                "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                "score": 10
+              },
+              {
+                "name": "Creation of the Office of National Drug Control Policy",
+                "score": 7
+              },
+              {
+                "name": "Surge in Prison Population",
+                "score": 9
+              },
+              {
+                "name": "Intensified U.S. Foreign Policy on Drug Control",
+                "score": 8
+              }
+            ],
+            "conclusion": "The Reagan administration's commitment to a stringent anti-drug policy brought forth a new era of drug control that expanded both domestically and internationally, leading to dramatic shifts in law enforcement, foreign relations, and the criminal justice system.",
+            "people": [
+              "Ronald Reagan",
+              "Nancy Reagan",
+              "William Bennett",
+              "George H.W. Bush"
+            ],
+            "places": [
+              "United States",
+              "Latin America",
+              "Golden Triangle",
+              "Golden Crescent"
+            ],
+            "themes": [
+              "War on Drugs",
+              "U.S. Foreign Policy",
+              "Criminal Justice Reform",
+              "Public Health"
+            ]
+          }
+        },
+        {
+          "name": "Creation of the 'Just Say No' Campaign",
+          "score": 6
+        },
+        {
+          "name": "Disproportionate Impact on Minority Communities",
+          "score": 8
+        },
+        {
+          "name": "Crack Epidemic and Associated Violence",
+          "score": 7
+        },
+        {
+          "name": "Anti-Drug Abuse Acts of 1986 and 1988",
+          "score": 8
+        },
+        {
+          "name": "Expansion of Death Penalty Eligibility",
+          "score": 5
+        },
+        {
+          "name": "Development of Private Prison Industry",
+          "score": 6
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "introduction": "The War on Drugs, amplified under Ronald Reagan, profoundly altered U.S. domestic and foreign policy. It fueled unprecedented prison growth and shaped global drug control approaches. Reagan's election pivotally shifted focus to stringent enforcement and criminalization of drug use, catalyzing a nationwide crackdown on narcotics.",
+        "name": "War on Drugs",
+        "summary": "Reagan's War on Drugs led to mass incarcerations, shifted law enforcement priorities, and influenced international drug policies.",
+        "dates": [
+          "1981",
+          "1989"
+        ],
+        "effects": [
+          {
+            "name": "Surge in Incarceration Rates",
+            "score": 9
+          },
+          {
+            "name": "Expansion of Law Enforcement",
+            "score": 8
+          },
+          {
+            "name": "Introduction of Mandatory Minimums",
+            "score": 8
+          },
+          {
+            "name": "Escalation of U.S.-Led International Drug Control",
+            "score": 7,
+            "children": [
+              {
+                "name": "Expansion of the DEA",
+                "score": 8
+              },
+              {
+                "name": "Implementation of Mandatory Minimum Sentencing",
+                "score": 10
+              },
+              {
+                "name": "Establishment of 'Just Say No' Campaign",
+                "score": 7
+              },
+              {
+                "name": "Certification Process for Drug-Producing Countries",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Strained U.S.-Bolivia relations",
+                    "score": 7
+                  },
+                  {
+                    "name": "Increased Andean Region militarization",
+                    "score": 6
+                  },
+                  {
+                    "name": "U.S. financial sanctions implementation",
+                    "score": 5
+                  },
+                  {
+                    "name": "Reinforcement of Plan Colombia",
+                    "score": 8
+                  },
+                  {
+                    "name": "Alteration of U.S.-Mexico relations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Influence on NAFTA negotiations",
+                    "score": 4
+                  },
+                  {
+                    "name": "Shift in narcotics trafficking routes",
+                    "score": 5
+                  },
+                  {
+                    "name": "Erosion of sovereignty of affected countries",
+                    "score": 6
+                  },
+                  {
+                    "name": "Adoption of crop substitution programs",
+                    "score": 3
+                  },
+                  {
+                    "name": "Human rights violations allegations",
+                    "score": 5
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                  "dates": [
+                    "1986",
+                    "Ongoing"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                  "people": [
+                    "Ronald Reagan",
+                    "George H.W. Bush",
+                    "Bill Clinton",
+                    "Evo Morales"
+                  ],
+                  "places": [
+                    "Bolivia",
+                    "Colombia",
+                    "Mexico",
+                    "United States"
+                  ],
+                  "themes": [
+                    "International Policy",
+                    "War on Drugs",
+                    "Geopolitics",
+                    "Drug Trafficking"
+                  ]
+                }
+              },
+              {
+                "name": "Increased Military Involvement in Drug Interdiction",
+                "score": 9
+              },
+              {
+                "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                "score": 10
+              },
+              {
+                "name": "Creation of the Office of National Drug Control Policy",
+                "score": 7
+              },
+              {
+                "name": "Surge in Prison Population",
+                "score": 9
+              },
+              {
+                "name": "Intensified U.S. Foreign Policy on Drug Control",
+                "score": 8
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The election of Ronald Reagan marked the intensification of U.S.-led international drug control efforts. This initiative sought to curb the global drug trade and its domestic impacts. Preceding these efforts was Reagan's commitment to a conservative agenda, which strongly emphasized law and order, and his belief that drug abuse was a threat to American society and youth.",
+              "name": "Escalation of U.S.-Led International Drug Control",
+              "summary": "Reagan's presidency escalated international drug control, leading to widespread effects on global policy, incarceration rates, and the war on drugs narrative.",
+              "dates": [
+                "1981",
+                "1989"
+              ],
+              "effects": [
+                {
+                  "name": "Expansion of the DEA",
+                  "score": 8
+                },
+                {
+                  "name": "Implementation of Mandatory Minimum Sentencing",
+                  "score": 10
+                },
+                {
+                  "name": "Establishment of 'Just Say No' Campaign",
+                  "score": 7
+                },
+                {
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                    "name": "Certification Process for Drug-Producing Countries",
+                    "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                    "dates": [
+                      "1986",
+                      "Ongoing"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Strained U.S.-Bolivia relations",
+                        "score": 7
+                      },
+                      {
+                        "name": "Increased Andean Region militarization",
+                        "score": 6
+                      },
+                      {
+                        "name": "U.S. financial sanctions implementation",
+                        "score": 5
+                      },
+                      {
+                        "name": "Reinforcement of Plan Colombia",
+                        "score": 8
+                      },
+                      {
+                        "name": "Alteration of U.S.-Mexico relations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Influence on NAFTA negotiations",
+                        "score": 4
+                      },
+                      {
+                        "name": "Shift in narcotics trafficking routes",
+                        "score": 5
+                      },
+                      {
+                        "name": "Erosion of sovereignty of affected countries",
+                        "score": 6
+                      },
+                      {
+                        "name": "Adoption of crop substitution programs",
+                        "score": 3
+                      },
+                      {
+                        "name": "Human rights violations allegations",
+                        "score": 5
+                      }
+                    ],
+                    "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                    "people": [
+                      "Ronald Reagan",
+                      "George H.W. Bush",
+                      "Bill Clinton",
+                      "Evo Morales"
+                    ],
+                    "places": [
+                      "Bolivia",
+                      "Colombia",
+                      "Mexico",
+                      "United States"
+                    ],
+                    "themes": [
+                      "International Policy",
+                      "War on Drugs",
+                      "Geopolitics",
+                      "Drug Trafficking"
+                    ]
+                  }
+                },
+                {
+                  "name": "Increased Military Involvement in Drug Interdiction",
+                  "score": 9
+                },
+                {
+                  "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                  "score": 10
+                },
+                {
+                  "name": "Creation of the Office of National Drug Control Policy",
+                  "score": 7
+                },
+                {
+                  "name": "Surge in Prison Population",
+                  "score": 9
+                },
+                {
+                  "name": "Intensified U.S. Foreign Policy on Drug Control",
+                  "score": 8
+                }
+              ],
+              "conclusion": "The Reagan administration's commitment to a stringent anti-drug policy brought forth a new era of drug control that expanded both domestically and internationally, leading to dramatic shifts in law enforcement, foreign relations, and the criminal justice system.",
+              "people": [
+                "Ronald Reagan",
+                "Nancy Reagan",
+                "William Bennett",
+                "George H.W. Bush"
+              ],
+              "places": [
+                "United States",
+                "Latin America",
+                "Golden Triangle",
+                "Golden Crescent"
+              ],
+              "themes": [
+                "War on Drugs",
+                "U.S. Foreign Policy",
+                "Criminal Justice Reform",
+                "Public Health"
+              ]
+            }
+          },
+          {
+            "name": "Creation of the 'Just Say No' Campaign",
+            "score": 6
+          },
+          {
+            "name": "Disproportionate Impact on Minority Communities",
+            "score": 8
+          },
+          {
+            "name": "Crack Epidemic and Associated Violence",
+            "score": 7
+          },
+          {
+            "name": "Anti-Drug Abuse Acts of 1986 and 1988",
+            "score": 8
+          },
+          {
+            "name": "Expansion of Death Penalty Eligibility",
+            "score": 5
+          },
+          {
+            "name": "Development of Private Prison Industry",
+            "score": 6
+          }
+        ],
+        "conclusion": "Reagan's War on Drugs triggered a cascade of policies favoring incarceration over rehabilitation, which are still debated today due to their lasting impact on society and the justice system.",
+        "people": [
+          "Ronald Reagan",
+          "Nancy Reagan",
+          "William Bennett",
+          "George H.W. Bush"
+        ],
+        "places": [
+          "United States",
+          "South America",
+          "Inner-city Communities",
+          "Federal Prisons"
+        ],
+        "themes": [
+          "Law and Order",
+          "Public Health",
+          "Social Inequality",
+          "International Relations"
+        ]
+      }
+    },
+    {
+      "name": "Air Traffic Controllers' Strike",
+      "score": 5
+    },
+    {
+      "name": "Appointment of Conservative Judges",
+      "score": 8
+    },
+    {
+      "name": "Rise of the Religious Right",
+      "score": 5
+    },
+    {
+      "name": "Reduction of Welfare State",
+      "score": 6
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "introduction": "The election of Ronald Reagan in 1980 marked a substantial rightward shift in American politics, signaling the rise of conservative values. It ended an era of Democratic dominance post-Watergate. Prior to his election, America faced economic stagnation, the Iran Hostage Crisis, and declining confidence in government.",
+    "name": "The Election of Ronald Reagan",
+    "summary": "Ronald Reagan's victory in 1980 initiated conservative policies, military build-up, and economic changes known as Reaganomics, impacting U.S. and global politics.",
+    "dates": [
+      "1980",
+      "1980"
+    ],
+    "effects": [
+      {
+        "name": "Economic Policy Shift",
+        "score": 10
+      },
+      {
+        "name": "Cold War Escalation",
+        "score": 8
+      },
+      {
+        "name": "Deregulation",
+        "score": 7
+      },
+      {
+        "name": "Tax Cuts",
+        "score": 9
+      },
+      {
+        "name": "Military Buildup",
+        "score": 7
+      },
+      {
+        "name": "War on Drugs",
+        "score": 6,
+        "children": [
+          {
+            "name": "Surge in Incarceration Rates",
+            "score": 9
+          },
+          {
+            "name": "Expansion of Law Enforcement",
+            "score": 8
+          },
+          {
+            "name": "Introduction of Mandatory Minimums",
+            "score": 8
+          },
+          {
+            "name": "Escalation of U.S.-Led International Drug Control",
+            "score": 7,
+            "children": [
+              {
+                "name": "Expansion of the DEA",
+                "score": 8
+              },
+              {
+                "name": "Implementation of Mandatory Minimum Sentencing",
+                "score": 10
+              },
+              {
+                "name": "Establishment of 'Just Say No' Campaign",
+                "score": 7
+              },
+              {
+                "name": "Certification Process for Drug-Producing Countries",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Strained U.S.-Bolivia relations",
+                    "score": 7
+                  },
+                  {
+                    "name": "Increased Andean Region militarization",
+                    "score": 6
+                  },
+                  {
+                    "name": "U.S. financial sanctions implementation",
+                    "score": 5
+                  },
+                  {
+                    "name": "Reinforcement of Plan Colombia",
+                    "score": 8
+                  },
+                  {
+                    "name": "Alteration of U.S.-Mexico relations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Influence on NAFTA negotiations",
+                    "score": 4
+                  },
+                  {
+                    "name": "Shift in narcotics trafficking routes",
+                    "score": 5
+                  },
+                  {
+                    "name": "Erosion of sovereignty of affected countries",
+                    "score": 6
+                  },
+                  {
+                    "name": "Adoption of crop substitution programs",
+                    "score": 3
+                  },
+                  {
+                    "name": "Human rights violations allegations",
+                    "score": 5
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                  "dates": [
+                    "1986",
+                    "Ongoing"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                  "people": [
+                    "Ronald Reagan",
+                    "George H.W. Bush",
+                    "Bill Clinton",
+                    "Evo Morales"
+                  ],
+                  "places": [
+                    "Bolivia",
+                    "Colombia",
+                    "Mexico",
+                    "United States"
+                  ],
+                  "themes": [
+                    "International Policy",
+                    "War on Drugs",
+                    "Geopolitics",
+                    "Drug Trafficking"
+                  ]
+                }
+              },
+              {
+                "name": "Increased Military Involvement in Drug Interdiction",
+                "score": 9
+              },
+              {
+                "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                "score": 10
+              },
+              {
+                "name": "Creation of the Office of National Drug Control Policy",
+                "score": 7
+              },
+              {
+                "name": "Surge in Prison Population",
+                "score": 9
+              },
+              {
+                "name": "Intensified U.S. Foreign Policy on Drug Control",
+                "score": 8
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The election of Ronald Reagan marked the intensification of U.S.-led international drug control efforts. This initiative sought to curb the global drug trade and its domestic impacts. Preceding these efforts was Reagan's commitment to a conservative agenda, which strongly emphasized law and order, and his belief that drug abuse was a threat to American society and youth.",
+              "name": "Escalation of U.S.-Led International Drug Control",
+              "summary": "Reagan's presidency escalated international drug control, leading to widespread effects on global policy, incarceration rates, and the war on drugs narrative.",
+              "dates": [
+                "1981",
+                "1989"
+              ],
+              "effects": [
+                {
+                  "name": "Expansion of the DEA",
+                  "score": 8
+                },
+                {
+                  "name": "Implementation of Mandatory Minimum Sentencing",
+                  "score": 10
+                },
+                {
+                  "name": "Establishment of 'Just Say No' Campaign",
+                  "score": 7
+                },
+                {
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                    "name": "Certification Process for Drug-Producing Countries",
+                    "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                    "dates": [
+                      "1986",
+                      "Ongoing"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Strained U.S.-Bolivia relations",
+                        "score": 7
+                      },
+                      {
+                        "name": "Increased Andean Region militarization",
+                        "score": 6
+                      },
+                      {
+                        "name": "U.S. financial sanctions implementation",
+                        "score": 5
+                      },
+                      {
+                        "name": "Reinforcement of Plan Colombia",
+                        "score": 8
+                      },
+                      {
+                        "name": "Alteration of U.S.-Mexico relations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Influence on NAFTA negotiations",
+                        "score": 4
+                      },
+                      {
+                        "name": "Shift in narcotics trafficking routes",
+                        "score": 5
+                      },
+                      {
+                        "name": "Erosion of sovereignty of affected countries",
+                        "score": 6
+                      },
+                      {
+                        "name": "Adoption of crop substitution programs",
+                        "score": 3
+                      },
+                      {
+                        "name": "Human rights violations allegations",
+                        "score": 5
+                      }
+                    ],
+                    "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                    "people": [
+                      "Ronald Reagan",
+                      "George H.W. Bush",
+                      "Bill Clinton",
+                      "Evo Morales"
+                    ],
+                    "places": [
+                      "Bolivia",
+                      "Colombia",
+                      "Mexico",
+                      "United States"
+                    ],
+                    "themes": [
+                      "International Policy",
+                      "War on Drugs",
+                      "Geopolitics",
+                      "Drug Trafficking"
+                    ]
+                  }
+                },
+                {
+                  "name": "Increased Military Involvement in Drug Interdiction",
+                  "score": 9
+                },
+                {
+                  "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                  "score": 10
+                },
+                {
+                  "name": "Creation of the Office of National Drug Control Policy",
+                  "score": 7
+                },
+                {
+                  "name": "Surge in Prison Population",
+                  "score": 9
+                },
+                {
+                  "name": "Intensified U.S. Foreign Policy on Drug Control",
+                  "score": 8
+                }
+              ],
+              "conclusion": "The Reagan administration's commitment to a stringent anti-drug policy brought forth a new era of drug control that expanded both domestically and internationally, leading to dramatic shifts in law enforcement, foreign relations, and the criminal justice system.",
+              "people": [
+                "Ronald Reagan",
+                "Nancy Reagan",
+                "William Bennett",
+                "George H.W. Bush"
+              ],
+              "places": [
+                "United States",
+                "Latin America",
+                "Golden Triangle",
+                "Golden Crescent"
+              ],
+              "themes": [
+                "War on Drugs",
+                "U.S. Foreign Policy",
+                "Criminal Justice Reform",
+                "Public Health"
+              ]
+            }
+          },
+          {
+            "name": "Creation of the 'Just Say No' Campaign",
+            "score": 6
+          },
+          {
+            "name": "Disproportionate Impact on Minority Communities",
+            "score": 8
+          },
+          {
+            "name": "Crack Epidemic and Associated Violence",
+            "score": 7
+          },
+          {
+            "name": "Anti-Drug Abuse Acts of 1986 and 1988",
+            "score": 8
+          },
+          {
+            "name": "Expansion of Death Penalty Eligibility",
+            "score": 5
+          },
+          {
+            "name": "Development of Private Prison Industry",
+            "score": 6
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "introduction": "The War on Drugs, amplified under Ronald Reagan, profoundly altered U.S. domestic and foreign policy. It fueled unprecedented prison growth and shaped global drug control approaches. Reagan's election pivotally shifted focus to stringent enforcement and criminalization of drug use, catalyzing a nationwide crackdown on narcotics.",
+          "name": "War on Drugs",
+          "summary": "Reagan's War on Drugs led to mass incarcerations, shifted law enforcement priorities, and influenced international drug policies.",
+          "dates": [
+            "1981",
+            "1989"
+          ],
+          "effects": [
+            {
+              "name": "Surge in Incarceration Rates",
+              "score": 9
+            },
+            {
+              "name": "Expansion of Law Enforcement",
+              "score": 8
+            },
+            {
+              "name": "Introduction of Mandatory Minimums",
+              "score": 8
+            },
+            {
+              "name": "Escalation of U.S.-Led International Drug Control",
+              "score": 7,
+              "children": [
+                {
+                  "name": "Expansion of the DEA",
+                  "score": 8
+                },
+                {
+                  "name": "Implementation of Mandatory Minimum Sentencing",
+                  "score": 10
+                },
+                {
+                  "name": "Establishment of 'Just Say No' Campaign",
+                  "score": 7
+                },
+                {
+                  "name": "Certification Process for Drug-Producing Countries",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Strained U.S.-Bolivia relations",
+                      "score": 7
+                    },
+                    {
+                      "name": "Increased Andean Region militarization",
+                      "score": 6
+                    },
+                    {
+                      "name": "U.S. financial sanctions implementation",
+                      "score": 5
+                    },
+                    {
+                      "name": "Reinforcement of Plan Colombia",
+                      "score": 8
+                    },
+                    {
+                      "name": "Alteration of U.S.-Mexico relations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Influence on NAFTA negotiations",
+                      "score": 4
+                    },
+                    {
+                      "name": "Shift in narcotics trafficking routes",
+                      "score": 5
+                    },
+                    {
+                      "name": "Erosion of sovereignty of affected countries",
+                      "score": 6
+                    },
+                    {
+                      "name": "Adoption of crop substitution programs",
+                      "score": 3
+                    },
+                    {
+                      "name": "Human rights violations allegations",
+                      "score": 5
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                    "name": "Certification Process for Drug-Producing Countries",
+                    "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                    "dates": [
+                      "1986",
+                      "Ongoing"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Strained U.S.-Bolivia relations",
+                        "score": 7
+                      },
+                      {
+                        "name": "Increased Andean Region militarization",
+                        "score": 6
+                      },
+                      {
+                        "name": "U.S. financial sanctions implementation",
+                        "score": 5
+                      },
+                      {
+                        "name": "Reinforcement of Plan Colombia",
+                        "score": 8
+                      },
+                      {
+                        "name": "Alteration of U.S.-Mexico relations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Influence on NAFTA negotiations",
+                        "score": 4
+                      },
+                      {
+                        "name": "Shift in narcotics trafficking routes",
+                        "score": 5
+                      },
+                      {
+                        "name": "Erosion of sovereignty of affected countries",
+                        "score": 6
+                      },
+                      {
+                        "name": "Adoption of crop substitution programs",
+                        "score": 3
+                      },
+                      {
+                        "name": "Human rights violations allegations",
+                        "score": 5
+                      }
+                    ],
+                    "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                    "people": [
+                      "Ronald Reagan",
+                      "George H.W. Bush",
+                      "Bill Clinton",
+                      "Evo Morales"
+                    ],
+                    "places": [
+                      "Bolivia",
+                      "Colombia",
+                      "Mexico",
+                      "United States"
+                    ],
+                    "themes": [
+                      "International Policy",
+                      "War on Drugs",
+                      "Geopolitics",
+                      "Drug Trafficking"
+                    ]
+                  }
+                },
+                {
+                  "name": "Increased Military Involvement in Drug Interdiction",
+                  "score": 9
+                },
+                {
+                  "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                  "score": 10
+                },
+                {
+                  "name": "Creation of the Office of National Drug Control Policy",
+                  "score": 7
+                },
+                {
+                  "name": "Surge in Prison Population",
+                  "score": 9
+                },
+                {
+                  "name": "Intensified U.S. Foreign Policy on Drug Control",
+                  "score": 8
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The election of Ronald Reagan marked the intensification of U.S.-led international drug control efforts. This initiative sought to curb the global drug trade and its domestic impacts. Preceding these efforts was Reagan's commitment to a conservative agenda, which strongly emphasized law and order, and his belief that drug abuse was a threat to American society and youth.",
+                "name": "Escalation of U.S.-Led International Drug Control",
+                "summary": "Reagan's presidency escalated international drug control, leading to widespread effects on global policy, incarceration rates, and the war on drugs narrative.",
+                "dates": [
+                  "1981",
+                  "1989"
+                ],
+                "effects": [
+                  {
+                    "name": "Expansion of the DEA",
+                    "score": 8
+                  },
+                  {
+                    "name": "Implementation of Mandatory Minimum Sentencing",
+                    "score": 10
+                  },
+                  {
+                    "name": "Establishment of 'Just Say No' Campaign",
+                    "score": 7
+                  },
+                  {
+                    "name": "Certification Process for Drug-Producing Countries",
+                    "score": 7,
+                    "children": [
+                      {
+                        "name": "Strained U.S.-Bolivia relations",
+                        "score": 7
+                      },
+                      {
+                        "name": "Increased Andean Region militarization",
+                        "score": 6
+                      },
+                      {
+                        "name": "U.S. financial sanctions implementation",
+                        "score": 5
+                      },
+                      {
+                        "name": "Reinforcement of Plan Colombia",
+                        "score": 8
+                      },
+                      {
+                        "name": "Alteration of U.S.-Mexico relations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Influence on NAFTA negotiations",
+                        "score": 4
+                      },
+                      {
+                        "name": "Shift in narcotics trafficking routes",
+                        "score": 5
+                      },
+                      {
+                        "name": "Erosion of sovereignty of affected countries",
+                        "score": 6
+                      },
+                      {
+                        "name": "Adoption of crop substitution programs",
+                        "score": 3
+                      },
+                      {
+                        "name": "Human rights violations allegations",
+                        "score": 5
+                      }
+                    ],
+                    "visited": "true",
+                    "content": {
+                      "introduction": "The Certification Process for Drug-Producing Countries was a direct consequence of Reagan's War on Drugs, intensifying international drug control measures. Countries were evaluated on their anti-drug efforts, influencing global drug policy and international relations. Preceding this, Reagan's domestic War on Drugs escalated law enforcement and punitive measures, setting the stage for international expansion of these policies to major drug-producing nations.",
+                      "name": "Certification Process for Drug-Producing Countries",
+                      "summary": "The Certification Process scrutinized and penalized countries not complying with U.S. anti-drug policies, affecting international diplomacy and economic aid.",
+                      "dates": [
+                        "1986",
+                        "Ongoing"
+                      ],
+                      "effects": [
+                        {
+                          "name": "Strained U.S.-Bolivia relations",
+                          "score": 7
+                        },
+                        {
+                          "name": "Increased Andean Region militarization",
+                          "score": 6
+                        },
+                        {
+                          "name": "U.S. financial sanctions implementation",
+                          "score": 5
+                        },
+                        {
+                          "name": "Reinforcement of Plan Colombia",
+                          "score": 8
+                        },
+                        {
+                          "name": "Alteration of U.S.-Mexico relations",
+                          "score": 6
+                        },
+                        {
+                          "name": "Influence on NAFTA negotiations",
+                          "score": 4
+                        },
+                        {
+                          "name": "Shift in narcotics trafficking routes",
+                          "score": 5
+                        },
+                        {
+                          "name": "Erosion of sovereignty of affected countries",
+                          "score": 6
+                        },
+                        {
+                          "name": "Adoption of crop substitution programs",
+                          "score": 3
+                        },
+                        {
+                          "name": "Human rights violations allegations",
+                          "score": 5
+                        }
+                      ],
+                      "conclusion": "The Certification Process for Drug-Producing Countries epitomized the international reach of the War on Drugs, altering geopolitical landscapes and imposing American drug policy standards on foreign nations with significant and diverse downstream effects.",
+                      "people": [
+                        "Ronald Reagan",
+                        "George H.W. Bush",
+                        "Bill Clinton",
+                        "Evo Morales"
+                      ],
+                      "places": [
+                        "Bolivia",
+                        "Colombia",
+                        "Mexico",
+                        "United States"
+                      ],
+                      "themes": [
+                        "International Policy",
+                        "War on Drugs",
+                        "Geopolitics",
+                        "Drug Trafficking"
+                      ]
+                    }
+                  },
+                  {
+                    "name": "Increased Military Involvement in Drug Interdiction",
+                    "score": 9
+                  },
+                  {
+                    "name": "Passing of the Anti-Drug Abuse Act of 1986",
+                    "score": 10
+                  },
+                  {
+                    "name": "Creation of the Office of National Drug Control Policy",
+                    "score": 7
+                  },
+                  {
+                    "name": "Surge in Prison Population",
+                    "score": 9
+                  },
+                  {
+                    "name": "Intensified U.S. Foreign Policy on Drug Control",
+                    "score": 8
+                  }
+                ],
+                "conclusion": "The Reagan administration's commitment to a stringent anti-drug policy brought forth a new era of drug control that expanded both domestically and internationally, leading to dramatic shifts in law enforcement, foreign relations, and the criminal justice system.",
+                "people": [
+                  "Ronald Reagan",
+                  "Nancy Reagan",
+                  "William Bennett",
+                  "George H.W. Bush"
+                ],
+                "places": [
+                  "United States",
+                  "Latin America",
+                  "Golden Triangle",
+                  "Golden Crescent"
+                ],
+                "themes": [
+                  "War on Drugs",
+                  "U.S. Foreign Policy",
+                  "Criminal Justice Reform",
+                  "Public Health"
+                ]
+              }
+            },
+            {
+              "name": "Creation of the 'Just Say No' Campaign",
+              "score": 6
+            },
+            {
+              "name": "Disproportionate Impact on Minority Communities",
+              "score": 8
+            },
+            {
+              "name": "Crack Epidemic and Associated Violence",
+              "score": 7
+            },
+            {
+              "name": "Anti-Drug Abuse Acts of 1986 and 1988",
+              "score": 8
+            },
+            {
+              "name": "Expansion of Death Penalty Eligibility",
+              "score": 5
+            },
+            {
+              "name": "Development of Private Prison Industry",
+              "score": 6
+            }
+          ],
+          "conclusion": "Reagan's War on Drugs triggered a cascade of policies favoring incarceration over rehabilitation, which are still debated today due to their lasting impact on society and the justice system.",
+          "people": [
+            "Ronald Reagan",
+            "Nancy Reagan",
+            "William Bennett",
+            "George H.W. Bush"
+          ],
+          "places": [
+            "United States",
+            "South America",
+            "Inner-city Communities",
+            "Federal Prisons"
+          ],
+          "themes": [
+            "Law and Order",
+            "Public Health",
+            "Social Inequality",
+            "International Relations"
+          ]
+        }
+      },
+      {
+        "name": "Air Traffic Controllers' Strike",
+        "score": 5
+      },
+      {
+        "name": "Appointment of Conservative Judges",
+        "score": 8
+      },
+      {
+        "name": "Rise of the Religious Right",
+        "score": 5
+      },
+      {
+        "name": "Reduction of Welfare State",
+        "score": 6
+      }
+    ],
+    "conclusion": "The election of Ronald Reagan brought transformative changes to U.S. policy, society, and its role in the world. Its effects are still felt in contemporary politics, economics, and international relations.",
+    "people": [
+      "Ronald Reagan",
+      "Jimmy Carter",
+      "George H.W. Bush",
+      "Paul Volcker"
+    ],
+    "places": [
+      "United States",
+      "Iran",
+      "Soviet Union",
+      "Washington D.C."
+    ],
+    "themes": [
+      "Conservatism",
+      "Economic Policy",
+      "Cold War",
+      "Political Realignment"
+    ]
+  }
+}

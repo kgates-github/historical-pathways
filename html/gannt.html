@@ -22,8 +22,8 @@
         ];*/
 
         // Set up the chart dimensions
-        const margin = { top: 20, right: 30, bottom: 30, left: 200 };
-        const width = 1000 - margin.left - margin.right;
+        const margin = { top: 20, right: 30, bottom: 30, left: 400 };
+        const width = 1400 - margin.left - margin.right;
         const height = 1200 - margin.top - margin.bottom;
 
         // Create the SVG container
@@ -53,7 +53,25 @@
             .attr("y", d => yScale(d.name) + yScale.bandwidth()/2 - 2)
             .attr("width", d => xScale(d.end) - xScale(d.start) + 10)
             .attr("height", yScale.bandwidth() / 5 + 1)
-            .attr("fill", d => (d.visited) ? "#109CEA" : "#0F4766")
+            .attr("fill", (d) => {
+                //return "white"
+                const type = d.type.toLowerCase();
+                console.log(type)
+                if (type === "event") {
+                    return "green";
+                } else if (type === "section") {
+                    return "#555";
+                } else if (type === "effect") {
+                    return "orange";
+                } else if (type === "cause") {
+                    return "blue";
+                } else if (type === "deep dive") {
+                    return "green";
+                } else if (type === "broad perspective") {
+                    return "yellow";
+                }
+                return "#ff0000"
+            })
 
         // Draw the labels
         svg.selectAll("text")
@@ -62,7 +80,7 @@
             .append("text")
             .attr("x", d => xScale(d.start) - 5)
             .attr("y", d => yScale(d.name) + yScale.bandwidth() / 2)
-            .text(d => d.name +" (" + "Effect" + ")")
+            .text(d => d.name +" (" + d.type + ")")
             .attr("fill", "#999")
             .attr("font-size", "12px")
             .attr("font-family", "sans-serif")

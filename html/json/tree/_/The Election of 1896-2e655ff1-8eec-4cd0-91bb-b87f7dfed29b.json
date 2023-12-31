@@ -1,0 +1,1554 @@
+{
+  "name": "The Election of 1896",
+  "children": [
+    {
+      "name": "Consolidation of Gold Standard",
+      "score": 10
+    },
+    {
+      "name": "Rise of Progressivism",
+      "score": 7,
+      "children": [
+        {
+          "name": "Muckraking Journalism",
+          "score": 8
+        },
+        {
+          "name": "Antitrust Legislation",
+          "score": 9
+        },
+        {
+          "name": "Women's Suffrage Movement",
+          "score": 7
+        },
+        {
+          "name": "Income Tax Amendment",
+          "score": 7
+        },
+        {
+          "name": "Direct Election of Senators",
+          "score": 6
+        },
+        {
+          "name": "Meat Inspection Act",
+          "score": 7
+        },
+        {
+          "name": "Pure Food and Drug Act",
+          "score": 7,
+          "children": [
+            {
+              "name": "Creation of the FDA",
+              "score": 10
+            },
+            {
+              "name": "Meat Inspection Act of 1906",
+              "score": 9
+            },
+            {
+              "name": "Consumer Protection Enhancements",
+              "score": 8
+            },
+            {
+              "name": "Increased Food Safety Standards",
+              "score": 8
+            },
+            {
+              "name": "Banning of Dangerous Additives",
+              "score": 7
+            },
+            {
+              "name": "Strengthening of Labeling Laws",
+              "score": 7,
+              "children": [
+                {
+                  "name": "Establishment of the FDA",
+                  "score": 10
+                },
+                {
+                  "name": "Expansion of Consumer Rights",
+                  "score": 8
+                },
+                {
+                  "name": "Increased Corporate Accountability",
+                  "score": 7
+                },
+                {
+                  "name": "Improved Public Health Standards",
+                  "score": 9
+                },
+                {
+                  "name": "Foundation for Future Regulations",
+                  "score": 6
+                },
+                {
+                  "name": "Growth of the Regulatory State",
+                  "score": 5
+                },
+                {
+                  "name": "Boost in Public Trust",
+                  "score": 4
+                },
+                {
+                  "name": "Enhanced Product Transparency",
+                  "score": 7
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                "name": "Strengthening of Labeling Laws",
+                "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                "dates": [
+                  "1906",
+                  "1906"
+                ],
+                "effects": [
+                  {
+                    "name": "Establishment of the FDA",
+                    "score": 10
+                  },
+                  {
+                    "name": "Expansion of Consumer Rights",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Corporate Accountability",
+                    "score": 7
+                  },
+                  {
+                    "name": "Improved Public Health Standards",
+                    "score": 9
+                  },
+                  {
+                    "name": "Foundation for Future Regulations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Growth of the Regulatory State",
+                    "score": 5
+                  },
+                  {
+                    "name": "Boost in Public Trust",
+                    "score": 4
+                  },
+                  {
+                    "name": "Enhanced Product Transparency",
+                    "score": 7
+                  }
+                ],
+                "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                "people": [
+                  "Theodore Roosevelt",
+                  "Harvey W. Wiley",
+                  "Upton Sinclair",
+                  "Lewis Hine"
+                ],
+                "places": [
+                  "United States",
+                  "Washington D.C.",
+                  "Chicago",
+                  "New York"
+                ],
+                "themes": [
+                  "Progressivism",
+                  "Regulatory Policies",
+                  "Consumer Protection",
+                  "Public Health"
+                ]
+              }
+            },
+            {
+              "name": "Rise of Public Health Movement",
+              "score": 6
+            },
+            {
+              "name": "Expansion of Federal Regulatory Power",
+              "score": 6
+            },
+            {
+              "name": "Drugs Removed from Market",
+              "score": 5
+            },
+            {
+              "name": "Consumer Confidence Increase",
+              "score": 5
+            }
+          ],
+          "visited": "true",
+          "content": {
+            "introduction": "The Pure Food and Drug Act of 1906 was a cornerstone of Progressive Era reforms, aimed at protecting consumers from harmful products. This act was catalyzed by the political shifts and economic priorities established in the 1896 election, which heightened public awareness for the need of regulation. Prior to the act, the industrial boom and laissez-faire policies led to unchecked production practices, often resulting in unsafe food and medicine being sold to the public.",
+            "name": "Pure Food and Drug Act",
+            "summary": "The 1906 Pure Food and Drug Act marked a milestone in consumer protection, setting the stage for the FDA and improving product safety standards.",
+            "dates": [
+              "1906",
+              "1906"
+            ],
+            "effects": [
+              {
+                "name": "Creation of the FDA",
+                "score": 10
+              },
+              {
+                "name": "Meat Inspection Act of 1906",
+                "score": 9
+              },
+              {
+                "name": "Consumer Protection Enhancements",
+                "score": 8
+              },
+              {
+                "name": "Increased Food Safety Standards",
+                "score": 8
+              },
+              {
+                "name": "Banning of Dangerous Additives",
+                "score": 7
+              },
+              {
+                "name": "Strengthening of Labeling Laws",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Establishment of the FDA",
+                    "score": 10
+                  },
+                  {
+                    "name": "Expansion of Consumer Rights",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Corporate Accountability",
+                    "score": 7
+                  },
+                  {
+                    "name": "Improved Public Health Standards",
+                    "score": 9
+                  },
+                  {
+                    "name": "Foundation for Future Regulations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Growth of the Regulatory State",
+                    "score": 5
+                  },
+                  {
+                    "name": "Boost in Public Trust",
+                    "score": 4
+                  },
+                  {
+                    "name": "Enhanced Product Transparency",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                  "name": "Strengthening of Labeling Laws",
+                  "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                  "dates": [
+                    "1906",
+                    "1906"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                  "people": [
+                    "Theodore Roosevelt",
+                    "Harvey W. Wiley",
+                    "Upton Sinclair",
+                    "Lewis Hine"
+                  ],
+                  "places": [
+                    "United States",
+                    "Washington D.C.",
+                    "Chicago",
+                    "New York"
+                  ],
+                  "themes": [
+                    "Progressivism",
+                    "Regulatory Policies",
+                    "Consumer Protection",
+                    "Public Health"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of Public Health Movement",
+                "score": 6
+              },
+              {
+                "name": "Expansion of Federal Regulatory Power",
+                "score": 6
+              },
+              {
+                "name": "Drugs Removed from Market",
+                "score": 5
+              },
+              {
+                "name": "Consumer Confidence Increase",
+                "score": 5
+              }
+            ],
+            "conclusion": "The Pure Food and Drug Act was a direct response to the demand for reform generated by the 1896 election, leading to pivotal consumer protections and the foundation for modern food and drug regulation in the United States.",
+            "people": [
+              "Theodore Roosevelt",
+              "Harvey W. Wiley",
+              "Upton Sinclair",
+              "James H. Lewis"
+            ],
+            "places": [
+              "United States",
+              "Washington D.C.",
+              "Chicago",
+              "New York"
+            ],
+            "themes": [
+              "Progressive Reform",
+              "Consumer Protection",
+              "Government Regulation",
+              "Public Health"
+            ]
+          }
+        },
+        {
+          "name": "Federal Reserve System Establishment",
+          "score": 8
+        },
+        {
+          "name": "Conservation Movement",
+          "score": 6
+        },
+        {
+          "name": "Labor Laws for Children",
+          "score": 6
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "introduction": "The rise of Progressivism in the United States was a direct response to the political and economic conditions established after the 1896 election. It emphasized reform, efficiency, and the regulation of large corporations. Leading up to this were the divisive debates of the Gilded Age, invoking social justice and labor concerns against the backdrop of industrial expansion.",
+        "name": "Rise of Progressivism",
+        "summary": "The Progressive Era redefined American politics with social reform, anti-corruption measures, and government intervention to protect workers and consumers.",
+        "dates": [
+          "1900",
+          "1920"
+        ],
+        "effects": [
+          {
+            "name": "Muckraking Journalism",
+            "score": 8
+          },
+          {
+            "name": "Antitrust Legislation",
+            "score": 9
+          },
+          {
+            "name": "Women's Suffrage Movement",
+            "score": 7
+          },
+          {
+            "name": "Income Tax Amendment",
+            "score": 7
+          },
+          {
+            "name": "Direct Election of Senators",
+            "score": 6
+          },
+          {
+            "name": "Meat Inspection Act",
+            "score": 7
+          },
+          {
+            "name": "Pure Food and Drug Act",
+            "score": 7,
+            "children": [
+              {
+                "name": "Creation of the FDA",
+                "score": 10
+              },
+              {
+                "name": "Meat Inspection Act of 1906",
+                "score": 9
+              },
+              {
+                "name": "Consumer Protection Enhancements",
+                "score": 8
+              },
+              {
+                "name": "Increased Food Safety Standards",
+                "score": 8
+              },
+              {
+                "name": "Banning of Dangerous Additives",
+                "score": 7
+              },
+              {
+                "name": "Strengthening of Labeling Laws",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Establishment of the FDA",
+                    "score": 10
+                  },
+                  {
+                    "name": "Expansion of Consumer Rights",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Corporate Accountability",
+                    "score": 7
+                  },
+                  {
+                    "name": "Improved Public Health Standards",
+                    "score": 9
+                  },
+                  {
+                    "name": "Foundation for Future Regulations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Growth of the Regulatory State",
+                    "score": 5
+                  },
+                  {
+                    "name": "Boost in Public Trust",
+                    "score": 4
+                  },
+                  {
+                    "name": "Enhanced Product Transparency",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                  "name": "Strengthening of Labeling Laws",
+                  "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                  "dates": [
+                    "1906",
+                    "1906"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                  "people": [
+                    "Theodore Roosevelt",
+                    "Harvey W. Wiley",
+                    "Upton Sinclair",
+                    "Lewis Hine"
+                  ],
+                  "places": [
+                    "United States",
+                    "Washington D.C.",
+                    "Chicago",
+                    "New York"
+                  ],
+                  "themes": [
+                    "Progressivism",
+                    "Regulatory Policies",
+                    "Consumer Protection",
+                    "Public Health"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of Public Health Movement",
+                "score": 6
+              },
+              {
+                "name": "Expansion of Federal Regulatory Power",
+                "score": 6
+              },
+              {
+                "name": "Drugs Removed from Market",
+                "score": 5
+              },
+              {
+                "name": "Consumer Confidence Increase",
+                "score": 5
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Pure Food and Drug Act of 1906 was a cornerstone of Progressive Era reforms, aimed at protecting consumers from harmful products. This act was catalyzed by the political shifts and economic priorities established in the 1896 election, which heightened public awareness for the need of regulation. Prior to the act, the industrial boom and laissez-faire policies led to unchecked production practices, often resulting in unsafe food and medicine being sold to the public.",
+              "name": "Pure Food and Drug Act",
+              "summary": "The 1906 Pure Food and Drug Act marked a milestone in consumer protection, setting the stage for the FDA and improving product safety standards.",
+              "dates": [
+                "1906",
+                "1906"
+              ],
+              "effects": [
+                {
+                  "name": "Creation of the FDA",
+                  "score": 10
+                },
+                {
+                  "name": "Meat Inspection Act of 1906",
+                  "score": 9
+                },
+                {
+                  "name": "Consumer Protection Enhancements",
+                  "score": 8
+                },
+                {
+                  "name": "Increased Food Safety Standards",
+                  "score": 8
+                },
+                {
+                  "name": "Banning of Dangerous Additives",
+                  "score": 7
+                },
+                {
+                  "name": "Strengthening of Labeling Laws",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                    "name": "Strengthening of Labeling Laws",
+                    "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                    "dates": [
+                      "1906",
+                      "1906"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Establishment of the FDA",
+                        "score": 10
+                      },
+                      {
+                        "name": "Expansion of Consumer Rights",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Corporate Accountability",
+                        "score": 7
+                      },
+                      {
+                        "name": "Improved Public Health Standards",
+                        "score": 9
+                      },
+                      {
+                        "name": "Foundation for Future Regulations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Growth of the Regulatory State",
+                        "score": 5
+                      },
+                      {
+                        "name": "Boost in Public Trust",
+                        "score": 4
+                      },
+                      {
+                        "name": "Enhanced Product Transparency",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                    "people": [
+                      "Theodore Roosevelt",
+                      "Harvey W. Wiley",
+                      "Upton Sinclair",
+                      "Lewis Hine"
+                    ],
+                    "places": [
+                      "United States",
+                      "Washington D.C.",
+                      "Chicago",
+                      "New York"
+                    ],
+                    "themes": [
+                      "Progressivism",
+                      "Regulatory Policies",
+                      "Consumer Protection",
+                      "Public Health"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of Public Health Movement",
+                  "score": 6
+                },
+                {
+                  "name": "Expansion of Federal Regulatory Power",
+                  "score": 6
+                },
+                {
+                  "name": "Drugs Removed from Market",
+                  "score": 5
+                },
+                {
+                  "name": "Consumer Confidence Increase",
+                  "score": 5
+                }
+              ],
+              "conclusion": "The Pure Food and Drug Act was a direct response to the demand for reform generated by the 1896 election, leading to pivotal consumer protections and the foundation for modern food and drug regulation in the United States.",
+              "people": [
+                "Theodore Roosevelt",
+                "Harvey W. Wiley",
+                "Upton Sinclair",
+                "James H. Lewis"
+              ],
+              "places": [
+                "United States",
+                "Washington D.C.",
+                "Chicago",
+                "New York"
+              ],
+              "themes": [
+                "Progressive Reform",
+                "Consumer Protection",
+                "Government Regulation",
+                "Public Health"
+              ]
+            }
+          },
+          {
+            "name": "Federal Reserve System Establishment",
+            "score": 8
+          },
+          {
+            "name": "Conservation Movement",
+            "score": 6
+          },
+          {
+            "name": "Labor Laws for Children",
+            "score": 6
+          }
+        ],
+        "conclusion": "The Progressive Era brought profound changes to American society, addressing the problems highlighted by the election of 1896. It resulted in increased government regulation, the promotion of direct democracy, and social justice initiatives.",
+        "people": [
+          "Theodore Roosevelt",
+          "Upton Sinclair",
+          "Jane Addams",
+          "W.E.B. Du Bois"
+        ],
+        "places": [
+          "Washington D.C.",
+          "Chicago",
+          "New York",
+          "San Francisco"
+        ],
+        "themes": [
+          "Reform Movements",
+          "Government Regulation",
+          "Social Justice",
+          "Democratization"
+        ]
+      }
+    },
+    {
+      "name": "Decline of Populist Party",
+      "score": 8
+    },
+    {
+      "name": "Republican Dominance Era",
+      "score": 9
+    },
+    {
+      "name": "Reform of Election Campaigning",
+      "score": 6
+    },
+    {
+      "name": "Influence on Future Monetary Policy",
+      "score": 5
+    },
+    {
+      "name": "Shift in Political Power to Northeast",
+      "score": 7
+    },
+    {
+      "name": "Strengthening of Executive Branch",
+      "score": 4
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "introduction": "The Election of 1896 is a pivotal moment in American politics, marking a realignment and the consolidation of the two-party system. Economic issues dominated the election, notably bimetallism and the gold standard. The leadup involved severe economic depression, labor unrest, and heated debates over monetary policy.",
+    "name": "The Election of 1896",
+    "summary": "The 1896 U.S. Presidential Election brought economic issues to the forefront, influencing American political alignment and policy for years.",
+    "dates": [
+      "1896",
+      "1896"
+    ],
+    "effects": [
+      {
+        "name": "Consolidation of Gold Standard",
+        "score": 10
+      },
+      {
+        "name": "Rise of Progressivism",
+        "score": 7,
+        "children": [
+          {
+            "name": "Muckraking Journalism",
+            "score": 8
+          },
+          {
+            "name": "Antitrust Legislation",
+            "score": 9
+          },
+          {
+            "name": "Women's Suffrage Movement",
+            "score": 7
+          },
+          {
+            "name": "Income Tax Amendment",
+            "score": 7
+          },
+          {
+            "name": "Direct Election of Senators",
+            "score": 6
+          },
+          {
+            "name": "Meat Inspection Act",
+            "score": 7
+          },
+          {
+            "name": "Pure Food and Drug Act",
+            "score": 7,
+            "children": [
+              {
+                "name": "Creation of the FDA",
+                "score": 10
+              },
+              {
+                "name": "Meat Inspection Act of 1906",
+                "score": 9
+              },
+              {
+                "name": "Consumer Protection Enhancements",
+                "score": 8
+              },
+              {
+                "name": "Increased Food Safety Standards",
+                "score": 8
+              },
+              {
+                "name": "Banning of Dangerous Additives",
+                "score": 7
+              },
+              {
+                "name": "Strengthening of Labeling Laws",
+                "score": 7,
+                "children": [
+                  {
+                    "name": "Establishment of the FDA",
+                    "score": 10
+                  },
+                  {
+                    "name": "Expansion of Consumer Rights",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Corporate Accountability",
+                    "score": 7
+                  },
+                  {
+                    "name": "Improved Public Health Standards",
+                    "score": 9
+                  },
+                  {
+                    "name": "Foundation for Future Regulations",
+                    "score": 6
+                  },
+                  {
+                    "name": "Growth of the Regulatory State",
+                    "score": 5
+                  },
+                  {
+                    "name": "Boost in Public Trust",
+                    "score": 4
+                  },
+                  {
+                    "name": "Enhanced Product Transparency",
+                    "score": 7
+                  }
+                ],
+                "visited": "true",
+                "content": {
+                  "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                  "name": "Strengthening of Labeling Laws",
+                  "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                  "dates": [
+                    "1906",
+                    "1906"
+                  ],
+                  "effects": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                  "people": [
+                    "Theodore Roosevelt",
+                    "Harvey W. Wiley",
+                    "Upton Sinclair",
+                    "Lewis Hine"
+                  ],
+                  "places": [
+                    "United States",
+                    "Washington D.C.",
+                    "Chicago",
+                    "New York"
+                  ],
+                  "themes": [
+                    "Progressivism",
+                    "Regulatory Policies",
+                    "Consumer Protection",
+                    "Public Health"
+                  ]
+                }
+              },
+              {
+                "name": "Rise of Public Health Movement",
+                "score": 6
+              },
+              {
+                "name": "Expansion of Federal Regulatory Power",
+                "score": 6
+              },
+              {
+                "name": "Drugs Removed from Market",
+                "score": 5
+              },
+              {
+                "name": "Consumer Confidence Increase",
+                "score": 5
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "introduction": "The Pure Food and Drug Act of 1906 was a cornerstone of Progressive Era reforms, aimed at protecting consumers from harmful products. This act was catalyzed by the political shifts and economic priorities established in the 1896 election, which heightened public awareness for the need of regulation. Prior to the act, the industrial boom and laissez-faire policies led to unchecked production practices, often resulting in unsafe food and medicine being sold to the public.",
+              "name": "Pure Food and Drug Act",
+              "summary": "The 1906 Pure Food and Drug Act marked a milestone in consumer protection, setting the stage for the FDA and improving product safety standards.",
+              "dates": [
+                "1906",
+                "1906"
+              ],
+              "effects": [
+                {
+                  "name": "Creation of the FDA",
+                  "score": 10
+                },
+                {
+                  "name": "Meat Inspection Act of 1906",
+                  "score": 9
+                },
+                {
+                  "name": "Consumer Protection Enhancements",
+                  "score": 8
+                },
+                {
+                  "name": "Increased Food Safety Standards",
+                  "score": 8
+                },
+                {
+                  "name": "Banning of Dangerous Additives",
+                  "score": 7
+                },
+                {
+                  "name": "Strengthening of Labeling Laws",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                    "name": "Strengthening of Labeling Laws",
+                    "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                    "dates": [
+                      "1906",
+                      "1906"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Establishment of the FDA",
+                        "score": 10
+                      },
+                      {
+                        "name": "Expansion of Consumer Rights",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Corporate Accountability",
+                        "score": 7
+                      },
+                      {
+                        "name": "Improved Public Health Standards",
+                        "score": 9
+                      },
+                      {
+                        "name": "Foundation for Future Regulations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Growth of the Regulatory State",
+                        "score": 5
+                      },
+                      {
+                        "name": "Boost in Public Trust",
+                        "score": 4
+                      },
+                      {
+                        "name": "Enhanced Product Transparency",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                    "people": [
+                      "Theodore Roosevelt",
+                      "Harvey W. Wiley",
+                      "Upton Sinclair",
+                      "Lewis Hine"
+                    ],
+                    "places": [
+                      "United States",
+                      "Washington D.C.",
+                      "Chicago",
+                      "New York"
+                    ],
+                    "themes": [
+                      "Progressivism",
+                      "Regulatory Policies",
+                      "Consumer Protection",
+                      "Public Health"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of Public Health Movement",
+                  "score": 6
+                },
+                {
+                  "name": "Expansion of Federal Regulatory Power",
+                  "score": 6
+                },
+                {
+                  "name": "Drugs Removed from Market",
+                  "score": 5
+                },
+                {
+                  "name": "Consumer Confidence Increase",
+                  "score": 5
+                }
+              ],
+              "conclusion": "The Pure Food and Drug Act was a direct response to the demand for reform generated by the 1896 election, leading to pivotal consumer protections and the foundation for modern food and drug regulation in the United States.",
+              "people": [
+                "Theodore Roosevelt",
+                "Harvey W. Wiley",
+                "Upton Sinclair",
+                "James H. Lewis"
+              ],
+              "places": [
+                "United States",
+                "Washington D.C.",
+                "Chicago",
+                "New York"
+              ],
+              "themes": [
+                "Progressive Reform",
+                "Consumer Protection",
+                "Government Regulation",
+                "Public Health"
+              ]
+            }
+          },
+          {
+            "name": "Federal Reserve System Establishment",
+            "score": 8
+          },
+          {
+            "name": "Conservation Movement",
+            "score": 6
+          },
+          {
+            "name": "Labor Laws for Children",
+            "score": 6
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "introduction": "The rise of Progressivism in the United States was a direct response to the political and economic conditions established after the 1896 election. It emphasized reform, efficiency, and the regulation of large corporations. Leading up to this were the divisive debates of the Gilded Age, invoking social justice and labor concerns against the backdrop of industrial expansion.",
+          "name": "Rise of Progressivism",
+          "summary": "The Progressive Era redefined American politics with social reform, anti-corruption measures, and government intervention to protect workers and consumers.",
+          "dates": [
+            "1900",
+            "1920"
+          ],
+          "effects": [
+            {
+              "name": "Muckraking Journalism",
+              "score": 8
+            },
+            {
+              "name": "Antitrust Legislation",
+              "score": 9
+            },
+            {
+              "name": "Women's Suffrage Movement",
+              "score": 7
+            },
+            {
+              "name": "Income Tax Amendment",
+              "score": 7
+            },
+            {
+              "name": "Direct Election of Senators",
+              "score": 6
+            },
+            {
+              "name": "Meat Inspection Act",
+              "score": 7
+            },
+            {
+              "name": "Pure Food and Drug Act",
+              "score": 7,
+              "children": [
+                {
+                  "name": "Creation of the FDA",
+                  "score": 10
+                },
+                {
+                  "name": "Meat Inspection Act of 1906",
+                  "score": 9
+                },
+                {
+                  "name": "Consumer Protection Enhancements",
+                  "score": 8
+                },
+                {
+                  "name": "Increased Food Safety Standards",
+                  "score": 8
+                },
+                {
+                  "name": "Banning of Dangerous Additives",
+                  "score": 7
+                },
+                {
+                  "name": "Strengthening of Labeling Laws",
+                  "score": 7,
+                  "children": [
+                    {
+                      "name": "Establishment of the FDA",
+                      "score": 10
+                    },
+                    {
+                      "name": "Expansion of Consumer Rights",
+                      "score": 8
+                    },
+                    {
+                      "name": "Increased Corporate Accountability",
+                      "score": 7
+                    },
+                    {
+                      "name": "Improved Public Health Standards",
+                      "score": 9
+                    },
+                    {
+                      "name": "Foundation for Future Regulations",
+                      "score": 6
+                    },
+                    {
+                      "name": "Growth of the Regulatory State",
+                      "score": 5
+                    },
+                    {
+                      "name": "Boost in Public Trust",
+                      "score": 4
+                    },
+                    {
+                      "name": "Enhanced Product Transparency",
+                      "score": 7
+                    }
+                  ],
+                  "visited": "true",
+                  "content": {
+                    "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                    "name": "Strengthening of Labeling Laws",
+                    "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                    "dates": [
+                      "1906",
+                      "1906"
+                    ],
+                    "effects": [
+                      {
+                        "name": "Establishment of the FDA",
+                        "score": 10
+                      },
+                      {
+                        "name": "Expansion of Consumer Rights",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Corporate Accountability",
+                        "score": 7
+                      },
+                      {
+                        "name": "Improved Public Health Standards",
+                        "score": 9
+                      },
+                      {
+                        "name": "Foundation for Future Regulations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Growth of the Regulatory State",
+                        "score": 5
+                      },
+                      {
+                        "name": "Boost in Public Trust",
+                        "score": 4
+                      },
+                      {
+                        "name": "Enhanced Product Transparency",
+                        "score": 7
+                      }
+                    ],
+                    "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                    "people": [
+                      "Theodore Roosevelt",
+                      "Harvey W. Wiley",
+                      "Upton Sinclair",
+                      "Lewis Hine"
+                    ],
+                    "places": [
+                      "United States",
+                      "Washington D.C.",
+                      "Chicago",
+                      "New York"
+                    ],
+                    "themes": [
+                      "Progressivism",
+                      "Regulatory Policies",
+                      "Consumer Protection",
+                      "Public Health"
+                    ]
+                  }
+                },
+                {
+                  "name": "Rise of Public Health Movement",
+                  "score": 6
+                },
+                {
+                  "name": "Expansion of Federal Regulatory Power",
+                  "score": 6
+                },
+                {
+                  "name": "Drugs Removed from Market",
+                  "score": 5
+                },
+                {
+                  "name": "Consumer Confidence Increase",
+                  "score": 5
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "introduction": "The Pure Food and Drug Act of 1906 was a cornerstone of Progressive Era reforms, aimed at protecting consumers from harmful products. This act was catalyzed by the political shifts and economic priorities established in the 1896 election, which heightened public awareness for the need of regulation. Prior to the act, the industrial boom and laissez-faire policies led to unchecked production practices, often resulting in unsafe food and medicine being sold to the public.",
+                "name": "Pure Food and Drug Act",
+                "summary": "The 1906 Pure Food and Drug Act marked a milestone in consumer protection, setting the stage for the FDA and improving product safety standards.",
+                "dates": [
+                  "1906",
+                  "1906"
+                ],
+                "effects": [
+                  {
+                    "name": "Creation of the FDA",
+                    "score": 10
+                  },
+                  {
+                    "name": "Meat Inspection Act of 1906",
+                    "score": 9
+                  },
+                  {
+                    "name": "Consumer Protection Enhancements",
+                    "score": 8
+                  },
+                  {
+                    "name": "Increased Food Safety Standards",
+                    "score": 8
+                  },
+                  {
+                    "name": "Banning of Dangerous Additives",
+                    "score": 7
+                  },
+                  {
+                    "name": "Strengthening of Labeling Laws",
+                    "score": 7,
+                    "children": [
+                      {
+                        "name": "Establishment of the FDA",
+                        "score": 10
+                      },
+                      {
+                        "name": "Expansion of Consumer Rights",
+                        "score": 8
+                      },
+                      {
+                        "name": "Increased Corporate Accountability",
+                        "score": 7
+                      },
+                      {
+                        "name": "Improved Public Health Standards",
+                        "score": 9
+                      },
+                      {
+                        "name": "Foundation for Future Regulations",
+                        "score": 6
+                      },
+                      {
+                        "name": "Growth of the Regulatory State",
+                        "score": 5
+                      },
+                      {
+                        "name": "Boost in Public Trust",
+                        "score": 4
+                      },
+                      {
+                        "name": "Enhanced Product Transparency",
+                        "score": 7
+                      }
+                    ],
+                    "visited": "true",
+                    "content": {
+                      "introduction": "The Strengthening of Labeling Laws was a key achievement during the Progressive Era, ensuring the integrity of consumer products. This initiative followed the election of 1896, which highlighted the need for reform in the face of industrialization's excesses and social issues.",
+                      "name": "Strengthening of Labeling Laws",
+                      "summary": "Labeling Law Reform became a cornerstone of the Progressive Era, establishing a precedent for consumer rights and governmental oversight in product safety.",
+                      "dates": [
+                        "1906",
+                        "1906"
+                      ],
+                      "effects": [
+                        {
+                          "name": "Establishment of the FDA",
+                          "score": 10
+                        },
+                        {
+                          "name": "Expansion of Consumer Rights",
+                          "score": 8
+                        },
+                        {
+                          "name": "Increased Corporate Accountability",
+                          "score": 7
+                        },
+                        {
+                          "name": "Improved Public Health Standards",
+                          "score": 9
+                        },
+                        {
+                          "name": "Foundation for Future Regulations",
+                          "score": 6
+                        },
+                        {
+                          "name": "Growth of the Regulatory State",
+                          "score": 5
+                        },
+                        {
+                          "name": "Boost in Public Trust",
+                          "score": 4
+                        },
+                        {
+                          "name": "Enhanced Product Transparency",
+                          "score": 7
+                        }
+                      ],
+                      "conclusion": "The Strengthening of Labeling Laws marked a significant advance in the Progressive Era, reflecting a fundamental shift towards consumer protection and setting the stage for future regulatory policies.",
+                      "people": [
+                        "Theodore Roosevelt",
+                        "Harvey W. Wiley",
+                        "Upton Sinclair",
+                        "Lewis Hine"
+                      ],
+                      "places": [
+                        "United States",
+                        "Washington D.C.",
+                        "Chicago",
+                        "New York"
+                      ],
+                      "themes": [
+                        "Progressivism",
+                        "Regulatory Policies",
+                        "Consumer Protection",
+                        "Public Health"
+                      ]
+                    }
+                  },
+                  {
+                    "name": "Rise of Public Health Movement",
+                    "score": 6
+                  },
+                  {
+                    "name": "Expansion of Federal Regulatory Power",
+                    "score": 6
+                  },
+                  {
+                    "name": "Drugs Removed from Market",
+                    "score": 5
+                  },
+                  {
+                    "name": "Consumer Confidence Increase",
+                    "score": 5
+                  }
+                ],
+                "conclusion": "The Pure Food and Drug Act was a direct response to the demand for reform generated by the 1896 election, leading to pivotal consumer protections and the foundation for modern food and drug regulation in the United States.",
+                "people": [
+                  "Theodore Roosevelt",
+                  "Harvey W. Wiley",
+                  "Upton Sinclair",
+                  "James H. Lewis"
+                ],
+                "places": [
+                  "United States",
+                  "Washington D.C.",
+                  "Chicago",
+                  "New York"
+                ],
+                "themes": [
+                  "Progressive Reform",
+                  "Consumer Protection",
+                  "Government Regulation",
+                  "Public Health"
+                ]
+              }
+            },
+            {
+              "name": "Federal Reserve System Establishment",
+              "score": 8
+            },
+            {
+              "name": "Conservation Movement",
+              "score": 6
+            },
+            {
+              "name": "Labor Laws for Children",
+              "score": 6
+            }
+          ],
+          "conclusion": "The Progressive Era brought profound changes to American society, addressing the problems highlighted by the election of 1896. It resulted in increased government regulation, the promotion of direct democracy, and social justice initiatives.",
+          "people": [
+            "Theodore Roosevelt",
+            "Upton Sinclair",
+            "Jane Addams",
+            "W.E.B. Du Bois"
+          ],
+          "places": [
+            "Washington D.C.",
+            "Chicago",
+            "New York",
+            "San Francisco"
+          ],
+          "themes": [
+            "Reform Movements",
+            "Government Regulation",
+            "Social Justice",
+            "Democratization"
+          ]
+        }
+      },
+      {
+        "name": "Decline of Populist Party",
+        "score": 8
+      },
+      {
+        "name": "Republican Dominance Era",
+        "score": 9
+      },
+      {
+        "name": "Reform of Election Campaigning",
+        "score": 6
+      },
+      {
+        "name": "Influence on Future Monetary Policy",
+        "score": 5
+      },
+      {
+        "name": "Shift in Political Power to Northeast",
+        "score": 7
+      },
+      {
+        "name": "Strengthening of Executive Branch",
+        "score": 4
+      }
+    ],
+    "conclusion": "The 1896 election was a turning point in U.S. politics, realigning parties and setting economic priorities. Its impact was evident in subsequent policy, political strategies, and the shaping of party ideologies.",
+    "people": [
+      "William McKinley",
+      "William Jennings Bryan",
+      "Marcus Hanna",
+      "Thomas E. Watson"
+    ],
+    "places": [
+      "United States",
+      "Midwest",
+      "Northeast",
+      "South"
+    ],
+    "themes": [
+      "Political Realignment",
+      "Economic Policy",
+      "Campaign Innovations",
+      "Party Ideology"
+    ]
+  }
+}

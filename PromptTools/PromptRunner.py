@@ -82,7 +82,7 @@ class PromptRunner:
     self, 
     user_prompt=None,
     system_prompt=None,
-    prompt_injection=None,
+    chat_history=None,
     config_overrides=None
   ):
     user_prompt = self.generate_user_prompt(user_prompt, False)
@@ -109,10 +109,13 @@ class PromptRunner:
       user_prompt
     ]
 
-    if prompt_injection:
-      # Add prompt_injection (prior answers)
-      messages = messages + prompt_injection
+    if chat_history:
+      # Add prompt injection (prior answers)
+      messages = messages + chat_history
 
+    print("==================================================================\n\n")
+    print(messages)
+    print("\n\n==================================================================")
     print("Generating answer...")
 
     start_time = time.time() 
@@ -269,8 +272,8 @@ class ReallySimplePrompt:
   def __init__(self, config, system_prompt=None):
     self.prompt_runner = PromptRunner(config, system_prompt)
   
-  def get_response(self, user_prompt, system_prompt=None):
-    response = self.prompt_runner.ask_question(user_prompt, system_prompt)
+  def get_response(self, user_prompt=None, system_prompt=None, chat_history=None):
+    response = self.prompt_runner.ask_question(user_prompt=user_prompt, system_prompt=system_prompt, chat_history=chat_history)
     return response
 
 

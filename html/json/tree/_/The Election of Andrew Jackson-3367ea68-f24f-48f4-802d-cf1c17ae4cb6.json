@@ -1,0 +1,318 @@
+{
+  "name": "The Election of Andrew Jackson",
+  "children": [
+    {
+      "name": "Expansion of Suffrage",
+      "score": 8
+    },
+    {
+      "name": "Spoils System Rise",
+      "score": 7
+    },
+    {
+      "name": "Nullification Crisis",
+      "score": 6
+    },
+    {
+      "name": "Indian Removal Act",
+      "score": 9
+    },
+    {
+      "name": "Formation of Whig Party",
+      "score": 5,
+      "children": [
+        {
+          "name": "Opposition to the 'Bank War'",
+          "score": 9
+        },
+        {
+          "name": "Enhanced role of Congress",
+          "score": 8
+        },
+        {
+          "name": "Support for economic modernization",
+          "score": 7
+        },
+        {
+          "name": "Increase in political participation",
+          "score": 8
+        },
+        {
+          "name": "Second Party System rise",
+          "score": 10
+        },
+        {
+          "name": "Development of a two-party system",
+          "score": 8
+        },
+        {
+          "name": "Presidential campaigns of William Henry Harrison",
+          "score": 7
+        },
+        {
+          "name": "Election of Whig president John Tyler",
+          "score": 7
+        },
+        {
+          "name": "Passage of the Tariff of 1833",
+          "score": 6
+        },
+        {
+          "name": "Panic of 1837",
+          "score": 5
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "introduction": "The formation of the Whig Party in 1833 was a direct response to Andrew Jackson's authoritarian style and policies, marking a new phase in American political life. It was born from the conflict engendered by Jackson's actions, including his stance on the Bank of the United States and his use of the presidential veto. A coalition of National Republicans, anti-Jacksonians, and other dissatisfied groups came together to form a new political force to oppose what they saw as Jackson's overreach.",
+        "name": "Formation of Whig Party",
+        "summary": "The Whig Party was created to counteract Andrew Jackson's presidency, advocating for a stronger Congress and opposing the 'executive tyranny' they attributed to Jackson.",
+        "dates": [
+          "1833",
+          "1854"
+        ],
+        "effects": [
+          {
+            "name": "Opposition to the 'Bank War'",
+            "score": 9
+          },
+          {
+            "name": "Enhanced role of Congress",
+            "score": 8
+          },
+          {
+            "name": "Support for economic modernization",
+            "score": 7
+          },
+          {
+            "name": "Increase in political participation",
+            "score": 8
+          },
+          {
+            "name": "Second Party System rise",
+            "score": 10
+          },
+          {
+            "name": "Development of a two-party system",
+            "score": 8
+          },
+          {
+            "name": "Presidential campaigns of William Henry Harrison",
+            "score": 7
+          },
+          {
+            "name": "Election of Whig president John Tyler",
+            "score": 7
+          },
+          {
+            "name": "Passage of the Tariff of 1833",
+            "score": 6
+          },
+          {
+            "name": "Panic of 1837",
+            "score": 5
+          }
+        ],
+        "conclusion": "The formation of the Whig Party represented a coalescence of various political factions united in their opposition to Andrew Jackson. This new party dynamic contributed to the emergence of a more organized two-party system and influenced American politics deeply until the party's dissolution in the 1850s.",
+        "people": [
+          "Henry Clay",
+          "Daniel Webster",
+          "William Henry Harrison",
+          "John Tyler"
+        ],
+        "places": [
+          "United States",
+          "Washington D.C.",
+          "Bank of the United States",
+          "American West"
+        ],
+        "themes": [
+          "Political opposition",
+          "American two-party system",
+          "Congressional power",
+          "Economic policy"
+        ]
+      }
+    },
+    {
+      "name": "Second Bank of the U.S. Battle",
+      "score": 7
+    },
+    {
+      "name": "Petticoat Affair Scandal",
+      "score": 4
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "introduction": "The election of Andrew Jackson in 1828 heralded a new era of popular democracy in the United States, with increased suffrage for white males. It signified the rise of the 'common man' and the Democratic Party. Leading to this event, Jackson's defeat in the contentious 1824 election, the controversial 'corrupt bargain,' and his subsequent popularity among the electorate set the stage for his victory.",
+    "name": "The Election of Andrew Jackson",
+    "summary": "Andrew Jackson's 1828 election victory marked a shift towards greater democracy and the empowerment of the 'common man' in American politics.",
+    "dates": [
+      "1828",
+      "1828"
+    ],
+    "effects": [
+      {
+        "name": "Expansion of Suffrage",
+        "score": 8
+      },
+      {
+        "name": "Spoils System Rise",
+        "score": 7
+      },
+      {
+        "name": "Nullification Crisis",
+        "score": 6
+      },
+      {
+        "name": "Indian Removal Act",
+        "score": 9
+      },
+      {
+        "name": "Formation of Whig Party",
+        "score": 5,
+        "children": [
+          {
+            "name": "Opposition to the 'Bank War'",
+            "score": 9
+          },
+          {
+            "name": "Enhanced role of Congress",
+            "score": 8
+          },
+          {
+            "name": "Support for economic modernization",
+            "score": 7
+          },
+          {
+            "name": "Increase in political participation",
+            "score": 8
+          },
+          {
+            "name": "Second Party System rise",
+            "score": 10
+          },
+          {
+            "name": "Development of a two-party system",
+            "score": 8
+          },
+          {
+            "name": "Presidential campaigns of William Henry Harrison",
+            "score": 7
+          },
+          {
+            "name": "Election of Whig president John Tyler",
+            "score": 7
+          },
+          {
+            "name": "Passage of the Tariff of 1833",
+            "score": 6
+          },
+          {
+            "name": "Panic of 1837",
+            "score": 5
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "introduction": "The formation of the Whig Party in 1833 was a direct response to Andrew Jackson's authoritarian style and policies, marking a new phase in American political life. It was born from the conflict engendered by Jackson's actions, including his stance on the Bank of the United States and his use of the presidential veto. A coalition of National Republicans, anti-Jacksonians, and other dissatisfied groups came together to form a new political force to oppose what they saw as Jackson's overreach.",
+          "name": "Formation of Whig Party",
+          "summary": "The Whig Party was created to counteract Andrew Jackson's presidency, advocating for a stronger Congress and opposing the 'executive tyranny' they attributed to Jackson.",
+          "dates": [
+            "1833",
+            "1854"
+          ],
+          "effects": [
+            {
+              "name": "Opposition to the 'Bank War'",
+              "score": 9
+            },
+            {
+              "name": "Enhanced role of Congress",
+              "score": 8
+            },
+            {
+              "name": "Support for economic modernization",
+              "score": 7
+            },
+            {
+              "name": "Increase in political participation",
+              "score": 8
+            },
+            {
+              "name": "Second Party System rise",
+              "score": 10
+            },
+            {
+              "name": "Development of a two-party system",
+              "score": 8
+            },
+            {
+              "name": "Presidential campaigns of William Henry Harrison",
+              "score": 7
+            },
+            {
+              "name": "Election of Whig president John Tyler",
+              "score": 7
+            },
+            {
+              "name": "Passage of the Tariff of 1833",
+              "score": 6
+            },
+            {
+              "name": "Panic of 1837",
+              "score": 5
+            }
+          ],
+          "conclusion": "The formation of the Whig Party represented a coalescence of various political factions united in their opposition to Andrew Jackson. This new party dynamic contributed to the emergence of a more organized two-party system and influenced American politics deeply until the party's dissolution in the 1850s.",
+          "people": [
+            "Henry Clay",
+            "Daniel Webster",
+            "William Henry Harrison",
+            "John Tyler"
+          ],
+          "places": [
+            "United States",
+            "Washington D.C.",
+            "Bank of the United States",
+            "American West"
+          ],
+          "themes": [
+            "Political opposition",
+            "American two-party system",
+            "Congressional power",
+            "Economic policy"
+          ]
+        }
+      },
+      {
+        "name": "Second Bank of the U.S. Battle",
+        "score": 7
+      },
+      {
+        "name": "Petticoat Affair Scandal",
+        "score": 4
+      }
+    ],
+    "conclusion": "Andrew Jackson's election in 1828 was a pivotal moment that reshaped U.S. politics, leading to significant policy shifts and the reorganization of political parties. His presidency saw the entrenchment of the spoils system, increased tensions over states' rights, and the controversial relocation of Native Americans.",
+    "people": [
+      "Andrew Jackson",
+      "John Quincy Adams",
+      "Henry Clay",
+      "Martin Van Buren"
+    ],
+    "places": [
+      "United States",
+      "Washington, D.C.",
+      "Tennessee",
+      "Georgia"
+    ],
+    "themes": [
+      "Democracy",
+      "Populism",
+      "Political Parties",
+      "States' Rights"
+    ]
+  }
+}

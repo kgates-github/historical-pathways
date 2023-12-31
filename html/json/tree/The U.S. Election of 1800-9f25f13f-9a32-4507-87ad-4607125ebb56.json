@@ -1,0 +1,515 @@
+{
+  "name": "The U.S. Election of 1800",
+  "menu": "The U.S. Election of 1800:low:first-year university student",
+  "children": [
+    {
+      "name": "Jeffersonian Democracy",
+      "dates": {
+        "start": "1801-03-04",
+        "end": "1809-03-04"
+      },
+      "description": "The era of Jefferson's presidency, which set the tone for a less aristocratic, more democratic direction for the country.",
+      "type": "effect",
+      "score": 9,
+      "children": [
+        {
+          "name": "Marbury v. Madison",
+          "dates": {
+            "start": "1803-02-24",
+            "end": "1803-02-24"
+          },
+          "description": "Landmark Supreme Court case establishing the principle of judicial review.",
+          "type": "Effect",
+          "score": 8
+        },
+        {
+          "name": "The Era of Good Feelings",
+          "dates": {
+            "start": "1817-03-04",
+            "end": "1825-03-04"
+          },
+          "description": "A period marked by a sense of national purpose and desire for unity among Americans in the aftermath of the Napoleonic Wars.",
+          "type": "Effect",
+          "score": 6
+        },
+        {
+          "name": "Development of American Political Parties",
+          "dates": {
+            "start": "1792-01-01",
+            "end": "1828-12-31"
+          },
+          "description": "Explore the evolution of the American political system and the rise of political parties.",
+          "type": "Broad Perspective",
+          "score": 7
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "type": "event",
+        "name": "Jeffersonian Democracy",
+        "description": "The philosophical and political framework that emphasized agrarianism, republicanism, and limited government during Thomas Jefferson's presidency.",
+        "introduction": "Jeffersonian Democracy represents the ideology that shaped the United States during Thomas Jefferson's presidency. It emphasized a vision of an agrarian society, where the yeoman farmer was the ideal citizen. Prior to this, the early republic was divided between Hamiltonian Federalists favoring centralization and the Jeffersonian Republicans advocating for states' rights.",
+        "dates": {
+          "start": "1801-03-04",
+          "end": "1809-03-04"
+        },
+        "sections": [
+          {
+            "name": "Election of 1800",
+            "dates": {
+              "start": "1800-11-01",
+              "end": "1801-03-04"
+            },
+            "summary": "The election of 1800, also known as the 'Revolution of 1800,' saw Thomas Jefferson elected as the third President of the United States. This election marked the first peaceful transfer of power between parties in U.S. history and set the stage for Jeffersonian principles.",
+            "type": "section"
+          },
+          {
+            "name": "Limited Government & Decentralization",
+            "dates": {
+              "start": "1801-03-04",
+              "end": "1809-03-04"
+            },
+            "summary": "Jefferson implemented policies that reflected his belief in limited federal government. He worked to reduce the national debt, cut down the military, eliminate internal taxes, and repeal the Alien and Sedition Acts, promoting a more decentralized government structure.",
+            "type": "section"
+          },
+          {
+            "name": "Judiciary Act of 1801",
+            "dates": {
+              "start": "1801-02-13",
+              "end": "1802-03-08"
+            },
+            "summary": "The Judiciary Act of 1801, enacted by the outgoing Federalist Congress, created new judgeships. Jeffersonians saw this as an attempt to entrench Federalist influence. Once in power, they repealed the act, leading to the landmark case Marbury v. Madison.",
+            "type": "section"
+          },
+          {
+            "name": "Louisiana Purchase",
+            "dates": {
+              "start": "1803-04-30",
+              "end": "1803-12-20"
+            },
+            "summary": "The Louisiana Purchase in 1803 was a seminal event during Jefferson's presidency, which doubled the size of the United States. Although it contradicted his strict interpretation of the Constitution, the acquisition was deemed necessary for expansion.",
+            "type": "section"
+          },
+          {
+            "name": "Embargo Act of 1807",
+            "dates": {
+              "start": "1807-12-22",
+              "end": "1809-03-01"
+            },
+            "summary": "The Embargo Act of 1807 was a response to British and French interference with American shipping. Intended to protect American interests, the act instead hurt the U.S. economy and was unpopular, leading to its eventual repeal.",
+            "type": "section"
+          },
+          {
+            "name": "Agrarian Ideal",
+            "dates": {
+              "start": "1801-03-04",
+              "end": "1809-03-04"
+            },
+            "summary": "Jefferson championed the agrarian ideal, arguing that farmers were the most valuable citizens. This belief led to policies favoring agrarian interests and the expansion of land ownership for farming.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "Jeffersonian Democracy shaped the early 19th-century U.S. political landscape by advocating for a rural, agrarian society, a decentralized government, and the protection of individual liberties. Its principles would influence American politics and conflicts for decades to follow.",
+        "people": [
+          {
+            "name": "Thomas Jefferson",
+            "dates": {
+              "start": "1743-04-13",
+              "end": "1826-07-04"
+            },
+            "description": "3rd President of the U.S., he was the principal advocate for Jeffersonian Democracy.",
+            "type": "people"
+          }
+        ],
+        "places": [
+          {
+            "name": "United States",
+            "description": "The nation where Jeffersonian Democracy took root and profoundly influenced its development.",
+            "type": "place"
+          }
+        ],
+        "next": [
+          {
+            "name": "Marbury v. Madison",
+            "dates": {
+              "start": "1803-02-24",
+              "end": "1803-02-24"
+            },
+            "description": "Landmark Supreme Court case establishing the principle of judicial review.",
+            "type": "Effect",
+            "score": 8
+          },
+          {
+            "name": "The Era of Good Feelings",
+            "dates": {
+              "start": "1817-03-04",
+              "end": "1825-03-04"
+            },
+            "description": "A period marked by a sense of national purpose and desire for unity among Americans in the aftermath of the Napoleonic Wars.",
+            "type": "Effect",
+            "score": 6
+          },
+          {
+            "name": "Development of American Political Parties",
+            "dates": {
+              "start": "1792-01-01",
+              "end": "1828-12-31"
+            },
+            "description": "Explore the evolution of the American political system and the rise of political parties.",
+            "type": "Broad Perspective",
+            "score": 7
+          }
+        ],
+        "themes": [
+          "Agrarianism",
+          "States' Rights and Limited Government",
+          "Judicial Review",
+          "Expansionism"
+        ]
+      }
+    },
+    {
+      "name": "The 12th Amendment",
+      "dates": {
+        "start": "1803-12-09",
+        "end": "1804-06-15"
+      },
+      "description": "The constitutional change made in response to the electoral crisis of 1800, requiring separate votes for President and Vice President.",
+      "type": "effect",
+      "score": 8
+    },
+    {
+      "name": "Federalist and Democratic-Republican Party Dynamics",
+      "dates": {
+        "start": "1792-01-01",
+        "end": "1824-01-01"
+      },
+      "description": "A broader look at the evolution of the two-party system and partisan politics in the early United States.",
+      "type": "broad perspective",
+      "score": 7
+    },
+    {
+      "name": "The Influence of Alexander Hamilton on Early American Politics",
+      "dates": {
+        "start": "1776-01-01",
+        "end": "1804-07-12"
+      },
+      "description": "Exploration of Hamilton's role in shaping the financial, political, and legal systems of the United States.",
+      "type": "broad perspective",
+      "score": 6
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "type": "event",
+    "name": "The U.S. Election of 1800",
+    "description": "The U.S. Election of 1800 marked the first peaceful transfer of power between political parties in America.",
+    "introduction": "The U.S. Election of 1800, often referred to as the 'Revolution of 1800,' was significant for being the first peaceful transfer of power from one party to another in the young United States. It reflected emerging political ideologies and the challenges of a new electoral system. The election followed intense political conflict between the Federalists, who controlled the government, and the Democratic-Republicans, led by Thomas Jefferson.",
+    "dates": {
+      "start": "1800-11-01",
+      "end": "1801-03-04"
+    },
+    "sections": [
+      {
+        "name": "Political Background",
+        "dates": {
+          "start": "1796-11-01",
+          "end": "1800-11-01"
+        },
+        "summary": "The Federalist Party, led by John Adams, faced criticism for the Alien and Sedition Acts, while the Democratic-Republicans, with Thomas Jefferson and Aaron Burr, opposed Federalist policies, advocating for states' rights and a strict interpretation of the Constitution.",
+        "type": "section"
+      },
+      {
+        "name": "Campaign and Division",
+        "dates": {
+          "start": "1800-04-01",
+          "end": "1800-10-31"
+        },
+        "summary": "A bitter campaign ensued, with personal attacks and fierce debates. The Federalists split into factions, and Alexander Hamilton's opposition to Adams weakened their position, while the Democratic-Republicans unified behind Jefferson's vision for the country.",
+        "type": "section"
+      },
+      {
+        "name": "Electoral Deadlock",
+        "dates": {
+          "start": "1800-11-01",
+          "end": "1801-02-17"
+        },
+        "summary": "Jefferson and Burr, running mates for the Democratic-Republicans, each received 73 electoral votes, leading to a tie and a constitutional crisis. The House of Representatives was tasked with breaking the tie, which took 36 ballots to resolve.",
+        "type": "section"
+      },
+      {
+        "name": "Hamilton's Influence",
+        "dates": {
+          "start": "1801-02-11",
+          "end": "1801-02-17"
+        },
+        "summary": "Despite his disagreements with Jefferson, Alexander Hamilton viewed Aaron Burr as a greater threat to the nation's stability. Hamilton's influential endorsement of Jefferson ultimately swayed enough Federalist representatives to break the deadlock.",
+        "type": "section"
+      },
+      {
+        "name": "Jefferson's Inauguration",
+        "dates": {
+          "start": "1801-03-04",
+          "end": "1801-03-04"
+        },
+        "summary": "Thomas Jefferson was inaugurated as the third President of the United States, emphasizing unity and the need for a peaceful transition of power. His famous phrase 'We are all Republicans, we are all Federalists' highlighted his conciliatory approach.",
+        "type": "section"
+      }
+    ],
+    "conclusion": "The Election of 1800 was a defining moment in American democracy, demonstrating the capacity for nonviolent change in leadership and establishing a precedent for future elections. Its impact on the political landscape set the stage for the dominance of the Democratic-Republican Party and shaped the evolution of the electoral process.",
+    "people": [
+      {
+        "name": "Thomas Jefferson",
+        "dates": {
+          "start": "1743-04-13",
+          "end": "1826-07-04"
+        },
+        "description": "Jefferson was a leading Democratic-Republican, the principal author of the Declaration of Independence, and the victor of the 1800 election.",
+        "type": "people"
+      },
+      {
+        "name": "Aaron Burr",
+        "dates": {
+          "start": "1756-02-06",
+          "end": "1836-09-14"
+        },
+        "description": "Burr was Jefferson's running mate in 1800, later serving as Vice President, and was central to the election's deadlock.",
+        "type": "people"
+      },
+      {
+        "name": "John Adams",
+        "dates": {
+          "start": "1735-10-30",
+          "end": "1826-07-04"
+        },
+        "description": "Adams was the incumbent President and Federalist candidate in the 1800 election, known for his role in the American Revolution.",
+        "type": "people"
+      },
+      {
+        "name": "Alexander Hamilton",
+        "dates": {
+          "start": "1755-01-11",
+          "end": "1804-07-12"
+        },
+        "description": "Hamilton was a key Federalist leader whose influence in the House of Representatives helped resolve the election in Jefferson's favor.",
+        "type": "people"
+      }
+    ],
+    "places": [
+      {
+        "name": "Washington, D.C.",
+        "description": "The capital of the United States and the location of Thomas Jefferson's inauguration as President.",
+        "type": "place"
+      },
+      {
+        "name": "New York City",
+        "description": "A political and economic center at the time, where many influential discussions and decisions took place.",
+        "type": "place"
+      }
+    ],
+    "next": [
+      {
+        "name": "Jeffersonian Democracy",
+        "dates": {
+          "start": "1801-03-04",
+          "end": "1809-03-04"
+        },
+        "description": "The era of Jefferson's presidency, which set the tone for a less aristocratic, more democratic direction for the country.",
+        "type": "effect",
+        "score": 9,
+        "children": [
+          {
+            "name": "Marbury v. Madison",
+            "dates": {
+              "start": "1803-02-24",
+              "end": "1803-02-24"
+            },
+            "description": "Landmark Supreme Court case establishing the principle of judicial review.",
+            "type": "Effect",
+            "score": 8
+          },
+          {
+            "name": "The Era of Good Feelings",
+            "dates": {
+              "start": "1817-03-04",
+              "end": "1825-03-04"
+            },
+            "description": "A period marked by a sense of national purpose and desire for unity among Americans in the aftermath of the Napoleonic Wars.",
+            "type": "Effect",
+            "score": 6
+          },
+          {
+            "name": "Development of American Political Parties",
+            "dates": {
+              "start": "1792-01-01",
+              "end": "1828-12-31"
+            },
+            "description": "Explore the evolution of the American political system and the rise of political parties.",
+            "type": "Broad Perspective",
+            "score": 7
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "type": "event",
+          "name": "Jeffersonian Democracy",
+          "description": "The philosophical and political framework that emphasized agrarianism, republicanism, and limited government during Thomas Jefferson's presidency.",
+          "introduction": "Jeffersonian Democracy represents the ideology that shaped the United States during Thomas Jefferson's presidency. It emphasized a vision of an agrarian society, where the yeoman farmer was the ideal citizen. Prior to this, the early republic was divided between Hamiltonian Federalists favoring centralization and the Jeffersonian Republicans advocating for states' rights.",
+          "dates": {
+            "start": "1801-03-04",
+            "end": "1809-03-04"
+          },
+          "sections": [
+            {
+              "name": "Election of 1800",
+              "dates": {
+                "start": "1800-11-01",
+                "end": "1801-03-04"
+              },
+              "summary": "The election of 1800, also known as the 'Revolution of 1800,' saw Thomas Jefferson elected as the third President of the United States. This election marked the first peaceful transfer of power between parties in U.S. history and set the stage for Jeffersonian principles.",
+              "type": "section"
+            },
+            {
+              "name": "Limited Government & Decentralization",
+              "dates": {
+                "start": "1801-03-04",
+                "end": "1809-03-04"
+              },
+              "summary": "Jefferson implemented policies that reflected his belief in limited federal government. He worked to reduce the national debt, cut down the military, eliminate internal taxes, and repeal the Alien and Sedition Acts, promoting a more decentralized government structure.",
+              "type": "section"
+            },
+            {
+              "name": "Judiciary Act of 1801",
+              "dates": {
+                "start": "1801-02-13",
+                "end": "1802-03-08"
+              },
+              "summary": "The Judiciary Act of 1801, enacted by the outgoing Federalist Congress, created new judgeships. Jeffersonians saw this as an attempt to entrench Federalist influence. Once in power, they repealed the act, leading to the landmark case Marbury v. Madison.",
+              "type": "section"
+            },
+            {
+              "name": "Louisiana Purchase",
+              "dates": {
+                "start": "1803-04-30",
+                "end": "1803-12-20"
+              },
+              "summary": "The Louisiana Purchase in 1803 was a seminal event during Jefferson's presidency, which doubled the size of the United States. Although it contradicted his strict interpretation of the Constitution, the acquisition was deemed necessary for expansion.",
+              "type": "section"
+            },
+            {
+              "name": "Embargo Act of 1807",
+              "dates": {
+                "start": "1807-12-22",
+                "end": "1809-03-01"
+              },
+              "summary": "The Embargo Act of 1807 was a response to British and French interference with American shipping. Intended to protect American interests, the act instead hurt the U.S. economy and was unpopular, leading to its eventual repeal.",
+              "type": "section"
+            },
+            {
+              "name": "Agrarian Ideal",
+              "dates": {
+                "start": "1801-03-04",
+                "end": "1809-03-04"
+              },
+              "summary": "Jefferson championed the agrarian ideal, arguing that farmers were the most valuable citizens. This belief led to policies favoring agrarian interests and the expansion of land ownership for farming.",
+              "type": "section"
+            }
+          ],
+          "conclusion": "Jeffersonian Democracy shaped the early 19th-century U.S. political landscape by advocating for a rural, agrarian society, a decentralized government, and the protection of individual liberties. Its principles would influence American politics and conflicts for decades to follow.",
+          "people": [
+            {
+              "name": "Thomas Jefferson",
+              "dates": {
+                "start": "1743-04-13",
+                "end": "1826-07-04"
+              },
+              "description": "3rd President of the U.S., he was the principal advocate for Jeffersonian Democracy.",
+              "type": "people"
+            }
+          ],
+          "places": [
+            {
+              "name": "United States",
+              "description": "The nation where Jeffersonian Democracy took root and profoundly influenced its development.",
+              "type": "place"
+            }
+          ],
+          "next": [
+            {
+              "name": "Marbury v. Madison",
+              "dates": {
+                "start": "1803-02-24",
+                "end": "1803-02-24"
+              },
+              "description": "Landmark Supreme Court case establishing the principle of judicial review.",
+              "type": "Effect",
+              "score": 8
+            },
+            {
+              "name": "The Era of Good Feelings",
+              "dates": {
+                "start": "1817-03-04",
+                "end": "1825-03-04"
+              },
+              "description": "A period marked by a sense of national purpose and desire for unity among Americans in the aftermath of the Napoleonic Wars.",
+              "type": "Effect",
+              "score": 6
+            },
+            {
+              "name": "Development of American Political Parties",
+              "dates": {
+                "start": "1792-01-01",
+                "end": "1828-12-31"
+              },
+              "description": "Explore the evolution of the American political system and the rise of political parties.",
+              "type": "Broad Perspective",
+              "score": 7
+            }
+          ],
+          "themes": [
+            "Agrarianism",
+            "States' Rights and Limited Government",
+            "Judicial Review",
+            "Expansionism"
+          ]
+        }
+      },
+      {
+        "name": "The 12th Amendment",
+        "dates": {
+          "start": "1803-12-09",
+          "end": "1804-06-15"
+        },
+        "description": "The constitutional change made in response to the electoral crisis of 1800, requiring separate votes for President and Vice President.",
+        "type": "effect",
+        "score": 8
+      },
+      {
+        "name": "Federalist and Democratic-Republican Party Dynamics",
+        "dates": {
+          "start": "1792-01-01",
+          "end": "1824-01-01"
+        },
+        "description": "A broader look at the evolution of the two-party system and partisan politics in the early United States.",
+        "type": "broad perspective",
+        "score": 7
+      },
+      {
+        "name": "The Influence of Alexander Hamilton on Early American Politics",
+        "dates": {
+          "start": "1776-01-01",
+          "end": "1804-07-12"
+        },
+        "description": "Exploration of Hamilton's role in shaping the financial, political, and legal systems of the United States.",
+        "type": "broad perspective",
+        "score": 6
+      }
+    ],
+    "themes": [
+      "Peaceful transfer of power",
+      "Emergence of American political parties",
+      "Constitutional crisis and its resolution",
+      "Influence of individual statesmen"
+    ]
+  }
+}
