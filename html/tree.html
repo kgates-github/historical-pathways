@@ -8,9 +8,20 @@
   <style>
   
     /* CSS */
+    .one-line-div {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis; /* Optional: Adds an ellipsis (...) if the text overflows */
+    }
+
     .link {
       fill: none;
       stroke-width: 1; /* Edge thickness */
+    }
+
+    select {
+      margin-top: 40px;
+      font-size: 40px;
     }
 
     .node {
@@ -36,22 +47,23 @@
   <script src="js/tree.js"></script>
 </head>
 <body>
+  
   <div id="menu"></div>
-  <svg id="chart" width="1300" height="500"></svg>
-  <div id="content" style="display:flex; flex-direction: row; width:1300px; margin-top:40px;"></div>
+  <svg id="chart" width="1600" height="600"></svg>
+  <div id="content" style="display:flex; flex-direction: row; width:1700px; margin-top:10px;"></div>
 
   <script>
-    // Set up the tree layout
-    const treeLayout = d3.tree().size([500, 1050]);
+    /*%REPLACE%
+      var data = $data
+    %REPLACE%*/
 
-    // Create a hierarchy from the data
-    const root = d3.hierarchy(data[0]);
+    const width = 1250;
+    var treeLayout = d3.tree().size([600, width]);
 
-    // Compute the tree layout
+    var root = d3.hierarchy(data[0]);
     treeLayout(root);
 
-    // Create an SVG container
-    const svg = d3.select("#chart");
+    var svg = d3.select("#chart");
 
     // Function to update the tree with new data
     function updateTree(selectedData) {
@@ -66,8 +78,8 @@
         .data(updatedRoot.links())
         .join("path")
         .attr('class', 'link')
-        .attr("stroke", d => d.target.data.visited == "true" ? "#000" : "#333")
-        .attr("opacity", d => d.target.data.visited == "true" ? 0.3 : 0.1)
+        .attr("stroke", d => d.target.data.visited == "true" ? "#ccc" : "#ccc")
+        //.attr("opacity", d => d.target.data.visited == "true" ? 0.2 : 0.2)
         .attr("d", d3.linkHorizontal()
           .x(d => d.y)
           .y(d => d.x));
@@ -79,7 +91,7 @@
         //.attr('class', 'node')
         .attr("cx", d => d.y)
         .attr("cy", d => d.x)
-        .attr("fill", d => d.data.visited == "true" ? "#000" : "#333")
+        .attr("fill", d => d.data.visited == "true" ? "#cc0000" : "#333")
         .attr("opacity", d => d.data.visited == "true" ? 0 : 0)
         .attr("r", 3);
 
@@ -90,10 +102,31 @@
         .attr('class', 'text')
         .attr("x", d => d.y + 10)
         .attr("y", d => d.x + 4)
-        .attr("fill", d => d.data.visited == "true" ? "#000" : "#333")
+        .attr("fill", d => d.data.visited == "true" ? "#cc0000" : "#777")
         .style("font-weight", d => d.data.visited == "true" ? 700 : 400)
-        .attr("opacity", d => d.data.visited == "true" ? 1 : 0.5)
-        .text(d => d.data.name);
+        //.attr("opacity", d => d.data.visited == "true" ? 1 : 0.5)
+        .text(d => { return d.data.name })
+        .append("tspan")
+        .attr("x", d => d.y + 10)
+        .attr("dy", "1.2em")
+        .text(d => { 
+          if (d.data.dates) {
+            return d.data.type + ' | ' + d.data.score + ' | ' + d.data.dates.start
+          } else {
+            return ''
+          }
+        })
+        /*.append("tspan")
+        .attr("x", d => d.y + 10)
+        .attr("dy", "1.2em")
+        .text(d => { 
+          console.log(d.data)
+          if (d.data.dates) {
+            return d.data.theme 
+          } else {
+            return ''
+          }
+        })*/
     }
 
     // Function to create divs for visited nodes
@@ -126,8 +159,9 @@
         let themesString = "";
         themes.forEach(theme => {
           const color = colorScale(theme);
-          themesString += "<div style='color:#fff; background-color:" + color + 
-          "; padding:0px 6px 0px 6px; border-radius:8px; margin-bottom:4px;'>" + theme + "</div>";
+          themesString += "<div style='display:flex; flex-direction:row; color:#333; padding:0px 6px 0px 6px; border-radius:8px; margin-bottom:4px;'>" + 
+            "<div style='margin-right:10px; width:20px; height:20px; color:#fff; background-color:" + color + "; padding:0px; border-radius:50%;'></div><div style='flex:1'>" +
+            theme + "</div></div>";
         });
         
         return themesString
@@ -137,12 +171,24 @@
         
         let themesString = "";
         people.forEach(person => {
-          const color = colorScale(person);
-          themesString += "<div style='color:#fff; background-color:" + color + 
-          "; padding:0px 6px 0px 6px; border-radius:8px; margin-bottom:4px;'>" + person.name + ": " + person.description + "</div>";
+          const color = colorScale(person.name);
+          themesString += "<div style='display:flex; flex-direction:row; color:#333; padding:0px 6px 0px 6px; border-radius:8px; margin-bottom:4px;'>" + 
+            "<div style='margin-right:10px; width:20px; height:20px; color:#fff; background-color:" + color + "; padding:0px; border-radius:50%;'></div><div>" +
+            person.name + "</div></div>";
         });
         
         return themesString
+      }
+
+      function getSections(sections) {
+        let sectionsString = "<div style='background-color: #eee; margin-bottom:16px; font-weight:500'>";
+        sections.forEach(section => {
+          sectionsString += "<div style='margin-bottom:8px; font-weight:bold'>" + section.name + "</div>" + 
+            "<div style='margin-bottom:8px;'>" + section.dates.start + "</div>" + 
+            "<div style='margin-bottom:8px;'>" + section.summary + "</div>"
+        });
+        sectionsString += "</div>"
+        return sectionsString
       }
 
       const visitedNodes = getVisitedNodes(selectedData);
@@ -156,13 +202,18 @@
           .append("div")
           .style("padding-right", "40px")
           .style("flex", "1")
-          .html("<div style='margin-bottom:16px; font-weight:500'>" + n.content.dates["start"] + " - " + n.content.dates["end"] + "</div>" +
+          .style("background", (n) => (n % 2 == 0) ? "#eee" : "#fff")
+          .html("<div style='height:200px;'>" +
+              "<div style='margin-bottom:16px;'>THEMES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.themes) + "</div>" +
+              "</div>" +
+              "<div style='margin-bottom:16px; font-weight:500'>" + n.content.dates["start"] + "</div>" +
               "<div style='margin-bottom:16px;'>DESCRIPTION: " + n.content.description + "</div>" + 
               "<div style='margin-bottom:16px;'>INTRODUCTION: " + n.content.introduction + "</div>" + 
+              getSections(n.content.sections) +
               "<div style='margin-bottom:16px;'>CONCLUSION: " + n.content.conclusion + "</div>" + 
-              "</div><div style='margin-bottom:16px;'>THEMES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.themes) + "</div>" +
-              "</div><div style='margin-bottom:16px;'>PEOPLE</div><div style='margin-bottom:16px;'>" + createPeopleSpan(n.content.people) + "</div>" +
-              "</div><div style='margin-bottom:16px;'>PLACES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.places) + "</div>"
+             
+              "<div style='margin-bottom:16px;'>PEOPLE</div><div style='margin-bottom:16px;'>" + createPeopleSpan(n.content.people) + "</div>"
+              //"</div><div style='margin-bottom:16px;'>PLACES</div><div style='margin-bottom:16px;'>" + createThemeSpan(n.content.places) + "</div>"
           )
       });
       content.append("div")
@@ -172,7 +223,6 @@
 
       }
       
-
     // Create the select menu
     const selectMenu = d3.select("#menu")
       .append("select")
@@ -188,7 +238,7 @@
       .data(data)
       .enter()
       .append("option")
-      .text(d => d.name + d.menu);
+      .text(d => d.menu);
 
     // Set the default selected option
     selectMenu.property("value", data[0].name);
@@ -196,4 +246,7 @@
     // Initialize the tree with default data
     updateTree(data[0]);
     createDivs(data[0]);
+
+
+    
   </script>

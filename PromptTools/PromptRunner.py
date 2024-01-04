@@ -113,10 +113,8 @@ class PromptRunner:
       # Add prompt injection (prior answers)
       messages = messages + chat_history
 
-    print("==================================================================\n\n")
-    print(messages)
-    print("\n\n==================================================================")
-    print("Generating answer...")
+    
+    print("\nGenerating answer...\n")
 
     start_time = time.time() 
     result = self.generate_answer(model, messages, temperature, self.seed)

@@ -1,7 +1,7 @@
 import os
 import json
-import uuid
 import pprint
+from datetime import datetime
 
 def text_file_to_json(directory_path):
 
@@ -99,6 +99,13 @@ def create_js_from_json(directory, output_directory, js_file):
   
   
   #collection_to_json_file(json_data_list, output_directory, js_file)
+    
+def is_valid_date(date_str, format='%Y-%m-%d'):
+    try:
+        datetime.strptime(date_str, format)
+        return True
+    except ValueError:
+        return False
 
 
 

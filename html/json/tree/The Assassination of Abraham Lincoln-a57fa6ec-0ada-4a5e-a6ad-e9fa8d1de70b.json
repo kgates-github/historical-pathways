@@ -1,0 +1,1544 @@
+{
+  "name": "The Assassination of Abraham Lincoln",
+  "menu": "The Assassination of Abraham Lincoln:low:university student",
+  "children": [
+    {
+      "name": "The Reconstruction Era",
+      "dates": {
+        "start": "1865-04-15",
+        "end": "1877-03-04"
+      },
+      "description": "Period following the Civil War, focused on rebuilding the United States and integrating Southern states.",
+      "type": "effect",
+      "score": 9,
+      "children": [
+        {
+          "name": "The Rise of Jim Crow Laws",
+          "dates": {
+            "start": "1877-04-01",
+            "end": "1965-08-06"
+          },
+          "description": "State and local laws enforcing racial segregation in the Southern United States after Reconstruction.",
+          "type": "effect",
+          "score": 9
+        },
+        {
+          "name": "The Civil Rights Movement",
+          "dates": {
+            "start": "1954-05-17",
+            "end": "1968-04-04"
+          },
+          "description": "A decades-long struggle by African Americans to end legalized racial discrimination and inequality.",
+          "type": "effect",
+          "score": 8
+        },
+        {
+          "name": "The Disenfranchisement of African American Voters",
+          "dates": {
+            "start": "1877-04-01",
+            "end": "1965-08-06"
+          },
+          "description": "The systematic removal of voting rights from African Americans in the South following Reconstruction.",
+          "type": "effect",
+          "score": 10,
+          "children": [
+            {
+              "name": "The Civil Rights Act of 1964",
+              "dates": {
+                "start": "1964-07-02",
+                "end": "1964-07-02"
+              },
+              "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+              "type": "effect",
+              "score": 9
+            },
+            {
+              "name": "Selma to Montgomery Marches",
+              "dates": {
+                "start": "1965-03-07",
+                "end": "1965-03-25"
+              },
+              "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+              "type": "effect",
+              "score": 10
+            },
+            {
+              "name": "The Rise of Black Political Power in the 20th Century",
+              "dates": {
+                "start": "1965-08-06",
+                "end": "2000-12-31"
+              },
+              "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+              "type": "effect",
+              "score": 8
+            },
+            {
+              "name": "Shelby County v. Holder",
+              "dates": {
+                "start": "2013-06-25",
+                "end": "2013-06-25"
+              },
+              "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+              "type": "effect",
+              "score": 7
+            }
+          ],
+          "visited": "true",
+          "content": {
+            "type": "event",
+            "name": "The Disenfranchisement of African American Voters",
+            "description": "This event explores the systematic exclusion of African American voters in the post-Reconstruction South.",
+            "introduction": "The disenfranchisement of African American voters was a significant and deliberate backlash against the gains made during Reconstruction. Following the end of the Civil War and the abolition of slavery, the United States grappled with integrating African Americans into the political fabric of the nation. The Reconstruction Era saw the passage of amendments and laws aimed at ensuring their rights, but this progress was met with fierce resistance.",
+            "dates": {
+              "start": "1877-03-31",
+              "end": "1965-08-06"
+            },
+            "sections": [
+              {
+                "name": "End of Reconstruction and Rise of Jim Crow",
+                "dates": {
+                  "start": "1877-03-31",
+                  "end": "1896-05-18"
+                },
+                "summary": "The Compromise of 1877 marked the end of federal intervention in Southern politics, leading to the withdrawal of troops and the rapid unraveling of Reconstruction gains. Southern states enacted Jim Crow laws, codifying racial segregation and disenfranchisement through literacy tests, poll taxes, and grandfather clauses.",
+                "type": "section"
+              },
+              {
+                "name": "Voting Rights Suppression Tactics",
+                "dates": {
+                  "start": "1890-01-01",
+                  "end": "1908-12-31"
+                },
+                "summary": "Southern states employed a variety of tactics to suppress African American voting rights, including literacy tests, poll taxes, and property requirements. These measures, coupled with violence and intimidation by groups like the Ku Klux Klan, effectively disenfranchised black voters.",
+                "type": "section"
+              },
+              {
+                "name": "Plessy v. Ferguson and Legalized Segregation",
+                "dates": {
+                  "start": "1896-05-18",
+                  "end": "1896-05-18"
+                },
+                "summary": "The Supreme Court decision in Plessy v. Ferguson upheld the constitutionality of 'separate but equal,' reinforcing the legal framework for segregation and further marginalizing African Americans from the political process.",
+                "type": "section"
+              },
+              {
+                "name": "The Great Migration",
+                "dates": {
+                  "start": "1916-01-01",
+                  "end": "1970-12-31"
+                },
+                "summary": "The Great Migration saw millions of African Americans move from the rural South to the urban North, seeking economic opportunities and escaping Jim Crow oppression. This demographic shift eventually impacted the political landscape of the North.",
+                "type": "section"
+              },
+              {
+                "name": "Civil Rights Movement",
+                "dates": {
+                  "start": "1954-05-17",
+                  "end": "1968-04-04"
+                },
+                "summary": "The Civil Rights Movement was a pivotal era of activism, challenging segregation and disenfranchisement. Landmark events, including the Montgomery Bus Boycott and the March on Washington, highlighted the struggle for equality and voting rights.",
+                "type": "section"
+              },
+              {
+                "name": "The Voting Rights Act of 1965",
+                "dates": {
+                  "start": "1965-08-06",
+                  "end": "1965-08-06"
+                },
+                "summary": "The Voting Rights Act of 1965, signed into law by President Lyndon B. Johnson, aimed to overcome legal barriers at the state and local levels that prevented African Americans from exercising their right to vote as guaranteed under the 15th Amendment.",
+                "type": "section"
+              }
+            ],
+            "conclusion": "The disenfranchisement of African American voters was a calculated effort to undermine the political power of black citizens in the post-Reconstruction South. The struggle for voting rights was central to the Civil Rights Movement, culminating in the passage of the Voting Rights Act of 1965, which sought to rectify these injustices.",
+            "people": [
+              {
+                "name": "Booker T. Washington",
+                "dates": {
+                  "start": "1856-04-05",
+                  "end": "1915-11-14"
+                },
+                "description": "An influential African American leader who advocated for economic self-reliance and education amid disenfranchisement.",
+                "type": "people"
+              },
+              {
+                "name": "W.E.B. Du Bois",
+                "dates": {
+                  "start": "1868-02-23",
+                  "end": "1963-08-27"
+                },
+                "description": "Civil rights activist and co-founder of the NAACP, Du Bois fought against voter suppression and for equality.",
+                "type": "people"
+              },
+              {
+                "name": "Ida B. Wells",
+                "dates": {
+                  "start": "1862-07-16",
+                  "end": "1931-03-25"
+                },
+                "description": "Journalist and activist who campaigned against lynching and for the rights of African Americans, including suffrage.",
+                "type": "people"
+              },
+              {
+                "name": "Lyndon B. Johnson",
+                "dates": {
+                  "start": "1908-08-27",
+                  "end": "1973-01-22"
+                },
+                "description": "36th President of the U.S., who signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965 into law.",
+                "type": "people"
+              }
+            ],
+            "places": [
+              {
+                "name": "The American South",
+                "description": "Region where disenfranchisement laws were most prevalent, impacting the political and social lives of African Americans.",
+                "type": "place"
+              },
+              {
+                "name": "Washington, D.C.",
+                "description": "The political center where the Voting Rights Act of 1965 was passed to combat disenfranchisement.",
+                "type": "place"
+              },
+              {
+                "name": "Selma, Alabama",
+                "description": "Site of the Selma to Montgomery marches highlighting the struggle for voting rights.",
+                "type": "place"
+              },
+              {
+                "name": "Montgomery, Alabama",
+                "description": "A focal point of the Civil Rights Movement, including the Montgomery Bus Boycott.",
+                "type": "place"
+              }
+            ],
+            "next": [
+              {
+                "name": "The Civil Rights Act of 1964",
+                "dates": {
+                  "start": "1964-07-02",
+                  "end": "1964-07-02"
+                },
+                "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                "type": "effect",
+                "score": 9
+              },
+              {
+                "name": "Selma to Montgomery Marches",
+                "dates": {
+                  "start": "1965-03-07",
+                  "end": "1965-03-25"
+                },
+                "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                "type": "effect",
+                "score": 10
+              },
+              {
+                "name": "The Rise of Black Political Power in the 20th Century",
+                "dates": {
+                  "start": "1965-08-06",
+                  "end": "2000-12-31"
+                },
+                "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                "type": "effect",
+                "score": 8
+              },
+              {
+                "name": "Shelby County v. Holder",
+                "dates": {
+                  "start": "2013-06-25",
+                  "end": "2013-06-25"
+                },
+                "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                "type": "effect",
+                "score": 7
+              }
+            ],
+            "themes": [
+              "Racial Inequality",
+              "Civil Rights",
+              "Legal and Political Struggles",
+              "Social Justice"
+            ]
+          }
+        },
+        {
+          "name": "The Sharecropping System and Economic Exploitation",
+          "dates": {
+            "start": "1865-12-06",
+            "end": "1950-01-01"
+          },
+          "description": "Agricultural system that trapped African American and poor white farmers in a cycle of debt.",
+          "type": "effect",
+          "score": 7
+        },
+        {
+          "name": "The Legacy of Reconstruction",
+          "description": "A broad perspective on how the era's policies and conflicts shaped modern American society and race relations.",
+          "type": "broad perspective",
+          "score": 6
+        }
+      ],
+      "visited": "true",
+      "content": {
+        "type": "event",
+        "name": "The Reconstruction Era",
+        "description": "The era following the Civil War, marked by attempts to reintegrate Southern states and redefine citizenship and rights.",
+        "introduction": "The Reconstruction Era was a pivotal period in American history, redefining citizenship, rights, and the very fabric of society. Following the assassination of Abraham Lincoln, the nation faced the immense challenge of rebuilding the South and integrating millions of freed slaves into American public life. This era was marked by significant political, social, and economic changes, as well as fierce resistance and conflict.",
+        "dates": {
+          "start": "1865-12-06",
+          "end": "1877-03-31"
+        },
+        "sections": [
+          {
+            "name": "Presidential Reconstruction",
+            "dates": {
+              "start": "1865-04-15",
+              "end": "1867-03-02"
+            },
+            "summary": "After Lincoln's assassination, Vice President Andrew Johnson assumed the presidency. His lenient Reconstruction policies, including rapid readmission of Southern states and vetoing civil rights legislation, led to conflicts with Radical Republicans who sought to transform Southern society and guarantee rights for freedmen.",
+            "type": "section"
+          },
+          {
+            "name": "Radical Reconstruction and the Reconstruction Acts",
+            "dates": {
+              "start": "1867-03-02",
+              "end": "1868-03-11"
+            },
+            "summary": "Radical Republicans overrode Johnson's vetoes and passed the Reconstruction Acts, dividing the South into military districts and requiring states to ratify the 14th Amendment. These measures aimed to enforce equality and voting rights for African Americans, but also incited significant opposition and violence.",
+            "type": "section"
+          },
+          {
+            "name": "Impeachment of Andrew Johnson",
+            "dates": {
+              "start": "1868-02-24",
+              "end": "1868-05-26"
+            },
+            "summary": "The power struggle between President Johnson and Congress culminated in his impeachment. Johnson was charged with violating the Tenure of Office Act and was nearly removed from office, reflecting the intense political discord of the era.",
+            "type": "section"
+          },
+          {
+            "name": "The 15th Amendment and African American Suffrage",
+            "dates": {
+              "start": "1869-02-26",
+              "end": "1870-02-03"
+            },
+            "summary": "The 15th Amendment, ratified in 1870, prohibited denying the right to vote based on race, color, or previous condition of servitude. This enfranchised African American men, leading to significant political participation and the election of black politicians.",
+            "type": "section"
+          },
+          {
+            "name": "The Rise of the Ku Klux Klan and Violence",
+            "dates": {
+              "start": "1865-12-24",
+              "end": "1871-04-20"
+            },
+            "summary": "White supremacist groups, most notably the Ku Klux Klan, emerged to resist Reconstruction efforts through violence and intimidation. The federal government responded with the Enforcement Acts, aiming to curb the violence and protect the rights of African Americans.",
+            "type": "section"
+          },
+          {
+            "name": "The Compromise of 1877 and the End of Reconstruction",
+            "dates": {
+              "start": "1876-11-07",
+              "end": "1877-03-31"
+            },
+            "summary": "The contested presidential election of 1876 led to the Compromise of 1877, which resolved the dispute in favor of Rutherford B. Hayes. In exchange, federal troops were withdrawn from the South, effectively ending Reconstruction and allowing the rise of Jim Crow laws.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The Reconstruction Era was a complex and turbulent time that sought to heal the nation's wounds and redefine its social and political landscape. Despite significant advancements, the era ended with unresolved racial tensions and the establishment of segregationist policies that would last for decades.",
+        "people": [
+          {
+            "name": "Andrew Johnson",
+            "dates": {
+              "start": "1808-12-29",
+              "end": "1875-07-31"
+            },
+            "description": "17th President of the United States, whose lenient Reconstruction policies were met with fierce opposition.",
+            "type": "people"
+          },
+          {
+            "name": "Rutherford B. Hayes",
+            "dates": {
+              "start": "1822-10-04",
+              "end": "1893-01-17"
+            },
+            "description": "19th President of the United States, whose election marked the end of Reconstruction.",
+            "type": "people"
+          },
+          {
+            "name": "Hiram Revels",
+            "dates": {
+              "start": "1827-09-27",
+              "end": "1901-01-16"
+            },
+            "description": "First African American to serve in the U.S. Senate, representing Mississippi during Reconstruction.",
+            "type": "people"
+          },
+          {
+            "name": "Thaddeus Stevens",
+            "dates": {
+              "start": "1792-04-04",
+              "end": "1868-08-11"
+            },
+            "description": "A leader of the Radical Republicans in Congress who fought for civil rights and equality.",
+            "type": "people"
+          }
+        ],
+        "places": [
+          {
+            "name": "Washington, D.C.",
+            "description": "The capital city where political battles over Reconstruction unfolded.",
+            "type": "place"
+          },
+          {
+            "name": "The South",
+            "description": "Region of the United States that underwent military occupation and political restructuring.",
+            "type": "place"
+          },
+          {
+            "name": "Ford's Theatre",
+            "description": "Site of President Abraham Lincoln's assassination, which precipitated the era.",
+            "type": "place"
+          },
+          {
+            "name": "Petersen House",
+            "description": "The house where President Lincoln died after being shot at Ford's Theatre.",
+            "type": "place"
+          }
+        ],
+        "next": [
+          {
+            "name": "The Rise of Jim Crow Laws",
+            "dates": {
+              "start": "1877-04-01",
+              "end": "1965-08-06"
+            },
+            "description": "State and local laws enforcing racial segregation in the Southern United States after Reconstruction.",
+            "type": "effect",
+            "score": 9
+          },
+          {
+            "name": "The Civil Rights Movement",
+            "dates": {
+              "start": "1954-05-17",
+              "end": "1968-04-04"
+            },
+            "description": "A decades-long struggle by African Americans to end legalized racial discrimination and inequality.",
+            "type": "effect",
+            "score": 8
+          },
+          {
+            "name": "The Disenfranchisement of African American Voters",
+            "dates": {
+              "start": "1877-04-01",
+              "end": "1965-08-06"
+            },
+            "description": "The systematic removal of voting rights from African Americans in the South following Reconstruction.",
+            "type": "effect",
+            "score": 10,
+            "children": [
+              {
+                "name": "The Civil Rights Act of 1964",
+                "dates": {
+                  "start": "1964-07-02",
+                  "end": "1964-07-02"
+                },
+                "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                "type": "effect",
+                "score": 9
+              },
+              {
+                "name": "Selma to Montgomery Marches",
+                "dates": {
+                  "start": "1965-03-07",
+                  "end": "1965-03-25"
+                },
+                "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                "type": "effect",
+                "score": 10
+              },
+              {
+                "name": "The Rise of Black Political Power in the 20th Century",
+                "dates": {
+                  "start": "1965-08-06",
+                  "end": "2000-12-31"
+                },
+                "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                "type": "effect",
+                "score": 8
+              },
+              {
+                "name": "Shelby County v. Holder",
+                "dates": {
+                  "start": "2013-06-25",
+                  "end": "2013-06-25"
+                },
+                "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                "type": "effect",
+                "score": 7
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "type": "event",
+              "name": "The Disenfranchisement of African American Voters",
+              "description": "This event explores the systematic exclusion of African American voters in the post-Reconstruction South.",
+              "introduction": "The disenfranchisement of African American voters was a significant and deliberate backlash against the gains made during Reconstruction. Following the end of the Civil War and the abolition of slavery, the United States grappled with integrating African Americans into the political fabric of the nation. The Reconstruction Era saw the passage of amendments and laws aimed at ensuring their rights, but this progress was met with fierce resistance.",
+              "dates": {
+                "start": "1877-03-31",
+                "end": "1965-08-06"
+              },
+              "sections": [
+                {
+                  "name": "End of Reconstruction and Rise of Jim Crow",
+                  "dates": {
+                    "start": "1877-03-31",
+                    "end": "1896-05-18"
+                  },
+                  "summary": "The Compromise of 1877 marked the end of federal intervention in Southern politics, leading to the withdrawal of troops and the rapid unraveling of Reconstruction gains. Southern states enacted Jim Crow laws, codifying racial segregation and disenfranchisement through literacy tests, poll taxes, and grandfather clauses.",
+                  "type": "section"
+                },
+                {
+                  "name": "Voting Rights Suppression Tactics",
+                  "dates": {
+                    "start": "1890-01-01",
+                    "end": "1908-12-31"
+                  },
+                  "summary": "Southern states employed a variety of tactics to suppress African American voting rights, including literacy tests, poll taxes, and property requirements. These measures, coupled with violence and intimidation by groups like the Ku Klux Klan, effectively disenfranchised black voters.",
+                  "type": "section"
+                },
+                {
+                  "name": "Plessy v. Ferguson and Legalized Segregation",
+                  "dates": {
+                    "start": "1896-05-18",
+                    "end": "1896-05-18"
+                  },
+                  "summary": "The Supreme Court decision in Plessy v. Ferguson upheld the constitutionality of 'separate but equal,' reinforcing the legal framework for segregation and further marginalizing African Americans from the political process.",
+                  "type": "section"
+                },
+                {
+                  "name": "The Great Migration",
+                  "dates": {
+                    "start": "1916-01-01",
+                    "end": "1970-12-31"
+                  },
+                  "summary": "The Great Migration saw millions of African Americans move from the rural South to the urban North, seeking economic opportunities and escaping Jim Crow oppression. This demographic shift eventually impacted the political landscape of the North.",
+                  "type": "section"
+                },
+                {
+                  "name": "Civil Rights Movement",
+                  "dates": {
+                    "start": "1954-05-17",
+                    "end": "1968-04-04"
+                  },
+                  "summary": "The Civil Rights Movement was a pivotal era of activism, challenging segregation and disenfranchisement. Landmark events, including the Montgomery Bus Boycott and the March on Washington, highlighted the struggle for equality and voting rights.",
+                  "type": "section"
+                },
+                {
+                  "name": "The Voting Rights Act of 1965",
+                  "dates": {
+                    "start": "1965-08-06",
+                    "end": "1965-08-06"
+                  },
+                  "summary": "The Voting Rights Act of 1965, signed into law by President Lyndon B. Johnson, aimed to overcome legal barriers at the state and local levels that prevented African Americans from exercising their right to vote as guaranteed under the 15th Amendment.",
+                  "type": "section"
+                }
+              ],
+              "conclusion": "The disenfranchisement of African American voters was a calculated effort to undermine the political power of black citizens in the post-Reconstruction South. The struggle for voting rights was central to the Civil Rights Movement, culminating in the passage of the Voting Rights Act of 1965, which sought to rectify these injustices.",
+              "people": [
+                {
+                  "name": "Booker T. Washington",
+                  "dates": {
+                    "start": "1856-04-05",
+                    "end": "1915-11-14"
+                  },
+                  "description": "An influential African American leader who advocated for economic self-reliance and education amid disenfranchisement.",
+                  "type": "people"
+                },
+                {
+                  "name": "W.E.B. Du Bois",
+                  "dates": {
+                    "start": "1868-02-23",
+                    "end": "1963-08-27"
+                  },
+                  "description": "Civil rights activist and co-founder of the NAACP, Du Bois fought against voter suppression and for equality.",
+                  "type": "people"
+                },
+                {
+                  "name": "Ida B. Wells",
+                  "dates": {
+                    "start": "1862-07-16",
+                    "end": "1931-03-25"
+                  },
+                  "description": "Journalist and activist who campaigned against lynching and for the rights of African Americans, including suffrage.",
+                  "type": "people"
+                },
+                {
+                  "name": "Lyndon B. Johnson",
+                  "dates": {
+                    "start": "1908-08-27",
+                    "end": "1973-01-22"
+                  },
+                  "description": "36th President of the U.S., who signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965 into law.",
+                  "type": "people"
+                }
+              ],
+              "places": [
+                {
+                  "name": "The American South",
+                  "description": "Region where disenfranchisement laws were most prevalent, impacting the political and social lives of African Americans.",
+                  "type": "place"
+                },
+                {
+                  "name": "Washington, D.C.",
+                  "description": "The political center where the Voting Rights Act of 1965 was passed to combat disenfranchisement.",
+                  "type": "place"
+                },
+                {
+                  "name": "Selma, Alabama",
+                  "description": "Site of the Selma to Montgomery marches highlighting the struggle for voting rights.",
+                  "type": "place"
+                },
+                {
+                  "name": "Montgomery, Alabama",
+                  "description": "A focal point of the Civil Rights Movement, including the Montgomery Bus Boycott.",
+                  "type": "place"
+                }
+              ],
+              "next": [
+                {
+                  "name": "The Civil Rights Act of 1964",
+                  "dates": {
+                    "start": "1964-07-02",
+                    "end": "1964-07-02"
+                  },
+                  "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                  "type": "effect",
+                  "score": 9
+                },
+                {
+                  "name": "Selma to Montgomery Marches",
+                  "dates": {
+                    "start": "1965-03-07",
+                    "end": "1965-03-25"
+                  },
+                  "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                  "type": "effect",
+                  "score": 10
+                },
+                {
+                  "name": "The Rise of Black Political Power in the 20th Century",
+                  "dates": {
+                    "start": "1965-08-06",
+                    "end": "2000-12-31"
+                  },
+                  "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                  "type": "effect",
+                  "score": 8
+                },
+                {
+                  "name": "Shelby County v. Holder",
+                  "dates": {
+                    "start": "2013-06-25",
+                    "end": "2013-06-25"
+                  },
+                  "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                  "type": "effect",
+                  "score": 7
+                }
+              ],
+              "themes": [
+                "Racial Inequality",
+                "Civil Rights",
+                "Legal and Political Struggles",
+                "Social Justice"
+              ]
+            }
+          },
+          {
+            "name": "The Sharecropping System and Economic Exploitation",
+            "dates": {
+              "start": "1865-12-06",
+              "end": "1950-01-01"
+            },
+            "description": "Agricultural system that trapped African American and poor white farmers in a cycle of debt.",
+            "type": "effect",
+            "score": 7
+          },
+          {
+            "name": "The Legacy of Reconstruction",
+            "description": "A broad perspective on how the era's policies and conflicts shaped modern American society and race relations.",
+            "type": "broad perspective",
+            "score": 6
+          }
+        ],
+        "themes": [
+          "Reintegration of Southern States",
+          "Civil Rights and Racial Inequality",
+          "Political Conflict and Power Struggles",
+          "Socioeconomic Transformation"
+        ]
+      }
+    },
+    {
+      "name": "The Trial of the Lincoln Conspirators",
+      "dates": {
+        "start": "1865-05-09",
+        "end": "1865-07-07"
+      },
+      "description": "The trial and execution of those involved in Lincoln's assassination, including Mary Surratt, the first woman executed by the U.S. government.",
+      "type": "effect",
+      "score": 8
+    },
+    {
+      "name": "The Presidency of Andrew Johnson",
+      "dates": {
+        "start": "1865-04-15",
+        "end": "1869-03-04"
+      },
+      "description": "Johnson's presidency, marked by his lenient Reconstruction policies and clashes with Congress, leading to his impeachment.",
+      "type": "effect",
+      "score": 7
+    },
+    {
+      "name": "The Ratification of the 14th Amendment",
+      "dates": {
+        "start": "1868-07-09",
+        "end": "1868-07-09"
+      },
+      "description": "The amendment granted citizenship and equal civil and legal rights to African Americans and slaves who had been emancipated after the Civil War.",
+      "type": "effect",
+      "score": 6
+    }
+  ],
+  "visited": "true",
+  "content": {
+    "type": "event",
+    "name": "The Assassination of Abraham Lincoln",
+    "description": "The tragic end of President Lincoln's life, marking a pivotal moment in U.S. history and the aftermath of the Civil War.",
+    "introduction": "The assassination of Abraham Lincoln was a defining moment in American history, signaling the first time a sitting U.S. president was murdered. His death came just days after the Confederate surrender, during a time when the nation anticipated healing and reconstruction. The lead-up to this event involved Lincoln's leadership during the Civil War and his stance on abolishing slavery, which garnered both immense support and deep-seated animosity.",
+    "dates": {
+      "start": "1865-04-14",
+      "end": "1865-04-15"
+    },
+    "sections": [
+      {
+        "name": "Lincoln's Final Day",
+        "dates": {
+          "start": "1865-04-14",
+          "end": "1865-04-14"
+        },
+        "summary": "On April 14, 1865, President Lincoln spent his last day attending to matters of state and planning for a peaceful Reconstruction. That evening, he and his wife attended a play at Ford's Theatre.",
+        "type": "section"
+      },
+      {
+        "name": "John Wilkes Booth's Plot",
+        "dates": {
+          "start": "1865-04-14",
+          "end": "1865-04-14"
+        },
+        "summary": "Booth, a well-known actor and Confederate sympathizer, plotted with co-conspirators to assassinate Lincoln, aiming to revive the Confederate cause by throwing the Union government into disarray.",
+        "type": "section"
+      },
+      {
+        "name": "The Assassination",
+        "dates": {
+          "start": "1865-04-14",
+          "end": "1865-04-14"
+        },
+        "summary": "Booth entered Lincoln's private box at the theatre and shot him in the back of the head. He then leaped onto the stage, shouting 'Sic semper tyrannis!' before fleeing.",
+        "type": "section"
+      },
+      {
+        "name": "Immediate Aftermath",
+        "dates": {
+          "start": "1865-04-14",
+          "end": "1865-04-15"
+        },
+        "summary": "Lincoln was carried across the street to the Petersen House, where he remained in a coma for nine hours before succumbing to his wound the following morning.",
+        "type": "section"
+      },
+      {
+        "name": "The Pursuit of Booth",
+        "dates": {
+          "start": "1865-04-15",
+          "end": "1865-04-26"
+        },
+        "summary": "An intense manhunt ensued for Booth and his accomplices. Booth was found and killed on April 26, while others involved were captured and later executed or imprisoned.",
+        "type": "section"
+      },
+      {
+        "name": "National Mourning",
+        "dates": {
+          "start": "1865-04-15",
+          "end": "1865-04-15"
+        },
+        "summary": "Lincoln's death plunged the nation into deep mourning. His funeral train journeyed from Washington, D.C., to Springfield, Illinois, drawing massive crowds along the route.",
+        "type": "section"
+      }
+    ],
+    "conclusion": "Lincoln's assassination had profound effects on the nation, abruptly ending his plans for Reconstruction and altering the course of post-Civil War America. It also set a precedent for presidential security and the treatment of political dissidents.",
+    "people": [
+      {
+        "name": "Abraham Lincoln",
+        "dates": {
+          "start": "1809-02-12",
+          "end": "1865-04-15"
+        },
+        "description": "16th President of the United States, led the nation through the Civil War and advocated for the abolition of slavery.",
+        "type": "people"
+      },
+      {
+        "name": "John Wilkes Booth",
+        "dates": {
+          "start": "1838-05-10",
+          "end": "1865-04-26"
+        },
+        "description": "Actor and Confederate sympathizer, assassinated President Abraham Lincoln.",
+        "type": "people"
+      },
+      {
+        "name": "Mary Todd Lincoln",
+        "dates": {
+          "start": "1818-12-13",
+          "end": "1882-07-16"
+        },
+        "description": "First Lady of the United States and wife of Abraham Lincoln, present at the assassination.",
+        "type": "people"
+      },
+      {
+        "name": "Andrew Johnson",
+        "dates": {
+          "start": "1808-12-29",
+          "end": "1875-07-31"
+        },
+        "description": "Vice President under Lincoln, became the 17th President after Lincoln's death.",
+        "type": "people"
+      }
+    ],
+    "places": [
+      {
+        "name": "Ford's Theatre",
+        "description": "The site of President Abraham Lincoln's assassination by John Wilkes Booth.",
+        "type": "place"
+      },
+      {
+        "name": "Petersen House",
+        "description": "The house where President Lincoln died after being shot at Ford's Theatre.",
+        "type": "place"
+      }
+    ],
+    "next": [
+      {
+        "name": "The Reconstruction Era",
+        "dates": {
+          "start": "1865-04-15",
+          "end": "1877-03-04"
+        },
+        "description": "Period following the Civil War, focused on rebuilding the United States and integrating Southern states.",
+        "type": "effect",
+        "score": 9,
+        "children": [
+          {
+            "name": "The Rise of Jim Crow Laws",
+            "dates": {
+              "start": "1877-04-01",
+              "end": "1965-08-06"
+            },
+            "description": "State and local laws enforcing racial segregation in the Southern United States after Reconstruction.",
+            "type": "effect",
+            "score": 9
+          },
+          {
+            "name": "The Civil Rights Movement",
+            "dates": {
+              "start": "1954-05-17",
+              "end": "1968-04-04"
+            },
+            "description": "A decades-long struggle by African Americans to end legalized racial discrimination and inequality.",
+            "type": "effect",
+            "score": 8
+          },
+          {
+            "name": "The Disenfranchisement of African American Voters",
+            "dates": {
+              "start": "1877-04-01",
+              "end": "1965-08-06"
+            },
+            "description": "The systematic removal of voting rights from African Americans in the South following Reconstruction.",
+            "type": "effect",
+            "score": 10,
+            "children": [
+              {
+                "name": "The Civil Rights Act of 1964",
+                "dates": {
+                  "start": "1964-07-02",
+                  "end": "1964-07-02"
+                },
+                "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                "type": "effect",
+                "score": 9
+              },
+              {
+                "name": "Selma to Montgomery Marches",
+                "dates": {
+                  "start": "1965-03-07",
+                  "end": "1965-03-25"
+                },
+                "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                "type": "effect",
+                "score": 10
+              },
+              {
+                "name": "The Rise of Black Political Power in the 20th Century",
+                "dates": {
+                  "start": "1965-08-06",
+                  "end": "2000-12-31"
+                },
+                "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                "type": "effect",
+                "score": 8
+              },
+              {
+                "name": "Shelby County v. Holder",
+                "dates": {
+                  "start": "2013-06-25",
+                  "end": "2013-06-25"
+                },
+                "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                "type": "effect",
+                "score": 7
+              }
+            ],
+            "visited": "true",
+            "content": {
+              "type": "event",
+              "name": "The Disenfranchisement of African American Voters",
+              "description": "This event explores the systematic exclusion of African American voters in the post-Reconstruction South.",
+              "introduction": "The disenfranchisement of African American voters was a significant and deliberate backlash against the gains made during Reconstruction. Following the end of the Civil War and the abolition of slavery, the United States grappled with integrating African Americans into the political fabric of the nation. The Reconstruction Era saw the passage of amendments and laws aimed at ensuring their rights, but this progress was met with fierce resistance.",
+              "dates": {
+                "start": "1877-03-31",
+                "end": "1965-08-06"
+              },
+              "sections": [
+                {
+                  "name": "End of Reconstruction and Rise of Jim Crow",
+                  "dates": {
+                    "start": "1877-03-31",
+                    "end": "1896-05-18"
+                  },
+                  "summary": "The Compromise of 1877 marked the end of federal intervention in Southern politics, leading to the withdrawal of troops and the rapid unraveling of Reconstruction gains. Southern states enacted Jim Crow laws, codifying racial segregation and disenfranchisement through literacy tests, poll taxes, and grandfather clauses.",
+                  "type": "section"
+                },
+                {
+                  "name": "Voting Rights Suppression Tactics",
+                  "dates": {
+                    "start": "1890-01-01",
+                    "end": "1908-12-31"
+                  },
+                  "summary": "Southern states employed a variety of tactics to suppress African American voting rights, including literacy tests, poll taxes, and property requirements. These measures, coupled with violence and intimidation by groups like the Ku Klux Klan, effectively disenfranchised black voters.",
+                  "type": "section"
+                },
+                {
+                  "name": "Plessy v. Ferguson and Legalized Segregation",
+                  "dates": {
+                    "start": "1896-05-18",
+                    "end": "1896-05-18"
+                  },
+                  "summary": "The Supreme Court decision in Plessy v. Ferguson upheld the constitutionality of 'separate but equal,' reinforcing the legal framework for segregation and further marginalizing African Americans from the political process.",
+                  "type": "section"
+                },
+                {
+                  "name": "The Great Migration",
+                  "dates": {
+                    "start": "1916-01-01",
+                    "end": "1970-12-31"
+                  },
+                  "summary": "The Great Migration saw millions of African Americans move from the rural South to the urban North, seeking economic opportunities and escaping Jim Crow oppression. This demographic shift eventually impacted the political landscape of the North.",
+                  "type": "section"
+                },
+                {
+                  "name": "Civil Rights Movement",
+                  "dates": {
+                    "start": "1954-05-17",
+                    "end": "1968-04-04"
+                  },
+                  "summary": "The Civil Rights Movement was a pivotal era of activism, challenging segregation and disenfranchisement. Landmark events, including the Montgomery Bus Boycott and the March on Washington, highlighted the struggle for equality and voting rights.",
+                  "type": "section"
+                },
+                {
+                  "name": "The Voting Rights Act of 1965",
+                  "dates": {
+                    "start": "1965-08-06",
+                    "end": "1965-08-06"
+                  },
+                  "summary": "The Voting Rights Act of 1965, signed into law by President Lyndon B. Johnson, aimed to overcome legal barriers at the state and local levels that prevented African Americans from exercising their right to vote as guaranteed under the 15th Amendment.",
+                  "type": "section"
+                }
+              ],
+              "conclusion": "The disenfranchisement of African American voters was a calculated effort to undermine the political power of black citizens in the post-Reconstruction South. The struggle for voting rights was central to the Civil Rights Movement, culminating in the passage of the Voting Rights Act of 1965, which sought to rectify these injustices.",
+              "people": [
+                {
+                  "name": "Booker T. Washington",
+                  "dates": {
+                    "start": "1856-04-05",
+                    "end": "1915-11-14"
+                  },
+                  "description": "An influential African American leader who advocated for economic self-reliance and education amid disenfranchisement.",
+                  "type": "people"
+                },
+                {
+                  "name": "W.E.B. Du Bois",
+                  "dates": {
+                    "start": "1868-02-23",
+                    "end": "1963-08-27"
+                  },
+                  "description": "Civil rights activist and co-founder of the NAACP, Du Bois fought against voter suppression and for equality.",
+                  "type": "people"
+                },
+                {
+                  "name": "Ida B. Wells",
+                  "dates": {
+                    "start": "1862-07-16",
+                    "end": "1931-03-25"
+                  },
+                  "description": "Journalist and activist who campaigned against lynching and for the rights of African Americans, including suffrage.",
+                  "type": "people"
+                },
+                {
+                  "name": "Lyndon B. Johnson",
+                  "dates": {
+                    "start": "1908-08-27",
+                    "end": "1973-01-22"
+                  },
+                  "description": "36th President of the U.S., who signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965 into law.",
+                  "type": "people"
+                }
+              ],
+              "places": [
+                {
+                  "name": "The American South",
+                  "description": "Region where disenfranchisement laws were most prevalent, impacting the political and social lives of African Americans.",
+                  "type": "place"
+                },
+                {
+                  "name": "Washington, D.C.",
+                  "description": "The political center where the Voting Rights Act of 1965 was passed to combat disenfranchisement.",
+                  "type": "place"
+                },
+                {
+                  "name": "Selma, Alabama",
+                  "description": "Site of the Selma to Montgomery marches highlighting the struggle for voting rights.",
+                  "type": "place"
+                },
+                {
+                  "name": "Montgomery, Alabama",
+                  "description": "A focal point of the Civil Rights Movement, including the Montgomery Bus Boycott.",
+                  "type": "place"
+                }
+              ],
+              "next": [
+                {
+                  "name": "The Civil Rights Act of 1964",
+                  "dates": {
+                    "start": "1964-07-02",
+                    "end": "1964-07-02"
+                  },
+                  "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                  "type": "effect",
+                  "score": 9
+                },
+                {
+                  "name": "Selma to Montgomery Marches",
+                  "dates": {
+                    "start": "1965-03-07",
+                    "end": "1965-03-25"
+                  },
+                  "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                  "type": "effect",
+                  "score": 10
+                },
+                {
+                  "name": "The Rise of Black Political Power in the 20th Century",
+                  "dates": {
+                    "start": "1965-08-06",
+                    "end": "2000-12-31"
+                  },
+                  "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                  "type": "effect",
+                  "score": 8
+                },
+                {
+                  "name": "Shelby County v. Holder",
+                  "dates": {
+                    "start": "2013-06-25",
+                    "end": "2013-06-25"
+                  },
+                  "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                  "type": "effect",
+                  "score": 7
+                }
+              ],
+              "themes": [
+                "Racial Inequality",
+                "Civil Rights",
+                "Legal and Political Struggles",
+                "Social Justice"
+              ]
+            }
+          },
+          {
+            "name": "The Sharecropping System and Economic Exploitation",
+            "dates": {
+              "start": "1865-12-06",
+              "end": "1950-01-01"
+            },
+            "description": "Agricultural system that trapped African American and poor white farmers in a cycle of debt.",
+            "type": "effect",
+            "score": 7
+          },
+          {
+            "name": "The Legacy of Reconstruction",
+            "description": "A broad perspective on how the era's policies and conflicts shaped modern American society and race relations.",
+            "type": "broad perspective",
+            "score": 6
+          }
+        ],
+        "visited": "true",
+        "content": {
+          "type": "event",
+          "name": "The Reconstruction Era",
+          "description": "The era following the Civil War, marked by attempts to reintegrate Southern states and redefine citizenship and rights.",
+          "introduction": "The Reconstruction Era was a pivotal period in American history, redefining citizenship, rights, and the very fabric of society. Following the assassination of Abraham Lincoln, the nation faced the immense challenge of rebuilding the South and integrating millions of freed slaves into American public life. This era was marked by significant political, social, and economic changes, as well as fierce resistance and conflict.",
+          "dates": {
+            "start": "1865-12-06",
+            "end": "1877-03-31"
+          },
+          "sections": [
+            {
+              "name": "Presidential Reconstruction",
+              "dates": {
+                "start": "1865-04-15",
+                "end": "1867-03-02"
+              },
+              "summary": "After Lincoln's assassination, Vice President Andrew Johnson assumed the presidency. His lenient Reconstruction policies, including rapid readmission of Southern states and vetoing civil rights legislation, led to conflicts with Radical Republicans who sought to transform Southern society and guarantee rights for freedmen.",
+              "type": "section"
+            },
+            {
+              "name": "Radical Reconstruction and the Reconstruction Acts",
+              "dates": {
+                "start": "1867-03-02",
+                "end": "1868-03-11"
+              },
+              "summary": "Radical Republicans overrode Johnson's vetoes and passed the Reconstruction Acts, dividing the South into military districts and requiring states to ratify the 14th Amendment. These measures aimed to enforce equality and voting rights for African Americans, but also incited significant opposition and violence.",
+              "type": "section"
+            },
+            {
+              "name": "Impeachment of Andrew Johnson",
+              "dates": {
+                "start": "1868-02-24",
+                "end": "1868-05-26"
+              },
+              "summary": "The power struggle between President Johnson and Congress culminated in his impeachment. Johnson was charged with violating the Tenure of Office Act and was nearly removed from office, reflecting the intense political discord of the era.",
+              "type": "section"
+            },
+            {
+              "name": "The 15th Amendment and African American Suffrage",
+              "dates": {
+                "start": "1869-02-26",
+                "end": "1870-02-03"
+              },
+              "summary": "The 15th Amendment, ratified in 1870, prohibited denying the right to vote based on race, color, or previous condition of servitude. This enfranchised African American men, leading to significant political participation and the election of black politicians.",
+              "type": "section"
+            },
+            {
+              "name": "The Rise of the Ku Klux Klan and Violence",
+              "dates": {
+                "start": "1865-12-24",
+                "end": "1871-04-20"
+              },
+              "summary": "White supremacist groups, most notably the Ku Klux Klan, emerged to resist Reconstruction efforts through violence and intimidation. The federal government responded with the Enforcement Acts, aiming to curb the violence and protect the rights of African Americans.",
+              "type": "section"
+            },
+            {
+              "name": "The Compromise of 1877 and the End of Reconstruction",
+              "dates": {
+                "start": "1876-11-07",
+                "end": "1877-03-31"
+              },
+              "summary": "The contested presidential election of 1876 led to the Compromise of 1877, which resolved the dispute in favor of Rutherford B. Hayes. In exchange, federal troops were withdrawn from the South, effectively ending Reconstruction and allowing the rise of Jim Crow laws.",
+              "type": "section"
+            }
+          ],
+          "conclusion": "The Reconstruction Era was a complex and turbulent time that sought to heal the nation's wounds and redefine its social and political landscape. Despite significant advancements, the era ended with unresolved racial tensions and the establishment of segregationist policies that would last for decades.",
+          "people": [
+            {
+              "name": "Andrew Johnson",
+              "dates": {
+                "start": "1808-12-29",
+                "end": "1875-07-31"
+              },
+              "description": "17th President of the United States, whose lenient Reconstruction policies were met with fierce opposition.",
+              "type": "people"
+            },
+            {
+              "name": "Rutherford B. Hayes",
+              "dates": {
+                "start": "1822-10-04",
+                "end": "1893-01-17"
+              },
+              "description": "19th President of the United States, whose election marked the end of Reconstruction.",
+              "type": "people"
+            },
+            {
+              "name": "Hiram Revels",
+              "dates": {
+                "start": "1827-09-27",
+                "end": "1901-01-16"
+              },
+              "description": "First African American to serve in the U.S. Senate, representing Mississippi during Reconstruction.",
+              "type": "people"
+            },
+            {
+              "name": "Thaddeus Stevens",
+              "dates": {
+                "start": "1792-04-04",
+                "end": "1868-08-11"
+              },
+              "description": "A leader of the Radical Republicans in Congress who fought for civil rights and equality.",
+              "type": "people"
+            }
+          ],
+          "places": [
+            {
+              "name": "Washington, D.C.",
+              "description": "The capital city where political battles over Reconstruction unfolded.",
+              "type": "place"
+            },
+            {
+              "name": "The South",
+              "description": "Region of the United States that underwent military occupation and political restructuring.",
+              "type": "place"
+            },
+            {
+              "name": "Ford's Theatre",
+              "description": "Site of President Abraham Lincoln's assassination, which precipitated the era.",
+              "type": "place"
+            },
+            {
+              "name": "Petersen House",
+              "description": "The house where President Lincoln died after being shot at Ford's Theatre.",
+              "type": "place"
+            }
+          ],
+          "next": [
+            {
+              "name": "The Rise of Jim Crow Laws",
+              "dates": {
+                "start": "1877-04-01",
+                "end": "1965-08-06"
+              },
+              "description": "State and local laws enforcing racial segregation in the Southern United States after Reconstruction.",
+              "type": "effect",
+              "score": 9
+            },
+            {
+              "name": "The Civil Rights Movement",
+              "dates": {
+                "start": "1954-05-17",
+                "end": "1968-04-04"
+              },
+              "description": "A decades-long struggle by African Americans to end legalized racial discrimination and inequality.",
+              "type": "effect",
+              "score": 8
+            },
+            {
+              "name": "The Disenfranchisement of African American Voters",
+              "dates": {
+                "start": "1877-04-01",
+                "end": "1965-08-06"
+              },
+              "description": "The systematic removal of voting rights from African Americans in the South following Reconstruction.",
+              "type": "effect",
+              "score": 10,
+              "children": [
+                {
+                  "name": "The Civil Rights Act of 1964",
+                  "dates": {
+                    "start": "1964-07-02",
+                    "end": "1964-07-02"
+                  },
+                  "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                  "type": "effect",
+                  "score": 9
+                },
+                {
+                  "name": "Selma to Montgomery Marches",
+                  "dates": {
+                    "start": "1965-03-07",
+                    "end": "1965-03-25"
+                  },
+                  "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                  "type": "effect",
+                  "score": 10
+                },
+                {
+                  "name": "The Rise of Black Political Power in the 20th Century",
+                  "dates": {
+                    "start": "1965-08-06",
+                    "end": "2000-12-31"
+                  },
+                  "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                  "type": "effect",
+                  "score": 8
+                },
+                {
+                  "name": "Shelby County v. Holder",
+                  "dates": {
+                    "start": "2013-06-25",
+                    "end": "2013-06-25"
+                  },
+                  "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                  "type": "effect",
+                  "score": 7
+                }
+              ],
+              "visited": "true",
+              "content": {
+                "type": "event",
+                "name": "The Disenfranchisement of African American Voters",
+                "description": "This event explores the systematic exclusion of African American voters in the post-Reconstruction South.",
+                "introduction": "The disenfranchisement of African American voters was a significant and deliberate backlash against the gains made during Reconstruction. Following the end of the Civil War and the abolition of slavery, the United States grappled with integrating African Americans into the political fabric of the nation. The Reconstruction Era saw the passage of amendments and laws aimed at ensuring their rights, but this progress was met with fierce resistance.",
+                "dates": {
+                  "start": "1877-03-31",
+                  "end": "1965-08-06"
+                },
+                "sections": [
+                  {
+                    "name": "End of Reconstruction and Rise of Jim Crow",
+                    "dates": {
+                      "start": "1877-03-31",
+                      "end": "1896-05-18"
+                    },
+                    "summary": "The Compromise of 1877 marked the end of federal intervention in Southern politics, leading to the withdrawal of troops and the rapid unraveling of Reconstruction gains. Southern states enacted Jim Crow laws, codifying racial segregation and disenfranchisement through literacy tests, poll taxes, and grandfather clauses.",
+                    "type": "section"
+                  },
+                  {
+                    "name": "Voting Rights Suppression Tactics",
+                    "dates": {
+                      "start": "1890-01-01",
+                      "end": "1908-12-31"
+                    },
+                    "summary": "Southern states employed a variety of tactics to suppress African American voting rights, including literacy tests, poll taxes, and property requirements. These measures, coupled with violence and intimidation by groups like the Ku Klux Klan, effectively disenfranchised black voters.",
+                    "type": "section"
+                  },
+                  {
+                    "name": "Plessy v. Ferguson and Legalized Segregation",
+                    "dates": {
+                      "start": "1896-05-18",
+                      "end": "1896-05-18"
+                    },
+                    "summary": "The Supreme Court decision in Plessy v. Ferguson upheld the constitutionality of 'separate but equal,' reinforcing the legal framework for segregation and further marginalizing African Americans from the political process.",
+                    "type": "section"
+                  },
+                  {
+                    "name": "The Great Migration",
+                    "dates": {
+                      "start": "1916-01-01",
+                      "end": "1970-12-31"
+                    },
+                    "summary": "The Great Migration saw millions of African Americans move from the rural South to the urban North, seeking economic opportunities and escaping Jim Crow oppression. This demographic shift eventually impacted the political landscape of the North.",
+                    "type": "section"
+                  },
+                  {
+                    "name": "Civil Rights Movement",
+                    "dates": {
+                      "start": "1954-05-17",
+                      "end": "1968-04-04"
+                    },
+                    "summary": "The Civil Rights Movement was a pivotal era of activism, challenging segregation and disenfranchisement. Landmark events, including the Montgomery Bus Boycott and the March on Washington, highlighted the struggle for equality and voting rights.",
+                    "type": "section"
+                  },
+                  {
+                    "name": "The Voting Rights Act of 1965",
+                    "dates": {
+                      "start": "1965-08-06",
+                      "end": "1965-08-06"
+                    },
+                    "summary": "The Voting Rights Act of 1965, signed into law by President Lyndon B. Johnson, aimed to overcome legal barriers at the state and local levels that prevented African Americans from exercising their right to vote as guaranteed under the 15th Amendment.",
+                    "type": "section"
+                  }
+                ],
+                "conclusion": "The disenfranchisement of African American voters was a calculated effort to undermine the political power of black citizens in the post-Reconstruction South. The struggle for voting rights was central to the Civil Rights Movement, culminating in the passage of the Voting Rights Act of 1965, which sought to rectify these injustices.",
+                "people": [
+                  {
+                    "name": "Booker T. Washington",
+                    "dates": {
+                      "start": "1856-04-05",
+                      "end": "1915-11-14"
+                    },
+                    "description": "An influential African American leader who advocated for economic self-reliance and education amid disenfranchisement.",
+                    "type": "people"
+                  },
+                  {
+                    "name": "W.E.B. Du Bois",
+                    "dates": {
+                      "start": "1868-02-23",
+                      "end": "1963-08-27"
+                    },
+                    "description": "Civil rights activist and co-founder of the NAACP, Du Bois fought against voter suppression and for equality.",
+                    "type": "people"
+                  },
+                  {
+                    "name": "Ida B. Wells",
+                    "dates": {
+                      "start": "1862-07-16",
+                      "end": "1931-03-25"
+                    },
+                    "description": "Journalist and activist who campaigned against lynching and for the rights of African Americans, including suffrage.",
+                    "type": "people"
+                  },
+                  {
+                    "name": "Lyndon B. Johnson",
+                    "dates": {
+                      "start": "1908-08-27",
+                      "end": "1973-01-22"
+                    },
+                    "description": "36th President of the U.S., who signed the Civil Rights Act of 1964 and the Voting Rights Act of 1965 into law.",
+                    "type": "people"
+                  }
+                ],
+                "places": [
+                  {
+                    "name": "The American South",
+                    "description": "Region where disenfranchisement laws were most prevalent, impacting the political and social lives of African Americans.",
+                    "type": "place"
+                  },
+                  {
+                    "name": "Washington, D.C.",
+                    "description": "The political center where the Voting Rights Act of 1965 was passed to combat disenfranchisement.",
+                    "type": "place"
+                  },
+                  {
+                    "name": "Selma, Alabama",
+                    "description": "Site of the Selma to Montgomery marches highlighting the struggle for voting rights.",
+                    "type": "place"
+                  },
+                  {
+                    "name": "Montgomery, Alabama",
+                    "description": "A focal point of the Civil Rights Movement, including the Montgomery Bus Boycott.",
+                    "type": "place"
+                  }
+                ],
+                "next": [
+                  {
+                    "name": "The Civil Rights Act of 1964",
+                    "dates": {
+                      "start": "1964-07-02",
+                      "end": "1964-07-02"
+                    },
+                    "description": "Legislation that outlawed discrimination based on race, color, religion, sex, or national origin.",
+                    "type": "effect",
+                    "score": 9
+                  },
+                  {
+                    "name": "Selma to Montgomery Marches",
+                    "dates": {
+                      "start": "1965-03-07",
+                      "end": "1965-03-25"
+                    },
+                    "description": "Protest marches that were pivotal in gaining national sympathy for the civil rights movement and the fight for voting rights.",
+                    "type": "effect",
+                    "score": 10
+                  },
+                  {
+                    "name": "The Rise of Black Political Power in the 20th Century",
+                    "dates": {
+                      "start": "1965-08-06",
+                      "end": "2000-12-31"
+                    },
+                    "description": "The gradual increase in African American political representation following the Voting Rights Act.",
+                    "type": "effect",
+                    "score": 8
+                  },
+                  {
+                    "name": "Shelby County v. Holder",
+                    "dates": {
+                      "start": "2013-06-25",
+                      "end": "2013-06-25"
+                    },
+                    "description": "Supreme Court decision that invalidated key parts of the Voting Rights Act, affecting voter protection laws.",
+                    "type": "effect",
+                    "score": 7
+                  }
+                ],
+                "themes": [
+                  "Racial Inequality",
+                  "Civil Rights",
+                  "Legal and Political Struggles",
+                  "Social Justice"
+                ]
+              }
+            },
+            {
+              "name": "The Sharecropping System and Economic Exploitation",
+              "dates": {
+                "start": "1865-12-06",
+                "end": "1950-01-01"
+              },
+              "description": "Agricultural system that trapped African American and poor white farmers in a cycle of debt.",
+              "type": "effect",
+              "score": 7
+            },
+            {
+              "name": "The Legacy of Reconstruction",
+              "description": "A broad perspective on how the era's policies and conflicts shaped modern American society and race relations.",
+              "type": "broad perspective",
+              "score": 6
+            }
+          ],
+          "themes": [
+            "Reintegration of Southern States",
+            "Civil Rights and Racial Inequality",
+            "Political Conflict and Power Struggles",
+            "Socioeconomic Transformation"
+          ]
+        }
+      },
+      {
+        "name": "The Trial of the Lincoln Conspirators",
+        "dates": {
+          "start": "1865-05-09",
+          "end": "1865-07-07"
+        },
+        "description": "The trial and execution of those involved in Lincoln's assassination, including Mary Surratt, the first woman executed by the U.S. government.",
+        "type": "effect",
+        "score": 8
+      },
+      {
+        "name": "The Presidency of Andrew Johnson",
+        "dates": {
+          "start": "1865-04-15",
+          "end": "1869-03-04"
+        },
+        "description": "Johnson's presidency, marked by his lenient Reconstruction policies and clashes with Congress, leading to his impeachment.",
+        "type": "effect",
+        "score": 7
+      },
+      {
+        "name": "The Ratification of the 14th Amendment",
+        "dates": {
+          "start": "1868-07-09",
+          "end": "1868-07-09"
+        },
+        "description": "The amendment granted citizenship and equal civil and legal rights to African Americans and slaves who had been emancipated after the Civil War.",
+        "type": "effect",
+        "score": 6
+      }
+    ],
+    "themes": [
+      "Presidential Assassination",
+      "Civil War Aftermath",
+      "National Mourning",
+      "Reconstruction Challenges"
+    ]
+  }
+}

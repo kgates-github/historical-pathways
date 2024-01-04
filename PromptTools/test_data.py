@@ -5,7 +5,7 @@ election_of_1800_data = """[{
     "introduction": "The U.S. Election of 1800, often referred to as the 'Revolution of 1800,' was significant for being the first peaceful transfer of power from one party to another in the young United States. It set a precedent for democratic elections. The election followed a period of intense political rivalry between the Federalists and the Democratic-Republicans, which laid the foundation for the two-party system in the U.S.",
     "dates": {
         "start": "1800-11-01",
-        "end": "1801-03-04"
+        "end": "present"
     },
     "sections": [
         {
