@@ -57,7 +57,7 @@
       var data = $data
     %REPLACE%*/
 
-    const width = 1250;
+    const width = 1450;
     var treeLayout = d3.tree().size([600, width]);
 
     var root = d3.hierarchy(data[0]);
@@ -116,17 +116,6 @@
             return ''
           }
         })
-        /*.append("tspan")
-        .attr("x", d => d.y + 10)
-        .attr("dy", "1.2em")
-        .text(d => { 
-          console.log(d.data)
-          if (d.data.dates) {
-            return d.data.theme 
-          } else {
-            return ''
-          }
-        })*/
     }
 
     // Function to create divs for visited nodes

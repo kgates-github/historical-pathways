@@ -148,3 +148,4 @@ Werkzeug==2.3.7
 widgetsnbextension==4.0.9
 yarl==1.8.2
 yfiles-jupyter-graphs==1.4.8
+wikipedia-api==0.6.0
