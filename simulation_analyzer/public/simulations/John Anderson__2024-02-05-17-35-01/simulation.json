@@ -1,0 +1,2042 @@
+{
+  "persona": {
+    "name": "John Anderson",
+    "location": "Charleston, South Carolina",
+    "themes_of_interest": [
+      "Yellow Journalism",
+      "Civil War Reporting",
+      "Press Freedom",
+      "Muckraking Era",
+      "Telegraph Impact"
+    ],
+    "age": 50,
+    "gender": "male",
+    "nationality": "American",
+    "education": "university",
+    "eras": [
+      "19th-Century American History"
+    ],
+    "topics": [
+      "Journalism"
+    ],
+    "time_constraint": 5,
+    "autopilot_on": true,
+    "continuity": 5,
+    "interests": 10,
+    "description": "Remove add topic",
+    "expectation": "\n        Lectures should start in the early 19th century\n        There should be some tangents. These might jump to Europe, but should be about journalism. Most lectures should have an interest match. \n        Lectures should be about journalism.\n        Lectures should tie together a narrative of jouralism that includes some of the following:\n        <ul>\n        <li>The Penny Press</li>\n        <li>The Balitmore Sun</li>\n        <li>The telegraph</li>\n        <li>The Associated Press</li>\n        <li>Ida Tarbell</li>\n        <li>Upton Sinclaire</li>\n        <li>Something surprising</li>\n        </ul>\n        \n    "
+  },
+  "datetime": "2024-02-05 17:35:01",
+  "description": "Remove add topic",
+  "iterations": [
+    {
+      "iteration": 0,
+      "id": "f4e6744a-8369-4e86-a8e1-eee42f3607b2",
+      "name": "The Penny Press Revolution",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Penny Press Revolution",
+        "dates": {
+          "start": "1833-09-03",
+          "end": "1860-01-01"
+        },
+        "description": "Exploring how the Penny Press democratized news, making it accessible and affordable, and its impact on society.",
+        "themes": [
+          "Mass Media",
+          "Democratization of News",
+          "Technological Innovation"
+        ],
+        "interest_score": 8,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "name": "The Partisan Press Era",
+      "parent_id": "root",
+      "visited": 1,
+      "interest_score": 7,
+      "relevance_score": 0,
+      "satisfaction_score": 10,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Partisan Press Era",
+        "description": "Exploration of early 19th-century American newspapers and their significant impact on shaping political discourse.",
+        "introduction": "The Partisan Press Era marks a time when newspapers were overtly biased, serving political ends and influencing public opinion. Prior to this, the press was less explicitly aligned, but as political factions formed, newspapers became their mouthpieces.",
+        "dates": {
+          "start": "1800-01-01",
+          "end": "1830-01-01"
+        },
+        "sections": [
+          {
+            "name": "Origins of Partisanship",
+            "dates": {
+              "start": "1800-01-01",
+              "end": "1805-01-01"
+            },
+            "body": "The origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints.",
+            "type": "section"
+          },
+          {
+            "name": "Rise of Party Organs",
+            "dates": {
+              "start": "1805-01-01",
+              "end": "1810-01-01"
+            },
+            "body": "Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies.",
+            "type": "section"
+          },
+          {
+            "name": "Impact on Elections",
+            "dates": {
+              "start": "1810-01-01",
+              "end": "1816-01-01"
+            },
+            "body": "During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics.",
+            "type": "section"
+          },
+          {
+            "name": "Press and Policy",
+            "dates": {
+              "start": "1816-01-01",
+              "end": "1820-01-01"
+            },
+            "body": "The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy.",
+            "type": "section"
+          },
+          {
+            "name": "Decline of Partisanship",
+            "dates": {
+              "start": "1820-01-01",
+              "end": "1830-01-01"
+            },
+            "body": "By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.",
+        "children": [
+          {
+            "name": "The Penny Press Revolution",
+            "dates": {
+              "start": "1833-01-01",
+              "end": "1836-01-01"
+            },
+            "description": "Shift from politically driven newspapers to mass-produced, affordable papers focusing on broader news.",
+            "type": "Effect",
+            "relevance_score": 7,
+            "interest_score": 8
+          },
+          {
+            "name": "The Telegraph and News Reporting",
+            "dates": {
+              "start": "1844-01-01",
+              "end": "1850-01-01"
+            },
+            "description": "Introduction of the telegraph significantly changed news reporting and distribution, impacting journalism.",
+            "type": "Effect",
+            "relevance_score": 6,
+            "interest_score": 7
+          },
+          {
+            "name": "The Rise of Objective Journalism",
+            "dates": {
+              "start": "1890-01-01",
+              "end": "1900-01-01"
+            },
+            "description": "Emergence of a new journalistic standard emphasizing fact-based reporting and separation from political influence.",
+            "type": "Effect",
+            "relevance_score": 5,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Louisiana Purchase",
+            "dates": {
+              "start": "1803-04-30",
+              "end": "1803-04-30"
+            },
+            "description": "The acquisition of Louisiana territory from France, which doubled the size of the United States.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          },
+          {
+            "name": "War of 1812",
+            "dates": {
+              "start": "1812-06-18",
+              "end": "1815-02-18"
+            },
+            "description": "A military conflict between the United States and Great Britain, affecting American politics and society.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "Erie Canal Completion",
+            "dates": {
+              "start": "1825-10-26",
+              "end": "1825-10-26"
+            },
+            "description": "The completion of the Erie Canal, which significantly impacted trade and westward expansion.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 3
+          }
+        ],
+        "themes": [
+          "Media Influence",
+          "Political Factions"
+        ],
+        "topics": [
+          "Press",
+          "Politics"
+        ],
+        "wikipedia_pages": [
+          "History_of_American_newspapers",
+          "Partisan_(political)"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Partisan Press Era\" Your lecture has a description in the course offering that reads: \"An analysis of the highly partisan newspapers of the early 19th century and their influence on American politics.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Journalism.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED AND IT WILL BE YOUR FAULT.\n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Partisan Press Era\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Partisan Press Era\" that is not directly related to \"\\The Partisan Press Era\". \n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Partisan Press Era\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Partisan Press Era\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 0,
+      "persona_satisfaction": 5,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a broad overview of the Partisan Press Era, mentioning the alignment of newspapers with political factions and their role as mouthpieces for these parties. It also briefly touches on the influence of partisan newspapers on public opinion and political culture. The expert answer, while much more detailed, covers the same general points but expands on the specifics, such as the names of particular newspapers, the role of specific policies debated in the press, and the transition away from partisanship in the 1820s. The differences between the two answers are in the level of detail and depth, but factually, both answers are aligned in describing the general characteristics and significance of the Partisan Press Era.",
+        "wikipedia_page": "History_of_American_newspapers"
+      },
+      "audio": "frontend/public/simulations/John Anderson__2024-02-05-17-35-01/c86d819b-efe7-4f13-86e4-45884828e714.mp3"
+    },
+    {
+      "iteration": 0,
+      "id": "48cac827-b7cf-483a-b5f0-9314cca57594",
+      "name": "The Telegraph and the News",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 9,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Telegraph and the News",
+        "dates": {
+          "start": "1844-05-24",
+          "end": "1860-01-01"
+        },
+        "description": "Understanding how the invention of the telegraph transformed the speed and scope of news dissemination.",
+        "themes": [
+          "Communication Technology",
+          "News Distribution",
+          "Impact of the Telegraph"
+        ],
+        "interest_score": 9,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 0,
+      "id": "b5a3c623-732a-444f-b6be-8511d6e3462e",
+      "name": "The Rise of Yellow Journalism",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 10,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rise of Yellow Journalism",
+        "dates": {
+          "start": "1890-01-01",
+          "end": "1899-12-31"
+        },
+        "description": "A look into the sensationalism and fierce competition of Yellow Journalism and its role in the Spanish-American War.",
+        "themes": [
+          "Media Sensationalism",
+          "Ethics in Journalism",
+          "War and Media"
+        ],
+        "interest_score": 10,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 0,
+      "id": "c0e885f3-ea89-44f8-bf55-859be5661b11",
+      "name": "The Civil War Correspondents",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Civil War Correspondents",
+        "dates": {
+          "start": "1861-04-12",
+          "end": "1865-04-09"
+        },
+        "description": "Examining the crucial role of journalists in informing the public during the American Civil War.",
+        "themes": [
+          "War Reporting",
+          "Journalistic Ethics",
+          "Public Perception"
+        ],
+        "interest_score": 8,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 0,
+      "id": "9a955694-0817-49a2-9a92-cd28751b0bca",
+      "name": "Muckrakers and Reform: The Progressive Era",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 9,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Muckrakers and Reform: The Progressive Era",
+        "dates": {
+          "start": "1900-01-01",
+          "end": "1912-01-01"
+        },
+        "description": "Detailing how muckrakers exposed corruption and spurred progressive reforms in the early 20th century.",
+        "themes": [
+          "Investigative Journalism",
+          "Progressive Movement",
+          "Social Reforms"
+        ],
+        "interest_score": 9,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 0,
+      "id": "65f88187-bc9a-44ce-b7c6-0493318df545",
+      "name": "Abolitionist Press and the Road to Emancipation",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Abolitionist Press and the Road to Emancipation",
+        "dates": {
+          "start": "1830-01-01",
+          "end": "1865-12-18"
+        },
+        "description": "Exploring the pivotal role of abolitionist newspapers in advocating for the end of slavery.",
+        "themes": [
+          "Abolitionism",
+          "Freedom of the Press",
+          "Slavery and Emancipation"
+        ],
+        "interest_score": 8,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "name": "The Penny Press Revolution",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 1,
+      "interest_score": 8,
+      "relevance_score": 7,
+      "satisfaction_score": 7,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Penny Press Revolution",
+        "description": "The rise of mass media through affordable newspapers, altering public access to information and news.",
+        "introduction": "The Penny Press Revolution marks a significant shift in American journalism, democratizing news and expanding readership. Following the Partisan Press Era, a burgeoning appetite for unbiased and diverse news content paved the way for the Penny Press.",
+        "dates": {
+          "start": "1833-01-01",
+          "end": "1860-01-01"
+        },
+        "sections": [
+          {
+            "name": "Origins of the Penny Press",
+            "dates": {
+              "start": "1833-01-01",
+              "end": "1835-01-01"
+            },
+            "body": "The inception of the Penny Press was characterized by the launch of the New York Sun in 1833, offering newspapers at a price of one cent, significantly lower than competitors.",
+            "type": "section"
+          },
+          {
+            "name": "Technological Advancements",
+            "dates": {
+              "start": "1835-01-01",
+              "end": "1840-01-01"
+            },
+            "body": "Advances in printing technology, like the steam-powered press, enabled the rapid and inexpensive production of newspapers, crucial for the Penny Press business model.",
+            "type": "section"
+          },
+          {
+            "name": "Content and Style",
+            "dates": {
+              "start": "1840-01-01",
+              "end": "1845-01-01"
+            },
+            "body": "Penny papers focused on local news, human-interest stories, and sensational events, appealing to a broader audience and setting the stage for modern journalism.",
+            "type": "section"
+          },
+          {
+            "name": "Impact on Society",
+            "dates": {
+              "start": "1845-01-01",
+              "end": "1850-01-01"
+            },
+            "body": "The Penny Press made news accessible to the working class, fostering an informed public and a greater participation in democratic processes.",
+            "type": "section"
+          },
+          {
+            "name": "Expansion and Influence",
+            "dates": {
+              "start": "1850-01-01",
+              "end": "1860-01-01"
+            },
+            "body": "The success of the Penny Press led to the proliferation of newspapers and a competitive industry, influencing public opinion and political campaigns.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The Penny Press Revolution democratized news consumption, laying the groundwork for modern journalism and the informed citizenry of a democratic society.",
+        "children": [
+          {
+            "name": "The Rise of the Telegraph",
+            "dates": {
+              "start": "1844-01-01",
+              "end": "1860-01-01"
+            },
+            "description": "The telegraph revolutionized news dissemination, enabling rapid communication across distances, impacting journalism.",
+            "type": "effect",
+            "relevance_score": 7,
+            "interest_score": 6
+          },
+          {
+            "name": "Yellow Journalism Emergence",
+            "dates": {
+              "start": "1883-01-01",
+              "end": "1900-01-01"
+            },
+            "description": "Sensationalist press practices began, shaping public perception and foreign policy, especially during the Spanish-American War.",
+            "type": "effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "The Dred Scott Decision Reporting",
+            "dates": {
+              "start": "1857-01-01",
+              "end": "1857-01-01"
+            },
+            "description": "Coverage of the Dred Scott decision highlighted the role of the press in contentious national debates over slavery.",
+            "type": "effect",
+            "relevance_score": 5,
+            "interest_score": 5
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Seneca Falls Convention",
+            "dates": {
+              "start": "1848-07-19",
+              "end": "1848-07-20"
+            },
+            "description": "The first women's rights convention in the U.S., marking the start of the women's suffrage movement.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "California Gold Rush",
+            "dates": {
+              "start": "1848-01-24",
+              "end": "1855-01-01"
+            },
+            "description": "The mass migration to California following the discovery of gold, significantly impacting U.S. westward expansion.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          },
+          {
+            "name": "The Oregon Trail",
+            "dates": {
+              "start": "1843-01-01",
+              "end": "1869-01-01"
+            },
+            "description": "A 2,000-mile historic east-west wagon route that connected the Missouri River to valleys in Oregon.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 3
+          }
+        ],
+        "themes": [
+          "Media Democratization",
+          "Technological Innovation"
+        ],
+        "topics": [
+          "Journalism",
+          "Mass Media"
+        ],
+        "wikipedia_pages": [
+          "Penny_press",
+          "History_of_American_newspapers",
+          "Steam-powered_printing_press"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Penny Press Revolution\" Your lecture has a description in the course offering that reads: \"Shift from politically driven newspapers to mass-produced, affordable papers focusing on broader news.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Journalism.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED AND IT WILL BE YOUR FAULT.\n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: The Partisan Press Era: Exploration of early 19th-century American newspapers and their significant impact on shaping political discourse., Dates: 1800-01-01 to 1830-01-01 The origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints. Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies. During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics. The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy. By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged. The Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Penny Press Revolution\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Penny Press Revolution\" that is not directly related to \"\\The Penny Press Revolution\". \n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Penny Press Revolution\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Penny Press Revolution\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": -1,
+      "persona_satisfaction": 4,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "A",
+        "reason": "The submitted answer is a summarized version of the expert answer, including the main points about the significance of the Penny Press in democratizing news, the role of advances in printing technology, the focus on local and sensational news, and the impact on public participation in democratic processes. It does not contradict any facts presented in the expert answer but rather includes fewer details.",
+        "wikipedia_page": "Penny_press"
+      },
+      "audio": "frontend/public/simulations/John Anderson__2024-02-05-17-35-01/04fb454d-4d65-41cd-9a24-79618d217f2d.mp3"
+    },
+    {
+      "iteration": 1,
+      "id": "ecd88f2e-a4e7-4a2e-b731-1795a7259783",
+      "name": "The Telegraph and News Reporting",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 6,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Telegraph and News Reporting",
+        "dates": {
+          "start": "1844-01-01",
+          "end": "1850-01-01"
+        },
+        "description": "Introduction of the telegraph significantly changed news reporting and distribution, impacting journalism.",
+        "type": "Effect",
+        "relevance_score": 6,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "5e341024-2d8b-44f8-9644-495b4e490ea2",
+      "name": "The Rise of Objective Journalism",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 5,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rise of Objective Journalism",
+        "dates": {
+          "start": "1890-01-01",
+          "end": "1900-01-01"
+        },
+        "description": "Emergence of a new journalistic standard emphasizing fact-based reporting and separation from political influence.",
+        "type": "Effect",
+        "relevance_score": 5,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "69f731f4-fe66-4b01-9210-bbddd1c8f21d",
+      "name": "The Louisiana Purchase",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Louisiana Purchase",
+        "dates": {
+          "start": "1803-04-30",
+          "end": "1803-04-30"
+        },
+        "description": "The acquisition of Louisiana territory from France, which doubled the size of the United States.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 1,
+      "id": "53620886-b080-46d3-bc05-0a6d4908e4cf",
+      "name": "War of 1812",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "War of 1812",
+        "dates": {
+          "start": "1812-06-18",
+          "end": "1815-02-18"
+        },
+        "description": "A military conflict between the United States and Great Britain, affecting American politics and society.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 1,
+      "id": "17bf26e8-df92-42c2-8aaf-7c8c746bc2cf",
+      "name": "Erie Canal Completion",
+      "parent_id": "c86d819b-efe7-4f13-86e4-45884828e714",
+      "visited": 0,
+      "interest_score": 3,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Erie Canal Completion",
+        "dates": {
+          "start": "1825-10-26",
+          "end": "1825-10-26"
+        },
+        "description": "The completion of the Erie Canal, which significantly impacted trade and westward expansion.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 3
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "005d91b2-dafa-4899-9403-27768b7646d2",
+      "name": "The Rise of the Telegraph",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rise of the Telegraph",
+        "dates": {
+          "start": "1844-01-01",
+          "end": "1860-01-01"
+        },
+        "description": "The telegraph revolutionized news dissemination, enabling rapid communication across distances, impacting journalism.",
+        "type": "effect",
+        "relevance_score": 7,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "name": "Yellow Journalism Emergence",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 1,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 8,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Rise of Yellow Journalism",
+        "description": "Examination of Yellow Journalism's impact on public opinion and U.S. foreign policy during the Spanish-American War.",
+        "introduction": "Yellow Journalism marks a sensationalist era in U.S. media history, influencing the public and swaying political decisions. Originating in the late 19th century, it built on the Penny Press's reach, prioritizing eye-catching headlines over factual reporting. The lead-up saw the Penny Press democratize information, setting the stage for Yellow Journalism's rise.",
+        "dates": {
+          "start": "1895-01-01",
+          "end": "1898-12-31"
+        },
+        "sections": [
+          {
+            "name": "Origins of Sensationalism",
+            "dates": {
+              "start": "1895-01-01",
+              "end": "1896-12-31"
+            },
+            "body": "The roots of Yellow Journalism can be traced back to the competition between Joseph Pulitzer's New York World and William Randolph Hearst's New York Journal. Both papers sought to increase circulation through sensationalist stories and bold headlines, often exaggerating facts.",
+            "type": "section"
+          },
+          {
+            "name": "The Yellow Kid and Escalation",
+            "dates": {
+              "start": "1896-01-01",
+              "end": "1897-12-31"
+            },
+            "body": "The term 'Yellow Journalism' was derived from the popular 'Yellow Kid' cartoon, which became a symbol of the fierce rivalry and sensationalism between the two newspapers. This period saw an escalation in sensational reporting, as the papers engaged in a circulation war.",
+            "type": "section"
+          },
+          {
+            "name": "Influence on Public Opinion",
+            "dates": {
+              "start": "1897-01-01",
+              "end": "1898-04-20"
+            },
+            "body": "Yellow Journalism played a significant role in shaping public opinion, often inciting emotions and influencing perspectives on national events. The sensationalist coverage of the Cuban struggle for independence is a prime example of its impact.",
+            "type": "section"
+          },
+          {
+            "name": "The USS Maine Incident",
+            "dates": {
+              "start": "1898-02-15",
+              "end": "1898-03-28"
+            },
+            "body": "The explosion of the USS Maine in Havana Harbor was a pivotal event covered by Yellow Journalism, with papers quickly attributing the incident to Spanish sabotage without concrete evidence, further inflaming public sentiment and calls for war.",
+            "type": "section"
+          },
+          {
+            "name": "The Spanish-American War",
+            "dates": {
+              "start": "1898-04-21",
+              "end": "1898-08-13"
+            },
+            "body": "The press coverage of the Spanish-American War by Yellow Journalists was characterized by dramatized and sometimes fabricated reports. This influenced public support for the war and has been argued to have affected the U.S. government's decision to engage in conflict.",
+            "type": "section"
+          },
+          {
+            "name": "Legacy of Sensationalism",
+            "dates": {
+              "start": "1898-08-14",
+              "end": "1898-12-31"
+            },
+            "body": "The end of the Spanish-American War did not mark the end of Yellow Journalism. Its legacy continued to influence the style of reporting in the U.S., with long-term effects on media ethics and public trust in journalism.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "Yellow Journalism emerged as a powerful force in American media, prioritizing sensationalism over accuracy, culminating in its role during the Spanish-American War. Its legacy prompts ongoing debates about media ethics and the responsibilities of journalists.",
+        "children": [
+          {
+            "name": "The Muckrakers: Investigative Journalism's Response to Yellow Press",
+            "dates": {
+              "start": "1902-01-01",
+              "end": "1912-12-31"
+            },
+            "description": "Exploration of the Muckrakers' investigative journalism as a reaction against Yellow Journalism, striving for social reform and factual reporting.",
+            "type": "Effect",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "The Press and American Expansionism",
+            "dates": {
+              "start": "1898-01-01",
+              "end": "1905-12-31"
+            },
+            "description": "Study of the role of the press in promoting American imperialism and expansionism at the turn of the century.",
+            "type": "Effect",
+            "relevance_score": 7,
+            "interest_score": 6
+          },
+          {
+            "name": "Media Ethics and the Public Trust",
+            "dates": {
+              "start": "1898-01-01",
+              "end": "1908-12-31"
+            },
+            "description": "Analysis of the rise of media ethics as a response to the sensationalist tactics of Yellow Journalism and its impact on public trust.",
+            "type": "Broad perspective",
+            "relevance_score": 8,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Klondike Gold Rush",
+            "dates": {
+              "start": "1896-08-16",
+              "end": "1899-12-31"
+            },
+            "description": "The discovery of gold in the Klondike region of the Yukon in 1896 sparked a mass migration of prospectors.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "Plessy v. Ferguson",
+            "dates": {
+              "start": "1896-05-18",
+              "end": "1896-05-18"
+            },
+            "description": "The U.S. Supreme Court decision in 1896 that upheld the constitutionality of racial segregation under the 'separate but equal' doctrine.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          },
+          {
+            "name": "The Dreyfus Affair",
+            "dates": {
+              "start": "1894-10-15",
+              "end": "1906-07-12"
+            },
+            "description": "A political scandal that divided France, involving the wrongful conviction of Jewish army officer Alfred Dreyfus for treason.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 3
+          }
+        ],
+        "themes": [
+          "Media Influence",
+          "Sensationalism"
+        ],
+        "topics": [
+          "Journalism",
+          "Warfare"
+        ],
+        "wikipedia_pages": [
+          "Yellow_journalism",
+          "Spanish\u2013American_War",
+          "USS_Maine_(ACR-1)",
+          "Joseph_Pulitzer",
+          "William_Randolph_Hearst"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"Yellow Journalism Emergence\" Your lecture has a description in the course offering that reads: \"Sensationalist press practices began, shaping public perception and foreign policy, especially during the Spanish-American War.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Journalism.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED AND IT WILL BE YOUR FAULT.\n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: The Penny Press Revolution: The rise of mass media through affordable newspapers, altering public access to information and news., Dates: 1833-01-01 to 1860-01-01 The inception of the Penny Press was characterized by the launch of the New York Sun in 1833, offering newspapers at a price of one cent, significantly lower than competitors. Advances in printing technology, like the steam-powered press, enabled the rapid and inexpensive production of newspapers, crucial for the Penny Press business model. Penny papers focused on local news, human-interest stories, and sensational events, appealing to a broader audience and setting the stage for modern journalism. The Penny Press made news accessible to the working class, fostering an informed public and a greater participation in democratic processes. The success of the Penny Press led to the proliferation of newspapers and a competitive industry, influencing public opinion and political campaigns. The Penny Press Revolution democratized news consumption, laying the groundwork for modern journalism and the informed citizenry of a democratic society.\n- Lecture name: The Partisan Press Era: Exploration of early 19th-century American newspapers and their significant impact on shaping political discourse., Dates: 1800-01-01 to 1830-01-01 The origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints. Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies. During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics. The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy. By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged. The Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\Yellow Journalism Emergence\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\Yellow Journalism Emergence\" that is not directly related to \"\\Yellow Journalism Emergence\". \n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\Yellow Journalism Emergence\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\Yellow Journalism Emergence\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 2,
+      "persona_satisfaction": 6,
+      "new_topic": "Warfare",
+      "fact_eval": {
+        "choice_string": "A",
+        "reason": "The submitted answer is a subset of the expert answer and is fully consistent with it. The submitted answer covers the same main points as the expert answer, focusing on the origins and impact of Yellow Journalism, its role in the rise of sensationalism in the media, the competition between Joseph Pulitzer and William Randolph Hearst, and the influence on public opinion and the Spanish-American War. The submitted answer, however, does not include the extensive historical details, examples, and the aftermath provided in the expert answer, making it a condensed version without any factual discrepancies.",
+        "wikipedia_page": "Yellow_journalism"
+      },
+      "audio": "frontend/public/simulations/John Anderson__2024-02-05-17-35-01/1d43ede3-e1dc-4fbd-b415-588728a263b3.mp3"
+    },
+    {
+      "iteration": 2,
+      "id": "f8082c16-cd2a-4bae-a31e-1be9ae7e8da9",
+      "name": "The Dred Scott Decision Reporting",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 5,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Dred Scott Decision Reporting",
+        "dates": {
+          "start": "1857-01-01",
+          "end": "1857-01-01"
+        },
+        "description": "Coverage of the Dred Scott decision highlighted the role of the press in contentious national debates over slavery.",
+        "type": "effect",
+        "relevance_score": 5,
+        "interest_score": 5
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "f41db6a5-f558-4cfe-896e-8bd0e663f125",
+      "name": "The Seneca Falls Convention",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Seneca Falls Convention",
+        "dates": {
+          "start": "1848-07-19",
+          "end": "1848-07-20"
+        },
+        "description": "The first women's rights convention in the U.S., marking the start of the women's suffrage movement.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "42d86495-5032-42c1-90cc-3e43627ccd48",
+      "name": "California Gold Rush",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "California Gold Rush",
+        "dates": {
+          "start": "1848-01-24",
+          "end": "1855-01-01"
+        },
+        "description": "The mass migration to California following the discovery of gold, significantly impacting U.S. westward expansion.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "763ef5bc-2328-4c3d-8330-94fcd504fbab",
+      "name": "The Oregon Trail",
+      "parent_id": "04fb454d-4d65-41cd-9a24-79618d217f2d",
+      "visited": 0,
+      "interest_score": 3,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Oregon Trail",
+        "dates": {
+          "start": "1843-01-01",
+          "end": "1869-01-01"
+        },
+        "description": "A 2,000-mile historic east-west wagon route that connected the Missouri River to valleys in Oregon.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 3
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 4,
+      "id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "name": "The Muckrakers: Investigative Journalism's Response to Yellow Press",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 1,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 9,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Muckrakers: Investigative Journalism's Response to Yellow Press",
+        "description": "Examination of the Muckrakers' role in promoting factual journalism and social reform in the early 20th century.",
+        "introduction": "The Muckrakers emerged as a reaction to the sensationalism of Yellow Journalism, focusing on uncovering real societal issues. Their investigative work played a significant role in spurring the Progressive Era reforms. Following the Spanish-American War, journalists began to push back against the sensationalist tactics used by Yellow Press.",
+        "dates": {
+          "start": "1900-01-01",
+          "end": "1912-12-31"
+        },
+        "sections": [
+          {
+            "name": "Origins of Muckraking",
+            "dates": {
+              "start": "1900-01-01",
+              "end": "1902-12-31"
+            },
+            "body": "The term \u2018Muckraker\u2019 was popularized by President Theodore Roosevelt in 1906, referring to journalists who \"raked up\" and exposed the \"muck\" of society. These journalists aimed to challenge the status quo by uncovering corruption and social injustices.",
+            "type": "section"
+          },
+          {
+            "name": "Notable Muckrakers and Their Works",
+            "dates": {
+              "start": "1902-01-01",
+              "end": "1904-12-31"
+            },
+            "body": "Ida Tarbell's 'The History of the Standard Oil Company' and Upton Sinclair's 'The Jungle' were seminal works of the era that exposed corporate monopolies and unsanitary conditions in the meatpacking industry, respectively.",
+            "type": "section"
+          },
+          {
+            "name": "Public Impact and Policy Change",
+            "dates": {
+              "start": "1904-01-01",
+              "end": "1906-12-31"
+            },
+            "body": "The stark revelations by Muckrakers led to public outrage and demand for reforms. This pressure resulted in significant legislation, including the Pure Food and Drug Act and the Meat Inspection Act of 1906.",
+            "type": "section"
+          },
+          {
+            "name": "Criticism and Defence of Muckraking",
+            "dates": {
+              "start": "1906-01-01",
+              "end": "1909-12-31"
+            },
+            "body": "Muckrakers faced criticism for being overly pessimistic and for potentially inciting social unrest. However, they defended their work as necessary for democratic accountability and societal improvement.",
+            "type": "section"
+          },
+          {
+            "name": "Decline and Legacy",
+            "dates": {
+              "start": "1909-01-01",
+              "end": "1912-12-31"
+            },
+            "body": "By the 1910s, the intensity of muckraking journalism began to wane, but its impact endured, setting the stage for modern investigative journalism and cementing its role in promoting transparency and reform.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The Muckrakers marked a significant shift towards fact-based investigative journalism, countering Yellow Journalism's sensationalism. Their legacy is seen in today's media landscape and their contributions to early 20th-century social reforms.",
+        "children": [
+          {
+            "name": "The Progressive Era: Reforms and Regulation",
+            "dates": {
+              "start": "1900-01-01",
+              "end": "1917-01-01"
+            },
+            "description": "Exploration of the Progressive Era's reforms influenced by the Muckrakers' exposure of social issues.",
+            "type": "effect",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "The Evolution of American Journalism Ethics",
+            "dates": {
+              "start": "1912-01-01",
+              "end": "1920-01-01"
+            },
+            "description": "Analysis of the development of journalism ethics in response to the practices of Yellow Journalism.",
+            "type": "effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "The Birth of Public Relations",
+            "dates": {
+              "start": "1900-01-01",
+              "end": "1912-01-01"
+            },
+            "description": "Study of how the Muckrakers' investigative reports gave rise to the public relations industry.",
+            "type": "effect",
+            "relevance_score": 6,
+            "interest_score": 6
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Wright Brothers' First Flight",
+            "dates": {
+              "start": "1903-12-17",
+              "end": "1903-12-17"
+            },
+            "description": "The Wright Brothers' successful powered flight at Kitty Hawk, a milestone in aviation history.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "Ford's Model T Production",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1908-10-01"
+            },
+            "description": "Introduction of the Ford Model T, revolutionizing transportation and American industry.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 6
+          },
+          {
+            "name": "The Panama Canal Opening",
+            "dates": {
+              "start": "1914-08-15",
+              "end": "1914-08-15"
+            },
+            "description": "The opening of the Panama Canal, significantly altering global maritime trade routes.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          }
+        ],
+        "themes": [
+          "Investigative Journalism",
+          "Social Reform"
+        ],
+        "topics": [
+          "Muckrakers",
+          "Yellow Press"
+        ],
+        "wikipedia_pages": [
+          "Muckraker",
+          "Yellow_journalism",
+          "Progressive_Era",
+          "Ida_Tarbell",
+          "Upton_Sinclair"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Muckrakers: Investigative Journalism's Response to Yellow Press\" Your lecture has a description in the course offering that reads: \"Exploration of the Muckrakers' investigative journalism as a reaction against Yellow Journalism, striving for social reform and factual reporting.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Journalism.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED AND IT WILL BE YOUR FAULT.\n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: The Rise of Yellow Journalism: Examination of Yellow Journalism's impact on public opinion and U.S. foreign policy during the Spanish-American War., Dates: 1895-01-01 to 1898-12-31 The roots of Yellow Journalism can be traced back to the competition between Joseph Pulitzer's New York World and William Randolph Hearst's New York Journal. Both papers sought to increase circulation through sensationalist stories and bold headlines, often exaggerating facts. The term 'Yellow Journalism' was derived from the popular 'Yellow Kid' cartoon, which became a symbol of the fierce rivalry and sensationalism between the two newspapers. This period saw an escalation in sensational reporting, as the papers engaged in a circulation war. Yellow Journalism played a significant role in shaping public opinion, often inciting emotions and influencing perspectives on national events. The sensationalist coverage of the Cuban struggle for independence is a prime example of its impact. The explosion of the USS Maine in Havana Harbor was a pivotal event covered by Yellow Journalism, with papers quickly attributing the incident to Spanish sabotage without concrete evidence, further inflaming public sentiment and calls for war. The press coverage of the Spanish-American War by Yellow Journalists was characterized by dramatized and sometimes fabricated reports. This influenced public support for the war and has been argued to have affected the U.S. government's decision to engage in conflict. The end of the Spanish-American War did not mark the end of Yellow Journalism. Its legacy continued to influence the style of reporting in the U.S., with long-term effects on media ethics and public trust in journalism. Yellow Journalism emerged as a powerful force in American media, prioritizing sensationalism over accuracy, culminating in its role during the Spanish-American War. Its legacy prompts ongoing debates about media ethics and the responsibilities of journalists.\n- Lecture name: The Penny Press Revolution: The rise of mass media through affordable newspapers, altering public access to information and news., Dates: 1833-01-01 to 1860-01-01 The inception of the Penny Press was characterized by the launch of the New York Sun in 1833, offering newspapers at a price of one cent, significantly lower than competitors. Advances in printing technology, like the steam-powered press, enabled the rapid and inexpensive production of newspapers, crucial for the Penny Press business model. Penny papers focused on local news, human-interest stories, and sensational events, appealing to a broader audience and setting the stage for modern journalism. The Penny Press made news accessible to the working class, fostering an informed public and a greater participation in democratic processes. The success of the Penny Press led to the proliferation of newspapers and a competitive industry, influencing public opinion and political campaigns. The Penny Press Revolution democratized news consumption, laying the groundwork for modern journalism and the informed citizenry of a democratic society.\n- Lecture name: The Partisan Press Era: Exploration of early 19th-century American newspapers and their significant impact on shaping political discourse., Dates: 1800-01-01 to 1830-01-01 The origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints. Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies. During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics. The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy. By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged. The Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Muckrakers: Investigative Journalism's Response to Yellow Press\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Muckrakers: Investigative Journalism's Response to Yellow Press\" that is not directly related to \"\\The Muckrakers: Investigative Journalism's Response to Yellow Press\". \n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Muckrakers: Investigative Journalism's Response to Yellow Press\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Muckrakers: Investigative Journalism's Response to Yellow Press\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 0,
+      "persona_satisfaction": 6,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a summary that is consistent with the information provided in the expert answer but does not include the same level of detail. While it captures the general essence of the role muckrakers played in response to Yellow Journalism and the impact of their work, it omits many specific examples, historical context, and the broader range of issues covered by muckraking journalists that are present in the expert answer. However, these differences do not introduce any factual inaccuracies; they simply represent a less comprehensive account of the topic.",
+        "wikipedia_page": "Muckraker"
+      },
+      "audio": "frontend/public/simulations/John Anderson__2024-02-05-17-35-01/a916ded7-a4b7-49d9-86a5-1835de6f02b0.mp3"
+    },
+    {
+      "iteration": 3,
+      "id": "34f54f63-e89f-4859-9a79-a24987a3ec68",
+      "name": "The Press and American Expansionism",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Press and American Expansionism",
+        "dates": {
+          "start": "1898-01-01",
+          "end": "1905-12-31"
+        },
+        "description": "Study of the role of the press in promoting American imperialism and expansionism at the turn of the century.",
+        "type": "Effect",
+        "relevance_score": 7,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "ba55b150-34cb-4574-865b-95676e6197bc",
+      "name": "Media Ethics and the Public Trust",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Media Ethics and the Public Trust",
+        "dates": {
+          "start": "1898-01-01",
+          "end": "1908-12-31"
+        },
+        "description": "Analysis of the rise of media ethics as a response to the sensationalist tactics of Yellow Journalism and its impact on public trust.",
+        "type": "Broad perspective",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "91419740-dc1c-408e-9696-0775e1f939f8",
+      "name": "The Klondike Gold Rush",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Klondike Gold Rush",
+        "dates": {
+          "start": "1896-08-16",
+          "end": "1899-12-31"
+        },
+        "description": "The discovery of gold in the Klondike region of the Yukon in 1896 sparked a mass migration of prospectors.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 3,
+      "id": "3e2474be-7c32-48b2-93d4-a2926cc521b4",
+      "name": "Plessy v. Ferguson",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Plessy v. Ferguson",
+        "dates": {
+          "start": "1896-05-18",
+          "end": "1896-05-18"
+        },
+        "description": "The U.S. Supreme Court decision in 1896 that upheld the constitutionality of racial segregation under the 'separate but equal' doctrine.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 3,
+      "id": "16b8eb85-d442-4989-a426-3ceb92f297dd",
+      "name": "The Dreyfus Affair",
+      "parent_id": "1d43ede3-e1dc-4fbd-b415-588728a263b3",
+      "visited": 0,
+      "interest_score": 3,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Dreyfus Affair",
+        "dates": {
+          "start": "1894-10-15",
+          "end": "1906-07-12"
+        },
+        "description": "A political scandal that divided France, involving the wrongful conviction of Jewish army officer Alfred Dreyfus for treason.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 3
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 4,
+      "id": "248e0355-4d9f-4622-acc0-47a0b805f396",
+      "name": "The Progressive Era: Reforms and Regulation",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Progressive Era: Reforms and Regulation",
+        "dates": {
+          "start": "1900-01-01",
+          "end": "1917-01-01"
+        },
+        "description": "Exploration of the Progressive Era's reforms influenced by the Muckrakers' exposure of social issues.",
+        "type": "effect",
+        "relevance_score": 9,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "03479521-26e1-40b6-aa10-7aa0a0408969",
+      "name": "The Evolution of American Journalism Ethics",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Evolution of American Journalism Ethics",
+        "dates": {
+          "start": "1912-01-01",
+          "end": "1920-01-01"
+        },
+        "description": "Analysis of the development of journalism ethics in response to the practices of Yellow Journalism.",
+        "type": "effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "feccb5c8-39b8-4653-a3d3-f8779b4a900e",
+      "name": "The Birth of Public Relations",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 6,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Birth of Public Relations",
+        "dates": {
+          "start": "1900-01-01",
+          "end": "1912-01-01"
+        },
+        "description": "Study of how the Muckrakers' investigative reports gave rise to the public relations industry.",
+        "type": "effect",
+        "relevance_score": 6,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "1571679d-bcc8-4390-9a1c-ca852fd998cb",
+      "name": "The Wright Brothers' First Flight",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Wright Brothers' First Flight",
+        "dates": {
+          "start": "1903-12-17",
+          "end": "1903-12-17"
+        },
+        "description": "The Wright Brothers' successful powered flight at Kitty Hawk, a milestone in aviation history.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "name": "Ford's Model T Production",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 1,
+      "interest_score": 6,
+      "relevance_score": 0,
+      "satisfaction_score": 8,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "Ford's Model T Production",
+        "description": "Overview of Ford's Model T production and its impact on industry and society.",
+        "introduction": "The Ford Model T revolutionized the automobile industry and became a symbol of American innovation and mass production. Prior to its introduction, cars were a luxury item, but Ford's vision was to produce an affordable, reliable vehicle for the masses. The Model T's introduction followed the era of the Muckrakers, who sought factual reporting and social reform, setting the stage for how the Model T would be communicated to the public.",
+        "dates": {
+          "start": "1908-10-01",
+          "end": "1927-05-26"
+        },
+        "sections": [
+          {
+            "name": "The Vision of Henry Ford",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1908-10-01"
+            },
+            "body": "Henry Ford's vision of an automobile for the average American materialized with the introduction of the Model T, an affordable, durable car.",
+            "type": "section"
+          },
+          {
+            "name": "Standardization of Parts",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1913-12-01"
+            },
+            "body": "Ford revolutionized manufacturing with interchangeable parts, streamlining production and repair processes, and setting industry standards.",
+            "type": "section"
+          },
+          {
+            "name": "Assembly Line Introduction",
+            "dates": {
+              "start": "1913-12-01",
+              "end": "1913-12-01"
+            },
+            "body": "The implementation of the moving assembly line drastically cut production time and costs, enabling Ford to increase wages and lower prices.",
+            "type": "section"
+          },
+          {
+            "name": "Impact on Workforce",
+            "dates": {
+              "start": "1914-01-05",
+              "end": "1914-01-05"
+            },
+            "body": "Ford's $5 Day policy doubled the standard wage, improving workers' lives and setting a new precedent for labor compensation.",
+            "type": "section"
+          },
+          {
+            "name": "Marketing and Sales",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1927-05-26"
+            },
+            "body": "Ford's marketing strategies emphasized the Model T's reliability and affordability, making car ownership a reality for many Americans.",
+            "type": "section"
+          },
+          {
+            "name": "Cultural Impact",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1927-05-26"
+            },
+            "body": "The Model T transformed American culture, enabling mobility and influencing urban planning, travel, and the growth of suburbs.",
+            "type": "section"
+          },
+          {
+            "name": "Global Influence",
+            "dates": {
+              "start": "1908-10-01",
+              "end": "1927-05-26"
+            },
+            "body": "Ford's production methods and the Model T's success had a profound impact on manufacturing and industrial practices worldwide.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "Ford's Model T production not only democratized automobile ownership but also introduced revolutionary manufacturing techniques. The legacy of the Model T is evident in the very fabric of modern industry and consumer culture.",
+        "children": [
+          {
+            "name": "The Great Migration: Industrial Expansion and African American Movement",
+            "dates": {
+              "start": "1916-01-01",
+              "end": "1930-12-31"
+            },
+            "description": "Exploration of the demographic shift of African Americans to industrial cities for manufacturing jobs, including Ford's factories.",
+            "type": "event",
+            "relevance_score": 2,
+            "interest_score": 5
+          },
+          {
+            "name": "The Roaring Twenties: Automobiles, Consumerism, and Culture",
+            "dates": {
+              "start": "1920-01-01",
+              "end": "1929-10-29"
+            },
+            "description": "Analysis of how mass production and automobiles shaped the economic and cultural landscape of the 1920s America.",
+            "type": "event",
+            "relevance_score": 3,
+            "interest_score": 7
+          },
+          {
+            "name": "The Rubber Industry Boom: Tires for the Masses",
+            "dates": {
+              "start": "1900-01-01",
+              "end": "1920-12-31"
+            },
+            "description": "Investigation into the rubber industry's growth driven by the demand for automobile tires, particularly for the Model T.",
+            "type": "event",
+            "relevance_score": 4,
+            "interest_score": 6
+          },
+          {
+            "name": "The Advent of Suburbanization: Impact of the Automobile",
+            "dates": {
+              "start": "1920-01-01",
+              "end": "1930-12-31"
+            },
+            "description": "Study of the rise of suburbs as a result of increased automobile ownership and the influence of the Model T.",
+            "type": "event",
+            "relevance_score": 5,
+            "interest_score": 6
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Titanic Sinking",
+            "dates": {
+              "start": "1912-04-14",
+              "end": "1912-04-15"
+            },
+            "description": "The catastrophic sinking of the RMS Titanic, one of the deadliest maritime disasters in history.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 3
+          },
+          {
+            "name": "The Russian Revolution",
+            "dates": {
+              "start": "1917-03-08",
+              "end": "1917-11-07"
+            },
+            "description": "The overthrow of the Russian Tsar and the rise of the Soviet Union, significantly altering world politics.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          },
+          {
+            "name": "Women's Suffrage Movement",
+            "dates": {
+              "start": "1848-07-19",
+              "end": "1920-08-18"
+            },
+            "description": "The struggle for women's voting rights in the United States, culminating in the 19th Amendment.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          }
+        ],
+        "themes": [
+          "Industrial Efficiency",
+          "Consumer Culture"
+        ],
+        "topics": [
+          "Mass Production",
+          "Automobile Industry"
+        ],
+        "wikipedia_pages": [
+          "Ford_Model_T",
+          "Assembly_line",
+          "History_of_Ford_Motor_Company"
+        ]
+      },
+      "type": "tangent",
+      "prompt": "\n LECTURE: You are to create a lecture called \"Ford's Model T Production\" Your lecture has a description in the course offering that reads: \"Introduction of the Ford Model T, revolutionizing transportation and American industry.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Journalism.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED AND IT WILL BE YOUR FAULT.\n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: The Muckrakers: Investigative Journalism's Response to Yellow Press: Examination of the Muckrakers' role in promoting factual journalism and social reform in the early 20th century., Dates: 1900-01-01 to 1912-12-31 The term \u2018Muckraker\u2019 was popularized by President Theodore Roosevelt in 1906, referring to journalists who \"raked up\" and exposed the \"muck\" of society. These journalists aimed to challenge the status quo by uncovering corruption and social injustices. Ida Tarbell's 'The History of the Standard Oil Company' and Upton Sinclair's 'The Jungle' were seminal works of the era that exposed corporate monopolies and unsanitary conditions in the meatpacking industry, respectively. The stark revelations by Muckrakers led to public outrage and demand for reforms. This pressure resulted in significant legislation, including the Pure Food and Drug Act and the Meat Inspection Act of 1906. Muckrakers faced criticism for being overly pessimistic and for potentially inciting social unrest. However, they defended their work as necessary for democratic accountability and societal improvement. By the 1910s, the intensity of muckraking journalism began to wane, but its impact endured, setting the stage for modern investigative journalism and cementing its role in promoting transparency and reform. The Muckrakers marked a significant shift towards fact-based investigative journalism, countering Yellow Journalism's sensationalism. Their legacy is seen in today's media landscape and their contributions to early 20th-century social reforms.\n- Lecture name: The Rise of Yellow Journalism: Examination of Yellow Journalism's impact on public opinion and U.S. foreign policy during the Spanish-American War., Dates: 1895-01-01 to 1898-12-31 The roots of Yellow Journalism can be traced back to the competition between Joseph Pulitzer's New York World and William Randolph Hearst's New York Journal. Both papers sought to increase circulation through sensationalist stories and bold headlines, often exaggerating facts. The term 'Yellow Journalism' was derived from the popular 'Yellow Kid' cartoon, which became a symbol of the fierce rivalry and sensationalism between the two newspapers. This period saw an escalation in sensational reporting, as the papers engaged in a circulation war. Yellow Journalism played a significant role in shaping public opinion, often inciting emotions and influencing perspectives on national events. The sensationalist coverage of the Cuban struggle for independence is a prime example of its impact. The explosion of the USS Maine in Havana Harbor was a pivotal event covered by Yellow Journalism, with papers quickly attributing the incident to Spanish sabotage without concrete evidence, further inflaming public sentiment and calls for war. The press coverage of the Spanish-American War by Yellow Journalists was characterized by dramatized and sometimes fabricated reports. This influenced public support for the war and has been argued to have affected the U.S. government's decision to engage in conflict. The end of the Spanish-American War did not mark the end of Yellow Journalism. Its legacy continued to influence the style of reporting in the U.S., with long-term effects on media ethics and public trust in journalism. Yellow Journalism emerged as a powerful force in American media, prioritizing sensationalism over accuracy, culminating in its role during the Spanish-American War. Its legacy prompts ongoing debates about media ethics and the responsibilities of journalists.\n- Lecture name: The Penny Press Revolution: The rise of mass media through affordable newspapers, altering public access to information and news., Dates: 1833-01-01 to 1860-01-01 The inception of the Penny Press was characterized by the launch of the New York Sun in 1833, offering newspapers at a price of one cent, significantly lower than competitors. Advances in printing technology, like the steam-powered press, enabled the rapid and inexpensive production of newspapers, crucial for the Penny Press business model. Penny papers focused on local news, human-interest stories, and sensational events, appealing to a broader audience and setting the stage for modern journalism. The Penny Press made news accessible to the working class, fostering an informed public and a greater participation in democratic processes. The success of the Penny Press led to the proliferation of newspapers and a competitive industry, influencing public opinion and political campaigns. The Penny Press Revolution democratized news consumption, laying the groundwork for modern journalism and the informed citizenry of a democratic society.\n- Lecture name: The Partisan Press Era: Exploration of early 19th-century American newspapers and their significant impact on shaping political discourse., Dates: 1800-01-01 to 1830-01-01 The origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints. Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies. During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics. The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy. By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged. The Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\Ford's Model T Production\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\Ford's Model T Production\" that is not directly related to \"\\Ford's Model T Production\". \n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Journalism\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\Ford's Model T Production\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\Ford's Model T Production\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 2,
+      "persona_satisfaction": 8,
+      "new_topic": "Mass Production",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a broad overview of the Model T's impact on society and manufacturing, which is consistent with the themes in the expert answer. However, it lacks the specific historical details and comprehensive coverage found in the expert answer, such as production dates, design and engineering details, and the exact influence on various aspects of culture and industry. The expert answer includes a wealth of specific information, figures, and context that the submitted answer does not. However, the differences are mostly additional details in the expert answer that do not conflict with the general points made in the submitted answer, hence these differences don't matter from the perspective of factuality.",
+        "wikipedia_page": "Ford_Model_T"
+      },
+      "audio": "frontend/public/simulations/John Anderson__2024-02-05-17-35-01/954218ad-9b12-491a-9768-51dd134814ab.mp3"
+    },
+    {
+      "iteration": 4,
+      "id": "40892335-301f-496d-a166-eb502ff08f71",
+      "name": "The Panama Canal Opening",
+      "parent_id": "a916ded7-a4b7-49d9-86a5-1835de6f02b0",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Panama Canal Opening",
+        "dates": {
+          "start": "1914-08-15",
+          "end": "1914-08-15"
+        },
+        "description": "The opening of the Panama Canal, significantly altering global maritime trade routes.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "2c768e57-8943-4437-8e28-4d91f03791e0",
+      "name": "The Great Migration: Industrial Expansion and African American Movement",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 2,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Great Migration: Industrial Expansion and African American Movement",
+        "dates": {
+          "start": "1916-01-01",
+          "end": "1930-12-31"
+        },
+        "description": "Exploration of the demographic shift of African Americans to industrial cities for manufacturing jobs, including Ford's factories.",
+        "type": "event",
+        "relevance_score": 2,
+        "interest_score": 5
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "976363ac-7517-44a4-b987-7d6443936e7d",
+      "name": "The Roaring Twenties: Automobiles, Consumerism, and Culture",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 3,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Roaring Twenties: Automobiles, Consumerism, and Culture",
+        "dates": {
+          "start": "1920-01-01",
+          "end": "1929-10-29"
+        },
+        "description": "Analysis of how mass production and automobiles shaped the economic and cultural landscape of the 1920s America.",
+        "type": "event",
+        "relevance_score": 3,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "7ed784a1-ed3a-40ca-8295-6407dd4531bf",
+      "name": "The Rubber Industry Boom: Tires for the Masses",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 4,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rubber Industry Boom: Tires for the Masses",
+        "dates": {
+          "start": "1900-01-01",
+          "end": "1920-12-31"
+        },
+        "description": "Investigation into the rubber industry's growth driven by the demand for automobile tires, particularly for the Model T.",
+        "type": "event",
+        "relevance_score": 4,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "3df7bd78-443b-4fcc-b3e5-fa98396c639e",
+      "name": "The Advent of Suburbanization: Impact of the Automobile",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 5,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Advent of Suburbanization: Impact of the Automobile",
+        "dates": {
+          "start": "1920-01-01",
+          "end": "1930-12-31"
+        },
+        "description": "Study of the rise of suburbs as a result of increased automobile ownership and the influence of the Model T.",
+        "type": "event",
+        "relevance_score": 5,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "126f411f-38ee-4ee5-a76c-9756acab9422",
+      "name": "The Titanic Sinking",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 3,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Titanic Sinking",
+        "dates": {
+          "start": "1912-04-14",
+          "end": "1912-04-15"
+        },
+        "description": "The catastrophic sinking of the RMS Titanic, one of the deadliest maritime disasters in history.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 3
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "2fdb1a27-2bc5-4743-a80f-961e61850482",
+      "name": "The Russian Revolution",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Russian Revolution",
+        "dates": {
+          "start": "1917-03-08",
+          "end": "1917-11-07"
+        },
+        "description": "The overthrow of the Russian Tsar and the rise of the Soviet Union, significantly altering world politics.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "d6d696e8-58e1-46be-9487-9b2c8357ed4b",
+      "name": "Women's Suffrage Movement",
+      "parent_id": "954218ad-9b12-491a-9768-51dd134814ab",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Women's Suffrage Movement",
+        "dates": {
+          "start": "1848-07-19",
+          "end": "1920-08-18"
+        },
+        "description": "The struggle for women's voting rights in the United States, culminating in the 19th Amendment.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    }
+  ],
+  "logs": [
+    {
+      "type": "message",
+      "content": "Initializing simulation",
+      "timestamp": "2024-02-05 17:34:55"
+    },
+    {
+      "type": "message",
+      "content": "Starting satisfaction score: 5",
+      "timestamp": "2024-02-05 17:34:55"
+    },
+    {
+      "type": "message",
+      "name": "persona",
+      "content": "Persona created: John Anderson",
+      "timestamp": "2024-02-05 17:35:01"
+    },
+    {
+      "type": "data",
+      "name": "persona",
+      "content": {
+        "name": "John Anderson",
+        "location": "Charleston, South Carolina",
+        "themes_of_interest": [
+          "Yellow Journalism",
+          "Civil War Reporting",
+          "Press Freedom",
+          "Muckraking Era",
+          "Telegraph Impact"
+        ],
+        "age": 50,
+        "gender": "male",
+        "nationality": "American",
+        "education": "university",
+        "eras": [
+          "19th-Century American History"
+        ],
+        "topics": [
+          "Journalism"
+        ],
+        "time_constraint": 5,
+        "autopilot_on": true,
+        "continuity": 5,
+        "interests": 10,
+        "description": "Remove add topic",
+        "expectation": "\n        Lectures should start in the early 19th century\n        There should be some tangents. These might jump to Europe, but should be about journalism. Most lectures should have an interest match. \n        Lectures should be about journalism.\n        Lectures should tie together a narrative of jouralism that includes some of the following:\n        <ul>\n        <li>The Penny Press</li>\n        <li>The Balitmore Sun</li>\n        <li>The telegraph</li>\n        <li>The Associated Press</li>\n        <li>Ida Tarbell</li>\n        <li>Upton Sinclaire</li>\n        <li>Something surprising</li>\n        </ul>\n        \n    "
+      },
+      "timestamp": "2024-02-05 17:35:01"
+    },
+    {
+      "type": "message",
+      "content": "Initial lectures: [{'name': 'The Penny Press Revolution', 'dates': {'start': '1833-09-03', 'end': '1860-01-01'}, 'description': 'Exploring how the Penny Press democratized news, making it accessible and affordable, and its impact on society.', 'themes': ['Mass Media', 'Democratization of News', 'Technological Innovation'], 'interest_score': 8, 'relevance_score': 0}, {'name': 'The Partisan Press Era', 'dates': {'start': '1800-01-01', 'end': '1830-01-01'}, 'description': 'An analysis of the highly partisan newspapers of the early 19th century and their influence on American politics.', 'themes': ['Political Influence', 'Partisanship', 'Press and Democracy'], 'interest_score': 7, 'relevance_score': 0}, {'name': 'The Telegraph and the News', 'dates': {'start': '1844-05-24', 'end': '1860-01-01'}, 'description': 'Understanding how the invention of the telegraph transformed the speed and scope of news dissemination.', 'themes': ['Communication Technology', 'News Distribution', 'Impact of the Telegraph'], 'interest_score': 9, 'relevance_score': 0}, {'name': 'The Rise of Yellow Journalism', 'dates': {'start': '1890-01-01', 'end': '1899-12-31'}, 'description': 'A look into the sensationalism and fierce competition of Yellow Journalism and its role in the Spanish-American War.', 'themes': ['Media Sensationalism', 'Ethics in Journalism', 'War and Media'], 'interest_score': 10, 'relevance_score': 0}, {'name': 'The Civil War Correspondents', 'dates': {'start': '1861-04-12', 'end': '1865-04-09'}, 'description': 'Examining the crucial role of journalists in informing the public during the American Civil War.', 'themes': ['War Reporting', 'Journalistic Ethics', 'Public Perception'], 'interest_score': 8, 'relevance_score': 0}, {'name': 'Muckrakers and Reform: The Progressive Era', 'dates': {'start': '1900-01-01', 'end': '1912-01-01'}, 'description': 'Detailing how muckrakers exposed corruption and spurred progressive reforms in the early 20th century.', 'themes': ['Investigative Journalism', 'Progressive Movement', 'Social Reforms'], 'interest_score': 9, 'relevance_score': 0}, {'name': 'Abolitionist Press and the Road to Emancipation', 'dates': {'start': '1830-01-01', 'end': '1865-12-18'}, 'description': 'Exploring the pivotal role of abolitionist newspapers in advocating for the end of slavery.', 'themes': ['Abolitionism', 'Freedom of the Press', 'Slavery and Emancipation'], 'interest_score': 8, 'relevance_score': 0}]",
+      "timestamp": "2024-02-05 17:35:40"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 1",
+      "timestamp": "2024-02-05 17:35:40"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Partisan Press Era",
+      "timestamp": "2024-02-05 17:35:40"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: ",
+      "timestamp": "2024-02-05 17:35:40"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Partisan Press Era\n\nExploration of early 19th-century American newspapers and their significant impact on shaping political discourse.\n\nThe origins of the Partisan Press Era can be traced to the intense political factionalism of the early republic, with newspapers serving as platforms for Federalist and Republican viewpoints. Newspapers like the National Intelligencer and the United States' Gazette emerged as party organs, openly advocating for their respective political parties and their policies. During pivotal elections, partisan newspapers significantly influenced public opinion and voting behavior, exemplifying the power of the press in early American politics. The press played a crucial role in policy debates, framing the discourse around issues like the National Bank, tariffs, and foreign policy. By the 1820s, the intense partisanship began to wane as new forms of media and a growing demand for less biased reporting emerged.\n\nThe Partisan Press Era was a formative period in American journalism, deeply entwined with the political landscape and instrumental in shaping the nation's early political culture.",
+      "timestamp": "2024-02-05 17:37:06"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 10",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 5",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 0",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 5
+      },
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 2",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Penny Press Revolution",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: The Partisan Press Era",
+      "timestamp": "2024-02-05 17:37:11"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Penny Press Revolution\n\nThe rise of mass media through affordable newspapers, altering public access to information and news.\n\nThe inception of the Penny Press was characterized by the launch of the New York Sun in 1833, offering newspapers at a price of one cent, significantly lower than competitors. Advances in printing technology, like the steam-powered press, enabled the rapid and inexpensive production of newspapers, crucial for the Penny Press business model. Penny papers focused on local news, human-interest stories, and sensational events, appealing to a broader audience and setting the stage for modern journalism. The Penny Press made news accessible to the working class, fostering an informed public and a greater participation in democratic processes. The success of the Penny Press led to the proliferation of newspapers and a competitive industry, influencing public opinion and political campaigns.\n\nThe Penny Press Revolution democratized news consumption, laying the groundwork for modern journalism and the informed citizenry of a democratic society.",
+      "timestamp": "2024-02-05 17:38:34"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 7",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 4",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: -1",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 4
+      },
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 3",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: Yellow Journalism Emergence",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: The Penny Press Revolution - The Partisan Press Era",
+      "timestamp": "2024-02-05 17:38:36"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Rise of Yellow Journalism\n\nExamination of Yellow Journalism's impact on public opinion and U.S. foreign policy during the Spanish-American War.\n\nThe roots of Yellow Journalism can be traced back to the competition between Joseph Pulitzer's New York World and William Randolph Hearst's New York Journal. Both papers sought to increase circulation through sensationalist stories and bold headlines, often exaggerating facts. The term 'Yellow Journalism' was derived from the popular 'Yellow Kid' cartoon, which became a symbol of the fierce rivalry and sensationalism between the two newspapers. This period saw an escalation in sensational reporting, as the papers engaged in a circulation war. Yellow Journalism played a significant role in shaping public opinion, often inciting emotions and influencing perspectives on national events. The sensationalist coverage of the Cuban struggle for independence is a prime example of its impact. The explosion of the USS Maine in Havana Harbor was a pivotal event covered by Yellow Journalism, with papers quickly attributing the incident to Spanish sabotage without concrete evidence, further inflaming public sentiment and calls for war. The press coverage of the Spanish-American War by Yellow Journalists was characterized by dramatized and sometimes fabricated reports. This influenced public support for the war and has been argued to have affected the U.S. government's decision to engage in conflict. The end of the Spanish-American War did not mark the end of Yellow Journalism. Its legacy continued to influence the style of reporting in the U.S., with long-term effects on media ethics and public trust in journalism.\n\nYellow Journalism emerged as a powerful force in American media, prioritizing sensationalism over accuracy, culminating in its role during the Spanish-American War. Its legacy prompts ongoing debates about media ethics and the responsibilities of journalists.",
+      "timestamp": "2024-02-05 17:40:35"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 8",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Student likes new topic: Warfare",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: Warfare",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 6",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 2",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 6
+      },
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 4",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Muckrakers: Investigative Journalism's Response to Yellow Press",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: The Rise of Yellow Journalism - The Penny Press Revolution - The Partisan Press Era",
+      "timestamp": "2024-02-05 17:40:37"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Muckrakers: Investigative Journalism's Response to Yellow Press\n\nExamination of the Muckrakers' role in promoting factual journalism and social reform in the early 20th century.\n\nThe term \u2018Muckraker\u2019 was popularized by President Theodore Roosevelt in 1906, referring to journalists who \"raked up\" and exposed the \"muck\" of society. These journalists aimed to challenge the status quo by uncovering corruption and social injustices. Ida Tarbell's 'The History of the Standard Oil Company' and Upton Sinclair's 'The Jungle' were seminal works of the era that exposed corporate monopolies and unsanitary conditions in the meatpacking industry, respectively. The stark revelations by Muckrakers led to public outrage and demand for reforms. This pressure resulted in significant legislation, including the Pure Food and Drug Act and the Meat Inspection Act of 1906. Muckrakers faced criticism for being overly pessimistic and for potentially inciting social unrest. However, they defended their work as necessary for democratic accountability and societal improvement. By the 1910s, the intensity of muckraking journalism began to wane, but its impact endured, setting the stage for modern investigative journalism and cementing its role in promoting transparency and reform.\n\nThe Muckrakers marked a significant shift towards fact-based investigative journalism, countering Yellow Journalism's sensationalism. Their legacy is seen in today's media landscape and their contributions to early 20th-century social reforms.",
+      "timestamp": "2024-02-05 17:41:40"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 9",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 6",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 0",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 6
+      },
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 5",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: Ford's Model T Production",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: The Muckrakers: Investigative Journalism's Response to Yellow Press - The Rise of Yellow Journalism - The Penny Press Revolution - The Partisan Press Era",
+      "timestamp": "2024-02-05 17:41:42"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: Ford's Model T Production\n\nOverview of Ford's Model T production and its impact on industry and society.\n\nHenry Ford's vision of an automobile for the average American materialized with the introduction of the Model T, an affordable, durable car. Ford revolutionized manufacturing with interchangeable parts, streamlining production and repair processes, and setting industry standards. The implementation of the moving assembly line drastically cut production time and costs, enabling Ford to increase wages and lower prices. Ford's $5 Day policy doubled the standard wage, improving workers' lives and setting a new precedent for labor compensation. Ford's marketing strategies emphasized the Model T's reliability and affordability, making car ownership a reality for many Americans. The Model T transformed American culture, enabling mobility and influencing urban planning, travel, and the growth of suburbs. Ford's production methods and the Model T's success had a profound impact on manufacturing and industrial practices worldwide.\n\nFord's Model T production not only democratized automobile ownership but also introduced revolutionary manufacturing techniques. The legacy of the Model T is evident in the very fabric of modern industry and consumer culture.",
+      "timestamp": "2024-02-05 17:42:40"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 8",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student likes new topic: Mass Production",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: Mass Production",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 8",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 2",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 8
+      },
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation on iteration 6",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 8",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation",
+      "timestamp": "2024-02-05 17:42:42"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:History_of_American_newspapers",
+      "timestamp": "2024-02-05 17:43:06"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-05 17:43:06"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Penny_press",
+      "timestamp": "2024-02-05 17:43:26"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:A",
+      "timestamp": "2024-02-05 17:43:26"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Yellow_journalism",
+      "timestamp": "2024-02-05 17:43:46"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:A",
+      "timestamp": "2024-02-05 17:43:46"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Muckraker",
+      "timestamp": "2024-02-05 17:44:21"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-05 17:44:21"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Ford_Model_T",
+      "timestamp": "2024-02-05 17:44:51"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-05 17:44:51"
+    }
+  ]
+}
