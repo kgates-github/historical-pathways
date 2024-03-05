@@ -1,10 +1,9 @@
 # Historical Pathways
 Historical Pathways is a speculative design that imagines how AI might be used to teach users history in new and novel ways. 
-The concept is intended to explore how an LLM-based agent might act as a coach that takes any historical event as a starting point, and guides users through a constellation of interrelated events. The goal is a user experience that is simultaneously exploratory, interesting, and accurate.
 
 This repo contains a Python-based simulator and a React simulation analyzer.
 
-See [design case study here](https://example.com)
+See [design case study here]([https://example.com](https://case-studies-app-81a2bd548d59.herokuapp.com/historical_pathways))
 
 ## Simulator
 The simulator creates a persona / agent and simulates a user experience. The goals of the simulation are to:
