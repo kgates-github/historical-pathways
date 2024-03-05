@@ -1,0 +1,2021 @@
+{
+  "persona": {
+    "name": "Michael Thompson",
+    "location": "Austin, Texas",
+    "themes_of_interest": [
+      "AI Development",
+      "Technological Ethics",
+      "Machine Learning",
+      "Digital Revolution",
+      "AI in Warfare"
+    ],
+    "age": 30,
+    "gender": "male",
+    "nationality": "American",
+    "education": "university",
+    "eras": [
+      "Modern times"
+    ],
+    "topics": [
+      "Artificial Intelligence"
+    ],
+    "time_constraint": 5,
+    "autopilot_on": true,
+    "continuity": 1,
+    "interests": 10,
+    "description": "Modern topic",
+    "expectation": "\n        Lectures should start sometime in the 20th century\n        There should be some tangents.\n        Lectures should include some of the following:\n        <ul>\n        <li>Alan Turing</li>\n        <li>EMIACS</li>\n        <li>Early Approaches</li>\n        <li>Deep Mind, Google Brain etc.</li>\n        <li>LLMs</li>\n        </ul>\n        \n    "
+  },
+  "datetime": "2024-02-14 13:26:28",
+  "description": "Modern topic",
+  "iterations": [
+    {
+      "iteration": 1,
+      "id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "name": "The Dawn of Computing: From Turing to AI",
+      "parent_id": "root",
+      "visited": 1,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 8,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Dawn of Computing: From Turing to AI",
+        "description": "Exploration of Alan Turing's work and the evolution of computing leading to the inception of artificial intelligence.",
+        "introduction": "The development of computing technology is a tale of human ingenuity and foresight. Alan Turing's theoretical contributions laid the groundwork for the digital age, setting the stage for the eventual emergence of artificial intelligence. Prior to Turing, mechanical computation was in its infancy, with machines like the Babbage Difference Engine representing the cutting edge.",
+        "dates": {
+          "start": "1936-01-01",
+          "end": "1956-01-01"
+        },
+        "sections": [
+          {
+            "name": "Turing's Vision",
+            "dates": {
+              "start": "1936-01-01",
+              "end": "1936-12-31"
+            },
+            "body": "In 1936, Alan Turing published his seminal paper 'On Computable Numbers,' introducing the concept of a universal machine capable of performing any conceivable mathematical computation. This theoretical construct laid the foundation for modern computing.",
+            "type": "section"
+          },
+          {
+            "name": "WWII and Codebreaking",
+            "dates": {
+              "start": "1939-09-01",
+              "end": "1945-09-02"
+            },
+            "body": "During World War II, Turing's expertise was pivotal in deciphering enemy codes. His work at Bletchley Park with the Bombe machine contributed significantly to the Allied victory, demonstrating the potential of computing in real-world applications.",
+            "type": "section"
+          },
+          {
+            "name": "Post-war Computing",
+            "dates": {
+              "start": "1945-09-02",
+              "end": "1950-12-31"
+            },
+            "body": "After the war, the development of electronic computers accelerated. Turing's design for the Automatic Computing Engine (ACE) was among the first to implement the stored-program concept, influencing future computer architectures.",
+            "type": "section"
+          },
+          {
+            "name": "Turing Test and AI",
+            "dates": {
+              "start": "1950-01-01",
+              "end": "1950-12-31"
+            },
+            "body": "In 1950, Turing introduced the 'Turing Test' in his paper 'Computing Machinery and Intelligence,' proposing a criterion for machine intelligence. This marked the first serious philosophical attempt to define artificial intelligence.",
+            "type": "section"
+          },
+          {
+            "name": "Early AI Programs",
+            "dates": {
+              "start": "1951-01-01",
+              "end": "1956-12-31"
+            },
+            "body": "The first AI programs emerged in the 1950s, with efforts like the Logic Theorist and the game-playing program created by Arthur Samuel. These developments demonstrated the potential for machines to perform tasks previously thought to require human intelligence.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The period from Turing's theoretical work to the early AI programs was marked by rapid advancements in computing. Turing's vision and the subsequent innovations set the stage for the ongoing development of artificial intelligence, forever altering the trajectory of technology and society.",
+        "children": [
+          {
+            "name": "The Logic Theorist and Early AI",
+            "dates": {
+              "start": "1956-01-01",
+              "end": "1956-12-31"
+            },
+            "description": "Exploration of the Logic Theorist, often considered the first AI program, and its significance.",
+            "type": "event",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "The Birth of Machine Learning",
+            "dates": {
+              "start": "1952-01-01",
+              "end": "1959-12-31"
+            },
+            "description": "Discussion on the origins of machine learning with Arthur Samuel's checkers program and the implications for AI.",
+            "type": "event",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "The Dartmouth Conference",
+            "dates": {
+              "start": "1956-06-01",
+              "end": "1956-08-31"
+            },
+            "description": "An examination of the Dartmouth Summer Research Project on Artificial Intelligence, where the term 'AI' was coined.",
+            "type": "event",
+            "relevance_score": 10,
+            "interest_score": 9
+          }
+        ],
+        "tangents": [
+          {
+            "name": "ENIAC and the Rise of Computers",
+            "dates": {
+              "start": "1945-02-14",
+              "end": "1945-02-14"
+            },
+            "description": "The unveiling of ENIAC, the first general-purpose electronic computer, and its impact on computing history.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "The Sputnik Launch",
+            "dates": {
+              "start": "1957-10-04",
+              "end": "1957-10-04"
+            },
+            "description": "The launch of Sputnik by the Soviet Union, igniting the space race and indirectly influencing computer technology.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          }
+        ],
+        "themes": [
+          "Computational Foundations",
+          "Intelligence Conceptualization"
+        ],
+        "topics": [
+          "Turing Theory",
+          "AI Programs"
+        ],
+        "wikipedia_pages": [
+          "Alan_Turing",
+          "History_of_artificial_intelligence",
+          "Turing_test",
+          "Logic_Theorist",
+          "Arthur_Samuel"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Dawn of Computing: From Turing to AI\" Your lecture has a description in the course offering that reads: \"Exploring Alan Turing's foundational work and the subsequent evolution leading to the birth of artificial intelligence.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Artificial Intelligence.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Dawn of Computing: From Turing to AI\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Dawn of Computing: From Turing to AI\" that is not directly related to \"\\The Dawn of Computing: From Turing to AI\" but is related to \"\\Artificial Intelligence\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Dawn of Computing: From Turing to AI\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Dawn of Computing: From Turing to AI\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 2,
+      "persona_satisfaction": 7,
+      "new_topic": "Turing Theory",
+      "fact_eval": {
+        "choice_string": "A",
+        "reason": "The submitted answer provides a condensed account of Alan Turing's contributions to the development of computing and AI, focusing on key points such as Turing's seminal 1936 paper, his World War II codebreaking work, the ACE design, and the Turing Test. It does not conflict with the expert answer but rather offers a summary without the extensive biographical details, additional contributions, and historical context found in the expert answer. Therefore, the submitted answer is a subset of the expert answer and is fully consistent with it.",
+        "wikipedia_page": "Alan_Turing"
+      },
+      "audio": "frontend/public/simulations/Michael Thompson__2024-02-14-13-26-28/d83585fd-4a39-4b6c-8e18-38c34d360af0.mp3"
+    },
+    {
+      "iteration": 0,
+      "id": "88b7ebde-7512-4091-8532-a94a12e47e32",
+      "name": "AI Winter and Revival: Cycles of Progress",
+      "parent_id": "root",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI Winter and Revival: Cycles of Progress",
+        "dates": {
+          "start": "1974-01-01",
+          "end": "1980-01-01"
+        },
+        "description": "An examination of the periods of reduced funding and interest in AI, followed by resurgence and technological breakthroughs.",
+        "themes": [
+          "AI Winter",
+          "Funding Cuts",
+          "Expert Systems",
+          "AI Revival"
+        ],
+        "interest_score": 6,
+        "relevance_score": 0
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "name": "The Rise of Machine Learning: Shifting Paradigms",
+      "parent_id": "root",
+      "visited": 1,
+      "interest_score": 9,
+      "relevance_score": 0,
+      "satisfaction_score": 6,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Rise of Machine Learning: Shifting Paradigms",
+        "description": "Exploring the transition from rule-based systems to data-driven machine learning in AI research.",
+        "introduction": "The evolution of artificial intelligence has been marked by significant milestones, one of which is the rise of machine learning. Prior to this shift, AI research focused on rule-based systems, with limited adaptability and scalability. The advent of machine learning algorithms revolutionized the field, as systems began to learn from data, improving with experience.",
+        "dates": {
+          "start": "1952-01-01",
+          "end": "2006-12-31"
+        },
+        "sections": [
+          {
+            "name": "Early AI Foundations",
+            "dates": {
+              "start": "1952-01-01",
+              "end": "1970-12-31"
+            },
+            "body": "The inception of AI research was characterized by the development of rule-based systems. These systems operated on predefined instructions, with no capability to learn or adapt from data.",
+            "type": "section"
+          },
+          {
+            "name": "Limits of Rule-Based AI",
+            "dates": {
+              "start": "1971-01-01",
+              "end": "1980-12-31"
+            },
+            "body": "The limitations of rule-based AI became apparent as researchers encountered challenges in scaling systems and handling the complexity of real-world data.",
+            "type": "section"
+          },
+          {
+            "name": "Machine Learning Emergence",
+            "dates": {
+              "start": "1981-01-01",
+              "end": "1990-12-31"
+            },
+            "body": "Machine learning emerged as a new paradigm, allowing systems to learn and make predictions from data, leading to advancements in pattern recognition and predictive analytics.",
+            "type": "section"
+          },
+          {
+            "name": "Data-Driven AI Expansion",
+            "dates": {
+              "start": "1991-01-01",
+              "end": "2000-12-31"
+            },
+            "body": "The 1990s saw an explosion in data availability, which fueled the growth of machine learning. Algorithms could now be trained on vast datasets, resulting in more accurate and robust AI systems.",
+            "type": "section"
+          },
+          {
+            "name": "Deep Learning Breakthroughs",
+            "dates": {
+              "start": "2001-01-01",
+              "end": "2006-12-31"
+            },
+            "body": "The early 2000s witnessed breakthroughs in deep learning, a subset of machine learning, which used neural networks to achieve unprecedented performance in tasks like image and speech recognition.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The rise of machine learning marked a significant shift in AI research from rule-based to data-driven approaches. This transition has led to the current era of AI, characterized by learning algorithms that improve with experience and data.",
+        "children": [
+          {
+            "name": "Deep Learning and Neural Networks",
+            "dates": {
+              "start": "2006-01-01",
+              "end": "2016-12-31"
+            },
+            "description": "Exploration of deep learning and its impact on AI, including the development of neural networks.",
+            "type": "effect",
+            "relevance_score": 10,
+            "interest_score": 9
+          },
+          {
+            "name": "Big Data and AI",
+            "dates": {
+              "start": "2007-01-01",
+              "end": "2017-12-31"
+            },
+            "description": "An examination of how the advent of big data has propelled AI research and machine learning models.",
+            "type": "effect",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "Ethics of AI",
+            "dates": {
+              "start": "2006-01-01",
+              "end": "2016-12-31"
+            },
+            "description": "Discussion on the ethical implications of AI as machine learning becomes more prevalent in society.",
+            "type": "effect",
+            "relevance_score": 7,
+            "interest_score": 8
+          },
+          {
+            "name": "AI in Industry",
+            "dates": {
+              "start": "2006-01-01",
+              "end": "2016-12-31"
+            },
+            "description": "Overview of AI's integration into various industries and the resulting transformation of the business landscape.",
+            "type": "effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "Internet Evolution",
+            "dates": {
+              "start": "1991-01-01",
+              "end": "2006-12-31"
+            },
+            "description": "The growth of the internet and its role in providing the infrastructure necessary for large-scale data processing and AI.",
+            "type": "tangent",
+            "relevance_score": 6,
+            "interest_score": 5
+          },
+          {
+            "name": "Moore's Law Impact",
+            "dates": {
+              "start": "1965-01-01",
+              "end": "2006-12-31"
+            },
+            "description": "The influence of Moore's Law on computational capabilities, indirectly fueling AI advancements.",
+            "type": "tangent",
+            "relevance_score": 4,
+            "interest_score": 5
+          },
+          {
+            "name": "Computational Neuroscience",
+            "dates": {
+              "start": "1990-01-01",
+              "end": "2006-12-31"
+            },
+            "description": "Insights from computational neuroscience that have informed and inspired machine learning algorithms, particularly neural networks.",
+            "type": "tangent",
+            "relevance_score": 5,
+            "interest_score": 4
+          }
+        ],
+        "themes": [
+          "Data-Driven",
+          "AI Evolution"
+        ],
+        "topics": [
+          "Machine Learning",
+          "Neural Networks"
+        ],
+        "wikipedia_pages": [
+          "History_of_artificial_intelligence",
+          "Machine_learning",
+          "Deep_learning",
+          "Neural_network"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Rise of Machine Learning: Shifting Paradigms\" Your lecture has a description in the course offering that reads: \"Tracing the shift from rule-based AI to machine learning algorithms and the impact of data on AI research.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Artificial Intelligence.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Rise of Machine Learning: Shifting Paradigms\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Rise of Machine Learning: Shifting Paradigms\" that is not directly related to \"\\The Rise of Machine Learning: Shifting Paradigms\" but is related to \"\\Artificial Intelligence\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Rise of Machine Learning: Shifting Paradigms\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Rise of Machine Learning: Shifting Paradigms\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": -2,
+      "persona_satisfaction": 5,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a concise overview of the rise of machine learning within the field of AI, focusing on the transition from rule-based systems to data-driven approaches, and highlighting the impact of machine learning on the development of AI, particularly in pattern recognition and predictive analytics. The expert answer, on the other hand, provides a detailed historical account of the evolution of AI from its mythological and speculative beginnings, through various phases including the AI winters, and into the current era of big data and deep learning. While the submitted answer lacks the historical depth and specific milestones mentioned in the expert answer, these differences do not alter the factual basis regarding the rise of machine learning in AI. Both answers are factually consistent with each other in the context of machine learning's role in AI evolution, but the expert answer includes additional historical context and details not present in the submitted answer.",
+        "wikipedia_page": "History_of_artificial_intelligence"
+      },
+      "audio": "frontend/public/simulations/Michael Thompson__2024-02-14-13-26-28/bbf135c6-8a6f-4a2d-8254-2f5ce3341106.mp3"
+    },
+    {
+      "iteration": 2,
+      "id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "name": "AI in the 21st Century: Breakthroughs and Ethics",
+      "parent_id": "root",
+      "visited": 1,
+      "interest_score": 10,
+      "relevance_score": 0,
+      "satisfaction_score": 10,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "AI in the 21st Century: Breakthroughs and Ethics",
+        "description": "Analysis of AI advancements, societal impacts, and the ethical conundrums posed by rapid technological progress.",
+        "introduction": "The 21st century has witnessed astounding advancements in artificial intelligence, reshaping industries and daily life. The prelude to this era was marked by foundational research in machine learning, data processing, and computational power enhancements, setting the stage for today's AI revolution.",
+        "dates": {
+          "start": "2000-01-01",
+          "end": "2023-03-31"
+        },
+        "sections": [
+          {
+            "name": "The Dawn of Machine Learning",
+            "dates": {
+              "start": "2000-01-01",
+              "end": "2010-12-31"
+            },
+            "body": "This period saw machine learning emerge from academia to practical applications. Pioneering algorithms like support vector machines and neural networks began transforming data analysis, leading to the first wave of commercial AI applications.",
+            "type": "section"
+          },
+          {
+            "name": "Big Data and AI",
+            "dates": {
+              "start": "2011-01-01",
+              "end": "2015-12-31"
+            },
+            "body": "The explosion of big data catalyzed significant AI breakthroughs. Companies harnessed vast datasets to train more sophisticated models, resulting in improved natural language processing and image recognition technologies.",
+            "type": "section"
+          },
+          {
+            "name": "Deep Learning and Beyond",
+            "dates": {
+              "start": "2016-01-01",
+              "end": "2018-12-31"
+            },
+            "body": "Deep learning revolutionized AI capabilities, leading to breakthroughs in autonomous vehicles, healthcare diagnostics, and more. This period also saw the rise of generative adversarial networks, pushing the boundaries of creativity and synthesis in AI.",
+            "type": "section"
+          },
+          {
+            "name": "AI for Social Good",
+            "dates": {
+              "start": "2019-01-01",
+              "end": "2020-12-31"
+            },
+            "body": "AI began to address global challenges, from climate change to public health. Algorithms optimized energy consumption, while others helped in tracking and predicting pandemic patterns, showcasing AI's potential for social impact.",
+            "type": "section"
+          },
+          {
+            "name": "Ethical Questions and AI Governance",
+            "dates": {
+              "start": "2021-01-01",
+              "end": "2023-03-31"
+            },
+            "body": "As AI's role in decision-making grew, so did ethical concerns around bias, privacy, and autonomy. Global discourse on AI governance and ethical frameworks, such as the EU's AI Act, became central to managing AI's societal impact.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The rapid development of AI in the 21st century has reshaped numerous aspects of society, prompting a parallel evolution in ethical considerations and regulatory approaches to ensure beneficial and fair outcomes.",
+        "children": [
+          {
+            "name": "The Evolution of Machine Ethics",
+            "dates": {
+              "start": "2023-04-01",
+              "end": "2025-12-31"
+            },
+            "description": "Explores the development of machine ethics and its integration into AI systems, ensuring alignment with human values.",
+            "type": "Effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "AI and Future Employment",
+            "dates": {
+              "start": "2023-04-01",
+              "end": "2028-12-31"
+            },
+            "description": "Analyzes AI's impact on the job market, skill demands, and the necessity of adapting education systems.",
+            "type": "Effect",
+            "relevance_score": 7,
+            "interest_score": 8
+          },
+          {
+            "name": "AI in Healthcare: Innovations and Challenges",
+            "dates": {
+              "start": "2023-04-01",
+              "end": "2030-12-31"
+            },
+            "description": "Assesses AI's transformative role in healthcare diagnostics, treatment personalization, and ethical considerations in patient data use.",
+            "type": "Effect",
+            "relevance_score": 9,
+            "interest_score": 9
+          },
+          {
+            "name": "Global AI Policy: A Comparative Study",
+            "dates": {
+              "start": "2023-04-01",
+              "end": "2030-12-31"
+            },
+            "description": "Examines differing approaches to AI policy and regulation across major global players, highlighting international collaborations and conflicts.",
+            "type": "Effect",
+            "relevance_score": 6,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "Quantum Computing and AI",
+            "dates": {
+              "start": "2020-01-01",
+              "end": "2023-03-31"
+            },
+            "description": "Explores the potential of quantum computing to enhance AI's problem-solving capabilities and the progress made in the early 21st century.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 6
+          },
+          {
+            "name": "Blockchain for AI Security",
+            "dates": {
+              "start": "2015-01-01",
+              "end": "2023-03-31"
+            },
+            "description": "Investigates blockchain's role in securing AI data exchanges and fostering transparent, tamper-proof machine learning models.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "The Rise of Virtual Assistants",
+            "dates": {
+              "start": "2010-01-01",
+              "end": "2023-03-31"
+            },
+            "description": "Chronicles the advancement of virtual assistants and their integration into daily life, reflecting the personalization capabilities of AI.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 7
+          }
+        ],
+        "themes": [
+          "Technological Progress",
+          "Ethical Governance"
+        ],
+        "topics": [
+          "Machine Learning",
+          "AI Policy"
+        ],
+        "wikipedia_pages": [
+          "Artificial_intelligence",
+          "Ethics_of_artificial_intelligence",
+          "History_of_artificial_intelligence",
+          "Machine_learning",
+          "Deep_learning"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"AI in the 21st Century: Breakthroughs and Ethics\" Your lecture has a description in the course offering that reads: \"Exploring recent AI breakthroughs, their societal impact, and the ethical dilemmas they pose.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Artificial Intelligence.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\AI in the 21st Century: Breakthroughs and Ethics\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\AI in the 21st Century: Breakthroughs and Ethics\" that is not directly related to \"\\AI in the 21st Century: Breakthroughs and Ethics\" but is related to \"\\Artificial Intelligence\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\AI in the 21st Century: Breakthroughs and Ethics\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\AI in the 21st Century: Breakthroughs and Ethics\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 0,
+      "persona_satisfaction": 7,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a broad overview of AI advancements and ethical considerations in the 21st century, which is in line with the themes discussed in the expert answer. While the expert answer goes into much more detail about the history, techniques, and applications of AI, the submitted answer summarizes these points without conflicting with the expert's content. The differences are mainly in the depth of information and specific examples provided, but these do not affect the overall factuality when comparing the two answers.",
+        "wikipedia_page": "Artificial_intelligence"
+      },
+      "audio": "frontend/public/simulations/Michael Thompson__2024-02-14-13-26-28/cc6d5b23-e846-4d37-896a-649ee891b195.mp3"
+    },
+    {
+      "iteration": 1,
+      "id": "b1b7316d-2a10-40a4-9609-a384a3d356bc",
+      "name": "The Logic Theorist and Early AI",
+      "parent_id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Logic Theorist and Early AI",
+        "dates": {
+          "start": "1956-01-01",
+          "end": "1956-12-31"
+        },
+        "description": "Exploration of the Logic Theorist, often considered the first AI program, and its significance.",
+        "type": "event",
+        "relevance_score": 9,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "6c3da3d6-146e-4295-9cdf-53904d2bebcb",
+      "name": "The Birth of Machine Learning",
+      "parent_id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Birth of Machine Learning",
+        "dates": {
+          "start": "1952-01-01",
+          "end": "1959-12-31"
+        },
+        "description": "Discussion on the origins of machine learning with Arthur Samuel's checkers program and the implications for AI.",
+        "type": "event",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "10e5a09b-c16f-40e0-a05a-ca006e3cbdfc",
+      "name": "The Dartmouth Conference",
+      "parent_id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "visited": 0,
+      "interest_score": 9,
+      "relevance_score": 10,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Dartmouth Conference",
+        "dates": {
+          "start": "1956-06-01",
+          "end": "1956-08-31"
+        },
+        "description": "An examination of the Dartmouth Summer Research Project on Artificial Intelligence, where the term 'AI' was coined.",
+        "type": "event",
+        "relevance_score": 10,
+        "interest_score": 9
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 1,
+      "id": "59773bd8-4e2b-4c6f-b894-c4f0b856528f",
+      "name": "ENIAC and the Rise of Computers",
+      "parent_id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "ENIAC and the Rise of Computers",
+        "dates": {
+          "start": "1945-02-14",
+          "end": "1945-02-14"
+        },
+        "description": "The unveiling of ENIAC, the first general-purpose electronic computer, and its impact on computing history.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 1,
+      "id": "0bca750f-4880-4b87-b151-bce9b4d4d23b",
+      "name": "The Sputnik Launch",
+      "parent_id": "d83585fd-4a39-4b6c-8e18-38c34d360af0",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Sputnik Launch",
+        "dates": {
+          "start": "1957-10-04",
+          "end": "1957-10-04"
+        },
+        "description": "The launch of Sputnik by the Soviet Union, igniting the space race and indirectly influencing computer technology.",
+        "type": "tangent",
+        "relevance_score": 0,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "ec98f2cd-ddc1-404f-8eed-d0234752b9fa",
+      "name": "The Evolution of Machine Ethics",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Evolution of Machine Ethics",
+        "dates": {
+          "start": "2023-04-01",
+          "end": "2025-12-31"
+        },
+        "description": "Explores the development of machine ethics and its integration into AI systems, ensuring alignment with human values.",
+        "type": "Effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "ff06a4ba-cf96-48db-84a2-cceeff8647e8",
+      "name": "AI and Future Employment",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI and Future Employment",
+        "dates": {
+          "start": "2023-04-01",
+          "end": "2028-12-31"
+        },
+        "description": "Analyzes AI's impact on the job market, skill demands, and the necessity of adapting education systems.",
+        "type": "Effect",
+        "relevance_score": 7,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "5ebc0a84-1477-4a9d-98c3-e6c5f649e3ca",
+      "name": "AI in Healthcare: Innovations and Challenges",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 9,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI in Healthcare: Innovations and Challenges",
+        "dates": {
+          "start": "2023-04-01",
+          "end": "2030-12-31"
+        },
+        "description": "Assesses AI's transformative role in healthcare diagnostics, treatment personalization, and ethical considerations in patient data use.",
+        "type": "Effect",
+        "relevance_score": 9,
+        "interest_score": 9
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "6f628441-f72a-46d8-ac33-fd7ad4058180",
+      "name": "Global AI Policy: A Comparative Study",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 6,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Global AI Policy: A Comparative Study",
+        "dates": {
+          "start": "2023-04-01",
+          "end": "2030-12-31"
+        },
+        "description": "Examines differing approaches to AI policy and regulation across major global players, highlighting international collaborations and conflicts.",
+        "type": "Effect",
+        "relevance_score": 6,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 2,
+      "id": "4525444c-cc3f-4c33-a005-161ebf0902c7",
+      "name": "Quantum Computing and AI",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Quantum Computing and AI",
+        "dates": {
+          "start": "2020-01-01",
+          "end": "2023-03-31"
+        },
+        "description": "Explores the potential of quantum computing to enhance AI's problem-solving capabilities and the progress made in the early 21st century.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 6
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "6acf2e98-0b9c-4c9e-a924-23ae0fb17c1b",
+      "name": "Blockchain for AI Security",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Blockchain for AI Security",
+        "dates": {
+          "start": "2015-01-01",
+          "end": "2023-03-31"
+        },
+        "description": "Investigates blockchain's role in securing AI data exchanges and fostering transparent, tamper-proof machine learning models.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 2,
+      "id": "dded2d8e-88ba-4834-b647-69ac961e6f24",
+      "name": "The Rise of Virtual Assistants",
+      "parent_id": "cc6d5b23-e846-4d37-896a-649ee891b195",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rise of Virtual Assistants",
+        "dates": {
+          "start": "2010-01-01",
+          "end": "2023-03-31"
+        },
+        "description": "Chronicles the advancement of virtual assistants and their integration into daily life, reflecting the personalization capabilities of AI.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 7
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 3,
+      "id": "1d8bd13c-2712-48e1-8ca3-e9d844e5dc34",
+      "name": "Deep Learning and Neural Networks",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 9,
+      "relevance_score": 10,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Deep Learning and Neural Networks",
+        "dates": {
+          "start": "2006-01-01",
+          "end": "2016-12-31"
+        },
+        "description": "Exploration of deep learning and its impact on AI, including the development of neural networks.",
+        "type": "effect",
+        "relevance_score": 10,
+        "interest_score": 9
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "7ea6e9f2-6f40-4b46-9b19-f3b532930e1f",
+      "name": "Big Data and AI",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Big Data and AI",
+        "dates": {
+          "start": "2007-01-01",
+          "end": "2017-12-31"
+        },
+        "description": "An examination of how the advent of big data has propelled AI research and machine learning models.",
+        "type": "effect",
+        "relevance_score": 9,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "cd0981f2-7a63-46b3-a294-8b8a99753f19",
+      "name": "Ethics of AI",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Ethics of AI",
+        "dates": {
+          "start": "2006-01-01",
+          "end": "2016-12-31"
+        },
+        "description": "Discussion on the ethical implications of AI as machine learning becomes more prevalent in society.",
+        "type": "effect",
+        "relevance_score": 7,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 3,
+      "id": "219f9a2f-a785-4cdf-8032-fa54c6ba5233",
+      "name": "AI in Industry",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI in Industry",
+        "dates": {
+          "start": "2006-01-01",
+          "end": "2016-12-31"
+        },
+        "description": "Overview of AI's integration into various industries and the resulting transformation of the business landscape.",
+        "type": "effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "name": "Internet Evolution",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 1,
+      "interest_score": 5,
+      "relevance_score": 6,
+      "satisfaction_score": 8,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "Internet Evolution",
+        "description": "Exploration of internet growth and its impact on data processing and AI development.",
+        "introduction": "The internet's evolution is a testament to human ingenuity, transforming global communication and data sharing. Its historical significance is immeasurable, providing the backbone for modern AI. Picking up from the rise of machine learning, the internet became the conduit for large-scale data processing, essential for AI advancements.",
+        "dates": {
+          "start": "1983-01-01",
+          "end": "2023-01-01"
+        },
+        "sections": [
+          {
+            "name": "From ARPANET to the Modern Internet",
+            "dates": {
+              "start": "1983-01-01",
+              "end": "1990-12-31"
+            },
+            "body": "The internet began as ARPANET, a project by the U.S. Department of Defense, and evolved into a global network. Its expansion in the 1980s set the stage for widespread digital communication.",
+            "type": "section"
+          },
+          {
+            "name": "The World Wide Web and Connectivity",
+            "dates": {
+              "start": "1991-08-06",
+              "end": "1995-12-31"
+            },
+            "body": "Tim Berners-Lee's invention of the World Wide Web in 1991 revolutionized information sharing, leading to increased internet adoption and the foundation for web-based data processing.",
+            "type": "section"
+          },
+          {
+            "name": "The Dot-com Bubble and Expansion",
+            "dates": {
+              "start": "1995-01-01",
+              "end": "2001-12-31"
+            },
+            "body": "The late 1990s saw a surge in internet startups and investments, resulting in the dot-com bubble. Despite its burst, it left a legacy of improved infrastructure.",
+            "type": "section"
+          },
+          {
+            "name": "Broadband and Mobile Internet",
+            "dates": {
+              "start": "2000-01-01",
+              "end": "2010-12-31"
+            },
+            "body": "The adoption of broadband and the rise of mobile internet connectivity enabled faster data transfer, which was critical for complex computations and the functioning of AI applications.",
+            "type": "section"
+          },
+          {
+            "name": "Cloud Computing and Big Data",
+            "dates": {
+              "start": "2006-01-01",
+              "end": "2012-12-31"
+            },
+            "body": "The emergence of cloud computing and big data analytics provided the scalable infrastructure and processing power necessary for the development of sophisticated AI systems.",
+            "type": "section"
+          },
+          {
+            "name": "Machine Learning and Deep Learning",
+            "dates": {
+              "start": "2012-01-01",
+              "end": "2023-01-01"
+            },
+            "body": "Advancements in machine learning, especially deep learning, have been facilitated by the internet's ability to handle and analyze large datasets, leading to significant AI breakthroughs.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The internet's growth has been instrumental in the development of AI, providing the necessary infrastructure for large-scale data processing and the advancement of machine learning and deep learning technologies.",
+        "children": [
+          {
+            "name": "The Rise of Cloud Services",
+            "dates": {
+              "start": "2006-01-01",
+              "end": "2016-12-31"
+            },
+            "description": "An exploration of how cloud computing platforms have enabled scalable AI by providing robust, on-demand computational resources.",
+            "type": "Effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "Mobile Computing and AI",
+            "dates": {
+              "start": "2007-01-01",
+              "end": "2017-12-31"
+            },
+            "description": "Examining the symbiotic relationship between mobile computing advancements and the integration of AI in mobile applications.",
+            "type": "Effect",
+            "relevance_score": 7,
+            "interest_score": 6
+          },
+          {
+            "name": "Big Data Analytics",
+            "dates": {
+              "start": "2010-01-01",
+              "end": "2020-12-31"
+            },
+            "description": "An analysis of big data's impact on AI, emphasizing the role of data analytics in machine learning model development.",
+            "type": "Effect",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "Ethics of AI",
+            "dates": {
+              "start": "2015-01-01",
+              "end": "2025-12-31"
+            },
+            "description": "A critical look at the ethical considerations and societal impact of AI as it becomes more integrated into daily life.",
+            "type": "Broad perspective",
+            "relevance_score": 6,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "Quantum Computing",
+            "dates": {
+              "start": "2010-01-01",
+              "end": "2023-01-01"
+            },
+            "description": "The potential impact of quantum computing on AI, offering a new horizon for computational power and problem-solving.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 7
+          },
+          {
+            "name": "Social Media Algorithms",
+            "dates": {
+              "start": "2004-02-04",
+              "end": "2023-01-01"
+            },
+            "description": "The development of complex algorithms for social media platforms and their influence on AI research in human behavior prediction.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 6
+          },
+          {
+            "name": "Cybersecurity in the AI Era",
+            "dates": {
+              "start": "2000-01-01",
+              "end": "2023-01-01"
+            },
+            "description": "Challenges and advancements in cybersecurity as AI technologies become more sophisticated and widespread.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 8
+          }
+        ],
+        "themes": [
+          "Digital Infrastructure",
+          "Data Processing"
+        ],
+        "topics": [
+          "Internet Growth",
+          "AI Integration"
+        ],
+        "wikipedia_pages": [
+          "History_of_the_Internet",
+          "Artificial_intelligence",
+          "Cloud_computing",
+          "Big_data",
+          "Deep_learning"
+        ]
+      },
+      "type": "tangent",
+      "prompt": "\n LECTURE: You are to create a lecture called \"Internet Evolution\" Your lecture has a description in the course offering that reads: \"The growth of the internet and its role in providing the infrastructure necessary for large-scale data processing and AI.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Artificial Intelligence.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: The Rise of Machine Learning: Shifting Paradigms: Exploring the transition from rule-based systems to data-driven machine learning in AI research., Dates: 1952-01-01 to 2006-12-31 The inception of AI research was characterized by the development of rule-based systems. These systems operated on predefined instructions, with no capability to learn or adapt from data. The limitations of rule-based AI became apparent as researchers encountered challenges in scaling systems and handling the complexity of real-world data. Machine learning emerged as a new paradigm, allowing systems to learn and make predictions from data, leading to advancements in pattern recognition and predictive analytics. The 1990s saw an explosion in data availability, which fueled the growth of machine learning. Algorithms could now be trained on vast datasets, resulting in more accurate and robust AI systems. The early 2000s witnessed breakthroughs in deep learning, a subset of machine learning, which used neural networks to achieve unprecedented performance in tasks like image and speech recognition. The rise of machine learning marked a significant shift in AI research from rule-based to data-driven approaches. This transition has led to the current era of AI, characterized by learning algorithms that improve with experience and data.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\Internet Evolution\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\Internet Evolution\" that is not directly related to \"\\Internet Evolution\" but is related to \"\\Artificial Intelligence\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\Internet Evolution\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\Internet Evolution\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 2,
+      "persona_satisfaction": 7,
+      "new_topic": "AI Integration",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The submitted answer provides a broad overview of the internet's evolution with a focus on its role in the development of AI and data processing, while the expert answer offers a detailed historical account of the internet's inception, technological advancements, and various stages of growth. The differences lie in the scope and detail provided; however, from a factual standpoint, there are no direct conflicts as the submitted answer does not present any information that contradicts the expert answer.",
+        "wikipedia_page": "History_of_the_Internet"
+      },
+      "audio": "frontend/public/simulations/Michael Thompson__2024-02-14-13-26-28/ec451622-45e6-47a4-b4e4-ad189b4ca797.mp3"
+    },
+    {
+      "iteration": 3,
+      "id": "25a426ac-7040-4d16-a3a0-f613c9fb9949",
+      "name": "Moore's Law Impact",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 5,
+      "relevance_score": 4,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Moore's Law Impact",
+        "dates": {
+          "start": "1965-01-01",
+          "end": "2006-12-31"
+        },
+        "description": "The influence of Moore's Law on computational capabilities, indirectly fueling AI advancements.",
+        "type": "tangent",
+        "relevance_score": 4,
+        "interest_score": 5
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 3,
+      "id": "928cad65-70b0-4006-8205-e8c544e98902",
+      "name": "Computational Neuroscience",
+      "parent_id": "bbf135c6-8a6f-4a2d-8254-2f5ce3341106",
+      "visited": 0,
+      "interest_score": 4,
+      "relevance_score": 5,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Computational Neuroscience",
+        "dates": {
+          "start": "1990-01-01",
+          "end": "2006-12-31"
+        },
+        "description": "Insights from computational neuroscience that have informed and inspired machine learning algorithms, particularly neural networks.",
+        "type": "tangent",
+        "relevance_score": 5,
+        "interest_score": 4
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 4,
+      "id": "39ea8851-6481-4756-9061-f041f3828746",
+      "name": "The Rise of Cloud Services",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "The Rise of Cloud Services",
+        "dates": {
+          "start": "2006-01-01",
+          "end": "2016-12-31"
+        },
+        "description": "An exploration of how cloud computing platforms have enabled scalable AI by providing robust, on-demand computational resources.",
+        "type": "Effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "c1392907-ec94-410e-a152-7e62dbb8522f",
+      "name": "Mobile Computing and AI",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Mobile Computing and AI",
+        "dates": {
+          "start": "2007-01-01",
+          "end": "2017-12-31"
+        },
+        "description": "Examining the symbiotic relationship between mobile computing advancements and the integration of AI in mobile applications.",
+        "type": "Effect",
+        "relevance_score": 7,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "38e0cc8d-2d0d-440b-a0b7-cb4508021175",
+      "name": "Big Data Analytics",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Big Data Analytics",
+        "dates": {
+          "start": "2010-01-01",
+          "end": "2020-12-31"
+        },
+        "description": "An analysis of big data's impact on AI, emphasizing the role of data analytics in machine learning model development.",
+        "type": "Effect",
+        "relevance_score": 9,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "2ddf1447-a913-4614-940d-1fef22f571c4",
+      "name": "Ethics of AI",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 6,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Ethics of AI",
+        "dates": {
+          "start": "2015-01-01",
+          "end": "2025-12-31"
+        },
+        "description": "A critical look at the ethical considerations and societal impact of AI as it becomes more integrated into daily life.",
+        "type": "Broad perspective",
+        "relevance_score": 6,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 4,
+      "id": "9168ee1c-80f5-4d6a-a668-0e6c3a98a2d8",
+      "name": "Quantum Computing",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Quantum Computing",
+        "dates": {
+          "start": "2010-01-01",
+          "end": "2023-01-01"
+        },
+        "description": "The potential impact of quantum computing on AI, offering a new horizon for computational power and problem-solving.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 7
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 4,
+      "id": "6f13785a-0145-4efc-9e03-bad9d9534e64",
+      "name": "Social Media Algorithms",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Social Media Algorithms",
+        "dates": {
+          "start": "2004-02-04",
+          "end": "2023-01-01"
+        },
+        "description": "The development of complex algorithms for social media platforms and their influence on AI research in human behavior prediction.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 6
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "name": "Cybersecurity in the AI Era",
+      "parent_id": "ec451622-45e6-47a4-b4e4-ad189b4ca797",
+      "visited": 1,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 10,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "Cybersecurity in the AI Era",
+        "description": "Exploration of the cybersecurity landscape shaped by advanced AI technologies and the challenges posed by their widespread adoption.",
+        "introduction": "The AI era has ushered in profound advancements in cybersecurity, while simultaneously presenting new challenges. The historical significance of this era lies in the dual role AI plays as both protector and potential threat in cyberspace. Preceding this event, the evolution of the internet and the rise of machine learning have laid the groundwork for the integration of AI into cybersecurity solutions.",
+        "dates": {
+          "start": "2007-01-01",
+          "end": "2023-01-01"
+        },
+        "sections": [
+          {
+            "name": "AI-Driven Security Measures",
+            "dates": {
+              "start": "2007-01-01",
+              "end": "2010-12-31"
+            },
+            "body": "As AI technologies began to mature, the period saw the early adoption of AI in enhancing traditional cybersecurity measures. Machine learning algorithms were employed to detect patterns indicative of cyber threats more efficiently than ever before.",
+            "type": "section"
+          },
+          {
+            "name": "The Proliferation of IoT Devices",
+            "dates": {
+              "start": "2011-01-01",
+              "end": "2014-12-31"
+            },
+            "body": "The explosion of IoT devices created a vast attack surface for cybercriminals. AI-driven security became crucial in monitoring and protecting these interconnected devices from sophisticated attacks.",
+            "type": "section"
+          },
+          {
+            "name": "Deep Learning and Anomaly Detection",
+            "dates": {
+              "start": "2015-01-01",
+              "end": "2016-12-31"
+            },
+            "body": "Advancements in deep learning enabled the development of more advanced anomaly detection systems. These AI models could identify deviations from normal behavior, flagging potential cybersecurity breaches.",
+            "type": "section"
+          },
+          {
+            "name": "Adversarial AI and Cyber Threats",
+            "dates": {
+              "start": "2017-01-01",
+              "end": "2018-12-31"
+            },
+            "body": "With AI's integration into cybersecurity, adversarial AI emerged as a new threat. Cybercriminals began using AI to develop malware that could learn and adapt to bypass security systems.",
+            "type": "section"
+          },
+          {
+            "name": "Ethical and Privacy Concerns",
+            "dates": {
+              "start": "2019-01-01",
+              "end": "2020-12-31"
+            },
+            "body": "The use of AI in cybersecurity raised ethical and privacy concerns, as AI systems required access to massive amounts of data, potentially infringing on individual privacy rights.",
+            "type": "section"
+          },
+          {
+            "name": "Regulatory Responses to AI Security",
+            "dates": {
+              "start": "2021-01-01",
+              "end": "2023-01-01"
+            },
+            "body": "Governments and international bodies began to introduce regulations aimed at securing AI systems and ensuring ethical use of AI in cybersecurity, reflecting the growing importance of AI governance.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The AI era has significantly impacted cybersecurity, offering advanced solutions and presenting new challenges. This period has seen a continuous evolution of both defensive and offensive uses of AI, necessitating a dynamic and responsive approach to cybersecurity.",
+        "children": [
+          {
+            "name": "Ethical AI in Cybersecurity",
+            "dates": {
+              "start": "2023-01-01",
+              "end": "2025-12-31"
+            },
+            "description": "A deep dive into the ethical considerations and frameworks guiding the use of AI in cybersecurity practices.",
+            "type": "Effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          },
+          {
+            "name": "AI and Cyber Warfare",
+            "dates": {
+              "start": "2023-01-01",
+              "end": "2028-12-31"
+            },
+            "description": "An analysis of how AI technologies are transforming cyber warfare tactics and national security strategies.",
+            "type": "Effect",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "AI in Fraud Detection",
+            "dates": {
+              "start": "2023-01-01",
+              "end": "2025-12-31"
+            },
+            "description": "Investigating AI's role in detecting and preventing fraud across various industries and financial institutions.",
+            "type": "Effect",
+            "relevance_score": 7,
+            "interest_score": 6
+          },
+          {
+            "name": "Regulating AI Security",
+            "dates": {
+              "start": "2023-01-01",
+              "end": "2028-12-31"
+            },
+            "description": "Exploring the emerging regulations and laws governing the deployment of AI in cybersecurity applications.",
+            "type": "Effect",
+            "relevance_score": 8,
+            "interest_score": 7
+          }
+        ],
+        "tangents": [
+          {
+            "name": "Quantum Computing and AI",
+            "dates": {
+              "start": "2020-01-01",
+              "end": "2023-01-01"
+            },
+            "description": "The potential impact of quantum computing on AI capabilities and the future of cybersecurity.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 8
+          },
+          {
+            "name": "AI in Healthcare",
+            "dates": {
+              "start": "2018-01-01",
+              "end": "2023-01-01"
+            },
+            "description": "Advancements in AI for medical diagnostics, treatment personalization, and healthcare data security.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 7
+          },
+          {
+            "name": "Autonomous Vehicles and AI",
+            "dates": {
+              "start": "2015-01-01",
+              "end": "2023-01-01"
+            },
+            "description": "The development of AI-driven autonomous vehicle technology and its implications for safety and security.",
+            "type": "Tangent",
+            "relevance_score": 0,
+            "interest_score": 6
+          }
+        ],
+        "themes": [
+          "Cybersecurity Evolution",
+          "AI Challenges"
+        ],
+        "topics": [
+          "AI Technologies",
+          "Cyber Threats"
+        ],
+        "wikipedia_pages": [
+          "Artificial_intelligence",
+          "Cybersecurity",
+          "Machine_learning",
+          "Deep_learning",
+          "Adversarial_machine_learning",
+          "Internet_of_Things",
+          "AI_ethics"
+        ]
+      },
+      "type": "tangent",
+      "prompt": "\n LECTURE: You are to create a lecture called \"Cybersecurity in the AI Era\" Your lecture has a description in the course offering that reads: \"Challenges and advancements in cybersecurity as AI technologies become more sophisticated and widespread.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Artificial Intelligence.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n  IMPORTANT: Your lecture should be a natural continuation of the following lectures: \n- Lecture name: Internet Evolution: Exploration of internet growth and its impact on data processing and AI development., Dates: 1983-01-01 to 2023-01-01 The internet began as ARPANET, a project by the U.S. Department of Defense, and evolved into a global network. Its expansion in the 1980s set the stage for widespread digital communication. Tim Berners-Lee's invention of the World Wide Web in 1991 revolutionized information sharing, leading to increased internet adoption and the foundation for web-based data processing. The late 1990s saw a surge in internet startups and investments, resulting in the dot-com bubble. Despite its burst, it left a legacy of improved infrastructure. The adoption of broadband and the rise of mobile internet connectivity enabled faster data transfer, which was critical for complex computations and the functioning of AI applications. The emergence of cloud computing and big data analytics provided the scalable infrastructure and processing power necessary for the development of sophisticated AI systems. Advancements in machine learning, especially deep learning, have been facilitated by the internet's ability to handle and analyze large datasets, leading to significant AI breakthroughs. The internet's growth has been instrumental in the development of AI, providing the necessary infrastructure for large-scale data processing and the advancement of machine learning and deep learning technologies.\n- Lecture name: The Rise of Machine Learning: Shifting Paradigms: Exploring the transition from rule-based systems to data-driven machine learning in AI research., Dates: 1952-01-01 to 2006-12-31 The inception of AI research was characterized by the development of rule-based systems. These systems operated on predefined instructions, with no capability to learn or adapt from data. The limitations of rule-based AI became apparent as researchers encountered challenges in scaling systems and handling the complexity of real-world data. Machine learning emerged as a new paradigm, allowing systems to learn and make predictions from data, leading to advancements in pattern recognition and predictive analytics. The 1990s saw an explosion in data availability, which fueled the growth of machine learning. Algorithms could now be trained on vast datasets, resulting in more accurate and robust AI systems. The early 2000s witnessed breakthroughs in deep learning, a subset of machine learning, which used neural networks to achieve unprecedented performance in tasks like image and speech recognition. The rise of machine learning marked a significant shift in AI research from rule-based to data-driven approaches. This transition has led to the current era of AI, characterized by learning algorithms that improve with experience and data.\n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\Cybersecurity in the AI Era\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\Cybersecurity in the AI Era\" that is not directly related to \"\\Cybersecurity in the AI Era\" but is related to \"\\Artificial Intelligence\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Artificial Intelligence\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\Cybersecurity in the AI Era\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\Cybersecurity in the AI Era\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 0,
+      "persona_satisfaction": 7,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "E",
+        "reason": "The expert answer does not specifically address cybersecurity in the AI era, instead it provides a comprehensive overview of artificial intelligence, its history, sub-fields, and applications across various domains. The submitted answer, on the other hand, focuses entirely on the impact of AI on cybersecurity, detailing the benefits and challenges AI brings to the field. While the expert answer includes information that relates to the underlying technologies mentioned in the submitted answer, such as machine learning and AI-driven systems, it does not directly discuss the cybersecurity context. Therefore, the differences in content between the two answers don't conflict factually but are differences in the scope and focus of the subject matter.",
+        "wikipedia_page": "Artificial_intelligence"
+      },
+      "audio": "frontend/public/simulations/Michael Thompson__2024-02-14-13-26-28/68af8f57-9281-4789-a4da-baf48cc66405.mp3"
+    },
+    {
+      "iteration": 5,
+      "id": "fe367337-bd45-4592-9ca3-de15eae3050c",
+      "name": "Ethical AI in Cybersecurity",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Ethical AI in Cybersecurity",
+        "dates": {
+          "start": "2023-01-01",
+          "end": "2025-12-31"
+        },
+        "description": "A deep dive into the ethical considerations and frameworks guiding the use of AI in cybersecurity practices.",
+        "type": "Effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "bf70e96e-f4b4-4815-8337-16b71cd8b26e",
+      "name": "AI and Cyber Warfare",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 9,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI and Cyber Warfare",
+        "dates": {
+          "start": "2023-01-01",
+          "end": "2028-12-31"
+        },
+        "description": "An analysis of how AI technologies are transforming cyber warfare tactics and national security strategies.",
+        "type": "Effect",
+        "relevance_score": 9,
+        "interest_score": 8
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "d1c38a2d-0742-4187-9a43-9e69dace0412",
+      "name": "AI in Fraud Detection",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 7,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI in Fraud Detection",
+        "dates": {
+          "start": "2023-01-01",
+          "end": "2025-12-31"
+        },
+        "description": "Investigating AI's role in detecting and preventing fraud across various industries and financial institutions.",
+        "type": "Effect",
+        "relevance_score": 7,
+        "interest_score": 6
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "171b03c3-8775-4fd5-9697-d50fb172ebe7",
+      "name": "Regulating AI Security",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 8,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Regulating AI Security",
+        "dates": {
+          "start": "2023-01-01",
+          "end": "2028-12-31"
+        },
+        "description": "Exploring the emerging regulations and laws governing the deployment of AI in cybersecurity applications.",
+        "type": "Effect",
+        "relevance_score": 8,
+        "interest_score": 7
+      },
+      "type": "child"
+    },
+    {
+      "iteration": 5,
+      "id": "1d371e00-c1ab-4b31-88db-530ef6824821",
+      "name": "Quantum Computing and AI",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 8,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Quantum Computing and AI",
+        "dates": {
+          "start": "2020-01-01",
+          "end": "2023-01-01"
+        },
+        "description": "The potential impact of quantum computing on AI capabilities and the future of cybersecurity.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 8
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "8bd12313-791c-4fd0-9090-32508f294681",
+      "name": "AI in Healthcare",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 7,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "AI in Healthcare",
+        "dates": {
+          "start": "2018-01-01",
+          "end": "2023-01-01"
+        },
+        "description": "Advancements in AI for medical diagnostics, treatment personalization, and healthcare data security.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 7
+      },
+      "type": "tangent"
+    },
+    {
+      "iteration": 5,
+      "id": "ec1cfd06-bbbe-4c86-826f-01265bd69526",
+      "name": "Autonomous Vehicles and AI",
+      "parent_id": "68af8f57-9281-4789-a4da-baf48cc66405",
+      "visited": 0,
+      "interest_score": 6,
+      "relevance_score": 0,
+      "satisfaction_score": 0,
+      "weighted_score": 0,
+      "content": {
+        "name": "Autonomous Vehicles and AI",
+        "dates": {
+          "start": "2015-01-01",
+          "end": "2023-01-01"
+        },
+        "description": "The development of AI-driven autonomous vehicle technology and its implications for safety and security.",
+        "type": "Tangent",
+        "relevance_score": 0,
+        "interest_score": 6
+      },
+      "type": "tangent"
+    }
+  ],
+  "logs": [
+    {
+      "type": "message",
+      "content": "Initializing simulation",
+      "timestamp": "2024-02-14 13:26:24"
+    },
+    {
+      "type": "message",
+      "content": "Starting satisfaction score: 5",
+      "timestamp": "2024-02-14 13:26:24"
+    },
+    {
+      "type": "message",
+      "name": "persona",
+      "content": "Persona created: Michael Thompson",
+      "timestamp": "2024-02-14 13:26:28"
+    },
+    {
+      "type": "data",
+      "name": "persona",
+      "content": {
+        "name": "Michael Thompson",
+        "location": "Austin, Texas",
+        "themes_of_interest": [
+          "AI Development",
+          "Technological Ethics",
+          "Machine Learning",
+          "Digital Revolution",
+          "AI in Warfare"
+        ],
+        "age": 30,
+        "gender": "male",
+        "nationality": "American",
+        "education": "university",
+        "eras": [
+          "Modern times"
+        ],
+        "topics": [
+          "Artificial Intelligence"
+        ],
+        "time_constraint": 5,
+        "autopilot_on": true,
+        "continuity": 1,
+        "interests": 10,
+        "description": "Modern topic",
+        "expectation": "\n        Lectures should start sometime in the 20th century\n        There should be some tangents.\n        Lectures should include some of the following:\n        <ul>\n        <li>Alan Turing</li>\n        <li>EMIACS</li>\n        <li>Early Approaches</li>\n        <li>Deep Mind, Google Brain etc.</li>\n        <li>LLMs</li>\n        </ul>\n        \n    "
+      },
+      "timestamp": "2024-02-14 13:26:28"
+    },
+    {
+      "type": "message",
+      "content": "Initial lectures: [{'name': 'The Dawn of Computing: From Turing to AI', 'dates': {'start': '1936-01-01', 'end': '1956-01-01'}, 'description': \"Exploring Alan Turing's foundational work and the subsequent evolution leading to the birth of artificial intelligence.\", 'themes': ['Computational Theory', 'Turing Machine', 'Logic', 'Early Computers', 'AI Concepts'], 'interest_score': 8, 'relevance_score': 0}, {'name': 'AI Winter and Revival: Cycles of Progress', 'dates': {'start': '1974-01-01', 'end': '1980-01-01'}, 'description': 'An examination of the periods of reduced funding and interest in AI, followed by resurgence and technological breakthroughs.', 'themes': ['AI Winter', 'Funding Cuts', 'Expert Systems', 'AI Revival'], 'interest_score': 6, 'relevance_score': 0}, {'name': 'The Rise of Machine Learning: Shifting Paradigms', 'dates': {'start': '1980-01-01', 'end': '2010-01-01'}, 'description': 'Tracing the shift from rule-based AI to machine learning algorithms and the impact of data on AI research.', 'themes': ['Machine Learning', 'Neural Networks', 'Big Data', 'Algorithmic Advances'], 'interest_score': 9, 'relevance_score': 0}, {'name': 'AI in the 21st Century: Breakthroughs and Ethics', 'dates': {'start': '2010-01-01', 'end': '2023-01-01'}, 'description': 'Exploring recent AI breakthroughs, their societal impact, and the ethical dilemmas they pose.', 'themes': ['Deep Learning', 'AI Ethics', 'Autonomous Vehicles', 'General AI'], 'interest_score': 10, 'relevance_score': 0}]",
+      "timestamp": "2024-02-14 13:26:48"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 1",
+      "timestamp": "2024-02-14 13:26:48"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Dawn of Computing: From Turing to AI",
+      "timestamp": "2024-02-14 13:26:48"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: ",
+      "timestamp": "2024-02-14 13:26:48"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Dawn of Computing: From Turing to AI\n\nExploration of Alan Turing's work and the evolution of computing leading to the inception of artificial intelligence.\n\nIn 1936, Alan Turing published his seminal paper 'On Computable Numbers,' introducing the concept of a universal machine capable of performing any conceivable mathematical computation. This theoretical construct laid the foundation for modern computing. During World War II, Turing's expertise was pivotal in deciphering enemy codes. His work at Bletchley Park with the Bombe machine contributed significantly to the Allied victory, demonstrating the potential of computing in real-world applications. After the war, the development of electronic computers accelerated. Turing's design for the Automatic Computing Engine (ACE) was among the first to implement the stored-program concept, influencing future computer architectures. In 1950, Turing introduced the 'Turing Test' in his paper 'Computing Machinery and Intelligence,' proposing a criterion for machine intelligence. This marked the first serious philosophical attempt to define artificial intelligence. The first AI programs emerged in the 1950s, with efforts like the Logic Theorist and the game-playing program created by Arthur Samuel. These developments demonstrated the potential for machines to perform tasks previously thought to require human intelligence.\n\nThe period from Turing's theoretical work to the early AI programs was marked by rapid advancements in computing. Turing's vision and the subsequent innovations set the stage for the ongoing development of artificial intelligence, forever altering the trajectory of technology and society.",
+      "timestamp": "2024-02-14 13:27:36"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 8",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Student likes new topic: Turing Theory",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: Turing Theory",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 7",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 2",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 7
+      },
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 2",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: AI in the 21st Century: Breakthroughs and Ethics",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: ",
+      "timestamp": "2024-02-14 13:27:38"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: AI in the 21st Century: Breakthroughs and Ethics\n\nAnalysis of AI advancements, societal impacts, and the ethical conundrums posed by rapid technological progress.\n\nThis period saw machine learning emerge from academia to practical applications. Pioneering algorithms like support vector machines and neural networks began transforming data analysis, leading to the first wave of commercial AI applications. The explosion of big data catalyzed significant AI breakthroughs. Companies harnessed vast datasets to train more sophisticated models, resulting in improved natural language processing and image recognition technologies. Deep learning revolutionized AI capabilities, leading to breakthroughs in autonomous vehicles, healthcare diagnostics, and more. This period also saw the rise of generative adversarial networks, pushing the boundaries of creativity and synthesis in AI. AI began to address global challenges, from climate change to public health. Algorithms optimized energy consumption, while others helped in tracking and predicting pandemic patterns, showcasing AI's potential for social impact. As AI's role in decision-making grew, so did ethical concerns around bias, privacy, and autonomy. Global discourse on AI governance and ethical frameworks, such as the EU's AI Act, became central to managing AI's societal impact.\n\nThe rapid development of AI in the 21st century has reshaped numerous aspects of society, prompting a parallel evolution in ethical considerations and regulatory approaches to ensure beneficial and fair outcomes.",
+      "timestamp": "2024-02-14 13:28:45"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 10",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 7",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 0",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 7
+      },
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 3",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Rise of Machine Learning: Shifting Paradigms",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: ",
+      "timestamp": "2024-02-14 13:28:47"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Rise of Machine Learning: Shifting Paradigms\n\nExploring the transition from rule-based systems to data-driven machine learning in AI research.\n\nThe inception of AI research was characterized by the development of rule-based systems. These systems operated on predefined instructions, with no capability to learn or adapt from data. The limitations of rule-based AI became apparent as researchers encountered challenges in scaling systems and handling the complexity of real-world data. Machine learning emerged as a new paradigm, allowing systems to learn and make predictions from data, leading to advancements in pattern recognition and predictive analytics. The 1990s saw an explosion in data availability, which fueled the growth of machine learning. Algorithms could now be trained on vast datasets, resulting in more accurate and robust AI systems. The early 2000s witnessed breakthroughs in deep learning, a subset of machine learning, which used neural networks to achieve unprecedented performance in tasks like image and speech recognition.\n\nThe rise of machine learning marked a significant shift in AI research from rule-based to data-driven approaches. This transition has led to the current era of AI, characterized by learning algorithms that improve with experience and data.",
+      "timestamp": "2024-02-14 13:29:23"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 6",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 5",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: -2",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 5
+      },
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 4",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: Internet Evolution",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: The Rise of Machine Learning: Shifting Paradigms",
+      "timestamp": "2024-02-14 13:29:26"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: Internet Evolution\n\nExploration of internet growth and its impact on data processing and AI development.\n\nThe internet began as ARPANET, a project by the U.S. Department of Defense, and evolved into a global network. Its expansion in the 1980s set the stage for widespread digital communication. Tim Berners-Lee's invention of the World Wide Web in 1991 revolutionized information sharing, leading to increased internet adoption and the foundation for web-based data processing. The late 1990s saw a surge in internet startups and investments, resulting in the dot-com bubble. Despite its burst, it left a legacy of improved infrastructure. The adoption of broadband and the rise of mobile internet connectivity enabled faster data transfer, which was critical for complex computations and the functioning of AI applications. The emergence of cloud computing and big data analytics provided the scalable infrastructure and processing power necessary for the development of sophisticated AI systems. Advancements in machine learning, especially deep learning, have been facilitated by the internet's ability to handle and analyze large datasets, leading to significant AI breakthroughs.\n\nThe internet's growth has been instrumental in the development of AI, providing the necessary infrastructure for large-scale data processing and the advancement of machine learning and deep learning technologies.",
+      "timestamp": "2024-02-14 13:30:49"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 8",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Student likes new topic: AI Integration",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: AI Integration",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 7",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 2",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 7
+      },
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 5",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: Cybersecurity in the AI Era",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: Internet Evolution - The Rise of Machine Learning: Shifting Paradigms",
+      "timestamp": "2024-02-14 13:30:51"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: Cybersecurity in the AI Era\n\nExploration of the cybersecurity landscape shaped by advanced AI technologies and the challenges posed by their widespread adoption.\n\nAs AI technologies began to mature, the period saw the early adoption of AI in enhancing traditional cybersecurity measures. Machine learning algorithms were employed to detect patterns indicative of cyber threats more efficiently than ever before. The explosion of IoT devices created a vast attack surface for cybercriminals. AI-driven security became crucial in monitoring and protecting these interconnected devices from sophisticated attacks. Advancements in deep learning enabled the development of more advanced anomaly detection systems. These AI models could identify deviations from normal behavior, flagging potential cybersecurity breaches. With AI's integration into cybersecurity, adversarial AI emerged as a new threat. Cybercriminals began using AI to develop malware that could learn and adapt to bypass security systems. The use of AI in cybersecurity raised ethical and privacy concerns, as AI systems required access to massive amounts of data, potentially infringing on individual privacy rights. Governments and international bodies began to introduce regulations aimed at securing AI systems and ensuring ethical use of AI in cybersecurity, reflecting the growing importance of AI governance.\n\nThe AI era has significantly impacted cybersecurity, offering advanced solutions and presenting new challenges. This period has seen a continuous evolution of both defensive and offensive uses of AI, necessitating a dynamic and responsive approach to cybersecurity.",
+      "timestamp": "2024-02-14 13:32:23"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 10",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 7",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 0",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 7
+      },
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation on iteration 6",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 7",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation",
+      "timestamp": "2024-02-14 13:32:25"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Alan_Turing",
+      "timestamp": "2024-02-14 13:32:35"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:A",
+      "timestamp": "2024-02-14 13:32:35"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:History_of_artificial_intelligence",
+      "timestamp": "2024-02-14 13:33:12"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-14 13:33:12"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Artificial_intelligence",
+      "timestamp": "2024-02-14 13:33:34"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-14 13:33:34"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:History_of_the_Internet",
+      "timestamp": "2024-02-14 13:34:01"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-14 13:34:01"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:Artificial_intelligence",
+      "timestamp": "2024-02-14 13:34:29"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:E",
+      "timestamp": "2024-02-14 13:34:29"
+    }
+  ]
+}
