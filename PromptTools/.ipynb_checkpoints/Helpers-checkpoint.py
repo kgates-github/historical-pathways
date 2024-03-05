@@ -4,9 +4,7 @@ import pprint
 from datetime import datetime
 from pathlib import Path
 from openai import OpenAI
-client = OpenAI(
-  api_key=os.environ['OPENAI_API_KEY'], 
-)
+client = OpenAI()
 
 def text_file_to_json(directory_path):
 

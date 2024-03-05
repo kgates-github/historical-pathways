@@ -32,7 +32,7 @@ class Simulation:
         self.student = Student(student_config, config, self)
 
         # Where to store files
-        self.directory = "/public/simulations/" + \
+        self.directory = "simulation_analyzer/public/simulations/" + \
             self.student.attributes["name"] + "_" + time.strftime("_%Y-%m-%d-%H-%M-%S")
 
         # Prompts for creating initial lectures based on student preferences
@@ -342,7 +342,7 @@ class Simulation:
     def aggregate_simulations(self):
        
         simulations = []
-        directory = "/public/simulations"
+        directory = "simulation_analyzer/public/simulations"
 
         for folder in os.listdir(directory):
             folder_path = os.path.join(directory, folder)
@@ -353,7 +353,7 @@ class Simulation:
                         simulation_data = json.load(file)
                         simulations.append(simulation_data)
         
-        collection_to_json_file(simulations, "/public/", "simulations.json")
+        collection_to_json_file(simulations, "simulation_analyzer/public/", "simulations.json")
         
         return True
 
