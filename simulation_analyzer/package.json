@@ -1,6 +1,6 @@
 {
-  "name": "historical_pathways",
-  "homepage": "https://kgates.github.io/historicalpathways/",
+  "name": "historical-pathways",
+  "homepage": "https://kgates.github.io/historical-pathways/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

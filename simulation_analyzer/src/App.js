@@ -1,7 +1,6 @@
 import { count } from 'd3';
 import './App.css';
 import SimulationApp from './components/SimulationApp';
-
 import React, { useEffect, useState } from 'react';
 
 function App() {
@@ -24,9 +23,12 @@ function App() {
 
   useEffect(() => {
     const fetchData = async () => {
-      try {
+      //try {
+        console.log(1)
         const response = await fetch('simulations.json');
+        console.log(2)
         const raw_data = await response.json();
+        console.log(3)
         
         let data = []
         for (let i = 0; i < raw_data.length; i++) {
@@ -69,9 +71,9 @@ function App() {
 
         setSimulationData(data);
         setSelectedSimulation(data[0]);
-      } catch (error) {
-        console.error('Error fetching JSON file:', error);
-      }
+      //} catch (error) {
+      //  console.error('Error fetching JSON file:', error);
+      //}
     };
 
     fetchData();
