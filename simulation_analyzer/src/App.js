@@ -25,9 +25,10 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       
-      try {
+     // try {
         const response = await fetch('simulations.json');
         const raw_data = await response.json();
+        console.log(raw_data)
         
         let data = []
         for (let i = 0; i < raw_data.length; i++) {
@@ -52,7 +53,7 @@ function App() {
           visited_interations.sort((a, b) => a.iteration - b.iteration);
           
           visited_interations.forEach((iteration) => {
-            iteration.audio = iteration.audio.replace('frontend/public', '');
+            iteration.audio = '/simulations/' + iteration.audio;
             iteration["topic_matches"] = countMatches(raw_data[i]["persona"].topics, iteration.content.topics);
           })
 
@@ -70,9 +71,9 @@ function App() {
 
         setSimulationData(data);
         setSelectedSimulation(data[0]);
-      } catch (error) {
-        console.error('Error fetching JSON file:', error);
-      }
+      //} catch (error) {
+      //  console.error('Error fetching JSON file:', error);
+      //}
     };
 
     fetchData();

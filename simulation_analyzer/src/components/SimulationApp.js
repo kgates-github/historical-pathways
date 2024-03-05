@@ -154,7 +154,7 @@ function SimulationApp(props) {
               <option value="0">Select a Simulation</option>
               {props.simulationData &&
                 Object.keys(props.simulationData).map((key) => (
-                  <option key={key} value={key}>
+                  <option key={'select_'+key} value={key}>
                     {
                       props.simulationData[key]["raw_data"]["datetime"] + ' - ' + 
                       //props.simulationData[key]["persona"]["name"] + ' - ' + 
@@ -330,12 +330,12 @@ function SimulationApp(props) {
                 <div className="list-label" style={{marginBottom:"4px", width: "350px"}}>Fact Check: </div> 
                 {props.selectedSimulation["iterations"]
                     .map((iteration, index) => (
-                        <div id={"fact_"+index} style={{marginRight: "8px", width: "20px", background: "none"}}>
+                        <div key={"fact_"+index} style={{marginRight: "8px", width: "20px", background: "none"}}>
                             {getStatusIcon('health', iteration['fact_eval']['choice_string'])}
                         </div>
                 ))}
                 </div>
-
+                {/*
                 <div style={{display:"flex", flexDirection: "row", marginBottom: "12px"}}>
                 <div className="list-label" style={{marginBottom:"4px",  width: "350px"}}>Interest Matches: </div> 
                 {props.selectedSimulation["iterations"]
@@ -345,7 +345,7 @@ function SimulationApp(props) {
                         </div>
                 ))}
                 </div>
-                
+                */}
                 <div style={{display:"flex", flexDirection: "row", marginBottom: "12px"}}>
                 <div className="list-label" style={{marginBottom:"4px", width: "350px"}}>Connection Type: </div> 
                 {props.selectedSimulation["iterations"]
@@ -450,7 +450,7 @@ function SimulationApp(props) {
                 {props.selectedSimulation["logs"]
                      .filter((log) => log["type"] === "message")
                      .map((log, index) => (
-                         <div key={index} style={{borderTop: "1px dashed #999", marginBottom: "12px", paddingTop: "12px"}}>
+                         <div key={'log_'+index} style={{borderTop: "1px dashed #999", marginBottom: "12px", paddingTop: "12px"}}>
                              <div>{log["timestamp"]}</div>
                              <div>{log["content"]}</div>
                          </div>

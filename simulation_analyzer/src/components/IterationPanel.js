@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react';
 
 function IterationPanel(props) {
     
-
     return (
         <div 
             style={{marginRight:"20px", background: "none", flex:"1"}}
@@ -81,7 +80,7 @@ function IterationPanel(props) {
                         {props.getStatusIcon('health', props.iteration['fact_eval']['choice_string'])}
                     </div>
                 </div>
-
+                {/*
                 <div style={{
                     display: "flex", flexDirection: "row", 
                     marginBottom: "2px", alignContent: "center",
@@ -97,6 +96,7 @@ function IterationPanel(props) {
                         {props.getStatusIcon('interest_matches', props.iteration['topic_matches'])}
                     </div>
                 </div>
+                */}
                 <div style={{
                     display: "flex", flexDirection: "row", 
                     marginBottom: "2px", alignContent: "center",

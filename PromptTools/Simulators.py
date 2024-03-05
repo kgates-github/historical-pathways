@@ -32,8 +32,10 @@ class Simulation:
         self.student = Student(student_config, config, self)
 
         # Where to store files
-        self.directory = "simulation_analyzer/public/simulations/" + \
+        self.directory = [
+            "simulation_analyzer/public/simulations/",
             self.student.attributes["name"] + "_" + time.strftime("_%Y-%m-%d-%H-%M-%S")
+        ]
 
         # Prompts for creating initial lectures based on student preferences
         self.system_prompt_teacher = {
@@ -241,15 +243,15 @@ class Simulation:
             self.simulation_json["iterations"].append(lecture)
             self.simulation_json["logs"] = self.logs
 
-            collection_to_json_file(self.simulation_json, self.directory, "simulation.json")
+            collection_to_json_file(self.simulation_json, '/'.join(self.directory), "simulation.json")
             
             # Where to put mp3s
             if lecture["visited"] == 1:
                 audio_file_name = lecture["id"] + ".mp3"
-                lecture["audio"] = self.directory + "/" + audio_file_name
+                lecture["audio"] = self.directory[1] + "/" + audio_file_name
                 
                 if self.render_audio: # Only render audio if render_audio is True
-                    generate_audio(lecture_str, lecture["audio"])
+                    generate_audio(lecture_str, self.directory[0] + "/" + lecture["audio"])
         
 
         # Aggregate all simulation JSON files into one
@@ -397,11 +399,11 @@ class Simulation:
             "satifaction_diff": evaluation["satisfaction_diff"],
             "new_topic": evaluation["new_topic"],
             "lecture": lecture,
-            "audio": self.directory + audio_file_name,
+            "audio": self.directory[1] + audio_file_name,
             "fact_eval": fact_eval,
         })
 
-        collection_to_json_file(self.simulation_json, self.directory, "simulation.json")
+        collection_to_json_file(self.simulation_json, '/'.join(self.directory), "simulation.json")
         
         #generate_audio(lecture_str, self.directory + audio_file_name)
 

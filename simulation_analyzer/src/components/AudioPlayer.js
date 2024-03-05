@@ -10,7 +10,7 @@ function AudioPlayer(props) {
     const progressWidth = useMemo(() => `${progress}%`, [progress]);
 
     useEffect(() => { 
-        console.log("audio = " + props.selectedSimulation["iterations"].map(iteration => iteration.audio))
+        //console.log("audio = " + props.selectedSimulation["iterations"].map(iteration => iteration.audio))
         setTrackList(props.selectedSimulation["iterations"].map(iteration => iteration.audio));
         if (sound)  {
             sound.unload();
@@ -27,9 +27,10 @@ function AudioPlayer(props) {
     useEffect(() => { 
         if (sound) sound.unload();
 
-        // Remove slash from beginning of audio path because of gh_pages path issues
         let audioPath = props.selectedSimulation["iterations"][props.curIteration-1].audio;
         audioPath = audioPath.replace(/^\//, '');
+        console.log("audioPath = " + audioPath);
+
         setSound(new Howl({ 
             src: [audioPath],
             onend: () => {
