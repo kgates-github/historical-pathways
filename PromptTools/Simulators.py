@@ -494,14 +494,17 @@ class Student:
         # Format lecture list and assign to student.lectures
 
         for lecture in new_lectures:
+            interest_score = 0 if "interest_score" not in lecture.keys() else lecture["interest_score"]
+            relevance_score = 0 if "relevance_score" not in lecture.keys() else lecture["relevance_score"]
+            
             self.lectures.append({
                 "iteration": iteration,
                 "id": str(uuid.uuid4()),
                 "name": lecture["name"],
                 "parent_id": parent_id,
                 "visited": 0,
-                "interest_score": lecture["interest_score"],
-                "relevance_score": lecture["relevance_score"],
+                "interest_score": interest_score,
+                "relevance_score": relevance_score ,
                 "satisfaction_score": 0,
                 "weighted_score": 0,
                 "content": lecture,
