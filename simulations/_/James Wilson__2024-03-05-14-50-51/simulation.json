@@ -1,0 +1,321 @@
+{
+  "persona": {
+    "name": "James Wilson",
+    "location": "Austin, Texas",
+    "themes_of_interest": [
+      "Manifest Destiny",
+      "Civil War",
+      "Industrial Revolution",
+      "Westward Expansion",
+      "Slavery Abolition"
+    ],
+    "age": 30,
+    "gender": "male",
+    "nationality": "American",
+    "education": "university",
+    "eras": [
+      "19th century America"
+    ],
+    "topics": [
+      "Presidential Elections"
+    ],
+    "time_constraint": 1,
+    "autopilot_on": true,
+    "continuity": 8,
+    "interests": 10,
+    "description": "Test two lecture background",
+    "expectation": "\n        Lectures should start early 19thcentury\n        There should be few tangents.\n        Lectures should include some of the following:\n        <ul>\n        <li>Adams v Jefferson</li>\n        <li>Peaceful transfer of power</li>\n        <li>Andrew Jackson</li>\n        <li>Lincoln</li>\n        <li>1896</li>\n        </ul>\n    "
+  },
+  "datetime": "2024-03-05 14:50:51",
+  "description": "Test two lecture background",
+  "iterations": [
+    {
+      "iteration": 1,
+      "id": "c49f600e-45ad-4f5e-9fbe-eb62a6b01c87",
+      "name": "The Corridor to Civil War: The Election of 1860",
+      "parent_id": "root",
+      "visited": 1,
+      "interest_score": 9,
+      "relevance_score": 0,
+      "satisfaction_score": 10,
+      "weighted_score": 0,
+      "content": {
+        "type": "event",
+        "name": "The Corridor to Civil War: The Election of 1860",
+        "description": "Examines how Lincoln's 1860 victory accelerated the nation's slide into the Civil War over slavery.",
+        "introduction": "The Election of 1860 stands as a critical moment in American history, marking a definitive turn towards conflict. The nation's longstanding division over slavery reached a climax as Abraham Lincoln's victory signaled an existential threat to the Southern way of life, precipitating the secession of Southern states and setting the stage for the Civil War.",
+        "dates": {
+          "start": "1860-11-06",
+          "end": "1861-04-12"
+        },
+        "sections": [
+          {
+            "name": "Antebellum Tensions",
+            "dates": {
+              "start": "1850-01-01",
+              "end": "1860-11-05"
+            },
+            "body": "The period leading up to the election saw rising tensions over slavery, with events like the Kansas-Nebraska Act and the Dred Scott decision exacerbating sectional divisions.",
+            "type": "section"
+          },
+          {
+            "name": "Political Fragmentation",
+            "dates": {
+              "start": "1860-01-01",
+              "end": "1860-11-05"
+            },
+            "body": "The political landscape fractured, with the Democratic Party splitting and the new Republican Party gaining ground on an anti-slavery expansion platform.",
+            "type": "section"
+          },
+          {
+            "name": "Campaigns and Candidates",
+            "dates": {
+              "start": "1860-06-01",
+              "end": "1860-11-05"
+            },
+            "body": "Four main candidates contended for the presidency, each appealing to different regional and political constituencies, further highlighting the nation's divisions.",
+            "type": "section"
+          },
+          {
+            "name": "Election Day",
+            "dates": {
+              "start": "1860-11-06",
+              "end": "1860-11-06"
+            },
+            "body": "Lincoln won the presidency without a single Southern electoral vote, an outcome that underscored the sectional split and Southern fears of Republican policies.",
+            "type": "section"
+          },
+          {
+            "name": "Secession Winter",
+            "dates": {
+              "start": "1860-12-20",
+              "end": "1861-02-01"
+            },
+            "body": "Following Lincoln's election, Southern states began seceding from the Union, starting with South Carolina, as they saw no alternative to preserve their slave-based economy.",
+            "type": "section"
+          },
+          {
+            "name": "The Union Dissolves",
+            "dates": {
+              "start": "1861-02-01",
+              "end": "1861-04-12"
+            },
+            "body": "The secession of seven states and the formation of the Confederate States of America completed the schism, and the stage was set for armed conflict.",
+            "type": "section"
+          }
+        ],
+        "conclusion": "The Election of 1860 was a watershed that led directly to the Civil War, as Lincoln's victory without Southern support made clear the irreconcilable differences over slavery, prompting secession and eventual warfare.",
+        "children": [
+          {
+            "name": "Secession and the Confederate States",
+            "dates": {
+              "start": "1860-12-20",
+              "end": "1861-02-08"
+            },
+            "description": "Explores the secession of Southern states and the formation of the Confederacy following Lincoln's election.",
+            "type": "event",
+            "relevance_score": 10,
+            "interest_score": 7
+          },
+          {
+            "name": "Fort Sumter: The First Shots",
+            "dates": {
+              "start": "1861-04-12",
+              "end": "1861-04-14"
+            },
+            "description": "Analyzes the opening battle of the Civil War and its implications for the divided nation.",
+            "type": "event",
+            "relevance_score": 9,
+            "interest_score": 8
+          },
+          {
+            "name": "Lincoln's Inauguration and the Union's Response",
+            "dates": {
+              "start": "1861-03-04",
+              "end": "1861-04-15"
+            },
+            "description": "Details Lincoln's first inauguration and the initial Northern reaction to the secession crisis.",
+            "type": "event",
+            "relevance_score": 8,
+            "interest_score": 6
+          }
+        ],
+        "tangents": [
+          {
+            "name": "The Dred Scott Decision",
+            "dates": {
+              "start": "1857-03-06",
+              "end": "1857-03-06"
+            },
+            "description": "Explores the Supreme Court ruling on slave Dred Scott's status and its wider implications for American society.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 5
+          },
+          {
+            "name": "The Lincoln-Douglas Debates",
+            "dates": {
+              "start": "1858-08-21",
+              "end": "1858-10-15"
+            },
+            "description": "Examines the debates between Abraham Lincoln and Stephen A. Douglas during the Illinois Senate race and their impact on national politics.",
+            "type": "tangent",
+            "relevance_score": 0,
+            "interest_score": 4
+          }
+        ],
+        "themes": [
+          "Secession",
+          "Slavery"
+        ],
+        "topics": [
+          "Elections",
+          "Conflict"
+        ],
+        "wikipedia_pages": [
+          "United_States_presidential_election_1860",
+          "Origins_of_the_American_Civil_War",
+          "Timeline_of_events_leading_to_the_American_Civil_War"
+        ]
+      },
+      "type": "child",
+      "prompt": "\n LECTURE: You are to create a lecture called \"The Corridor to Civil War: The Election of 1860\" Your lecture has a description in the course offering that reads: \"Exploring how Lincoln's election ignited secession and the Civil War, reflecting deep national divisions over slavery.\" Your lecture should be about 1000 words long and have 5 to 10 sections. If possible, your lecture should reflect the following topics: Presidential Elections.\n You will create a lecture in the way described below. You will format your responses in JSON as described below. \n\n BEFORE YOU BEGIN... You have a golden rule: Do not use the words \"transformative\", \"pivotal\", \"iconic\" or \"crucial\" in your lectures. If you do, I WILL PET A CAT BACKWARDS AGAINST THE NATURAL DIRECTION OF ITS FUR AND THE CAT WILL BE PERTURBED. \n\n ---------------------------------------------------\n \n IF THE LECTURE TOPIC IS TOO BROAD, DO THIS:\n  \n  - The lecture must not be to big or general. For example, if asked about the History of the United States tell the user that is too broad.  When this happens, offer a JSON-formatted list of lectures related to the initial lecture idea that are more specific and narrow. Here is an example of the answer for these cases:\n\n    {\n        \"type\": \"too_broad\",\n        \"children\": [\n            {\n                \"name\": \"<Event name here/>\",\n                \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n                \"description\": \"<30-word description of the event and why its importantance/>\",\n                  \"type\": \"event\",\n                  \"score: 1,\n            },\n            ...\n        ]\n    }\n\n ---------------------------------------------------\n\n  IF THE EVENT IS NOT TOO BROAD DO THIS:          \n  \n  \n  FIRST: Come up with 1 to 3 themes that capture the essence of the event and why it is important. THEN create the lecture around those themes.\n\n   \n\n  \n  Your answer should be JSON-formatted and include the following:\n\n  1) Name: A concise name for the event that captures the themes you came up with.\n\n  2) Description: Short, roughly 30-word descrption of the event and it's importance. \n  \n  3) Introduction: A 50-word introduction to the event explaining its historical significance. After that, an 50-word summary of what lead up to the event. If there are previous lectures, your wording sould transition soothly from the previous lecture.\n\n  4) Dates: A JSON array with the time span of the event in the form of two dates. Do not put the dates in the summary. \n\n  5) Sections: The lecture should be broken down into between 5 and 10 sections. These should walk the user through the event in detail and in chronological order.\n\n  6) Conclusion: A JSON-formatted conclusion that breifly summarizes the event and introduces the event's down-stream effects that you listed.\n\n  7) Children: Create 3 or 4 follow-up history lectures that would be good follow-up lectures to \"\\The Corridor to Civil War: The Election of 1860\". Try to stay close to the event in time, and don't go more than 10 years into the future.\n    - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Presidential Elections\".\n    - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Presidential Elections\".\n\n  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as \"\\The Corridor to Civil War: The Election of 1860\" that is not directly related to \"\\The Corridor to Civil War: The Election of 1860\" but is related to \"\\Presidential Elections\".\n    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of \"\\Presidential Elections\".\n\n  9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.\n\n  10) Topics: 2 to 3 topics that are part of the main event. These should no more that 2 words.\n\n  11) Wikipedia page: Come up with a list of Wikipedia pages that would help test the accuracy of your lecture on \"\\The Corridor to Civil War: The Election of 1860\". These are to be pages and not full URLS\n  \n  Below is an example of the JSON formatting I want. Be sure to escape quotes that are inside of strings. \n  ALSO, IF YOU DO NOT RETURN PROPERLY FORMATED JSON, A BABY EWOK WILL BE EUTHENIZED!!! Here is what I want:\n  \n  {\n    \"type\": \"event\",\n    \"name\": \"\\The Corridor to Civil War: The Election of 1860\",\n    \"description\": \"Summary of event goes here.\",\n    \"introduction\": \"100-word introduction goes here.\",\n    \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD}, \n    \"sections\": [\n        {\n            \"name\": <Name of the section/>,\n            \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n            \"body\": <A 100-word body of the secion/>,.\n            \"type\": \"section\"\n        }\n        ...\n    ],\n    \"conclusion\": \"Conclusion goes here.\",\n    \"children\": [\n        { \n          \"name\": <Name of the lecture/>, \n          \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n          \"description: <Brief 30-word description of the lecture/>,\n          \"type\": <Effect or broad perspective/>,\n          \"relevance_score\": <relevance_score/>,\n          \"interest_score\": <interest_score/>,\n        }\n        ...\n    ],\n    \"tangents\": [{\n        \"name\": <Name of the tangent/>,\n        \"dates\": {\"start\": YYYY-MM-DD, \"end\": YYYY-MM-DD},\n        \"description: <Brief 30-word description of the tangent/>,\n        \"type\": <Tangent/>,\n        \"relevance_score\": 0,\n        \"interest_score\": <interest_score/>,\n      },\n      ...\n    ],\n    \"themes\": [<Theme/>, ...],\n    \"topics\": [<Topic/>, ...],\n    \"wikipedia_pages\": [<Wikipedia page/>, ...]\n  }\n",
+      "satisfaction_diff": 0,
+      "persona_satisfaction": 5,
+      "new_topic": "",
+      "fact_eval": {
+        "choice_string": "A",
+        "reason": "The submitted answer is a subset of the expert answer and is fully consistent with it. The submitted answer provides a concise summary of the key points found in the expert answer, focusing on the critical nature of the 1860 election, the division over slavery, the emergence of the Republican Party, the regional appeal of the four main candidates, Lincoln's victory without Southern support, the subsequent secession of Southern states, and the lead-up to the Civil War. It does not conflict with any of the details provided in the expert answer but rather omits some of the more specific historical details and background information that the expert answer includes.",
+        "wikipedia_page": "United_States_presidential_election_1860"
+      }
+    }
+  ],
+  "logs": [
+    {
+      "type": "message",
+      "content": "Initializing simulation",
+      "timestamp": "2024-03-05 14:50:47"
+    },
+    {
+      "type": "message",
+      "content": "Starting satisfaction score: 5",
+      "timestamp": "2024-03-05 14:50:47"
+    },
+    {
+      "type": "message",
+      "name": "persona",
+      "content": "Persona created: James Wilson",
+      "timestamp": "2024-03-05 14:50:51"
+    },
+    {
+      "type": "data",
+      "name": "persona",
+      "content": {
+        "name": "James Wilson",
+        "location": "Austin, Texas",
+        "themes_of_interest": [
+          "Manifest Destiny",
+          "Civil War",
+          "Industrial Revolution",
+          "Westward Expansion",
+          "Slavery Abolition"
+        ],
+        "age": 30,
+        "gender": "male",
+        "nationality": "American",
+        "education": "university",
+        "eras": [
+          "19th century America"
+        ],
+        "topics": [
+          "Presidential Elections"
+        ],
+        "time_constraint": 1,
+        "autopilot_on": true,
+        "continuity": 8,
+        "interests": 10,
+        "description": "Test two lecture background",
+        "expectation": "\n        Lectures should start early 19thcentury\n        There should be few tangents.\n        Lectures should include some of the following:\n        <ul>\n        <li>Adams v Jefferson</li>\n        <li>Peaceful transfer of power</li>\n        <li>Andrew Jackson</li>\n        <li>Lincoln</li>\n        <li>1896</li>\n        </ul>\n    "
+      },
+      "timestamp": "2024-03-05 14:50:51"
+    },
+    {
+      "type": "message",
+      "content": "Initial lectures: [{'name': 'The Corridor to Civil War: The Election of 1860', 'dates': {'start': '1860-11-06', 'end': '1861-03-04'}, 'description': \"Exploring how Lincoln's election ignited secession and the Civil War, reflecting deep national divisions over slavery.\", 'themes': ['Slavery', 'Secession', 'Republican Party', 'Abraham Lincoln'], 'interest_score': 9, 'relevance_score': 0}, {'name': 'Reconstruction and Retreat: The Election of 1876', 'dates': {'start': '1876-11-07', 'end': '1877-03-05'}, 'description': 'Analyzing the contentious Hayes-Tilden race and the Compromise of 1877, which ended Reconstruction and shaped racial policies.', 'themes': ['Reconstruction', 'Compromise of 1877', 'Electoral Dispute'], 'interest_score': 8, 'relevance_score': 0}, {'name': 'The Birth of Modern America: The Election of 1896', 'dates': {'start': '1896-11-03', 'end': '1897-03-04'}, 'description': \"Examining how McKinley's victory over Bryan marked a shift in political ideology and the dawn of the Progressive Era.\", 'themes': ['Populism', 'Progressive Era', 'Economic Policy'], 'interest_score': 9, 'relevance_score': 0}]",
+      "timestamp": "2024-03-05 14:51:09"
+    },
+    {
+      "type": "message",
+      "content": "Iteration: 1",
+      "timestamp": "2024-03-05 14:51:09"
+    },
+    {
+      "type": "message",
+      "content": "New lecture: The Corridor to Civil War: The Election of 1860",
+      "timestamp": "2024-03-05 14:51:09"
+    },
+    {
+      "type": "message",
+      "content": "Lectures to root: ",
+      "timestamp": "2024-03-05 14:51:09"
+    },
+    {
+      "type": "message",
+      "content": "Lecture summary: The Corridor to Civil War: The Election of 1860\n\nExamines how Lincoln's 1860 victory accelerated the nation's slide into the Civil War over slavery.\n\nThe period leading up to the election saw rising tensions over slavery, with events like the Kansas-Nebraska Act and the Dred Scott decision exacerbating sectional divisions. The political landscape fractured, with the Democratic Party splitting and the new Republican Party gaining ground on an anti-slavery expansion platform. Four main candidates contended for the presidency, each appealing to different regional and political constituencies, further highlighting the nation's divisions. Lincoln won the presidency without a single Southern electoral vote, an outcome that underscored the sectional split and Southern fears of Republican policies. Following Lincoln's election, Southern states began seceding from the Union, starting with South Carolina, as they saw no alternative to preserve their slave-based economy. The secession of seven states and the formation of the Confederate States of America completed the schism, and the stage was set for armed conflict.\n\nThe Election of 1860 was a watershed that led directly to the Civil War, as Lincoln's victory without Southern support made clear the irreconcilable differences over slavery, prompting secession and eventual warfare.",
+      "timestamp": "2024-03-05 14:52:10"
+    },
+    {
+      "type": "message",
+      "content": "satisfaction_score: 10",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "event",
+      "name": "persona",
+      "content": "Added topic: ",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 5",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction diff: 0",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "data",
+      "content": {
+        "satisfaction_score": 5
+      },
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation on iteration 2",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Student satisfaction score: 5",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Student exited simulation",
+      "timestamp": "2024-03-05 14:52:13"
+    },
+    {
+      "type": "message",
+      "content": "Fact check Wikipedia page:United_States_presidential_election_1860",
+      "timestamp": "2024-03-05 14:52:23"
+    },
+    {
+      "type": "message",
+      "content": "Fact check result:A",
+      "timestamp": "2024-03-05 14:52:23"
+    }
+  ]
+}
