@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useMemo } from 'react';
-import { Howl } from 'howler';
+import { Howl, Howler } from 'howler';
 
 
 function AudioPlayer(props) {
@@ -8,6 +8,21 @@ function AudioPlayer(props) {
     const [sound, setSound] = useState(null);
     const [progress, setProgress] = useState(0);
     const progressWidth = useMemo(() => `${progress}%`, [progress]);
+
+    useEffect(() => {
+        function handleUserInteraction() {
+            if (Howler.ctx.state === 'suspended') {
+                Howler.ctx.resume();
+            }
+        }
+        window.addEventListener('click', handleUserInteraction);
+        window.addEventListener('keydown', handleUserInteraction);
+    
+        return () => {
+            window.removeEventListener('click', handleUserInteraction);
+            window.removeEventListener('keydown', handleUserInteraction);
+        };
+    }, []);
 
     useEffect(() => { 
         //console.log("audio = " + props.selectedSimulation["iterations"].map(iteration => iteration.audio))
@@ -41,6 +56,10 @@ function AudioPlayer(props) {
     }, [props.curIteration]);
 
     useEffect(() => {
+        if (Howler.ctx.state === 'suspended') {
+            Howler.ctx.resume();
+        }
+        
         if (props.audioPlaying) sound.play();
         else if (sound && sound.playing()) sound.pause();
     }, [props.audioPlaying]);
