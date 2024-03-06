@@ -30,7 +30,7 @@ function TreeDiagram(props) {
     const updateTree = () => {
         const svg = d3.select(svgRef.current);
         //const width = 1800;
-        const height = 1400;
+        const height = 1800;
 
         svg.attr("width", width)
             .attr("height", height);
