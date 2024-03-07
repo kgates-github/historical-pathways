@@ -10,6 +10,7 @@ function AudioPlayer(props) {
     const progressWidth = useMemo(() => `${progress}%`, [progress]);
 
     useEffect(() => {
+        console.log(1)
         function handleUserInteraction() {
             if (Howler.ctx.state === 'suspended') {
                 Howler.ctx.resume();
@@ -25,14 +26,17 @@ function AudioPlayer(props) {
     }, []);
 
     useEffect(() => { 
-        //console.log("audio = " + props.selectedSimulation["iterations"].map(iteration => iteration.audio))
+        console.log(2)
+        
         setTrackList(props.selectedSimulation["iterations"].map(iteration => iteration.audio));
         if (sound)  {
             sound.unload();
             setSound(null);
         }
+        let audioPath = props.selectedSimulation["iterations"][props.curIteration-1].audio;
+        audioPath = audioPath.replace(/^\//, '');
         setSound(new Howl({ 
-            src: [props.selectedSimulation["iterations"][0].audio],
+            src: [audioPath],
             onend: () => {
                 props.incrementIteration('next')
             }
@@ -40,12 +44,12 @@ function AudioPlayer(props) {
     }, [props.selectedSimulation]);
 
     useEffect(() => { 
+        console.log(3)
         if (sound) sound.unload();
 
         let audioPath = props.selectedSimulation["iterations"][props.curIteration-1].audio;
         audioPath = audioPath.replace(/^\//, '');
-        console.log("audioPath = " + audioPath);
-
+        
         setSound(new Howl({ 
             src: [audioPath],
             onend: () => {
@@ -56,6 +60,7 @@ function AudioPlayer(props) {
     }, [props.curIteration]);
 
     useEffect(() => {
+        console.log(4 + ' ' + Howler.ctx.state + ' ' + props.selectedSimulation["iterations"][props.curIteration-1].audio)
         if (Howler.ctx.state === 'suspended') {
             Howler.ctx.resume();
         }
@@ -66,6 +71,7 @@ function AudioPlayer(props) {
 
 
     useEffect(() => {
+        console.log(5)
         if (sound && props.audioPlaying) sound.play();
         /*
         const updateProgress = () => {

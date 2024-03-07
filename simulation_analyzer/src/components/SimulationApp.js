@@ -276,7 +276,13 @@ function SimulationApp(props) {
                         <div style={{
                             width: (props.selectedSimulation["persona"]["continuity"] - 1) * 100/9 + "%",
                         }}></div>
-                        <div style={{marginTop:"-2px", width:"7px", height:"7px", borderRadius: "50%", background:"#ccc"}}></div>
+                        <div style={{
+                          marginTop:"-2px", 
+                          width:"7px", 
+                          height:"7px", 
+                          borderRadius: "50%", 
+                          background: props.selectedSimulation["persona"]["autopilot_on"] ? "#ccc" : "none"
+                          }}></div>
                     </div>
                 </div>
 
@@ -295,7 +301,13 @@ function SimulationApp(props) {
                         <div style={{
                             width: (props.selectedSimulation["persona"]["interests"] - 1) * 100/9 + "%",
                         }}></div>
-                        <div style={{marginTop:"-2px", width:"7px", height:"7px", borderRadius: "50%", background:"#ccc"}}></div>
+                        <div style={{
+                          marginTop:"-2px", 
+                          width:"7px", 
+                          height:"7px", 
+                          borderRadius: "50%", 
+                          background: props.selectedSimulation["persona"]["autopilot_on"] ? "#ccc" : "none"
+                        }}></div>
                     </div>
                 </div>
  

@@ -52,8 +52,9 @@ teacher_prompt_lecture = """
     - Each lecture should have a relevance_score between 1 and 10 for how close the event in the lecture is related to the themes of "\%STUDENT_TOPICS%\".
     - Each lecture should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of "\%STUDENT_TOPICS%\".
 
-  8) Tangents: Come up with 3 or 4 historic events that took place around the same time as "\%LECTURE_NAME%\" that is not directly related to "\%LECTURE_NAME%\" but is related to "\%STUDENT_TOPICS%\".
-    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of "\%STUDENT_TOPICS%\".
+  8) Tangents: 
+    Come up with 2 or 3 lectures about historic events that took place around the same time as "\%LECTURE_NAME%\" that is not directly related to "\%LECTURE_NAME%\" but is related to "\%STUDENT_TOPICS%\". After that, Come up with 1 or 2 lectures that capture a broad perspective about "\%LECTURE_NAME%\" and is related to "\%STUDENT_TOPICS%\".
+    - The tangent should have a insterestingness_score between 1 and 10 for how close the event in the lecture is related to the themes of "\%STUDENT_TOPICS%\". After that,
 
   9) Themes: 2 to 3 themes that capture the essence and importance of the main event. These should no more that 2 words.
 
